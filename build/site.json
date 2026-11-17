@@ -45,6 +45,13 @@
       "section": "bites",
       "kicker": "Укусы и прививки",
       "pair": "rabies"
+    },
+    {
+      "slug": "gudauri-altitude",
+      "lang": "en",
+      "src": "content/en/gudauri-altitude.md",
+      "section": "mountains",
+      "kicker": "Mountains"
     }
   ],
   "name_ru": "Справочник: медицина в Грузии"

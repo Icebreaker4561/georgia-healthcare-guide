@@ -79,7 +79,7 @@ What you can bring, which papers you need for codeine or tramadol, and what phar
 ## Practical tips {#tips}
 
 - **Dog bites and scratches:** get medical help the same day because of the risk of rabies — see [what to do after a dog bite in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/).
-- **Mountains:** altitude sickness is a real risk in places like Gudauri and Kazbegi.
+- **Mountains:** altitude sickness is a real risk in places like Gudauri and Kazbegi — see [skiing and hiking in Georgia: altitude, injuries and rescue](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/).
 - **Hiking in summer:** vipers are a risk, especially in early summer, and few facilities outside major towns stock anti-venom.
 - **Keep receipts** for every visit and purchase. Insurers will ask for them.
 
