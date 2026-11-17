@@ -74,6 +74,8 @@ For an overview of local plans and monthly prices, see [health insurance plans f
 - The legal status of a medicine in Georgia can differ from your home country. A drug that is over the counter at home may need a prescription here, and the other way round.
 - If you bring your own medicines, keep them in the original packaging with a copy of the prescription, ideally in English.
 
+What you can bring, which papers you need for codeine or tramadol, and what pharmacies sell without a prescription: [bringing medication to Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/bringing-medication-to-georgia/).
+
 ## Practical tips {#tips}
 
 - **Dog bites and scratches:** get medical help the same day because of the risk of rabies.

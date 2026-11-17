@@ -14,6 +14,13 @@
       "src": "content/en/ambulance-georgia.md",
       "section": "emergency",
       "kicker": "Emergencies"
+    },
+    {
+      "slug": "bringing-medication-to-georgia",
+      "lang": "en",
+      "src": "content/en/bringing-medication-to-georgia.md",
+      "section": "medicines",
+      "kicker": "Medicines"
     }
   ]
 }
