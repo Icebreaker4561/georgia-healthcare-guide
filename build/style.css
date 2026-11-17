@@ -93,3 +93,4 @@ th{font-size:14px;color:var(--muted);font-weight:600}
   .cards{grid-template-columns:repeat(2,1fr)}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+.box ul{padding-left:20px}

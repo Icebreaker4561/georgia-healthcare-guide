@@ -6,7 +6,15 @@
       "slug": "",
       "lang": "en",
       "src": "content/en/home.md",
-      "section": "home"
+      "section": "home",
+      "pair": "home"
+    },
+    {
+      "slug": "",
+      "lang": "ru",
+      "src": "content/ru/home.md",
+      "section": "home",
+      "pair": "home"
     },
     {
       "slug": "ambulance-georgia",
@@ -29,5 +37,6 @@
       "section": "bites",
       "kicker": "Bites and vaccines"
     }
-  ]
+  ],
+  "name_ru": "Справочник: медицина в Грузии"
 }
