@@ -308,6 +308,7 @@ def page_html(page, meta, body, toc, faq):
 <link rel="canonical" href="{url(page)}">
 {hreflang}<meta property="og:type" content="article"><meta property="og:title" content="{esc(meta["title"])}"><meta property="og:description" content="{esc(meta["description"])}"><meta property="og:url" content="{url(page)}">{og_img_html}
 <meta name="theme-color" content="#0f6b5e">
+<meta name="msvalidate.01" content="30A00B524613BF5613542BB815C007B7">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230f6b5e'/%3E%3Cpath d='M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z' fill='%23fff'/%3E%3C/svg%3E">
 <style>{CSS}</style>
 {ld_html}
