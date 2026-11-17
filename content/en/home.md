@@ -24,6 +24,8 @@ published: 2026-11-17
 - Keep your passport (or a photo of it) and your policy number with you. Clinics will ask for both.
 - Save your exact address in Georgian or Latin letters on your phone. It helps the dispatcher and the driver.
 
+Step by step, with what to say on the phone and who pays afterwards: [how to call an ambulance in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+
 ## Insurance to enter Georgia (2026 rule) {#entry-insurance}
 
 Since **1 January 2026**, visitors entering Georgia must hold valid health and accident insurance. The rule comes from the Law of Georgia "On Tourism" and [Government Resolution No. 602 of 26 December 2025](https://matsne.gov.ge/ka/document/view/6728816). Travellers without a valid policy can be refused entry.

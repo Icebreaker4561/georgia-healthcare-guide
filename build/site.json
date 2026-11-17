@@ -2,6 +2,18 @@
   "name": "Georgia Health Guide",
   "base": "https://icebreaker4561.github.io/georgia-healthcare-guide/",
   "pages": [
-    {"slug": "", "lang": "en", "src": "content/en/home.md", "section": "home"}
+    {
+      "slug": "",
+      "lang": "en",
+      "src": "content/en/home.md",
+      "section": "home"
+    },
+    {
+      "slug": "ambulance-georgia",
+      "lang": "en",
+      "src": "content/en/ambulance-georgia.md",
+      "section": "emergency",
+      "kicker": "Emergencies"
+    }
   ]
 }
