@@ -21,6 +21,13 @@
       "src": "content/en/bringing-medication-to-georgia.md",
       "section": "medicines",
       "kicker": "Medicines"
+    },
+    {
+      "slug": "rabies-georgia",
+      "lang": "en",
+      "src": "content/en/rabies-georgia.md",
+      "section": "bites",
+      "kicker": "Bites and vaccines"
     }
   ]
 }
