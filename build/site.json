@@ -35,7 +35,16 @@
       "lang": "en",
       "src": "content/en/rabies-georgia.md",
       "section": "bites",
-      "kicker": "Bites and vaccines"
+      "kicker": "Bites and vaccines",
+      "pair": "rabies"
+    },
+    {
+      "slug": "beshenstvo-v-gruzii",
+      "lang": "ru",
+      "src": "content/ru/beshenstvo-v-gruzii.md",
+      "section": "bites",
+      "kicker": "Укусы и прививки",
+      "pair": "rabies"
     }
   ],
   "name_ru": "Справочник: медицина в Грузии"

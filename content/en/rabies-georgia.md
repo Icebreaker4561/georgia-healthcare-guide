@@ -91,7 +91,7 @@ Since 1 January 2026, foreigners must enter with health and accident cover of 30
 
 A policy covers events during its term, so arrange it before the trip, not after a bite. Still choosing? Here is [travel insurance for visitors to Georgia](https://100doc.ge/tourist/en), an IRAO plan. Its policy wording lists "Emergency Vaccination", including the full anti-rabies course, at 100 %, with no deductible and no separate limit within the 30,000 GEL aggregated limit. Routine vaccination is excluded; over 65, 50 % of costs is reimbursed. The Light plan costs from €0.78 (2.22 GEL, ≈ $0.86) a day on a 360-day policy.
 
-Call the IRAO assistance line, +995 32 2 949 949, as soon as you can. Paying yourself at a non-partner clinic? Keep Form IV-100a signed and stamped by the clinic, the itemised bill and original receipts; submit them within 30 calendar days.
+Call the IRAO assistance line, +995 32 2 949 949, as soon as you can, ideally before you go to the clinic: under the policy wording, costs incurred without contacting it may not be reimbursed. Paying yourself at a non-partner clinic? Keep Form IV-100a signed and stamped by the clinic, the itemised bill and original receipts; submit them within 30 calendar days.
 
 ### How much does a rabies shot cost in Tbilisi? {#price}
 
