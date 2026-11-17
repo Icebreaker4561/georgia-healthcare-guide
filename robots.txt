@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://icebreaker4561.github.io/georgia-healthcare-guide/sitemap.xml

@@ -1,0 +1,7 @@
+{
+  "name": "Georgia Health Guide",
+  "base": "https://icebreaker4561.github.io/georgia-healthcare-guide/",
+  "pages": [
+    {"slug": "", "lang": "en", "src": "content/en/home.md", "section": "home"}
+  ]
+}
