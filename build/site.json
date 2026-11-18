@@ -59,6 +59,13 @@
       "src": "content/en/kazbegi.md",
       "section": "destinations",
       "kicker": "Destinations"
+    },
+    {
+      "slug": "tbilisi-sulfur-baths",
+      "lang": "en",
+      "src": "content/en/tbilisi-sulfur-baths.md",
+      "section": "destinations",
+      "kicker": "Destinations"
     }
   ],
   "name_ru": "Справочник: медицина в Грузии"

@@ -115,7 +115,10 @@ def parse_md(text, page):
         for line in m.group(1).splitlines():
             if ":" in line:
                 k, v = line.split(":", 1)
-                meta[k.strip()] = v.strip()
+                v = v.strip()
+                if len(v) >= 2 and v[0] == v[-1] and v[0] in "\"'":
+                    v = v[1:-1]
+                meta[k.strip()] = v
         body = text[m.end():]
     out, toc, faq = [], [], []
     section = None
@@ -127,7 +130,7 @@ def parse_md(text, page):
         nonlocal in_faq_item
         if in_faq_item is not None:
             q, parts = in_faq_item
-            faq.append((q, " ".join(re.sub(r"<[^>]+>", "", x) for x in parts)))
+            faq.append((html.unescape(q), html.unescape(" ".join(re.sub(r"<[^>]+>", "", x) for x in parts)).replace("\xa0", " ")))
             faq_html.append(f'<details class="qa"><summary>{inline(q)}</summary><div class="a">{"".join(parts)}</div></details>')
             in_faq_item = None
 
