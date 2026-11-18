@@ -87,6 +87,13 @@
       "src": "content/en/tbilisi-airport.md",
       "section": "arrival",
       "kicker": "Arrival"
+    },
+    {
+      "slug": "is-georgia-safe",
+      "lang": "en",
+      "src": "content/en/is-georgia-safe.md",
+      "section": "safety",
+      "kicker": "Safety"
     }
   ],
   "name_ru": "Справочник: медицина в Грузии"
