@@ -73,6 +73,13 @@
       "src": "content/en/mtskheta.md",
       "section": "destinations",
       "kicker": "Destinations"
+    },
+    {
+      "slug": "borjomi",
+      "lang": "en",
+      "src": "content/en/borjomi.md",
+      "section": "destinations",
+      "kicker": "Destinations"
     }
   ],
   "name_ru": "Справочник: медицина в Грузии"
