@@ -80,6 +80,13 @@
       "src": "content/en/borjomi.md",
       "section": "destinations",
       "kicker": "Destinations"
+    },
+    {
+      "slug": "tbilisi-airport",
+      "lang": "en",
+      "src": "content/en/tbilisi-airport.md",
+      "section": "arrival",
+      "kicker": "Arrival"
     }
   ],
   "name_ru": "Справочник: медицина в Грузии"
