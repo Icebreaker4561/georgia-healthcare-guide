@@ -80,6 +80,8 @@ blockquote p{margin:0}
 .fig{margin:32px 0}
 .fig img{display:block;width:100%;height:auto;border-radius:var(--r);background:var(--paper-deep)}
 .fig figcaption{font-size:14px;line-height:1.45;color:var(--ink-mute);margin-top:8px}
+.fig.sq img{max-width:min(100%,560px);margin:0 auto}
+.fig.sq figcaption{text-align:center}
 /* таблицы */
 .tbl{margin:28px 0;border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
 table{width:100%;border-collapse:collapse;font-size:15px;line-height:1.5}

@@ -105,7 +105,8 @@ def figure(spec, page):
     img = f'<img src="{src}"{srcset} alt="{esc(alt)}" width="{w}" height="{h}" loading="lazy" decoding="async">'
     body = f"<picture>{mob_src}{img}</picture>" if mob_src else img
     capt = f"<figcaption>{inline(cap)}</figcaption>" if cap else ""
-    return f'<figure class="fig">{body}{capt}</figure>'
+    cls = "fig sq" if abs(w / h - 1) <= 0.03 else "fig"
+    return f'<figure class="{cls}">{body}{capt}</figure>'
 
 
 def parse_md(text, page):
