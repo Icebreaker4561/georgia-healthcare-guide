@@ -47,6 +47,15 @@
       "pair": "rabies"
     },
     {
+      "slug": "kazbegi",
+      "lang": "ru",
+      "src": "content/ru/kazbegi.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "kazbegi",
+      "key": "kazbegi-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -58,7 +67,8 @@
       "lang": "en",
       "src": "content/en/kazbegi.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "kazbegi"
     },
     {
       "slug": "tbilisi-sulfur-baths",
