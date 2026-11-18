@@ -190,8 +190,15 @@ def render_block(b, section):
         km = re.match(r"> \[!(\w+)\]\s*(.*)", first)
         kind, title = km.group(1), km.group(2)
         inner = "\n".join(l[2:] if l.startswith("> ") else l.lstrip(">") for l in lines[1:])
+        if kind == "stats":
+            cells = []
+            for l in inner.splitlines():
+                mm = re.match(r"\s*- ([^:]+):\s*(.+)", l)
+                if mm:
+                    cells.append(f"<div><dt>{inline(mm.group(1).strip())}</dt><dd>{inline(mm.group(2).strip()).replace(' ', '&nbsp;')}</dd></div>")
+            return f'<dl class="stats">{"".join(cells)}</dl>'
         inner_html = "".join(render_block(x, section) for x in re.split(r"\n\s*\n", inner) if x.strip())
-        head = f'<p class="box-h">{inline(title)}</p>' if title else ""
+        head = f'<p class="box-h eyebrow">{inline(title)}</p>' if title else ""
         return f'<aside class="box {kind}">{head}{inner_html}</aside>'
     if first.startswith("> "):
         inner = " ".join(l[2:] for l in lines)
@@ -292,7 +299,6 @@ def page_html(page, meta, body, toc, faq):
     if body.startswith('<aside class="box facts">'):
         cut = body.index("</aside>") + len("</aside>")
         first_box, body = body[:cut], body[cut:]
-    toc_html = first_box + toc_html
     lead = f'<p class="lead">{inline(meta["lead"])}</p>' if meta.get("lead") else ""
     kicker = f'<p class="kicker">{esc(meta["kicker"])}</p>' if meta.get("kicker") else ""
     reviewed = f'{ui["reviewed"]} {fmt_date(meta["updated"], lang)} · {minutes} {ui["min"]}'
@@ -307,9 +313,11 @@ def page_html(page, meta, body, toc, faq):
 <meta name="description" content="{esc(meta["description"])}">
 <link rel="canonical" href="{url(page)}">
 {hreflang}<meta property="og:type" content="article"><meta property="og:title" content="{esc(meta["title"])}"><meta property="og:description" content="{esc(meta["description"])}"><meta property="og:url" content="{url(page)}">{og_img_html}
-<meta name="theme-color" content="#0f6b5e">
+<meta name="theme-color" content="#f8f5ef">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..700&amp;family=Source+Sans+3:wght@400;600;700&amp;display=swap">
 <meta name="msvalidate.01" content="30A00B524613BF5613542BB815C007B7">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230f6b5e'/%3E%3Cpath d='M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2314655f'/%3E%3Cpath d='M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z' fill='%23fff'/%3E%3C/svg%3E">
 <style>{CSS}</style>
 {ld_html}
 </head>
@@ -321,10 +329,11 @@ def page_html(page, meta, body, toc, faq):
 </div>{f'<nav class="menu wrap" aria-label="{ui["menu"]}"><ul>{nav}</ul></nav>' if nav else ""}</header>
 <div class="hero"><div class="wrap">{crumbs}{kicker}<h1>{inline(meta["h1"])}</h1>{lead}<p class="meta">{reviewed}</p></div></div>
 <main id="main" class="wrap">
-{toc_html}
+<div class="layout">{f'<div class="lead-box">{first_box}</div>' if first_box else ""}{f'<aside class="side">{toc_html}</aside>' if toc_html else ""}
 <article class="body">
 {body}
 </article>
+</div>
 {rel_html}
 </main>
 <footer class="foot"><div class="wrap">
