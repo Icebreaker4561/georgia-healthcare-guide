@@ -52,6 +52,13 @@
       "src": "content/en/gudauri-altitude.md",
       "section": "mountains",
       "kicker": "Mountains"
+    },
+    {
+      "slug": "kazbegi",
+      "lang": "en",
+      "src": "content/en/kazbegi.md",
+      "section": "destinations",
+      "kicker": "Destinations"
     }
   ],
   "name_ru": "Справочник: медицина в Грузии"

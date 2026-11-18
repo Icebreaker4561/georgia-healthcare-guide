@@ -8,7 +8,7 @@ crumb: Mountains and skiing
 nav: Mountains & skiing
 card: Skiing and hiking in Georgia: medical help
 card_desc: Altitude, patrols, mountain rescue, treatment in the capital and what travel cover may not pay.
-updated: 2026-11-17
+updated: 2026-11-18
 published: 2026-11-17
 og: ski-patrol-slope.webp
 ---
@@ -25,7 +25,7 @@ This page is about Georgia the country, not the US state, and is part of [our gu
 
 Lifts at the resort run from about 2,000 m to 3,276 m, according to [Georgia's tourism administration](https://www.georgia.travel/gudauri-in-winter). It is 120 km from the capital, a drive of 2 to 2.5 hours, and the season lasts from early December to mid-April.
 
-Other high areas include Bakuriani, Mestia in Svaneti, Goderdzi and Stepantsminda (Kazbegi); we found no official elevation figures for them.
+Other high areas include Bakuriani, Mestia in Svaneti and Goderdzi; we found no official elevation figures for them. Stepantsminda (Kazbegi) sits at 1,750 m, says the tourism administration: see [our Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/).
 
 In winter, snow can block roads and bridges in the mountains, especially in remote areas, and landslides are common, says [the UK government's safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security). So reaching a hospital can take longer than you expect.
 
@@ -138,10 +138,6 @@ The IRAO wording does not mention hiking, and its sport exclusion does not say w
 ### How high is Gudauri ski resort?
 
 Its lifts run from about 2,000 m to 3,276 m, according to the national tourism administration.
-
-### Is altitude sickness a risk in Kazbegi?
-
-Yes: UK government health advice names the mountain as a risk area. With a new headache after going up, go no higher and rest; go down if it gets worse.
 
 ### Is ski insurance mandatory in Georgia?
 
