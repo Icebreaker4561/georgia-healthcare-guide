@@ -155,6 +155,15 @@
       "key": "best-time-to-visit-georgia-ru"
     },
     {
+      "slug": "sernye-bani-tbilisi",
+      "lang": "ru",
+      "src": "content/ru/sernye-bani-tbilisi.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "tbilisi-sulfur-baths",
+      "key": "tbilisi-sulfur-baths-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -175,7 +184,8 @@
       "lang": "en",
       "src": "content/en/tbilisi-sulfur-baths.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "tbilisi-sulfur-baths"
     },
     {
       "slug": "mtskheta",
