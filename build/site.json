@@ -134,6 +134,13 @@
       "kicker": "Arrival"
     },
     {
+      "slug": "driving-in-georgia",
+      "lang": "en",
+      "src": "content/en/driving-in-georgia.md",
+      "section": "practical",
+      "kicker": "Practical"
+    },
+    {
       "slug": "is-georgia-safe",
       "lang": "en",
       "src": "content/en/is-georgia-safe.md",
