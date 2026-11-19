@@ -113,6 +113,20 @@
       "kicker": "Destinations"
     },
     {
+      "slug": "vardzia",
+      "lang": "en",
+      "src": "content/en/vardzia.md",
+      "section": "destinations",
+      "kicker": "Destinations"
+    },
+    {
+      "slug": "uplistsikhe",
+      "lang": "en",
+      "src": "content/en/uplistsikhe.md",
+      "section": "destinations",
+      "kicker": "Destinations"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
