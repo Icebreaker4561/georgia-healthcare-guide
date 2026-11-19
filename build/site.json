@@ -83,6 +83,15 @@
       "key": "kutaisi-ru"
     },
     {
+      "slug": "aeroport-tbilisi",
+      "lang": "ru",
+      "src": "content/ru/aeroport-tbilisi.md",
+      "section": "arrival",
+      "kicker": "Прилёт",
+      "pair": "tbilisi-airport",
+      "key": "tbilisi-airport-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -196,7 +205,8 @@
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
       "section": "arrival",
-      "kicker": "Arrival"
+      "kicker": "Arrival",
+      "pair": "tbilisi-airport"
     },
     {
       "slug": "driving-in-georgia",
