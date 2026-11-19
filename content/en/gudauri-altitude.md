@@ -19,7 +19,7 @@ og: ski-patrol-slope.webp
 > - Ordinary travel cover may exclude sport: check the exclusions in yours.
 > - New headache after going up high? Go no higher and rest; go down if it gets worse, and get urgent help for severe symptoms.
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
+This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
 
 ## How high is Gudauri? Altitude at the country's mountain resorts {#altitude}
 

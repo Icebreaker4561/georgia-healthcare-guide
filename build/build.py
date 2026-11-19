@@ -23,12 +23,12 @@ CSS = re.sub(r"/\*.*?\*/", "", CSS, flags=re.S)
 CSS = re.sub(r"\s*\n\s*", "", CSS)
 
 UI = {
-    "en": {"home": "Georgia Travel Guide", "contents": "On this page", "author": "Author", "reviewed": "Reviewed", "min": "min read",
+    "en": {"home": "Georgia Travel Guide", "contents": "On this page", "author": "Author", "reviewed": "Reviewed", "published": "Published", "updated": "Updated", "min": "min read",
            "related": "More practical guides", "faq": "Frequently asked questions", "lang_other": "Русский",
            "about": "Georgia Travel Guide — an independent practical guide to trips, holidays and healthcare in Georgia (the country) for visitors and expats.",
            "disclaimer": "General information, not medical or legal advice. Rules change: check the official sources before you travel.",
            "skip": "Skip to content", "menu": "Guides", "sources": "Sources"},
-    "ru": {"home": "Путеводитель по Грузии", "contents": "Содержание", "author": "Автор", "reviewed": "Проверено", "min": "мин чтения",
+    "ru": {"home": "Путеводитель по Грузии", "contents": "Содержание", "author": "Автор", "reviewed": "Проверено", "published": "Опубликовано", "updated": "Обновлено", "min": "мин чтения",
            "related": "Ещё по теме", "faq": "Частые вопросы", "lang_other": "English",
            "about": "Путеводитель по Грузии — независимый практический гид по поездкам, отдыху и медицине в Грузии для туристов и тех, кто здесь живёт.",
            "disclaimer": "Это справочная информация, а не медицинская или юридическая консультация. Правила меняются: перед поездкой сверьтесь с официальными источниками.",
@@ -318,7 +318,10 @@ def page_html(page, meta, body, toc, faq):
         first_box, body = body[:cut], body[cut:]
     lead = f'<p class="lead">{inline(meta["lead"])}</p>' if meta.get("lead") else ""
     kicker = f'<p class="kicker">{esc(meta["kicker"])}</p>' if meta.get("kicker") else ""
-    reviewed = f'{ui["author"]}: {AUTHOR[lang]} · {ui["reviewed"]} {fmt_date(meta["updated"], lang)} · {minutes} {ui["min"]}'
+    # стандарт, раздел 2 п. 5 и раздел 3 (владелец 19.11.2026): дата публикации и обновления — в тексте, Schema и метатегах одинаковые
+    pub, upd = meta.get("published", meta["updated"]), meta["updated"]
+    reviewed = (f'<span>{ui["author"]}: {AUTHOR[lang]} · {ui["published"]} <time datetime="{pub}">{fmt_date(pub, lang)}</time>'
+                f' · {ui["updated"]} <time datetime="{upd}">{fmt_date(upd, lang)}</time> · {minutes} {ui["min"]}</span>')
     footer_links = "".join(f'<li><a href="{pre}{out_rel(p)[:-len("index.html")] or "./"}">{esc(p.get("nav") or ui["home"])}</a></li>'
                            for p in pages_same if p.get("nav") or p["slug"] == "")
     return f"""<!DOCTYPE html>
@@ -329,7 +332,7 @@ def page_html(page, meta, body, toc, faq):
 <title>{esc(meta["title"])}</title>
 <meta name="description" content="{esc(meta["description"])}">
 <link rel="canonical" href="{url(page)}">
-{hreflang}<meta property="og:type" content="article"><meta property="og:title" content="{esc(meta["title"])}"><meta property="og:description" content="{esc(meta["description"])}"><meta property="og:url" content="{url(page)}">{og_img_html}
+{hreflang}<meta property="og:type" content="article"><meta property="og:title" content="{esc(meta["title"])}"><meta property="og:description" content="{esc(meta["description"])}"><meta property="og:url" content="{url(page)}"><meta property="article:published_time" content="{meta.get("published", meta["updated"])}"><meta property="article:modified_time" content="{meta["updated"]}">{og_img_html}
 <meta name="theme-color" content="#f8f5ef">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..700&amp;family=Source+Sans+3:wght@400;600;700&amp;display=swap">
