@@ -92,11 +92,30 @@
       "key": "tbilisi-airport-ru"
     },
     {
+      "slug": "gudauri",
+      "lang": "ru",
+      "src": "content/ru/gudauri.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "gudauri-altitude",
+      "key": "gudauri-altitude-ru"
+    },
+    {
+      "slug": "mtskheta",
+      "lang": "ru",
+      "src": "content/ru/mtskheta.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "mtskheta",
+      "key": "mtskheta-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
       "section": "mountains",
-      "kicker": "Mountains"
+      "kicker": "Mountains",
+      "pair": "gudauri-altitude"
     },
     {
       "slug": "kazbegi",
@@ -118,7 +137,8 @@
       "lang": "en",
       "src": "content/en/mtskheta.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "mtskheta"
     },
     {
       "slug": "borjomi",
