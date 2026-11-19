@@ -119,6 +119,15 @@
       "key": "driving-in-georgia-ru"
     },
     {
+      "slug": "svanetiya",
+      "lang": "ru",
+      "src": "content/ru/svanetiya.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "svaneti",
+      "key": "svaneti-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -177,7 +186,8 @@
       "lang": "en",
       "src": "content/en/svaneti.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "svaneti"
     },
     {
       "slug": "vardzia",
