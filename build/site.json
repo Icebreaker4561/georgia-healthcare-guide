@@ -227,6 +227,15 @@
       "key": "marshrutka-georgia-ru"
     },
     {
+      "slug": "bezopasno-li-v-gruzii",
+      "lang": "ru",
+      "src": "content/ru/bezopasno-li-v-gruzii.md",
+      "section": "practical",
+      "kicker": "Полезное",
+      "pair": "is-georgia-safe",
+      "key": "is-georgia-safe-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -391,7 +400,8 @@
       "lang": "en",
       "src": "content/en/is-georgia-safe.md",
       "section": "safety",
-      "kicker": "Safety"
+      "kicker": "Safety",
+      "pair": "is-georgia-safe"
     }
   ],
   "name_ru": "Справочник: медицина в Грузии"
