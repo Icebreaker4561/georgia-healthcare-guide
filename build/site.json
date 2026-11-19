@@ -65,6 +65,15 @@
       "key": "batumi-ru"
     },
     {
+      "slug": "borjomi",
+      "lang": "ru",
+      "src": "content/ru/borjomi.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "borjomi",
+      "key": "borjomi-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -98,7 +107,8 @@
       "lang": "en",
       "src": "content/en/borjomi.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "borjomi"
     },
     {
       "slug": "batumi",
