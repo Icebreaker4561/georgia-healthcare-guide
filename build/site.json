@@ -146,6 +146,15 @@
       "key": "tskaltubo-ru"
     },
     {
+      "slug": "kogda-ehat-v-gruziyu",
+      "lang": "ru",
+      "src": "content/ru/kogda-ehat-v-gruziyu.md",
+      "section": "practical",
+      "kicker": "Полезное",
+      "pair": "best-time-to-visit-georgia",
+      "key": "best-time-to-visit-georgia-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -280,7 +289,8 @@
       "lang": "en",
       "src": "content/en/best-time-to-visit-georgia.md",
       "section": "practical",
-      "kicker": "Practical"
+      "kicker": "Practical",
+      "pair": "best-time-to-visit-georgia"
     },
     {
       "slug": "hiking-in-georgia",
