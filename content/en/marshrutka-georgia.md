@@ -57,7 +57,7 @@ Canada's government tells travellers to avoid marshrutkas. Its advice for Georgi
 
 **City transport.** Canada is more positive about the capital: "Buses and the Tbilisi metro are generally safe and reliable, but pickpockets may target tourists."
 
-**The UK view.** The [GOV.UK safety page](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) we checked does not mention minibuses. Its transport advice covers taxis, driving and rail; the taxi rules are below.
+**The UK view.** The [GOV.UK safety page](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) we checked does not mention minibuses. Its transport advice covers cabs, driving and rail; its cab rules are below.
 
 **After dark.** For drivers, Canada advises: "avoid travelling after dark". Our [driving in Georgia guide](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/) has more on the roads.
 
@@ -81,7 +81,7 @@ Didube is a metro station in northern Tbilisi. Official park pages name it as th
 
 **Heading into the mountains?** Read our [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/) before you plan the trip north.
 
-**If you do ride.** Two rules are Canada's, the seatbelt check follows GOV.UK's taxi rule, and the rest are our tips:
+**If you do ride.** Two rules are Canada's, the seatbelt check follows GOV.UK's rule for cabs, and the rest are our tips:
 
 - Pick a seat with a seatbelt, and check that it works. Canada says marshrutkas often lack them.
 - Keep your bag with you, not overhead or under the seat.
@@ -130,7 +130,7 @@ Inside the capital, the Tbilisi metro and city routes are the main public transp
 
 **Our tip.** At busy stations such as Didube, keep your phone and wallet in a zipped inner pocket.
 
-### Taxis
+### Cabs
 
 Use an officially marked car, or book one through an app. Both governments give clear rules.
 
@@ -202,7 +202,7 @@ The national parks name Didube metro station for minibuses to Prometheus Cave an
 
 By train. Georgian Railway lists two fast trains every day. Check times and fares on railway.ge.
 
-### How do I take a taxi safely in Georgia?
+### How do I take a cab safely in Georgia?
 
 GOV.UK advises pre-booking through an app and not flagging cars in the street. Canada says to use only officially marked ones, which are white with a roof sign.
 
