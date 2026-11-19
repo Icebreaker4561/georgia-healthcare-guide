@@ -99,6 +99,13 @@
       "kicker": "Destinations"
     },
     {
+      "slug": "martvili-canyon",
+      "lang": "en",
+      "src": "content/en/martvili-canyon.md",
+      "section": "destinations",
+      "kicker": "Destinations"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
