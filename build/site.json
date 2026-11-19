@@ -134,6 +134,13 @@
       "kicker": "Destinations"
     },
     {
+      "slug": "tusheti",
+      "lang": "en",
+      "src": "content/en/tusheti.md",
+      "section": "destinations",
+      "kicker": "Destinations"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
