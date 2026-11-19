@@ -14,6 +14,11 @@ import html
 import json
 import pathlib
 import re
+import sys
+
+# «Прочитать с ИИ» — тот же модуль, что у статей 100doc.ge (стандарт, раздел 6а; владелец 19.11.2026)
+sys.path.insert(0, str(pathlib.Path.home() / "SEO_Vasiliy" / "tools"))
+import ai_read  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SITE = json.loads((ROOT / "build" / "site.json").read_text(encoding="utf-8"))
@@ -35,6 +40,7 @@ UI = {
            "skip": "К тексту", "menu": "Разделы", "sources": "Источники"},
 }
 AUTHOR = {"en": "Pavel Sheremetyev", "ru": "Павел Шереметьев"}  # творческий псевдоним (владелец 19.11.2026)
+AI_SITE = {"en": "Georgia Travel Guide", "ru": "сайте «Путеводитель по Грузии»"}
 GUIDE_NAME = {"en": "Georgia Travel Guide", "ru": "Путеводитель по Грузии"}
 MONTHS = {"en": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October",
                  "November", "December"],
@@ -313,6 +319,9 @@ def page_html(page, meta, body, toc, faq):
     og_img_html = f'<meta property="og:image" content="{BASE}assets/img/{page["key"]}/{og_img}">' if og_img else ""
     # Выноска «главное» в начале текста — над содержанием: читатель видит ответ раньше списка разделов.
     first_box = ""
+    # блок «Прочитать с ИИ» — в начале каждой статьи, под строкой автора и над «Коротко»; на главных его нет
+    ai_box = ai_read.block(lang, url(page), html.unescape(re.sub(r"<[^>]+>", "", inline(meta["h1"]))),
+                           site=AI_SITE[lang]).replace("\n", "&#10;") if page["slug"] else ""
     if body.startswith('<aside class="box facts">'):
         cut = body.index("</aside>") + len("</aside>")
         first_box, body = body[:cut], body[cut:]
@@ -349,7 +358,7 @@ def page_html(page, meta, body, toc, faq):
 </div>{f'<nav class="menu wrap" aria-label="{ui["menu"]}"><ul>{nav}</ul></nav>' if nav else ""}</header>
 <div class="hero"><div class="wrap">{crumbs}{kicker}<h1>{inline(meta["h1"])}</h1>{lead}<p class="meta">{reviewed}</p></div></div>
 <main id="main" class="wrap">
-<div class="layout">{f'<div class="lead-box">{first_box}</div>' if first_box else ""}{f'<aside class="side">{toc_html}</aside>' if toc_html else ""}
+<div class="layout">{f'<div class="lead-box">{ai_box}{first_box}</div>' if (ai_box or first_box) else ""}{f'<aside class="side">{toc_html}</aside>' if toc_html else ""}
 <article class="body">
 {body}
 </article>
@@ -361,6 +370,7 @@ def page_html(page, meta, body, toc, faq):
 <ul class="foot-links">{footer_links}</ul>
 <p class="small">{ui["disclaimer"]}</p>
 </div></footer>
+{f"<script>{ai_read.JS}</script>" if ai_box else ""}
 </body>
 </html>
 """

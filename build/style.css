@@ -151,3 +151,31 @@ ol.sources{padding-left:1.6em}ol.sources li{margin:.3em 0;scroll-margin-top:80px
 sup.fn a::before{content:"[" attr(data-n) "]"}
 @media (max-width:420px){.brand{font-size:17px;gap:8px}.brand .mark{width:22px;height:22px}.brand .mark:before{left:7px;top:3px;width:4px;height:12px}.brand .mark:after{left:3px;top:7px;width:12px;height:4px}}
 .meta{align-items:flex-start}.meta:before{margin-top:7px}
+/* Прочитать с ИИ — блок как у статей 100doc.ge (модуль ~/SEO_Vasiliy/tools/ai_read.py), оформление путеводителя (владелец 19.11.2026) */
+.ai-read{margin:0 0 24px;padding:16px 18px;border:1px solid var(--line);border-left:2px solid var(--teal);border-radius:var(--r);background:var(--paper-deep)}
+.ai-read-title{margin:0;font-family:var(--sans);font-size:12px;line-height:16px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-mute)}
+.ai-read-lead{margin:6px 0 12px;font-size:15px;line-height:1.5;color:var(--ink-soft)}
+.ai-read ul{display:flex;flex-wrap:wrap;gap:8px;margin:0;padding:0;list-style:none}
+.ai-read li{margin:0}
+.ai-read a,.ai-read button{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 14px 0 12px;border:1px solid var(--line);border-radius:var(--r);background:var(--paper);color:var(--ink);font:inherit;font-size:15px;font-weight:600;text-decoration:none;cursor:pointer;transition:border-color .15s,background .15s}
+.ai-read a:hover,.ai-read button:hover{border-color:var(--ink);color:var(--ink)}
+.ai-read a:focus-visible,.ai-read button:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+.ai-read a:active,.ai-read button:active{transform:translateY(1px)}
+.ai-read button{color:var(--teal);border-color:var(--teal);padding:0 14px}
+.ai-read button[data-done]{background:var(--teal);color:var(--paper)}
+.ai-read-ico{flex:none;width:20px;height:20px;fill:currentColor}
+.ai-read-chatgpt .ai-read-ico{color:var(--ink)}.ai-read-claude .ai-read-ico{color:#d97757}.ai-read-perplexity .ai-read-ico{color:#1f8a8a}.ai-read-gemini .ai-read-ico{color:#3186ff}.ai-read-alice .ai-read-ico{color:#8b5cf6}
+.ai-read-dlg{position:fixed;inset:0;margin:auto;height:fit-content;max-height:calc(100dvh - 32px);overflow:auto;width:min(440px,calc(100vw - 32px));padding:22px;border:1px solid var(--line);border-radius:var(--r);background:var(--paper);box-shadow:0 20px 60px rgba(27,26,23,.25);color:var(--ink);font:inherit}
+.ai-read-dlg::backdrop{background:rgba(27,26,23,.28);-webkit-backdrop-filter:blur(14px) saturate(1.6);backdrop-filter:blur(14px) saturate(1.6)}
+.ai-read-dlg-t{margin:0 0 6px;font-family:var(--serif);font-size:21px;font-weight:600;line-height:1.3}
+.ai-read-dlg-x{margin:0 0 14px;font-size:16px;line-height:1.5;color:var(--ink-soft)}
+.ai-read-dlg-q{display:block;width:100%;box-sizing:border-box;margin:0 0 14px;padding:10px 12px;border:1px solid var(--line);border-radius:var(--r);background:var(--paper);font:inherit;font-size:16px;resize:vertical}
+.ai-read-dlg-q[hidden]{display:none}
+.ai-read-dlg-b{display:flex;flex-wrap:wrap;gap:8px}
+.ai-read-dlg-go,.ai-read-dlg-close{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 18px;border-radius:var(--r);font-size:15px;font-weight:600;cursor:pointer;text-decoration:none}
+.ai-read-dlg-go{flex:1 1 auto;background:var(--teal);color:var(--paper);border:1px solid var(--teal)}
+.ai-read-dlg-go:hover{background:var(--teal-deep);color:var(--paper)}
+.ai-read-dlg-close{background:var(--paper);color:var(--ink);border:1px solid var(--ink)}
+.ai-read-dlg-go:focus-visible,.ai-read-dlg-close:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+@media (max-width:600px){.ai-read{padding:14px}.ai-read ul{display:grid;grid-template-columns:1fr 1fr}.ai-read li:last-child:nth-child(odd){grid-column:1/-1}.ai-read a,.ai-read button{justify-content:center;width:100%;padding:0 8px;white-space:nowrap}}
+@media (prefers-reduced-motion:reduce){.ai-read a,.ai-read button{transition:none}}
