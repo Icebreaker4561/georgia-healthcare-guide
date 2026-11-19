@@ -156,8 +156,6 @@ The town is a short drive from Kutaisi, the nearest city. Wikipedia says it is "
 
 **To Prometheus Cave.** The park's [how to get there page](https://nationalparks.ge/en/site/prometheuscave/getHere) puts the cave about 34 km from Kutaisi, an average of 29 minutes by vehicle.
 
-**Fares and timetables.** We give none: we found no official source we could check.
-
 **Our tip.** Kutaisi makes a good base. The park sites close at 17:00 or 18:00, depending on the season. Agree the trip back with your driver before you set off.
 
 ## Doctors and medical help near Tskaltubo {#health}

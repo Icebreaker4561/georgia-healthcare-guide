@@ -21,7 +21,8 @@
       "lang": "en",
       "src": "content/en/ambulance-georgia.md",
       "section": "emergency",
-      "kicker": "Emergencies"
+      "kicker": "Emergencies",
+      "pair": "ambulance-georgia"
     },
     {
       "slug": "bringing-medication-to-georgia",
@@ -244,6 +245,15 @@
       "kicker": "Полезное",
       "pair": "bringing-medication-to-georgia",
       "key": "bringing-medication-to-georgia-ru"
+    },
+    {
+      "slug": "112-v-gruzii",
+      "lang": "ru",
+      "src": "content/ru/112-v-gruzii.md",
+      "section": "practical",
+      "kicker": "Полезное",
+      "pair": "ambulance-georgia",
+      "key": "ambulance-georgia-ru"
     },
     {
       "slug": "gudauri-altitude",

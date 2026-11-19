@@ -39,8 +39,6 @@ It is a minibus that strangers share, somewhere between a cab and a route servic
 
 **Where you will see one.** Two official park pages mention them. Minibuses to Prometheus Cave leave from near Didube metro station. Minibuses to Borjomi run from Didube every day. The details are in the Didube section below.
 
-**What we do not give.** Fares, journey times and timetables. We found no official source for them, and we do not repeat figures we could not check.
-
 **Our tip.** If a route matters to your plans, ask your host or the place you are going how to get there on the day.
 
 <!-- схема: img/marshrutka-road.webp | Canva illustration, not a photo of the real place: a white minibus on a winding mountain road with hairpin bends, green slopes and peaks behind, no lettering, no number plates, no text | Our tip: if a route matters, ask your host or the place you are going how to get there on the day -->

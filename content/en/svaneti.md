@@ -36,7 +36,7 @@ This page is about Georgia the country, not the US state, and is part of [our tr
 
 The small town is a common base for trips into the region. According to [Wikipedia](https://en.wikipedia.org/wiki/Mestia), it sits at 1,500~m and had 1,973 residents at the 2014 census.
 
-**The towers.** Stone tower houses rise above the roofs. Wikipedia says the town contains medieval monuments "included in a list of UNESCO World Heritage Sites". We do not give dates for individual towers: we could not check them against a primary source.
+**The towers.** Stone tower houses rise above the roofs. Wikipedia says the town contains medieval monuments "included in a list of UNESCO World Heritage Sites".
 
 **Around the town.** Wikipedia describes the wider region as "surrounded by 3,000–5,000 meter peaks" and calls it "the highest inhabited area in the Caucasus". Among those peaks are Ushba at 4,710~m and Tetnuldi at 4,974~m.
 
@@ -62,7 +62,7 @@ Ushguli is not one village but a cluster of them. [Wikipedia](https://en.wikiped
 
 ## Hikes from Mestia: Koruldi Lakes and Chalaadi Glacier {#hikes}
 
-Two walks from town lead to the Koruldi Lakes and to the Chalaadi Glacier. We do not give lengths, heights or walking times for them: we found no official figures, and conditions change with the season.
+Two walks from town lead to the Koruldi Lakes and to the Chalaadi Glacier.
 
 What official advice does say applies to both. The UK's [safety advice for Georgia](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns: "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited." In its note on skiing it adds: "It can be difficult to get accurate information on mountain conditions, including avalanche risks."
 
@@ -131,7 +131,7 @@ Choose the season by what you want to do: snow shapes the year here.
 
 There are two ways in: by road from the lowlands or by air. Wikipedia places the town "some 128 kilometres" north-east of Zugdidi, the regional capital.
 
-**By road.** We do not give driving times: they depend on the season, the weather and the state of the road. In winter, ask about conditions before you leave.
+**By road.** Driving times depend on the season, the weather and the state of the road. In winter, ask about conditions before you leave.
 
 **By air.** The town has the Queen Tamar Airport. Check the current timetable with the airport or the carrier before you plan around a flight.
 

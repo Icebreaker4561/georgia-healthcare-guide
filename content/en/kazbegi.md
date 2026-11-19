@@ -102,7 +102,7 @@ You have three options, according to georgia.travel: "there is a paved road from
 
 The road was built in 2018. The Ministry of Infrastructure reported that a 5.6~km access road from the town to the church, with a cement concrete surface, was finished on 30 November 2018. You can walk along it or ride up it.
 
-There is also a footpath, and georgia.travel is honest about it: the church "is reachable through a very long, exhausting hike or a very short drive". We found no official length or walking time for the path, so we do not give one.
+There is also a footpath, and georgia.travel is honest about it: the church "is reachable through a very long, exhausting hike or a very short drive".
 
 A few practical points:
 

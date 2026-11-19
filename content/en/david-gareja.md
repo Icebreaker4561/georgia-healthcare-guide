@@ -87,8 +87,6 @@ The dry slopes are viper country, and treatment may be far away. The UK [health 
 
 **Canada.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia) lists snakes among the animals to avoid contact with, in its advice on reducing the risk of disease.
 
-**Which species?** We do not name any: we found no official source on the species around the monastery.
-
 **Our tip: how to avoid a bite.**
 
 - Watch where you put your feet, especially on warm rocks and in low shrubs.
@@ -169,7 +167,7 @@ Expect help to take time out here. The UK [health advice](https://www.gov.uk/for
 
 ### How far is David Gareja from Tbilisi?
 
-Some 60–70 km southeast, in Kakheti, according to Wikipedia. We do not give travel times.
+Some 60–70 km southeast, in Kakheti, according to Wikipedia.
 
 ### Are there snakes?
 

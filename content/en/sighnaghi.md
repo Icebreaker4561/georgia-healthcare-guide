@@ -117,7 +117,7 @@ Our tip: pace yourself, because small pours add up. The [NHS](https://www.nhs.uk
 
 Keep an eye on your glass, especially with people you have just met. The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) says: "There have been reports of drink spiking in Georgia. Be wary of strangers approaching you to take you to a restaurant or nightclub. If strangers offer you food and drink these items may contain drugs that could put you at risk. Buy your own drinks and always keep sight of them to avoid them being spiked."
 
-**Methanol.** GOV.UK points to Travel Aware's information on spiking and methanol poisoning. We add nothing about particular drinks: we found no official source on home-made spirits in Kakheti.
+**Methanol.** GOV.UK points to Travel Aware's information on spiking and methanol poisoning.
 
 **If you feel threatened.** GOV.UK says: "call the emergency number 112 and ask for the police."
 
@@ -136,7 +136,7 @@ For more on staying safe, read [is Georgia safe?](https://icebreaker4561.github.
 
 If you are driving, skip the tasting. The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) says: "Drink driving punishments can be severe. Georgia has a lower blood alcohol content limit than the UK, so avoid alcohol if driving."
 
-**The limit.** We do not give a figure. The simple rule from GOV.UK is enough: if you drive, do not drink.
+**The limit.** The simple rule from GOV.UK is enough: if you drive, do not drink.
 
 **Other drivers.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia) lists among common habits on Georgian roads that drivers "drive under the influence". It advises: "always drive defensively" and "avoid travelling after dark".
 

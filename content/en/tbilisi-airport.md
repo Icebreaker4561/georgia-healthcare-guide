@@ -36,7 +36,7 @@ The terminal covers the basics for your first hour in Georgia: a medical point w
 
 **GPC Pharmacy.** In the airport's words, "The airport pharmacy has an extensive selection of prescription and non-prescription medicines in stock." The page does not say where in the terminal it is or when it opens. Our tip: do not count on finding your usual brand on arrival, and keep a few days' supply of any regular medicine in your hand luggage.
 
-**Banks and currency exchange.** The airport points to "Banks and Currency Exchange Offices" available at Tbilisi Airport; we do not name them here. Our tip: before you fly, check that your bank card works abroad, because the bus takes cards; changing a small amount of cash in the hall gives you a backup.
+**Banks and currency exchange.** The airport points to "Banks and Currency Exchange Offices" available at Tbilisi Airport. Our tip: before you fly, check that your bank card works abroad, because the bus takes cards; changing a small amount of cash in the hall gives you a backup.
 
 **Wi-Fi.** The airport says Wi-Fi is "available throughout the terminal". Use it to message your hotel, download your policy if it only sits in your email, and save the address you are heading to.
 

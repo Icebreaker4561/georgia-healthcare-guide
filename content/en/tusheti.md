@@ -55,7 +55,7 @@ The road into the valley crosses the pass, and the last stretch needs an off-roa
 | Kvemo Alvani to Omalo | 80 km | about 4 h |
 | Tbilisi to the national park | 195 km | about 6 h |
 
-**Taxis.** "From the centre of Kvemo Alvani high-vehicle taxies travel daily towards Tusheti National Park," the same page says. We give no fares: we found no official source.
+**Taxis.** "From the centre of Kvemo Alvani high-vehicle taxies travel daily towards Tusheti National Park," the same page says.
 
 **The pass.** [Wikipedia](https://en.wikipedia.org/wiki/Abano_Pass) calls the Abano Pass "one of the highest drivable mountain passes in the Caucasus", linking Kakheti to the south with Tusheti to the north. It adds: "The damaged road surface allows only 4x4 vehicles to go through."
 

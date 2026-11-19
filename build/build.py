@@ -80,6 +80,8 @@ def inline(s):
             attrs += ' rel="noopener"'
         return f"<a{attrs}>{text}</a>"
 
+    # Сноски в стиле Википедии (владелец 19.11.2026): [^N] — номер источника в разделе «Источники»
+    s = re.sub(r"\s*\[\^(\d+)\]", r'<sup class="fn"><a href="#src-\1">[\1]</a></sup>', s)
     s = re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)", link, s)
     s = s.replace(" -- ", " – ").replace("~", "&nbsp;")
     return s
@@ -131,7 +133,7 @@ def parse_md(text, page):
         nonlocal in_faq_item
         if in_faq_item is not None:
             q, parts = in_faq_item
-            faq.append((html.unescape(q), html.unescape(" ".join(re.sub(r"<[^>]+>", "", x) for x in parts)).replace("\xa0", " ")))
+            faq.append((html.unescape(q), html.unescape(" ".join(re.sub(r"<[^>]+>", "", re.sub(r'<sup class="fn">.*?</sup>', "", x)) for x in parts)).replace("\xa0", " ")))
             faq_html.append(f'<details class="qa"><summary>{inline(q)}</summary><div class="a">{"".join(parts)}</div></details>')
             in_faq_item = None
 
@@ -182,7 +184,12 @@ def parse_md(text, page):
     close_faq_item()
     if section == "faq":
         out.append("".join(faq_html) + "</section>")
-    return meta, "\n".join(out), toc, faq
+    body_html = "\n".join(out)
+    for n in dict.fromkeys(re.findall(r'<sup class="fn"><a href="#src-(\d+)">', body_html)):
+        body_html = body_html.replace(f'<sup class="fn"><a href="#src-{n}">', f'<sup class="fn" id="ref-{n}"><a href="#src-{n}">', 1)
+        back = "к тексту" if meta.get("lang", "") == "ru" or re.search("[а-я]", meta.get("h1", "")) else "back to text"
+        body_html = re.sub(rf'(<li id="src-{n}">.*?)(</li>)', rf'\1 <a class="fn-back" href="#ref-{n}" aria-label="{back}">↑</a>\2', body_html, count=1, flags=re.S)
+    return meta, body_html, toc, faq
 
 
 def render_block(b, section):
@@ -227,9 +234,10 @@ def render_block(b, section):
             else:
                 cur += " " + l.strip()
         items.append(cur)
+        if section == "sources":
+            return '<ol class="sources">' + "".join(f'<li id="src-{n}">{inline(i)}</li>' for n, i in enumerate(items, 1)) + "</ol>"
         tag = "ol" if ordered else "ul"
-        cls = ' class="sources"' if section == "sources" else ""
-        return f"<{tag}{cls}>" + "".join(f"<li>{inline(i)}</li>" for i in items) + f"</{tag}>"
+        return f"<{tag}>" + "".join(f"<li>{inline(i)}</li>" for i in items) + f"</{tag}>"
     return f"<p>{inline(' '.join(l.strip() for l in lines))}</p>"
 
 

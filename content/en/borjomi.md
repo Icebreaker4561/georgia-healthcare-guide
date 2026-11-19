@@ -103,9 +103,9 @@ It is a large protected area with marked trails, and the first national park sin
 
 It is about 2~hours by road. That is the travel time [georgia.travel](https://georgia.travel/borjomi) gives from Tbilisi; traffic, weather and stops can make it longer.
 
-**By car, taxi or tour.** You can drive, hire a car with a driver or join an organised tour. We found no official fares, so we give none. If you take a taxi, agree the price and the return time before you set off, and save your hotel's address on your phone.
+**By car, taxi or tour.** You can drive, hire a car with a driver or join an organised tour. If you take a taxi, agree the price and the return time before you set off, and save your hotel's address on your phone.
 
-**By train.** Georgian Railway's [timetable](https://www.railway.ge/en/traffic-general-schedule/) lists daily trains between the capital and the town; the train is slower than the road. Timetables change, so we do not copy the times here; check railway.ge shortly before you travel.
+**By train.** Georgian Railway's [timetable](https://www.railway.ge/en/traffic-general-schedule/) lists daily trains between the capital and the town; the train is slower than the road. Timetables change, so check railway.ge shortly before you travel.
 
 **The narrow-gauge line to Bakuriani.** The old mountain railway known as the Kukushka is not running at the time of writing. Restoration has been announced, but reports give different dates for its return, so check before you plan a trip around it.
 

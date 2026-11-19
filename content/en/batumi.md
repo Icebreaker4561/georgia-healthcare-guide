@@ -24,7 +24,7 @@ og: batumi-boulevard.webp
 > [!stats]
 > - Coastline of Adjara: 21~km
 > - Sea temperature, average (GoBatumi): 21–29~°C
-> - Hottest month: July, 31~°C average high
+> - Warmest month: August, 23.2~°C daily mean
 > - Rain: about 2,500~mm a year
 > - Emergency number: 112
 
@@ -84,22 +84,22 @@ The shore is pebble, and the swimming season starts in May. [GoBatumi's Seaside 
 
 Expect hot, humid summers and heavy rain in autumn. The Batumi weather figures below are 1981–2010 averages for Batumi Airport from NOAA, as summarised on [Wikipedia](https://en.wikipedia.org/wiki/Batumi). Rainy days are days with at least 1~mm of rain.
 
-| Month | Average high, °C | Rain, mm | Rainy days |
+| Month | Daily mean, °C | Rain, mm | Rainy days |
 |---|---|---|---|
-| Jan | 6.6 | 235 | 14.0 |
-| Feb | 7.6 | 183 | 12.7 |
-| Mar | 12.3 | 157 | 12.6 |
-| Apr | 18.6 | 90 | 9.6 |
-| May | 22.8 | 93 | 9.6 |
-| Jun | 27.7 | 141 | 9.9 |
-| Jul | 31.1 | 165 | 10.1 |
-| Aug | 30.9 | 221 | 11.5 |
-| Sep | 26.1 | 330 | 11.1 |
-| Oct | 19.4 | 322 | 12.4 |
-| Nov | 12.4 | 306 | 12.2 |
-| Dec | 7.6 | 278 | 13.1 |
+| Jan | 5.4 | 235 | 14.0 |
+| Feb | 6.8 | 183 | 12.7 |
+| Mar | 8.7 | 157 | 12.6 |
+| Apr | 12.4 | 90 | 9.6 |
+| May | 16.0 | 93 | 9.6 |
+| Jun | 20.2 | 141 | 9.9 |
+| Jul | 22.6 | 165 | 10.1 |
+| Aug | 23.2 | 221 | 11.5 |
+| Sep | 20.1 | 330 | 11.1 |
+| Oct | 16.5 | 322 | 12.4 |
+| Nov | 12.0 | 306 | 12.2 |
+| Dec | 6.8 | 278 | 13.1 |
 
-**Hot months.** July and August have the highest average daytime temperatures, about 31~°C. The record in the same table is 40.8~°C, set in July.
+**Hot months.** July and August are the warmest, with a daily mean of 22.6~°C in July and 23.2~°C in August. The record high in the same table is 40.8~°C, set in July.
 
 **Wet months.** Rain falls all year, about 2,519~mm on average, on roughly 10 to 14 days a month. September, October and November each get more than 300~mm. Wikipedia calls the city "the wettest city in both Georgia and the entire Caucasus Region".
 
@@ -107,9 +107,9 @@ Expect hot, humid summers and heavy rain in autumn. The Batumi weather figures b
 
 **Humidity.** GoBatumi's [seasons guide](https://gobatumi.com/en/weather-and-seasonality) calls Adjara's climate "subtropical, with mild winters and hot summers". Relative humidity is usually 70 to 80%, according to Wikipedia.
 
-**Best time to visit.** Our tip: for the sea without the July peak, aim for June or September. September is warm and the sea is "even more pleasant", says GoBatumi, but it is also one of the wettest months, so pack a rain jacket.
+**Best time to visit.** Our tip: for the sea without the July–August peak, aim for June or September. September is warm and the sea is "even more pleasant", says GoBatumi, but it is also one of the wettest months, so pack a rain jacket.
 
-<!-- схема: img/batumi-weather-months.webp | Infographic: 12 bars for monthly rain in mm (Jan 235, Feb 183, Mar 157, Apr 90, May 93, Jun 141, Jul 165, Aug 221, Sep 330, Oct 322, Nov 306, Dec 278) with the average high in °C under each month, rounded (7° in January to 31° in July and August); July and August marked as hottest, September to November as wettest; source: NOAA 1981–2010 normals for Batumi Airport | Rain and average highs by month, 1981–2010 normals for the airport station (NOAA, via Wikipedia) -->
+<!-- схема: img/batumi-weather-months.webp | Infographic: 12 bars for monthly rain in mm (Jan 235, Feb 183, Mar 157, Apr 90, May 93, Jun 141, Jul 165, Aug 221, Sep 330, Oct 322, Nov 306, Dec 278) with the daily mean temperature in °C under each month, rounded (5° in January to 23° in August); July and August marked as warmest (22–23°), September to November as wettest; source: NOAA 1981–2010 normals for Batumi Airport | Rain and daily mean temperature by month, 1981–2010 normals for the airport station (NOAA, via Wikipedia) -->
 
 ## Staying healthy in the summer heat {#heat}
 
@@ -142,7 +142,7 @@ It is an old fortress 12~km south of the city. Per [GoBatumi](https://gobatumi.c
 
 ### Makhuntseti waterfall and Tamar Bridge {#makhuntseti}
 
-Both are about 33~km inland, on the Adjaristskali river. A GoBatumi [article from 2018](https://www.gobatumi.com/en/news/makhunceti-sauketeso-mcirebiujetiani-sapiknike-adgili) gives the distance from Europe Square as 33~km. Its fares and timetable are out of date, so we do not repeat them.
+Both are about 33~km inland, on the Adjaristskali river. A GoBatumi [article from 2018](https://www.gobatumi.com/en/news/makhunceti-sauketeso-mcirebiujetiani-sapiknike-adgili) gives the distance from Europe Square as 33~km.
 
 **Tamar Bridge.** The stone arched bridge is "28 meters long" and, according to legend, was built in the 12th century.
 
@@ -174,7 +174,7 @@ Good care is available in the city. Canada's [travel advice](https://travel.gc.c
 
 ### What is the best month to visit Batumi?
 
-June or September, in our view: both are warm enough to swim. July and August are the hottest, at about 31~°C. September to November bring more than 300~mm of rain a month.
+June or September, in our view: both are warm enough to swim. July and August are the warmest, with a daily mean of about 23~°C. September to November bring more than 300~mm of rain a month.
 
 ### How often does it rain in Batumi?
 

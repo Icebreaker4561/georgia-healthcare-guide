@@ -96,7 +96,7 @@ For roads, crime and the rest of the country, read [Is Georgia safe?](https://ic
 
 <!-- схема: img/govuk-warnings.webp | Crop of one sentence from the GOV.UK Georgia "Warnings and insurance" page, in our frame, with the sentence "Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO)." highlighted | GOV.UK, Georgia warnings page: travel against FCDO advice could invalidate your cover; checked 19 November 2026 -->
 
-## Heat on the rock: summer at Uplistsikhe {#heat}
+## Summer heat at Uplistsikhe {#heat}
 
 Expect strong sun and plan your visit for the cooler part of the day. Wikipedia's article on the town is brief about the season: "Summer is usually hot."
 
@@ -139,7 +139,7 @@ Plan for help to take time in the countryside. The UK's [health advice](https://
 
 ### How far is Uplistsikhe from Tbilisi and Gori?
 
-Wikipedia puts Gori 86 km west of Tbilisi and the rock-hewn town some 10 km east of it. We do not give travel times.
+Wikipedia puts Gori 86 km west of Tbilisi and the rock-hewn town some 10 km east of it.
 
 ### What is there to see?
 
