@@ -23,19 +23,19 @@ CSS = re.sub(r"/\*.*?\*/", "", CSS, flags=re.S)
 CSS = re.sub(r"\s*\n\s*", "", CSS)
 
 UI = {
-    "en": {"home": "Guide", "contents": "On this page", "reviewed": "Reviewed", "min": "min read",
+    "en": {"home": "Guide", "contents": "On this page", "author": "Author", "reviewed": "Reviewed", "min": "min read",
            "related": "More practical guides", "faq": "Frequently asked questions", "lang_other": "Русский",
-           "about": "An independent practical guide to healthcare in Georgia (the country) for visitors and expats, "
-                    "prepared by the team behind 100doc.ge, a directory of doctors and clinics in Georgia.",
+           "about": "An independent practical guide to healthcare in Georgia (the country) for visitors and expats.",
            "disclaimer": "General information, not medical or legal advice. Rules change: check the official sources before you travel.",
            "skip": "Skip to content", "menu": "Guides", "sources": "Sources"},
-    "ru": {"home": "Справочник", "contents": "Содержание", "reviewed": "Проверено", "min": "мин чтения",
+    "ru": {"home": "Справочник", "contents": "Содержание", "author": "Автор", "reviewed": "Проверено", "min": "мин чтения",
            "related": "Ещё по теме", "faq": "Частые вопросы", "lang_other": "English",
-           "about": "Независимый практический справочник о медицине в Грузии для туристов и тех, кто здесь живёт. "
-                    "Подготовлен командой 100doc.ge — каталога врачей и клиник Грузии.",
+           "about": "Независимый практический справочник о медицине в Грузии для туристов и тех, кто здесь живёт.",
            "disclaimer": "Это справочная информация, а не медицинская или юридическая консультация. Правила меняются: перед поездкой сверьтесь с официальными источниками.",
            "skip": "К тексту", "menu": "Разделы", "sources": "Источники"},
 }
+AUTHOR = {"en": "Pavel Sheremetyev", "ru": "Павел Шереметьев"}  # творческий псевдоним (владелец 19.11.2026)
+GUIDE_NAME = {"en": "Georgia Healthcare Guide", "ru": "Справочник о медицине в Грузии"}
 MONTHS = {"en": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October",
                  "November", "December"],
           "ru": ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября",
@@ -291,8 +291,8 @@ def page_html(page, meta, body, toc, faq):
         "@context": "https://schema.org", "@type": "Article", "headline": meta["h1"], "description": meta["description"],
         "inLanguage": lang, "datePublished": meta.get("published", meta["updated"]), "dateModified": meta["updated"],
         "mainEntityOfPage": url(page),
-        "author": {"@type": "Organization", "name": "100doc.ge editorial team", "url": "https://100doc.ge/en/"},
-        "publisher": {"@type": "Organization", "name": "100doc.ge", "url": "https://100doc.ge/en/"},
+        "author": {"@type": "Person", "name": AUTHOR[lang]},
+        "publisher": {"@type": "Organization", "name": GUIDE_NAME[lang], "url": f"{BASE}{'ru/' if lang == 'ru' else ''}"},
     }, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": crumbs_ld}]
     if faq:
         ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
@@ -307,7 +307,7 @@ def page_html(page, meta, body, toc, faq):
         first_box, body = body[:cut], body[cut:]
     lead = f'<p class="lead">{inline(meta["lead"])}</p>' if meta.get("lead") else ""
     kicker = f'<p class="kicker">{esc(meta["kicker"])}</p>' if meta.get("kicker") else ""
-    reviewed = f'{ui["reviewed"]} {fmt_date(meta["updated"], lang)} · {minutes} {ui["min"]}'
+    reviewed = f'{ui["author"]}: {AUTHOR[lang]} · {ui["reviewed"]} {fmt_date(meta["updated"], lang)} · {minutes} {ui["min"]}'
     footer_links = "".join(f'<li><a href="{pre}{out_rel(p)[:-len("index.html")] or "./"}">{esc(p.get("nav") or ui["home"])}</a></li>'
                            for p in pages_same if p.get("nav") or p["slug"] == "")
     return f"""<!DOCTYPE html>
