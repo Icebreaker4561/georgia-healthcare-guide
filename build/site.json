@@ -137,6 +137,15 @@
       "key": "sighnaghi-ru"
     },
     {
+      "slug": "tshaltubo",
+      "lang": "ru",
+      "src": "content/ru/tshaltubo.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "tskaltubo",
+      "key": "tskaltubo-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -239,7 +248,8 @@
       "lang": "en",
       "src": "content/en/tskaltubo.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "tskaltubo"
     },
     {
       "slug": "kutaisi",
