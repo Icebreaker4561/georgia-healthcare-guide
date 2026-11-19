@@ -28,7 +28,7 @@ og: georgia-mountain-road-car.webp
 > - Third-party injury limit: GEL~30,000 per person
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our guide to healthcare in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Your licence and the international driving permit {#licence}
 

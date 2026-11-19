@@ -23,19 +23,19 @@ CSS = re.sub(r"/\*.*?\*/", "", CSS, flags=re.S)
 CSS = re.sub(r"\s*\n\s*", "", CSS)
 
 UI = {
-    "en": {"home": "Guide", "contents": "On this page", "author": "Author", "reviewed": "Reviewed", "min": "min read",
+    "en": {"home": "Georgia Travel Guide", "contents": "On this page", "author": "Author", "reviewed": "Reviewed", "min": "min read",
            "related": "More practical guides", "faq": "Frequently asked questions", "lang_other": "Русский",
-           "about": "An independent practical guide to healthcare in Georgia (the country) for visitors and expats.",
+           "about": "Georgia Travel Guide — an independent practical guide to trips, holidays and healthcare in Georgia (the country) for visitors and expats.",
            "disclaimer": "General information, not medical or legal advice. Rules change: check the official sources before you travel.",
            "skip": "Skip to content", "menu": "Guides", "sources": "Sources"},
-    "ru": {"home": "Справочник", "contents": "Содержание", "author": "Автор", "reviewed": "Проверено", "min": "мин чтения",
+    "ru": {"home": "Путеводитель по Грузии", "contents": "Содержание", "author": "Автор", "reviewed": "Проверено", "min": "мин чтения",
            "related": "Ещё по теме", "faq": "Частые вопросы", "lang_other": "English",
-           "about": "Независимый практический справочник о медицине в Грузии для туристов и тех, кто здесь живёт.",
+           "about": "Путеводитель по Грузии — независимый практический гид по поездкам, отдыху и медицине в Грузии для туристов и тех, кто здесь живёт.",
            "disclaimer": "Это справочная информация, а не медицинская или юридическая консультация. Правила меняются: перед поездкой сверьтесь с официальными источниками.",
            "skip": "К тексту", "menu": "Разделы", "sources": "Источники"},
 }
 AUTHOR = {"en": "Pavel Sheremetyev", "ru": "Павел Шереметьев"}  # творческий псевдоним (владелец 19.11.2026)
-GUIDE_NAME = {"en": "Georgia Healthcare Guide", "ru": "Справочник о медицине в Грузии"}
+GUIDE_NAME = {"en": "Georgia Travel Guide", "ru": "Путеводитель по Грузии"}
 MONTHS = {"en": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October",
                  "November", "December"],
           "ru": ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября",

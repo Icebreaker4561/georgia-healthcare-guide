@@ -29,7 +29,7 @@ og: marshrutka-road.webp
 > - Fast trains to Batumi: 2 a day (railway.ge)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our guide to healthcare in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## What a marshrutka is {#what}
 

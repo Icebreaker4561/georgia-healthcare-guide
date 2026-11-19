@@ -29,7 +29,7 @@ og: georgia-trail.webp
 > - Полис: от 30 000 лари
 > - Скорая: 112
 
-Статья входит в [справочник о медицине в Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
 
 ## Куда идти: горы Грузии для походов {#kuda}
 
@@ -213,4 +213,4 @@ GOV.UK советует подумать о профессиональном г�
 
 Это справочная информация, а не медицинская консультация: решение о лечении принимает врач. Проверено 19 ноября 2026 года.
 
-[Вернуться к справочнику](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)

@@ -29,7 +29,7 @@ og: martvili-canyon-boat.webp
 > - Окаце: 780 м
 > - Скорая: 112
 
-Статья входит в [справочник о медицине в Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
 
 ## Каньон Мартвили: тропа и лодка {#martvili}
 
@@ -177,4 +177,4 @@ og: martvili-canyon-boat.webp
 
 Это справочная информация, а не медицинская консультация: решение о лечении принимает врач. Что открыто на месте, уточняйте там же. Проверено 19 ноября 2026 года.
 
-[Вернуться к справочнику](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)

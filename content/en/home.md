@@ -1,8 +1,8 @@
 ---
-title: Healthcare in Georgia for Expats and Visitors: 2026 Guide
-description: How healthcare works in Georgia for visitors and expats: emergency number 112, the 2026 entry insurance rule, private clinics and pharmacies.
-h1: Healthcare in Georgia for Expats and Visitors
-kicker: Practical guide · 2026
+title: Georgia Travel Guide: Travel to Georgia (Country), Tips
+description: Georgia Travel Guide for traveling to Georgia, the country: travel tips, is Georgia safe, roads and trips, plus healthcare — 112, entry insurance, clinics.
+h1: Georgia Travel Guide: traveling to Georgia (the country), travel tips, safety and healthcare
+kicker: Travel guide · 2026
 lead: What to do in an emergency, which insurance you need to enter the country, and how to find a doctor in Tbilisi, Batumi or Kutaisi.
 updated: 2026-11-17
 published: 2026-11-17

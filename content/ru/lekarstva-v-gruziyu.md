@@ -28,7 +28,7 @@ og: customs-medicine-bag.webp
 > - Аптеки: три группы
 > - Экстренно: 112
 
-Статья входит в [справочник о медицине в Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
 
 ## Сколько лекарств можно ввезти: правило 10 упаковок {#10-upakovok}
 
@@ -177,4 +177,4 @@ GOV.UK добавляет: безрецептурные средства с ко
 
 Это справочная информация, а не медицинская консультация: решение о лечении принимает врач. Правила ввоза меняются — перед поездкой сверьтесь с источниками. Проверено 19 ноября 2026 года.
 
-[Вернуться к справочнику](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)

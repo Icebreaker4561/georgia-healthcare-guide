@@ -28,7 +28,7 @@ og: safety-tbilisi-evening.webp
 > - Дороги: часты аварии (Канада)
 > - Экстренно: 112
 
-Статья входит в [справочник о медицине в Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
 
 ## Безопасно ли ехать в Грузию: что пишут два правительства {#dva-pravitelstva}
 
@@ -222,4 +222,4 @@ GOV.UK предупреждает: полис может не действова
 
 Это справочная информация, а не медицинская консультация: решение о лечении принимает врач. Советы правительств меняются — перед поездкой сверьтесь с источниками. Проверено 19 ноября 2026 года.
 
-[Вернуться к справочнику](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)

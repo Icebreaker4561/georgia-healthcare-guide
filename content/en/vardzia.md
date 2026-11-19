@@ -29,7 +29,7 @@ og: vardzia-cliff.webp
 > - Section closed in 2026: near the Secret Tunnel
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our guide to healthcare in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Vardzia cave monastery: Queen Tamar's city in the rock {#history}
 

@@ -29,7 +29,7 @@ og: vardzia-cliff.webp
 > - Уровней: 13
 > - Скорая: 112
 
-Статья входит в [справочник о медицине в Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
 
 ## Пещерный город царицы Тамары {#istoriya}
 
@@ -185,4 +185,4 @@ og: vardzia-cliff.webp
 
 Это справочная информация, а не медицинская консультация. Что открыто в Вардзии, уточняйте на месте. Проверено 19 ноября 2026 года.
 
-[Вернуться к справочнику](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)

@@ -19,7 +19,7 @@ og: customs-medicine-bag.webp
 > - Pharmacies sell group III to anyone; for the rest you need a local doctor.
 > - On the IRAO travel policy, medicines a doctor prescribes for a sudden illness are paid up to 2,000 GEL; self-medication is not.
 
-This page is about the country in the Caucasus — Tbilisi, Batumi and the mountains — not the US state. It is part of [our guide to healthcare in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
+This page is about the country in the Caucasus — Tbilisi, Batumi and the mountains — not the US state. It is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
 
 ## What medicine is allowed in Georgia: the 10-pack rule {#ten-packs}
 

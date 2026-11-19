@@ -27,7 +27,7 @@ og: borjomi-park-spring.webp
 > - Sulfur pools: 32–38~°C
 > - National park: 104,099~ha
 
-This page is about Georgia the country, not the US state, and is part of [our guide to healthcare in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
 
 ## Borjomi mineral water: what it is and who should go easy on it {#mineral-water}
 

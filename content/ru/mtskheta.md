@@ -29,7 +29,7 @@ og: jvari-confluence.webp
 > - Светицховели: 1010–1029
 > - Скорая: 112
 
-Статья входит в [справочник о медицине в Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
 
 ## Что посмотреть в Мцхете {#chto-posmotret}
 
@@ -241,4 +241,4 @@ og: jvari-confluence.webp
 
 Это справочная информация, а не медицинская консультация: лечение назначает врач. Проверено 19 ноября 2026 года.
 
-[Вернуться к справочнику](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)

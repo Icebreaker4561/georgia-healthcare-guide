@@ -26,7 +26,7 @@ og: gergeti-church.webp
 > - By road: about 3 hours
 > - Mount Kazbek: 5,054 m
 
-This page is about Georgia the country, not the US state, and is part of [our guide to healthcare in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
 
 ## Kazbegi or Stepantsminda? Where it is {#stepantsminda}
 

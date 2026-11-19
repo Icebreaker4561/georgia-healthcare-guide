@@ -28,7 +28,7 @@ og: tusheti-abano-road.webp
 > - Аптек: нет
 > - Скорая: 112
 
-Статья входит в [справочник о медицине в Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
 
 ## Тушетия: горный край на северо-востоке {#region}
 
@@ -201,4 +201,4 @@ GOV.UK в советах о безопасности пишет: если в п�
 
 Это справочная информация, а не медицинская консультация: решение о лечении принимает врач. Что открыто на месте, уточняйте там же. Проверено 19 ноября 2026 года.
 
-[Вернуться к справочнику](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)

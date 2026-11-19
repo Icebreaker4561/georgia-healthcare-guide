@@ -26,7 +26,7 @@ og: gergeti-nad-stepantsmindoy.webp
 > - В пути: около 3 часов
 > - Казбек: 5 054 м
 
-Статья входит в [справочник о медицине в Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/). Проверено 18 ноября 2026 года.
+Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/). Проверено 18 ноября 2026 года.
 
 ## Казбеги или Степанцминда: где это {#gde}
 
@@ -233,4 +233,4 @@ Georgia.travel называет эти места «в целом довольн
 
 Это справочная информация, а не медицинская консультация: лечение назначает врач. Проверено 18 ноября 2026 года.
 
-[Вернуться к справочнику](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)

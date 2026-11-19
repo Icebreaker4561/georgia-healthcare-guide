@@ -28,7 +28,7 @@ og: svaneti-towers.webp
 > - ЮНЕСКО: с 1996
 > - Скорая: 112
 
-Статья входит в [справочник о медицине в Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
 
 ## Что посмотреть в Сванетии {#chto-posmotret}
 
@@ -233,4 +233,4 @@ og: svaneti-towers.webp
 
 Это справочная информация, а не медицинская консультация: лечение назначает врач. Проверено 19 ноября 2026 года.
 
-[Вернуться к справочнику](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)

@@ -29,7 +29,7 @@ og: georgia-trail.webp
 > - Ushguli: about 2,100 m (Wikipedia)
 > - Entry cover: 30,000 GEL
 
-This page is about Georgia the country, not the US state, and is part of [our guide to healthcare in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Where to go: the best-known hiking areas {#where}
 

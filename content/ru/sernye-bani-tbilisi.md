@@ -29,7 +29,7 @@ og: abanotubani-domes.webp
 > - Канатка к Нарикале: 500 м
 > - Скорая: 112
 
-Статья входит в [справочник о медицине в Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
 
 ## Абанотубани: квартал серных бань {#abanotubani}
 
@@ -232,4 +232,4 @@ og: abanotubani-domes.webp
 
 Это справочная информация, а не медицинская консультация: можно ли вам в горячую воду, решает врач. Проверено 19 ноября 2026 года.
 
-[Вернуться к справочнику](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)

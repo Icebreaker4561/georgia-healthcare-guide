@@ -26,7 +26,7 @@ og: airport-arrivals-hall.webp
 > - Taxi to the centre: 40~GEL fixed
 > - By taxi: 20–30~min
 
-This page is about Georgia the country, not the US state, and is part of [our guide to healthcare in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
 
 ## Tbilisi Airport arrival: what is in the hall {#arrival}
 
