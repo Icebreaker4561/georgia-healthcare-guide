@@ -110,6 +110,15 @@
       "key": "mtskheta-ru"
     },
     {
+      "slug": "za-rulem-v-gruzii",
+      "lang": "ru",
+      "src": "content/ru/za-rulem-v-gruzii.md",
+      "section": "practical",
+      "kicker": "Полезное",
+      "pair": "driving-in-georgia",
+      "key": "driving-in-georgia-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -233,7 +242,8 @@
       "lang": "en",
       "src": "content/en/driving-in-georgia.md",
       "section": "practical",
-      "kicker": "Practical"
+      "kicker": "Practical",
+      "pair": "driving-in-georgia"
     },
     {
       "slug": "best-time-to-visit-georgia",
