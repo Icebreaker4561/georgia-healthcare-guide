@@ -81,7 +81,7 @@ def inline(s):
         return f"<a{attrs}>{text}</a>"
 
     # Сноски в стиле Википедии (владелец 19.11.2026): [^N] — номер источника в разделе «Источники»
-    s = re.sub(r"\s*\[\^(\d+)\]", r'<sup class="fn"><a href="#src-\1">[\1]</a></sup>', s)
+    s = re.sub(r"\s*\[\^(\d+)\]", r'<sup class="fn"><a href="#src-\1" data-n="\1" aria-label="[\1]"></a></sup>', s)
     s = re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)", link, s)
     s = s.replace(" -- ", " – ").replace("~", "&nbsp;")
     return s
@@ -185,8 +185,11 @@ def parse_md(text, page):
     if section == "faq":
         out.append("".join(faq_html) + "</section>")
     body_html = "\n".join(out)
-    for n in dict.fromkeys(re.findall(r'<sup class="fn"><a href="#src-(\d+)">', body_html)):
-        body_html = body_html.replace(f'<sup class="fn"><a href="#src-{n}">', f'<sup class="fn" id="ref-{n}"><a href="#src-{n}">', 1)
+    for n in dict.fromkeys(re.findall(r'<sup class="fn"><a href="#src-(\d+)"', body_html)):
+        # якорь ↑ — у первой сноски в тексте статьи; блок «Коротко» выводится над статьёй, его пропускаем
+        fx = re.search(r'<aside class="box facts">.*?</aside>', body_html, re.S)
+        cut = fx.end() if fx and f'<sup class="fn"><a href="#src-{n}"' in body_html[fx.end():] else 0
+        body_html = body_html[:cut] + body_html[cut:].replace(f'<sup class="fn"><a href="#src-{n}"', f'<sup class="fn" id="ref-{n}"><a href="#src-{n}"', 1)
         back = "к тексту" if meta.get("lang", "") == "ru" or re.search("[а-я]", meta.get("h1", "")) else "back to text"
         body_html = re.sub(rf'(<li id="src-{n}">.*?)(</li>)', rf'\1 <a class="fn-back" href="#ref-{n}" aria-label="{back}">↑</a>\2', body_html, count=1, flags=re.S)
     return meta, body_html, toc, faq
@@ -206,7 +209,7 @@ def render_block(b, section):
             for l in inner.splitlines():
                 mm = re.match(r"\s*- ([^:]+):\s*(.+)", l)
                 if mm:
-                    cells.append(f"<div><dt>{inline(mm.group(1).strip())}</dt><dd>{inline(mm.group(2).strip()).replace(' ', '&nbsp;')}</dd></div>")
+                    cells.append(f"<div><dt>{inline(mm.group(1).strip())}</dt><dd>{re.sub(r'(?<=\d) (?=\S)', '&nbsp;', inline(mm.group(2).strip()))}</dd></div>")
             return f'<dl class="stats">{"".join(cells)}</dl>'
         inner_html = "".join(render_block(x, section) for x in re.split(r"\n\s*\n", inner) if x.strip())
         head = f'<p class="box-h eyebrow">{inline(title)}</p>' if title else ""

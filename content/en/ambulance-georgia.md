@@ -14,24 +14,24 @@ og: ambulance-tbilisi-street.webp
 ---
 
 > [!facts] In short
-> - 112 is the emergency number in Georgia for police, fire and rescue and ambulance.
-> - Call-takers answer in six languages, English among them, day and night across the country.
-> - It works from a mobile phone without a SIM card and from a landline with a negative balance.
-> - The ambulance call-out is covered by the state. Treatment after it is on you or your insurer; since 2026 visitors must enter with a 30,000 GEL policy.
+> - 112 is the emergency number in Georgia for police, fire and rescue and ambulance.[^1]
+> - Call-takers answer in six languages, English among them, day and night across the country.[^2]
+> - It works from a mobile phone without a SIM card and from a landline with a negative balance.[^2][^3]
+> - The ambulance call-out is covered by the state.[^5] Treatment after it is on you or your insurer; since 2026 visitors must enter with a 30,000 GEL policy.[^5][^6]
 
 This page is about Georgia the country — Tbilisi, Batumi and the mountains — not the US state. It is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
 
 ## How to call an ambulance in Georgia: dial 112 {#how-to-call}
 
-Dial 112 and, when someone answers, say "ambulance". The same number covers police, fire and rescue and the Emergency Medical Service, according to the [official service site](https://112.gov.ge/?page_id=1686&lang=en).
+Dial 112 and, when someone answers, say "ambulance". The same number covers police, fire and rescue and the Emergency Medical Service, according to the [official service site](https://112.gov.ge/?page_id=1686&lang=en).[^1]
 
-You do not need a SIM card. If someone is with you, let them make the call while you stay with the patient. Speak slowly and say clearly where you are, so the crew knows where to go.
+You do not need a SIM card.[^2] If someone is with you, let them make the call while you stay with the patient. Speak slowly and say clearly where you are, so the crew knows where to go.
 
 <!-- схема: img/calling-112-steps.webp | Infographic: five steps of a call to 112 in Georgia — dial 112, say where you are, what happened, your name, then call your insurer | Where you are, what happened, your name — then the assistance line on your policy -->
 
 ### What to tell the operator {#what-to-say}
 
-Four things: where you are, what happened, which service you need, and your name and surname. Stay on the line until the conversation is over, and remember that calls are recorded.
+Four things: where you are, what happened, which service you need, and your name and surname.[^1] Stay on the line until the conversation is over, and remember that calls are recorded.[^1]
 
 Addresses are the hard part for visitors. Save the address of your hotel or guesthouse in Latin letters on your phone, with a landmark nearby. Then you can read it out instead of spelling it under stress.
 
@@ -40,7 +40,7 @@ Addresses are the hard part for visitors. Save the address of your hotel or gues
 
 ### Does the operator speak English? {#languages}
 
-Yes. The official questions and answers page says that call-takers "can handle calls in Georgian, English, Azerbaijani, Armenian, Turkish and Russian languages" ([FAQ on the service site](https://112.gov.ge/?page_id=1715&lang=en)). The same page says calls are received 24/7 throughout the whole country.
+Yes. The official questions and answers page says that call-takers "can handle calls in Georgian, English, Azerbaijani, Armenian, Turkish and Russian languages" ([FAQ on the service site](https://112.gov.ge/?page_id=1715&lang=en)).[^2] The same page says calls are received 24/7 throughout the whole country.[^2]
 
 Some travel guides and AI summaries mention only English and Russian. There are six, so start in the one you speak best.
 
@@ -48,15 +48,15 @@ Some travel guides and AI summaries mention only English and Russian. There are 
 
 ### No SIM card, no credit on the phone or can't talk: the 112 Georgia app {#no-sim-app}
 
-You can still get through. The number works from a mobile phone without a SIM card, and [from a landline without dialling a code](https://112.gov.ge/?page_id=22949&lang=en), even with a negative balance.
+You can still get through. The number works from a mobile phone without a SIM card, and [from a landline without dialling a code](https://112.gov.ge/?page_id=22949&lang=en), even with a negative balance.[^2][^3]
 
-If you cannot speak, or the line is too noisy, use the 112 Georgia app ([official page](https://112.gov.ge/?page_id=22696&lang=en)). It offers a call that sends your geolocation, a chat with a dispatcher and a silent SOS alarm. Its interface comes in five languages, English and Russian among them. Install it before the trip, while you have Wi-Fi and time to set it up.
+If you cannot speak, or the line is too noisy, use the 112 Georgia app ([official page](https://112.gov.ge/?page_id=22696&lang=en)). It offers a call that sends your geolocation, a chat with a dispatcher and a silent SOS alarm.[^4] Its interface comes in five languages, English and Russian among them.[^4] Install it before the trip, while you have Wi-Fi and time to set it up.
 
 ## What happens after you call 112 {#what-happens}
 
-The service takes the call, and the Emergency Situations Coordination and Urgent Assistance Center under the Ministry of Health sends the ambulance crew. This has been the set-up since August 2020, according to the EU Asylum Agency's [MedCOI report on healthcare](https://www.euaa.europa.eu/sites/default/files/publications/2025-03/2025_MedCOI_Georgia_Provision_of_Healthcare.pdf) (2025).
+The service takes the call, and the Emergency Situations Coordination and Urgent Assistance Center under the Ministry of Health sends the ambulance crew. This has been the set-up since August 2020, according to the EU Asylum Agency's [MedCOI report on healthcare](https://www.euaa.europa.eu/sites/default/files/publications/2025-03/2025_MedCOI_Georgia_Provision_of_Healthcare.pdf) (2025).[^7]
 
-The same report gives an average arrival time of 30–40 minutes, according to 2021–2022 data, with 78 stations and 333 crews in 2022.
+The same report gives an average arrival time of 30–40 minutes, according to 2021–2022 data, with 78 stations and 333 crews in 2022.[^7]
 
 While you wait:
 
@@ -68,9 +68,9 @@ While you wait:
 
 ## Who pays for the ambulance and the hospital {#who-pays}
 
-The state pays for the ambulance call-out for anyone in Georgia, visitors included. Inpatient admission and treatment of a tourist are not paid for by the state. This follows from Government Resolution No. 655 of 31 December 2025, Annex 18.1 ([Resolution No. 655 on matsne.gov.ge, Georgian text](https://www.matsne.gov.ge/ka/document/view/6748252)).
+The state pays for the ambulance call-out for anyone in Georgia, visitors included.[^5] Inpatient admission and treatment of a tourist are not paid for by the state.[^5] This follows from Government Resolution No. 655 of 31 December 2025, Annex 18.1 ([Resolution No. 655 on matsne.gov.ge, Georgian text](https://www.matsne.gov.ge/ka/document/view/6748252)).[^5]
 
-So the bill for the hospital stay and treatment lands on you or on your policy. That is why the entry rule matters. Since 1 January 2026, foreigners must enter with health and accident insurance of 30,000 GEL for the whole stay ([Resolution No. 602 on matsne.gov.ge, Georgian text](https://matsne.gov.ge/ka/document/view/6728816)). Our guide explains [the 2026 entry insurance rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance) in more detail.
+So the bill for the hospital stay and treatment lands on you or on your policy. That is why the entry rule matters. Since 1 January 2026, foreigners must enter with health and accident insurance of 30,000 GEL for the whole stay ([Resolution No. 602 on matsne.gov.ge, Georgian text](https://matsne.gov.ge/ka/document/view/6728816)).[^6] Our guide explains [the 2026 entry insurance rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance) in more detail.
 
 If you are still choosing a policy, look for [travel insurance for Georgia that covers emergency hospital care](https://100doc.ge/tourist/en). On the Light plan it costs from €0.78 (2.22 GEL, ≈ $0.86) a day on a 360-day policy; a 3-day policy is €6.27 (17.90 GEL, ≈ $6.90), at the National Bank rate of 17 November 2026.
 
@@ -78,7 +78,7 @@ If you are still choosing a policy, look for [travel insurance for Georgia that 
 
 ### Do visitors pay when the ambulance comes? {#do-you-pay}
 
-Not for the call-out: the state programme covers it. Many websites and AI answers say there is nothing to pay and stop there. That is true only of the crew's visit. Admission and treatment in hospital are not covered for a visitor, so you pay for them, or your policy does.
+Not for the call-out: the state programme covers it.[^5] Many websites and AI answers say there is nothing to pay and stop there. That is true only of the crew's visit. Admission and treatment in hospital are not covered for a visitor, so you pay for them, or your policy does.[^5]
 
 ### If you are taken in for treatment: call your insurer straight away {#insurance-assistance}
 
@@ -102,23 +102,23 @@ No policy yet and already in the country? You can buy one online, and it is vali
 
 ### Does 112 speak English?
 
-Yes. Call-takers handle calls in Georgian, English, Azerbaijani, Armenian, Turkish and Russian.
+Yes. Call-takers handle calls in Georgian, English, Azerbaijani, Armenian, Turkish and Russian.[^2]
 
 ### What is 112 used for?
 
-For police, fire and rescue, and medical help. One number reaches all three services.
+For police, fire and rescue, and medical help.[^1] One number reaches all three services.[^1]
 
 ### Do visitors pay for the ambulance call-out?
 
-No. Under Government Resolution No. 655, the state pays for the call-out for anyone in the country, visitors included.
+No. Under Government Resolution No. 655, the state pays for the call-out for anyone in the country, visitors included.[^5]
 
 ### Do visitors pay for hospital treatment in Georgia?
 
-Yes, unless a policy pays. The state does not cover admission or treatment for visitors, and since 1 January 2026 foreigners must enter with a policy of 30,000 GEL.
+Yes, unless a policy pays. The state does not cover admission or treatment for visitors, and since 1 January 2026 foreigners must enter with a policy of 30,000 GEL.[^5][^6]
 
 ### Can I call 112 without a SIM card?
 
-Yes. It works from a mobile phone without a SIM card, and from a landline without a code, even with a negative balance.
+Yes. It works from a mobile phone without a SIM card, and from a landline without a code, even with a negative balance.[^2][^3]
 
 ## Sources {#sources}
 

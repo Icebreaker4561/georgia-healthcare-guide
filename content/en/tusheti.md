@@ -15,11 +15,11 @@ og: tusheti-abano-road.webp
 ---
 
 > [!facts] In short
-> - From Kvemo Alvani to Omalo you need an off-road vehicle: the national park says the trip from Kvemo Alvani to Omalo "is possible only by off road vehicle".
-> - The road crosses the Abano Pass, 2,826 m high according to Wikipedia. TravelHealthPro says altitude illness usually occurs above 2,500 m.
-> - The tourist season lasts from June to October, says the park. Check road restrictions on georoad.gov.ge before you set off.
-> - There are no petrol stations, pharmacies, banks or ATMs. Our tip: bring your medicines and cash for the whole stay.
-> - If a dog bites or scratches you, GOV.UK says to get medical attention immediately. Emergency: 112.
+> - From Kvemo Alvani to Omalo you need an off-road vehicle: the national park says the trip from Kvemo Alvani to Omalo "is possible only by off road vehicle".[^2]
+> - The road crosses the Abano Pass, 2,826 m high according to Wikipedia.[^6] TravelHealthPro says altitude illness usually occurs above 2,500 m.[^7]
+> - The tourist season lasts from June to October, says the park.[^2] Check road restrictions on georoad.gov.ge before you set off.[^4]
+> - There are no petrol stations, pharmacies, banks or ATMs.[^1] Our tip: bring your medicines and cash for the whole stay.
+> - If a dog bites or scratches you, GOV.UK says to get medical attention immediately.[^8] Emergency: 112.[^8]
 
 > [!stats]
 > - Abano Pass: 2,826~m (Wikipedia)
@@ -33,21 +33,21 @@ This page is about Georgia the country, not the US state, and is part of [our tr
 
 ## What and where Tusheti is {#what-is}
 
-It is a high, remote valley region on the northern slopes of the Greater Caucasus. [Wikipedia](https://en.wikipedia.org/wiki/Tusheti) calls it "a historic region in northeast Georgia", home to the national park of the same name, with an area of 969 km² and Omalo as its capital.
+It is a high, remote valley region on the northern slopes of the Greater Caucasus. [Wikipedia](https://en.wikipedia.org/wiki/Tusheti) calls it "a historic region in northeast Georgia", home to the national park of the same name, with an area of 969 km² and Omalo as its capital.[^5]
 
-**Neighbours.** Wikipedia says the region borders the Russian republics of Chechnya and Dagestan to the north and east, and the Georgian historic provinces of Kakheti and Pshav-Khevsureti to the south and west. Administratively it belongs to Akhmeta, in Kakheti.
+**Neighbours.** Wikipedia says the region borders the Russian republics of Chechnya and Dagestan to the north and east, and the Georgian historic provinces of Kakheti and Pshav-Khevsureti to the south and west.[^5] Administratively it belongs to Akhmeta, in Kakheti.[^5]
 
-**Sheep country.** Men here traditionally spent "the summer with the flocks of sheep high up in the mountains between April and October", Wikipedia notes, and wintered their flocks in Kakheti. That is why you meet flocks and their dogs on the trails.
+**Sheep country.** Men here traditionally spent "the summer with the flocks of sheep high up in the mountains between April and October", Wikipedia notes, and wintered their flocks in Kakheti.[^5] That is why you meet flocks and their dogs on the trails.
 
-**The national park.** The [park's own page](https://nationalparks.ge/en/site/tushetinp) says the protected areas "include 11 tourist trails, these are: 1,2,3,4 and 6 day trails". It offers hiking, cycling, horse riding, cultural tours and birdwatching. The park lists its contacts in two villages of Akhmeta Municipality: the main village and Lower Alvani.
+**The national park.** The [park's own page](https://nationalparks.ge/en/site/tushetinp) says the protected areas "include 11 tourist trails, these are: 1,2,3,4 and 6 day trails".[^1] It offers hiking, cycling, horse riding, cultural tours and birdwatching.[^1] The park lists its contacts in two villages of Akhmeta Municipality: the main village and Lower Alvani.[^1]
 
-**Before a trail.** The park's [visitor guide](https://nationalparks.ge/en/site/tushetinp/guide) asks: "Please contact Tusheti National Park Administration before visiting any trail".
+**Before a trail.** The park's [visitor guide](https://nationalparks.ge/en/site/tushetinp/guide) asks: "Please contact Tusheti National Park Administration before visiting any trail".[^2]
 
 ## The Abano Pass road to Omalo {#road}
 
-The road into the valley crosses the pass, and the last stretch needs an off-road vehicle. The park's guide says: "Transportation from Kvemo Alvani to Omalo is possible only by off road vehicle."
+The road into the valley crosses the pass, and the last stretch needs an off-road vehicle. The park's guide says: "Transportation from Kvemo Alvani to Omalo is possible only by off road vehicle."[^2]
 
-**Distances and times.** The park's [how to get there page](https://nationalparks.ge/en/site/tushetinp/getHere) gives these averages:
+**Distances and times.** The park's [how to get there page](https://nationalparks.ge/en/site/tushetinp/getHere) gives these averages[^3]:
 
 | Stretch | Distance | Time by vehicle |
 |---|---|---|
@@ -55,15 +55,15 @@ The road into the valley crosses the pass, and the last stretch needs an off-roa
 | Kvemo Alvani to Omalo | 80 km | about 4 h |
 | Tbilisi to the national park | 195 km | about 6 h |
 
-**Taxis.** "From the centre of Kvemo Alvani high-vehicle taxies travel daily towards Tusheti National Park," the same page says.
+**Taxis.** "From the centre of Kvemo Alvani high-vehicle taxies travel daily towards Tusheti National Park," the same page says.[^3]
 
-**The pass.** [Wikipedia](https://en.wikipedia.org/wiki/Abano_Pass) calls the Abano Pass "one of the highest drivable mountain passes in the Caucasus", linking Kakheti to the south with Tusheti to the north. It adds: "The damaged road surface allows only 4x4 vehicles to go through."
+**The pass.** [Wikipedia](https://en.wikipedia.org/wiki/Abano_Pass) calls the Abano Pass "one of the highest drivable mountain passes in the Caucasus", linking Kakheti to the south with Tusheti to the north.[^6] It adds: "The damaged road surface allows only 4x4 vehicles to go through."[^6]
 
 <!-- схема: img/tusheti-abano-road.webp | Canva illustration, not a photo of the real place: an off-road vehicle on a narrow dirt mountain road with hairpin bends above a steep drop, no guardrails, high green slopes and peaks around | Kvemo Alvani to Omalo is 80 km, about 4 h, and possible only by off-road vehicle -->
 
-**Rain, snow and landslides.** The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns that "heavy rain, flooding and snow at higher altitudes can affect roads and bridges making travel difficult or impossible (particularly in remote areas)" and that "landslides are common". In remote areas, it says, "make sure your vehicle is suitable for off-road driving and check weather conditions locally."
+**Rain, snow and landslides.** The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns that "heavy rain, flooding and snow at higher altitudes can affect roads and bridges making travel difficult or impossible (particularly in remote areas)" and that "landslides are common".[^9] In remote areas, it says, "make sure your vehicle is suitable for off-road driving and check weather conditions locally."[^9]
 
-**Season.** "Tourist season lasts from June to October," says the park. We give no dates for this year's opening or closing. Before you set off, check the restrictions page at [georoad.gov.ge](https://georoad.gov.ge/en/restriction) and ask your driver or host.
+**Season.** "Tourist season lasts from June to October," says the park.[^2] We give no dates for this year's opening or closing. Before you set off, check the restrictions page at [georoad.gov.ge](https://georoad.gov.ge/en/restriction)[^4] and ask your driver or host.
 
 **Our tip.**
 
@@ -77,9 +77,9 @@ More on mountain roads is in our [guide to driving in Georgia](https://icebreake
 
 ## Altitude on the pass {#altitude}
 
-At 2,826 m, the pass is above the 2,500 m line that [TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness), a UK travel health site, uses for altitude illness: it says the illness occurs in people "ascending rapidly to high altitude, usually above 2,500m".
+At 2,826 m, the pass is above the 2,500 m line that [TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness), a UK travel health site, uses for altitude illness: it says the illness occurs in people "ascending rapidly to high altitude, usually above 2,500m".[^7]
 
-**Why the crossing itself is low risk.** The factsheet rates risk by sleeping altitude: "The altitudes correspond to sleeping altitude". It adds that symptoms "typically… occur 6–10 hours after ascent to >2,500m". A drive over the top is short; what matters more is how high you sleep.
+**Why the crossing itself is low risk.** The factsheet rates risk by sleeping altitude: "The altitudes correspond to sleeping altitude".[^7] It adds that symptoms "typically… occur 6–10 hours after ascent to >2,500m".[^7] A drive over the top is short; what matters more is how high you sleep.
 
 **Where you sleep.** We give no altitude for the villages beyond the pass: we found no official figure, so we cannot say how high you will sleep.
 
@@ -93,11 +93,11 @@ The signs of altitude illness and what to do are in our [altitude guide for Guda
 
 ## No pharmacies, ATMs or petrol: what to bring {#supplies}
 
-Bring everything you need with you. The park warns: "Tusheti is a remote region, and as such there are no amenities such as petrol stations, pharmacies, beauty salons, banks, ATMs or currency exchanges booths."
+Bring everything you need with you. The park warns: "Tusheti is a remote region, and as such there are no amenities such as petrol stations, pharmacies, beauty salons, banks, ATMs or currency exchanges booths."[^1]
 
 <!-- схема: img/np-tusheti-alert.webp | Card with the small heading "Official source, retyped" and the title "Tusheti National Park: no pharmacies, ATMs or petrol", quoting the park's notice: "Tusheti is a remote region, and as such there are no amenities such as petrol stations, pharmacies, beauty salons, banks, ATMs or currency exchanges booths." | The park's notice, retyped from nationalparks.ge; checked 19 November 2026 -->
 
-**What the park advises.** Its guide says visitors "are advised to wear coarse cloth trousers and high-top shoes" and to "Take food and water to the field".
+**What the park advises.** Its guide says visitors "are advised to wear coarse cloth trousers and high-top shoes" and to "Take food and water to the field".[^2]
 
 **Our tip: pack for the whole stay.**
 
@@ -112,7 +112,7 @@ Bring everything you need with you. The park warns: "Tusheti is a remote region,
 
 ## Tusheti National Park rules and local customs {#park-rules}
 
-Keep to the signed paths, stay well back from gorge edges and keep out of local shrines. These rules come from the park's visitor guide.
+Keep to the signed paths, stay well back from gorge edges and keep out of local shrines. These rules come from the park's visitor guide.[^2]
 
 **Visitors may:**
 
@@ -129,9 +129,9 @@ Keep to the signed paths, stay well back from gorge edges and keep out of local 
 - litter, write graffiti or yell and shout loudly;
 - "Enter the territory of locally-revered shrines".
 
-**Pork.** The park says that "pigs are taboo for local people and for this reason, food made from pork is forbidden". It adds: "Local people consider it disrespectful for visitors to bring pork" to the region.
+**Pork.** The park says that "pigs are taboo for local people and for this reason, food made from pork is forbidden".[^2] It adds: "Local people consider it disrespectful for visitors to bring pork" to the region.[^2]
 
-**Shrines.** "According to local traditions, women are forbidden from entering local sacred shrines and sanctuaries," the park says, and its rules bar all visitors from shrine grounds.
+**Shrines.** "According to local traditions, women are forbidden from entering local sacred shrines and sanctuaries," the park says, and its rules bar all visitors from shrine grounds.[^2]
 
 **Our tip.**
 
@@ -141,11 +141,11 @@ Keep to the signed paths, stay well back from gorge edges and keep out of local 
 
 ## Shepherds' dogs and rabies {#dogs}
 
-In summer you may meet dogs guarding the flocks; a bite or even a scratch needs a doctor. The park's guide says: "During the tourist season visitors may encounter shepherds' dogs".
+In summer you may meet dogs guarding the flocks; a bite or even a scratch needs a doctor. The park's guide says: "During the tourist season visitors may encounter shepherds' dogs".[^2]
 
-**Rabies.** The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) lists "rabies – treatment is available in Tbilisi and major towns. If you're bitten or scratched by a dog, get medical attention immediately."
+**Rabies.** The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) lists "rabies – treatment is available in Tbilisi and major towns. If you're bitten or scratched by a dog, get medical attention immediately."[^8]
 
-**What that means in Tusheti.** Treatment is in Tbilisi and major towns, and from the valley any town is hours away: the park puts Telavi at about 4 h 30 min. Our tip: after a bite, end the trip and go down at once.
+**What that means in Tusheti.** Treatment is in Tbilisi and major towns, and from the valley any town is hours away: the park puts Telavi at about 4 h 30 min.[^3] Our tip: after a bite, end the trip and go down at once.
 
 <!-- схема: img/tusheti-shepherd-dogs.webp | Canva illustration, not a photo of the real place: a flock of sheep on a high mountain meadow, a large shepherd dog standing guard, stone towers far away on a ridge | Our tip: after a dog bite, end the trip and go down at once: treatment is in Tbilisi and major towns -->
 
@@ -154,21 +154,21 @@ In summer you may meet dogs guarding the flocks; a bite or even a scratch needs 
 - Walk round the flock in a wide arc.
 - Do not run, and do not feed or stroke the dogs.
 - If a shepherd is near, wait for them to call the dogs off.
-- Ask your doctor about a rabies vaccine before the trip.
+- Ask your doctor about a rabies vaccine before the trip.[^10]
 
 What to do after a bite, step by step, is in our [rabies guide](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/).
 
 ## Medical help: far from a hospital {#health}
 
-Help can take hours, not minutes. The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) says: "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."
+Help can take hours, not minutes. The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) says: "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."[^9]
 
-**Limited care.** "Outside Tbilisi, medical facilities are limited," says the UK health advice. "Access to medical facilities may be limited in remote areas," adds its safety page.
+**Limited care.** "Outside Tbilisi, medical facilities are limited," says the UK health advice.[^8] "Access to medical facilities may be limited in remote areas," adds its safety page.[^9]
 
-**Rural areas.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia) says: "First responders may not be able to access rural areas."
+**Rural areas.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia) says: "First responders may not be able to access rural areas."[^10]
 
-**In an emergency.** The UK advice says: "Dial 112 and ask for an ambulance." The park's guide also gives 112 as the emergency number. Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+**In an emergency.** The UK advice says: "Dial 112 and ask for an ambulance."[^8] The park's guide also gives 112 as the emergency number.[^2] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
 
-**A town with clinics.** The park puts Telavi 105 km and about 4 h 30 min away. The catalogue of [clinics in Telavi](https://100doc.ge/en/telavi/) on 100doc.ge listed 13 clinics when we checked on 19 November 2026.
+**A town with clinics.** The park puts Telavi 105 km and about 4 h 30 min away.[^3] The catalogue of [clinics in Telavi](https://100doc.ge/en/telavi/) on 100doc.ge listed 13 clinics when we checked on 19 November 2026.
 
 **Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
 
@@ -178,31 +178,31 @@ Help can take hours, not minutes. The UK [safety advice](https://www.gov.uk/fore
 
 ### Can I drive to Tusheti?
 
-Only in an off-road vehicle. The park says transport from Kvemo Alvani to Omalo is possible only by off-road vehicle, and Wikipedia says the pass road allows only 4x4 vehicles.
+Only in an off-road vehicle. The park says transport from Kvemo Alvani to Omalo is possible only by off-road vehicle,[^2] and Wikipedia says the pass road allows only 4x4 vehicles.[^6]
 
 ### When is the road open?
 
-The park gives the tourist season as June to October. We do not give opening or closing dates for this year: check georoad.gov.ge before you set off.
+The park gives the tourist season as June to October.[^2] We do not give opening or closing dates for this year: check georoad.gov.ge before you set off.[^4]
 
 ### How long is the drive from Tbilisi?
 
-About 6 hours for 195 km, says the park; the off-road stretch from Kvemo Alvani to Omalo alone is 80 km and about 4 hours.
+About 6 hours for 195 km, says the park;[^3] the off-road stretch from Kvemo Alvani to Omalo alone is 80 km and about 4 hours.[^3][^2]
 
 ### Are there pharmacies or ATMs?
 
-No. The park lists no petrol stations, pharmacies, banks, ATMs or exchange booths. Bring medicines and cash for the whole stay.
+No. The park lists no petrol stations, pharmacies, banks, ATMs or exchange booths.[^1] Bring medicines and cash for the whole stay.
 
 ### Are shepherds' dogs dangerous?
 
-They guard the flocks. Our tip: keep away from the sheep and do not run. If a dog bites or scratches you, get medical attention immediately because of the risk of rabies.
+They guard the flocks. Our tip: keep away from the sheep and do not run. If a dog bites or scratches you, get medical attention immediately because of the risk of rabies.[^8]
 
 ### Can I get altitude sickness on the Abano Pass?
 
-Unlikely from a short crossing: TravelHealthPro rates the risk by the altitude where you sleep, and symptoms usually start 6–10 hours after going above 2,500 m. Tell the driver if you feel unwell.
+Unlikely from a short crossing: TravelHealthPro rates the risk by the altitude where you sleep, and symptoms usually start 6–10 hours after going above 2,500 m.[^7] Tell the driver if you feel unwell.
 
 ### Where is the nearest hospital?
 
-We found no official list of medical services in Tusheti. The park puts Telavi 105 km away; in an emergency, dial 112.
+We found no official list of medical services in Tusheti. The park puts Telavi 105 km away;[^3] in an emergency, dial 112.[^8]
 
 ## Sources {#sources}
 

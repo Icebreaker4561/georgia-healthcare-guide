@@ -15,12 +15,12 @@ og: marshrutka-road.webp
 ---
 
 > [!facts] In short
-> - Canada's travel advice says marshrutkas "are poorly maintained and often lack security features like seatbelts". Its next words are: "Avoid using them."
-> - The national parks name Didube metro station in Tbilisi as the place to catch minibuses to Prometheus Cave and Borjomi.
-> - Georgian Railway lists two fast trains a day from Tbilisi to Batumi and two electric trains a day to Borjomi. Check times on railway.ge.
-> - Canada calls buses and the Tbilisi metro "generally safe and reliable", but warns about pickpockets.
-> - GOV.UK says to pre-book a car through an app and check for working seatbelts.
-> - For motion sickness, the NHS says sit in the front and look at the horizon. Emergency: 112.
+> - Canada's travel advice says marshrutkas "are poorly maintained and often lack security features like seatbelts".[^1] Its next words are: "Avoid using them."[^1]
+> - The national parks name Didube metro station in Tbilisi as the place to catch minibuses to Prometheus Cave and Borjomi.[^4][^5]
+> - Georgian Railway lists two fast trains a day from Tbilisi to Batumi and two electric trains a day to Borjomi.[^6] Check times on railway.ge.
+> - Canada calls buses and the Tbilisi metro "generally safe and reliable", but warns about pickpockets.[^1]
+> - GOV.UK says to pre-book a car through an app and check for working seatbelts.[^2]
+> - For motion sickness, the NHS says sit in the front and look at the horizon.[^8] Emergency: 112.[^3]
 
 > [!stats]
 > - Canada: "Avoid using them"
@@ -35,9 +35,9 @@ This page is about Georgia the country, not the US state, and is part of [our tr
 
 It is a minibus that strangers share, somewhere between a cab and a route service. In Georgia, official pages mention them on trips out of Tbilisi.
 
-**The name.** [Wikipedia's article on the share taxi](https://en.wikipedia.org/wiki/Share_taxi) lists the "marshrutka in former Soviet countries" among its names. It calls this kind of vehicle "a mode of transport which falls between a taxicab and a bus".
+**The name.** [Wikipedia's article on the share taxi](https://en.wikipedia.org/wiki/Share_taxi) lists the "marshrutka in former Soviet countries" among its names.[^9] It calls this kind of vehicle "a mode of transport which falls between a taxicab and a bus".[^9]
 
-**Where you will see one.** Two official park pages mention them. Minibuses to Prometheus Cave leave from near Didube metro station. Minibuses to Borjomi run from Didube every day. The details are in the Didube section below.
+**Where you will see one.** Two official park pages mention them. Minibuses to Prometheus Cave leave from near Didube metro station.[^4] Minibuses to Borjomi run from Didube every day.[^5] The details are in the Didube section below.
 
 **Our tip.** If a route matters to your plans, ask your host or the place you are going how to get there on the day.
 
@@ -45,19 +45,19 @@ It is a minibus that strangers share, somewhere between a cab and a route servic
 
 ## What official advice says {#official-advice}
 
-Canada's government tells travellers to avoid marshrutkas. Its advice for Georgia was last updated on 27 August 2026.
+Canada's government tells travellers to avoid marshrutkas. Its advice for Georgia was last updated on 27 August 2026.[^1]
 
 **Canada's words.** In its section on public transport, [Canada's travel advice](https://travel.gc.ca/destinations/georgia) says:
 
-> Mini-buses called "marshrutka" are poorly maintained and often lack security features like seatbelts. Avoid using them.
+> Mini-buses called "marshrutka" are poorly maintained and often lack security features like seatbelts. Avoid using them.[^1]
 
-**Bags and loads.** The same section adds two rules. "Avoid storing bags in the overhead compartment or under your seat." And: "Do not take buses that look overloaded or in poor condition."
+**Bags and loads.** The same section adds two rules. "Avoid storing bags in the overhead compartment or under your seat."[^1] And: "Do not take buses that look overloaded or in poor condition."[^1]
 
-**City transport.** Canada is more positive about the capital: "Buses and the Tbilisi metro are generally safe and reliable, but pickpockets may target tourists."
+**City transport.** Canada is more positive about the capital: "Buses and the Tbilisi metro are generally safe and reliable, but pickpockets may target tourists."[^1]
 
-**The UK view.** The [GOV.UK safety page](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) we checked does not mention minibuses. Its transport advice covers cabs, driving and rail; its cab rules are below.
+**The UK view.** The [GOV.UK safety page](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) we checked does not mention minibuses.[^2] Its transport advice covers cabs, driving and rail; its cab rules are below.[^2]
 
-**After dark.** For drivers, Canada advises: "avoid travelling after dark". Our [driving in Georgia guide](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/) has more on the roads.
+**After dark.** For drivers, Canada advises: "avoid travelling after dark".[^1] Our [driving in Georgia guide](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/) has more on the roads.
 
 **What this means.** We do not give our own verdict on how risky these minibuses are. We report what two governments say and point to options that official sources describe.
 
@@ -69,22 +69,22 @@ Canada's government tells travellers to avoid marshrutkas. Its advice for Georgi
 
 Didube is a metro station in northern Tbilisi. Official park pages name it as the place to catch minibuses to two popular sights.
 
-**Prometheus Cave.** The [national parks' page](https://nationalparks.ge/en/site/prometheuscave/getHere) says the cave "can be accessed from Tbilisi, from the territory near the metro station Didube by mini-buses".
+**Prometheus Cave.** The [national parks' page](https://nationalparks.ge/en/site/prometheuscave/getHere) says the cave "can be accessed from Tbilisi, from the territory near the metro station Didube by mini-buses".[^4]
 
-**Borjomi.** For Borjomi-Kharagauli National Park, the [parks write](https://nationalparks.ge/en/site/borjomi-kharagaulinp/getHere): "Micro-buses are running from Tbilisi Didube subway to Borjomi every day, from 08:00 am to 18:00 pm." Our [Borjomi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/) covers the town itself.
+**Borjomi.** For Borjomi-Kharagauli National Park, the [parks write](https://nationalparks.ge/en/site/borjomi-kharagaulinp/getHere): "Micro-buses are running from Tbilisi Didube subway to Borjomi every day, from 08:00 am to 18:00 pm."[^5] Our [Borjomi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/) covers the town itself.
 
-**A transport hub.** [Wikipedia](https://en.wikipedia.org/wiki/Didube_%28Tbilisi_Metro%29) says the station "serves as a transport hub, serving the district of Didube and other northern neighbourhoods". It also calls it one of the busiest stations in the network.
+**A transport hub.** [Wikipedia](https://en.wikipedia.org/wiki/Didube_%28Tbilisi_Metro%29) says the station "serves as a transport hub, serving the district of Didube and other northern neighbourhoods".[^10] It also calls it one of the busiest stations in the network.[^10]
 
-**Didube bus station.** According to Wikipedia, "Next to the station is Didube Bus Station, one of the busiest bus stations of Tbilisi, which is used for traveling to mainly western and northern directions of the country." The official park pages speak only of the metro station and the area near it, and we found no official address, opening hours or phone number, so we give none.
+**Didube bus station.** According to Wikipedia, "Next to the station is Didube Bus Station, one of the busiest bus stations of Tbilisi, which is used for traveling to mainly western and northern directions of the country."[^10] The official park pages speak only of the metro station and the area near it, and we found no official address, opening hours or phone number, so we give none.
 
 **Heading into the mountains?** Read our [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/) before you plan the trip north.
 
 **If you do ride.** Two rules are Canada's, the seatbelt check follows GOV.UK's rule for cabs, and the rest are our tips:
 
-- Pick a seat with a seatbelt, and check that it works. Canada says marshrutkas often lack them.
-- Keep your bag with you, not overhead or under the seat.
-- Do not board a vehicle that looks overloaded or in poor condition.
-- Our tip: plan road trips by day. Canada gives drivers the same advice.
+- Pick a seat with a seatbelt, and check that it works. Canada says marshrutkas often lack them.[^1]
+- Keep your bag with you, not overhead or under the seat.[^1]
+- Do not board a vehicle that looks overloaded or in poor condition.[^1]
+- Our tip: plan road trips by day. Canada gives drivers the same advice.[^1]
 - Our tip: save 112 in your phone before you set off.
 
 <!-- схема: img/if-you-ride-card.webp | Infographic headed "If you still take a minibus", five cards: Seatbelt — check there is one and it works; Bags — not overhead or under your seat; Overloaded? — do not board; By day — plan road trips in daylight (our tip); 112 — emergency number; small source line: Canada and GOV.UK travel advice, checked 19 Nov 2026 | Five rules if you take a minibus anyway, after Canadian and UK travel advice, with our tips -->
@@ -95,7 +95,7 @@ For several long routes, a train is the main alternative. In Tbilisi, use the me
 
 ### Trains
 
-Georgian Railway runs trains to the coast, to the west and to Borjomi. The [general schedule](https://www.railway.ge/en/traffic-general-schedule/) on railway.ge, checked on 19 November 2026, lists these routes:
+Georgian Railway runs trains to the coast, to the west and to Borjomi. The [general schedule](https://www.railway.ge/en/traffic-general-schedule/) on railway.ge, checked on 19 November 2026, lists these routes:[^6]
 
 | Route | Train numbers | How often |
 |---|---|---|
@@ -108,9 +108,9 @@ Georgian Railway runs trains to the coast, to the west and to Borjomi. The [gene
 
 **Times and fares.** We give none. Check railway.ge before you travel, as schedules change.
 
-**On board.** Canada says: "The condition and cleanliness of trains vary greatly from route to route."
+**On board.** Canada says: "The condition and cleanliness of trains vary greatly from route to route."[^1]
 
-**Tbilisi to Batumi.** This is where the train helps most, with two fast trains every day. People also search for a Tbilisi to Batumi bus. We found no official timetable for one, so we cannot point you to it.
+**Tbilisi to Batumi.** This is where the train helps most, with two fast trains every day.[^6] People also search for a Tbilisi to Batumi bus. We found no official timetable for one, so we cannot point you to it.
 
 **Our tip.** Take water and snacks for the whole journey, especially in summer.
 
@@ -118,9 +118,9 @@ Georgian Railway runs trains to the coast, to the west and to Borjomi. The [gene
 
 ### Tbilisi metro and buses
 
-Inside the capital, the Tbilisi metro and city routes are the main public transport. Canada calls buses and the Tbilisi metro "generally safe and reliable" and warns about pickpockets.
+Inside the capital, the Tbilisi metro and city routes are the main public transport. Canada calls buses and the Tbilisi metro "generally safe and reliable" and warns about pickpockets.[^1]
 
-**Who runs it.** The Tbilisi Transport Company runs city transport. Its site, [ttc.com.ge](https://ttc.com.ge/), has a Journey Planner, timetables and a Real Time Bus page. It lists four kinds of transport: bus, cable car, subway train and minibus.
+**Who runs it.** The Tbilisi Transport Company runs city transport. Its site, [ttc.com.ge](https://ttc.com.ge/), has a Journey Planner, timetables and a Real Time Bus page.[^7] It lists four kinds of transport: bus, cable car, subway train and minibus.[^7]
 
 **Fares.** The company's site has a fares page. We do not repeat figures we could not check.
 
@@ -132,25 +132,25 @@ Inside the capital, the Tbilisi metro and city routes are the main public transp
 
 Use an officially marked car, or book one through an app. Both governments give clear rules.
 
-**Canada.** Canada's advice says "taxis are regulated and are recognizable by their white colour and roof-mounted taxi signs". It tells visitors to "use only officially marked taxis", to "never share a taxi with strangers" and to "negotiate the fare in advance if there is no meter".
+**Canada.** Canada's advice says "taxis are regulated and are recognizable by their white colour and roof-mounted taxi signs".[^1] It tells visitors to "use only officially marked taxis", to "never share a taxi with strangers" and to "negotiate the fare in advance if there is no meter".[^1]
 
-**GOV.UK.** The UK's safety advice lists three rules:
+**GOV.UK.** The UK's safety advice lists three rules:[^2]
 
-- "do not flag taxis in the street";
-- "try to pre-book taxis through an app";
-- "check the taxi has working seatbelts".
+- "do not flag taxis in the street";[^2]
+- "try to pre-book taxis through an app";[^2]
+- "check the taxi has working seatbelts".[^2]
 
 **Our tip.** Fasten your seatbelt on every ride, in the back seat too.
 
 ## Motion sickness on mountain roads {#motion-sickness}
 
-Winding roads can make you dizzy or sick. The NHS lists simple steps that help, and a pharmacist can suggest remedies.
+Winding roads can make you dizzy or sick. The NHS lists simple steps that help, and a pharmacist can suggest remedies.[^8]
 
-**What it is.** The [NHS](https://www.nhs.uk/conditions/motion-sickness/) describes motion sickness as feeling dizzy, or feeling or being sick, "when travelling by car, boat, plane or train". Car sickness is the name many people use for it on the road.
+**What it is.** The [NHS](https://www.nhs.uk/conditions/motion-sickness/) describes motion sickness as feeling dizzy, or feeling or being sick, "when travelling by car, boat, plane or train".[^8] Car sickness is the name many people use for it on the road.
 
-**Symptoms.** The NHS lists "dizziness, feeling sick (nausea), being sick, headache, feeling cold and going pale, sweating".
+**Symptoms.** The NHS lists "dizziness, feeling sick (nausea), being sick, headache, feeling cold and going pale, sweating".[^8]
 
-**What helps.** The NHS says:
+**What helps.** The NHS says:[^8]
 
 - "reduce motion – sit in the front of a car";
 - "look straight ahead at a fixed point, such as the horizon";
@@ -158,9 +158,9 @@ Winding roads can make you dizzy or sick. The NHS lists simple steps that help, 
 - "break up long journeys";
 - "try ginger", as a tablet, biscuit or tea.
 
-**What to avoid.** The NHS says "do not read, watch films or use electronic devices". It adds "do not look at moving objects, such as passing cars or rolling waves", and "do not eat heavy meals, spicy foods or drink alcohol shortly before or during travel".
+**What to avoid.** The NHS says "do not read, watch films or use electronic devices".[^8] It adds "do not look at moving objects, such as passing cars or rolling waves", and "do not eat heavy meals, spicy foods or drink alcohol shortly before or during travel".[^8]
 
-**At the pharmacy.** According to the NHS, pharmacies sell tablets, patches and acupressure bands. It warns that the bands "do not work for everyone". Patches "can be used by adults and children over 10". A pharmacist can recommend the best option for you or your child.
+**At the pharmacy.** According to the NHS, pharmacies sell tablets, patches and acupressure bands.[^8] It warns that the bands "do not work for everyone".[^8] Patches "can be used by adults and children over 10".[^8] A pharmacist can recommend the best option for you or your child.
 
 **Our tip.** On a minibus, ask for a seat near the front, by a window that opens. Eat a light meal before you go, and keep your phone in your pocket.
 
@@ -168,7 +168,7 @@ Winding roads can make you dizzy or sick. The NHS lists simple steps that help, 
 
 ## If something goes wrong {#if-something-happens}
 
-Dial 112 in an emergency. GOV.UK's health advice says: "Dial 112 and ask for an ambulance."
+Dial 112 in an emergency. GOV.UK's health advice says: "Dial 112 and ask for an ambulance."[^3]
 
 **How to call.** Our [112 guide](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) explains how to call and what to say.
 
@@ -186,31 +186,31 @@ Dial 112 in an emergency. GOV.UK's health advice says: "Dial 112 and ask for an 
 
 ### What is a marshrutka?
 
-A shared minibus. Wikipedia gives "marshrutka" as the name used "in former Soviet countries".
+A shared minibus. Wikipedia gives "marshrutka" as the name used "in former Soviet countries".[^9]
 
 ### Are marshrutkas a good idea in Georgia?
 
-Canada's travel advice says they are poorly maintained and often lack seatbelts. It tells visitors: "Avoid using them." We add no verdict of our own.
+Canada's travel advice says they are poorly maintained and often lack seatbelts.[^1] It tells visitors: "Avoid using them."[^1] We add no verdict of our own.
 
 ### Where do minibuses leave from in Tbilisi?
 
-The national parks name Didube metro station for minibuses to Prometheus Cave and Borjomi. Wikipedia calls the station a transport hub.
+The national parks name Didube metro station for minibuses to Prometheus Cave and Borjomi.[^4][^5] Wikipedia calls the station a transport hub.[^10]
 
 ### How do I get from Tbilisi to Batumi without a marshrutka?
 
-By train. Georgian Railway lists two fast trains every day. Check times and fares on railway.ge.
+By train. Georgian Railway lists two fast trains every day.[^6] Check times and fares on railway.ge.
 
 ### How do I take a cab safely in Georgia?
 
-GOV.UK advises pre-booking through an app and not flagging cars in the street. Canada says to use only officially marked ones, which are white with a roof sign.
+GOV.UK advises pre-booking through an app and not flagging cars in the street.[^2] Canada says to use only officially marked ones, which are white with a roof sign.[^1]
 
 ### How can I avoid motion sickness on mountain roads?
 
-The NHS says sit in the front, look at the horizon, get fresh air and break up long journeys. Try ginger, and skip screens, heavy meals and alcohol.
+The NHS says sit in the front, look at the horizon, get fresh air and break up long journeys.[^8] Try ginger, and skip screens, heavy meals and alcohol.[^8]
 
 ### What number do I call in an emergency?
 
-Dial 112. GOV.UK says: "Dial 112 and ask for an ambulance."
+Dial 112. GOV.UK says: "Dial 112 and ask for an ambulance."[^3]
 
 ## Sources {#sources}
 

@@ -72,9 +72,10 @@ main{padding:24px 16px 56px}
 blockquote{margin:28px 0;padding:2px 0 2px 20px;border-left:2px solid var(--amber);font-family:var(--serif);font-size:21px;line-height:1.5;color:var(--ink)}
 blockquote p{margin:0}
 /* плитки с цифрами */
-.stats{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;margin:28px 0}
-.stats div{background:var(--paper);padding:14px 16px}
+.stats{display:flex;flex-wrap:wrap;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;margin:28px 0}
+.stats div{background:var(--paper);padding:14px 16px;flex:1 1 140px;min-width:0}
 .stats dt{font-size:12px;line-height:16px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-mute)}
+.stats dt,.stats dd{overflow-wrap:break-word}
 .stats dd{margin:4px 0 0;font-family:var(--serif);font-size:22px;font-weight:600;line-height:1.3;font-variant-numeric:tabular-nums}
 /* картинки */
 .fig{margin:32px 0}
@@ -131,7 +132,7 @@ td:first-child{font-weight:600}
   h1{font-size:46px}
   .hero{padding-top:40px}
   .body h2{font-size:32px}
-  .stats{grid-template-columns:repeat(4,1fr)}
+  .stats div{flex-basis:190px}
   .cards{grid-template-columns:repeat(2,1fr)}
 }
 @media (min-width:1024px){
@@ -147,3 +148,4 @@ td:first-child{font-weight:600}
 /* Сноски в стиле Википедии */
 sup.fn{font-size:.72em;line-height:0;vertical-align:super;margin-left:1px}sup.fn a{text-decoration:none;padding:0 1px}sup.fn a:hover{text-decoration:underline}
 ol.sources{padding-left:1.6em}ol.sources li{margin:.3em 0;scroll-margin-top:80px}ol.sources li:target{background:var(--paper-2,#efe9dd)}.fn-back{text-decoration:none;margin-left:4px}sup.fn:target{background:var(--paper-2,#efe9dd)}
+sup.fn a::before{content:"[" attr(data-n) "]"}

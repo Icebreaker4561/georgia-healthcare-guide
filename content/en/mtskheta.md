@@ -14,11 +14,11 @@ og: jvari-confluence.webp
 ---
 
 > [!facts] In short
-> - The old capital is about 20~minutes by road from Tbilisi. Check transport locally on the day.
-> - Jvari Monastery, the great cathedral and Samtavro Monastery together form one UNESCO World Heritage site.
+> - The old capital is about 20~minutes by road from Tbilisi.[^2] Check transport locally on the day.
+> - Jvari Monastery, the great cathedral and Samtavro Monastery together form one UNESCO World Heritage site.[^1]
 > - Visitors report that churches expect covered shoulders and knees, and a headscarf for women; we found no official rule.
-> - In summer, drink water and "avoid the sun between 11am and 3pm", as the NHS advises.
-> - Outside Tbilisi, medical facilities are limited. In an emergency, dial 112.
+> - In summer, drink water and "avoid the sun between 11am and 3pm", as the NHS advises.[^7]
+> - Outside Tbilisi, medical facilities are limited.[^8] In an emergency, dial 112.[^8]
 
 > [!stats]
 > - From Tbilisi by road: about 20~minutes
@@ -32,13 +32,13 @@ This page is about Georgia the country, not the US state, and is part of [our tr
 
 It was a royal capital long before Tbilisi, and it stayed a religious centre after the court moved away. Here is the story in four short steps.
 
-**The legend.** Georgia's national tourism administration tells it on [georgia.travel](https://georgia.travel/cities-towns/mtskheta): "According to legend", the town "was founded in the 1st millennium BCE by the ethnarch Mtskhetos". Treat it as a legend, not as history.
+**The legend.** Georgia's national tourism administration tells it on [georgia.travel](https://georgia.travel/cities-towns/mtskheta): "According to legend", the town "was founded in the 1st millennium BCE by the ethnarch Mtskhetos".[^2] Treat it as a legend, not as history.
 
-**The capital.** King Parnavaz made it the capital in the 4th century BC. The [town's municipality](https://mtskheta.gov.ge/en/mtskheta) says that "For eight hundred years until the end of the 5th century" it "was the political center of the kingdom of Kartli". The tourism administration adds that Kartli is "otherwise known as Iberia".
+**The capital.** King Parnavaz made it the capital in the 4th century BC.[^4][^2] The [town's municipality](https://mtskheta.gov.ge/en/mtskheta) says that "For eight hundred years until the end of the 5th century" it "was the political center of the kingdom of Kartli".[^4] The tourism administration adds that Kartli is "otherwise known as Iberia".[^2]
 
-**The faith.** Christianity was proclaimed the state religion of Georgia from here in the 4th century, says georgia.travel. The municipality credits St. Nino with preaching it in the town. You will meet her name again at both monasteries below.
+**The faith.** Christianity was proclaimed the state religion of Georgia from here in the 4th century, says georgia.travel.[^2] The municipality credits St. Nino with preaching it in the town.[^4] You will meet her name again at both monasteries below.
 
-**After the court left.** Once the capital moved to Tbilisi, the municipality says, the town "became a cultural and religious center". Today so much history sits in a small area that "it is sometimes called the city-museum" (georgia.travel).
+**After the court left.** Once the capital moved to Tbilisi, the municipality says, the town "became a cultural and religious center".[^4] Today so much history sits in a small area that "it is sometimes called the city-museum" (georgia.travel).[^2]
 
 **The story at a glance:**
 
@@ -53,9 +53,9 @@ It was a royal capital long before Tbilisi, and it stayed a religious centre aft
 
 ### Historical Monuments of Mtskheta {#unesco}
 
-The three great churches of the town form a single World Heritage site. A [UNESCO news release](https://whc.unesco.org/en/news/1521/) sums it up: the site "was inscribed on the World Heritage List in 1994. It includes three Medieval churches, the Holy Cross Monastery of Jvari, Svetitskhoveli Cathedral, and Samtavro Monastery, as well as major archaeological remains".
+The three great churches of the town form a single World Heritage site. A [UNESCO news release](https://whc.unesco.org/en/news/1521/) sums it up: the site "was inscribed on the World Heritage List in 1994. It includes three Medieval churches, the Holy Cross Monastery of Jvari, Svetitskhoveli Cathedral, and Samtavro Monastery, as well as major archaeological remains".[^1]
 
-**On the danger list, and off it.** For seven years the site was on the List of World Heritage in Danger. UNESCO says it was put there in 2009 "due, notably, to the deterioration of its stone fabric and fresco paintings caused by work carried out to its edifices", and "kept on the List in Danger due to uncontrolled urban sprawl". In July 2016 the World Heritage Committee decided to remove it from that list.
+**On the danger list, and off it.** For seven years the site was on the List of World Heritage in Danger.[^1] UNESCO says it was put there in 2009 "due, notably, to the deterioration of its stone fabric and fresco paintings caused by work carried out to its edifices", and "kept on the List in Danger due to uncontrolled urban sprawl".[^1] In July 2016 the World Heritage Committee decided to remove it from that list.[^1]
 
 **What it means for your visit.** These are protected buildings, and at least one is a living monastery (more on that below). Enjoy the old stone and wall paintings with your eyes, not your hands, and keep your voice down inside.
 
@@ -63,15 +63,15 @@ The three great churches of the town form a single World Heritage site. A [UNESC
 
 ## Jvari Monastery {#jvari}
 
-The monastery sits on a rocky cliff to the east of Mtskheta and looks down on the town, according to [georgia.travel](https://georgia.travel/jvari-monastery).
+The monastery sits on a rocky cliff to the east of Mtskheta and looks down on the town, according to [georgia.travel](https://georgia.travel/jvari-monastery).[^3]
 
-**The cross of St. Nino.** The site is the place "where Saint Nino set up her wooden cross in the 4th century", the tourism administration says. UNESCO calls it the Holy Cross Monastery.
+**The cross of St. Nino.** The site is the place "where Saint Nino set up her wooden cross in the 4th century", the tourism administration says.[^3] UNESCO calls it the Holy Cross Monastery.[^1]
 
-**The church.** Stephanoz I built the cross-domed church there "between 585 and 604" (georgia.travel). Its plan is a tetraconch, with four rounded apses around the centre. In plain words, the four rounded apses give the church a compact, clover-like shape when seen from above.
+**The church.** Stephanoz I built the cross-domed church there "between 585 and 604" (georgia.travel).[^3] Its plan is a tetraconch, with four rounded apses around the centre. In plain words, the four rounded apses give the church a compact, clover-like shape when seen from above.
 
-**Look for the old letters.** The tourism administration also points to the Asomtavruli script here, "some of the earliest examples of Georgian writing".
+**Look for the old letters.** The tourism administration also points to the Asomtavruli script here, "some of the earliest examples of Georgian writing".[^3]
 
-**A living monastery.** Monks have lived here since 1996, according to the same page. Dress modestly, keep quiet and ask before you photograph anyone.
+**A living monastery.** Monks have lived here since 1996, according to the same page.[^3] Dress modestly, keep quiet and ask before you photograph anyone.
 
 **Getting up there.** It stands apart from the town, on its own cliff, so plan it as a separate leg of the day; see [getting there](#getting-there).
 
@@ -79,19 +79,19 @@ The monastery sits on a rocky cliff to the east of Mtskheta and looks down on th
 
 ## Svetitskhoveli Cathedral {#svetitskhoveli}
 
-The cathedral was built in the 11th century, between 1010 and 1029. The [National Encyclopedia of Georgia](https://georgianencyclopedia.ge/en/form_eng/337) puts it this way: "The construction of the Cathedral began in 1010 under Melchizedek, the Catholicos of Kartli, and was completed in 1029".
+The cathedral was built in the 11th century, between 1010 and 1029. The [National Encyclopedia of Georgia](https://georgianencyclopedia.ge/en/form_eng/337) puts it this way: "The construction of the Cathedral began in 1010 under Melchizedek, the Catholicos of Kartli, and was completed in 1029".[^5]
 
-**Which dates to trust.** The tourism site and the [municipality](https://mtskheta.gov.ge/en/mtskheta) give 1010–1129 for the same building. We use the encyclopedia's dates.
+**Which dates to trust.** The tourism site and the [municipality](https://mtskheta.gov.ge/en/mtskheta) give 1010–1129 for the same building.[^2][^4] We use the encyclopedia's dates.
 
-**A name from the past.** The encyclopedia says Arsukisdze was probably the architect. Look for his inscription on the eastern façade, below the central arch: "The Hand of Arsukisdze, servant of God, may forgiveness be his."
+**A name from the past.** The encyclopedia says Arsukisdze was probably the architect.[^5] Look for his inscription on the eastern façade, below the central arch: "The Hand of Arsukisdze, servant of God, may forgiveness be his."[^5]
 
-**The walk through the market.** On the way to the cathedral you pass what [georgia.travel](https://georgia.travel/cities-towns/mtskheta) calls "a bustling marketplace full of local artisans, wine vendors…". Browse it on the way back, once you have seen the churches.
+**The walk through the market.** On the way to the cathedral you pass what [georgia.travel](https://georgia.travel/cities-towns/mtskheta) calls "a bustling marketplace full of local artisans, wine vendors…".[^2] Browse it on the way back, once you have seen the churches.
 
 <!-- схема: img/svetitskhoveli-courtyard.webp | Craft paper illustration: a tall medieval stone cathedral with a pointed dome inside a walled courtyard | Svetitskhoveli was built in 1010–1029, according to the National Encyclopedia of Georgia -->
 
 ### Samtavro Monastery {#samtavro}
 
-It is the third church in the UNESCO listing, where it appears as Samtavro Monastery. The tourism site names two parts of it: "the 4th century Samtavro St. Nino Church" and "the Samtavro Church Complex (1030)". Sources disagree on how old the buildings are, so we keep to these two quotes.
+It is the third church in the UNESCO listing, where it appears as Samtavro Monastery. The tourism site names two parts of it: "the 4th century Samtavro St. Nino Church" and "the Samtavro Church Complex (1030)".[^2] Sources disagree on how old the buildings are, so we keep to these two quotes.
 
 Its link to St. Nino makes it a natural stop after the monastery where her cross once stood.
 
@@ -110,25 +110,25 @@ Rules can differ from church to church. If there is a sign at the door, or someo
 
 ## Tbilisi to Mtskheta: getting there {#getting-there}
 
-It is about 20~minutes by road. That is the travel time [georgia.travel](https://georgia.travel/cities-towns/mtskheta) gives from Tbilisi, which makes Mtskheta an easy half-day or day trip. Traffic can make it longer.
+It is about 20~minutes by road. That is the travel time [georgia.travel](https://georgia.travel/cities-towns/mtskheta) gives from Tbilisi, which makes Mtskheta an easy half-day or day trip.[^2] Traffic can make it longer.
 
 **How to travel.** You can go by taxi or hired car, on an organised tour, or by public transport. We found no official timetables or fares for any of them, so we do not give any. Ask locally on the day, for example at your hotel, how to get there and back, and agree the price before you set off.
 
-**Getting up to the monastery.** It is not in the town itself but on a rocky cliff to the east ([georgia.travel](https://georgia.travel/jvari-monastery)). We found no official information on how to reach it or whether you can walk up, so check transport on the day, ideally before you leave Tbilisi. If you take a taxi, say up front that you want to stop at the monastery as well as the town.
+**Getting up to the monastery.** It is not in the town itself but on a rocky cliff to the east ([georgia.travel](https://georgia.travel/jvari-monastery)).[^3] We found no official information on how to reach it or whether you can walk up, so check transport on the day, ideally before you leave Tbilisi. If you take a taxi, say up front that you want to stop at the monastery as well as the town.
 
 **Coming back.** Plan your return before you set off, especially if you travel by public transport or plan to stay until evening. Save your hotel's address on your phone so you can show it to a driver.
 
-**Timing.** In summer, plan the outdoor parts of the day for the morning or late afternoon. The NHS advises people to "avoid the sun between 11am and 3pm"; see [heat, health and help](#safety).
+**Timing.** In summer, plan the outdoor parts of the day for the morning or late afternoon. The NHS advises people to "avoid the sun between 11am and 3pm";[^7] see [heat, health and help](#safety).
 
 ## Things to do in Mtskheta and nearby {#things-to-do}
 
-Beyond the three big churches, there is plenty to see. According to [georgia.travel](https://georgia.travel/cities-towns/mtskheta), the surrounding municipality is home to 300 cultural monuments, more than 30,000 artifacts and more than 50 archaeological areas. Here are a few the tourism administration points to.
+Beyond the three big churches, there is plenty to see. According to [georgia.travel](https://georgia.travel/cities-towns/mtskheta), the surrounding municipality is home to 300 cultural monuments, more than 30,000 artifacts and more than 50 archaeological areas.[^2] Here are a few the tourism administration points to.
 
-**Zedazeni Monastery.** The [National Encyclopedia of Georgia](https://georgianencyclopedia.ge/en/form_eng/878) describes "the three-nave basilica of John the Baptist, built… at the end of the 8th century" at this monastery.
+**Zedazeni Monastery.** The [National Encyclopedia of Georgia](https://georgianencyclopedia.ge/en/form_eng/878) describes "the three-nave basilica of John the Baptist, built… at the end of the 8th century" at this monastery.[^6]
 
-**Shio-Mgvime and Tsilkani.** The tourism administration mentions them, along with Zedazeni, in connection with the Holy Assyrian Fathers "who came to Georgia in the 6th century". Ask locally how far each one is and how to get there.
+**Shio-Mgvime and Tsilkani.** The tourism administration mentions them, along with Zedazeni, in connection with the Holy Assyrian Fathers "who came to Georgia in the 6th century".[^2] Ask locally how far each one is and how to get there.
 
-**Dzalisi and Mukhrani.** The same georgia.travel page mentions "the ruined royal city of Dzalisi (2nd-century BCE - 8th century)" and Mukhrani, "a vital commercial and trade hub in the 3rd and 2nd centuries BCE". Ask locally how to get there.
+**Dzalisi and Mukhrani.** The same georgia.travel page mentions "the ruined royal city of Dzalisi (2nd-century BCE - 8th century)" and Mukhrani, "a vital commercial and trade hub in the 3rd and 2nd centuries BCE".[^2] Ask locally how to get there.
 
 **A slow walk in town.** Do not rush the town itself: the market on the way to the cathedral, Samtavro, and the view up to the monastery on its cliff. Wear comfortable shoes and take breaks in the shade.
 
@@ -136,9 +136,9 @@ Beyond the three big churches, there is plenty to see. According to [georgia.tra
 
 ## Heat, health and help {#safety}
 
-On a summer day trip, the heat is the thing to plan for. Below is the advice of the UK's National Health Service (NHS), with one change: in Georgia the emergency number is 112, not 999. The checklist is ours.
+On a summer day trip, the heat is the thing to plan for. Below is the advice of the UK's National Health Service (NHS), with one change: in Georgia the emergency number is 112, not 999.[^7][^8] The checklist is ours.
 
-**Before you go.** The NHS suggests you "drink more cold drinks", "wear light-coloured, loose clothing" and "avoid the sun between 11am and 3pm". Pack a hat and a bottle of water, plus the scarf for the churches.
+**Before you go.** The NHS suggests you "drink more cold drinks", "wear light-coloured, loose clothing" and "avoid the sun between 11am and 3pm".[^7] Pack a hat and a bottle of water, plus the scarf for the churches.
 
 **A day-trip checklist.**
 
@@ -149,24 +149,24 @@ On a summer day trip, the heat is the thing to plan for. Below is the advice of 
 - A charged phone with 112 and your hotel's address saved.
 - Your travel insurance details, in case you need a doctor.
 
-**Signs of heat exhaustion.** According to the [NHS](https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/), the signs include tiredness, dizziness, a headache, nausea, excessive sweating, cramps, a high temperature and being very thirsty.
+**Signs of heat exhaustion.** According to the [NHS](https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/), the signs include tiredness, dizziness, a headache, nausea, excessive sweating, cramps, a high temperature and being very thirsty.[^7]
 
-**Four steps.** If someone has these signs, the NHS says "they need to be cooled down and given fluids". Its four steps:
+**Four steps.** If someone has these signs, the NHS says "they need to be cooled down and given fluids".[^7] Its four steps:[^7]
 
 1. Move them to a cool place.
 2. Remove all unnecessary clothing.
 3. Give them plenty of water to drink.
 4. Cool their skin.
 
-They should "start to cool down and feel better within 30 minutes", the NHS says.
+They should "start to cool down and feel better within 30 minutes", the NHS says.[^7]
 
-**Signs of heatstroke: dial 112 at once.** The NHS lists "a very high temperature, hot skin without sweating, fast breathing and a fast heartbeat, confusion and restlessness, seizure (fit), loss of consciousness". It is clear: "Heatstroke is a medical emergency." Do not wait 30 minutes: dial 112 straight away. While you wait, the NHS advises you to "wrap the person in a cool, wet sheet, or fan them or sponge them down with cold water".
+**Signs of heatstroke: dial 112 at once.** The NHS lists "a very high temperature, hot skin without sweating, fast breathing and a fast heartbeat, confusion and restlessness, seizure (fit), loss of consciousness".[^7] It is clear: "Heatstroke is a medical emergency."[^7] Do not wait 30 minutes: dial 112 straight away. While you wait, the NHS advises you to "wrap the person in a cool, wet sheet, or fan them or sponge them down with cold water".[^7]
 
 **Heat exhaustion that does not improve.** If someone with heat exhaustion is not feeling better within 30~minutes, dial 112 too. Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say.
 
 <!-- схема: img/heat-steps.webp | Infographic: signs of heat exhaustion — tiredness, dizziness, headache, nausea, excessive sweating, cramps, high temperature, being very thirsty; first steps — move to a cool place, remove unnecessary clothing, give plenty of water, cool the skin; not better within 30 minutes: dial 112; signs of heatstroke: dial 112 at once | Heat exhaustion: signs and first steps, after the NHS, with Georgia's emergency number 112 -->
 
-**Medical care nearby.** [UK government travel advice](https://www.gov.uk/foreign-travel-advice/georgia/health) is direct: "Outside Tbilisi, medical facilities are limited." The good news is that Tbilisi is only about 20~minutes away by road. For anything serious, call 112; for a problem that can wait, see a doctor back in the city.
+**Medical care nearby.** [UK government travel advice](https://www.gov.uk/foreign-travel-advice/georgia/health) is direct: "Outside Tbilisi, medical facilities are limited."[^8] The good news is that Tbilisi is only about 20~minutes away by road. For anything serious, call 112; for a problem that can wait, see a doctor back in the city.
 
 If you still feel unwell the next day, see a doctor. You can find a [family doctor in Tbilisi on 100doc.ge](https://100doc.ge/en/tbilisi/family-doctor/) and contact the clinic directly.
 
@@ -176,19 +176,19 @@ If you still feel unwell the next day, see a doctor. You can find a [family doct
 
 ### How far is Mtskheta from Tbilisi?
 
-About 20~minutes by road, according to georgia.travel. Traffic can make it longer, so allow extra time.
+About 20~minutes by road, according to georgia.travel.[^2] Traffic can make it longer, so allow extra time.
 
 ### Is Mtskheta a UNESCO site?
 
-Yes. Its three medieval churches, together with major archaeological remains, were inscribed on the World Heritage List in 1994. The site was on the List of World Heritage in Danger from 2009 until 2016.
+Yes. Its three medieval churches, together with major archaeological remains, were inscribed on the World Heritage List in 1994.[^1] The site was on the List of World Heritage in Danger from 2009 until 2016.[^1]
 
 ### When was Jvari built?
 
-Between 585 and 604, according to georgia.travel. It stands where, the same source says, Saint Nino set up her wooden cross in the 4th century.
+Between 585 and 604, according to georgia.travel.[^3] It stands where, the same source says, Saint Nino set up her wooden cross in the 4th century.[^3]
 
 ### How old is Svetitskhoveli?
 
-The cathedral was built in 1010–1029, according to the National Encyclopedia of Georgia. The tourism site and the municipality give 1010–1129; we use the encyclopedia's dates.
+The cathedral was built in 1010–1029, according to the National Encyclopedia of Georgia.[^5] The tourism site and the municipality give 1010–1129;[^2][^4] we use the encyclopedia's dates.
 
 ### What should I wear in Georgian churches?
 
@@ -196,7 +196,7 @@ Visitors report covered shoulders and knees, and a headscarf for women. We found
 
 ### What are the signs of heat exhaustion?
 
-The NHS lists tiredness, dizziness, a headache, nausea, excessive sweating, cramps, a high temperature and being very thirsty. Move the person somewhere cool and give them water. Confusion, hot skin that is not sweating, a seizure or fainting may be heatstroke: dial 112 at once. Otherwise, dial 112 if they do not feel better within 30~minutes.
+The NHS lists tiredness, dizziness, a headache, nausea, excessive sweating, cramps, a high temperature and being very thirsty.[^7] Move the person somewhere cool and give them water. Confusion, hot skin that is not sweating, a seizure or fainting may be heatstroke: dial 112 at once.[^7] Otherwise, dial 112 if they do not feel better within 30~minutes.
 
 ### Can I walk up to the monastery on the cliff?
 

@@ -15,10 +15,10 @@ og: sighnaghi-hill-town.webp
 ---
 
 > [!facts] In short
-> - The town sits on a steep hill above the Alazani Valley in Kakheti and is known in Georgia as the "City of Love", according to Wikipedia.
-> - Bodbe Monastery, linked to St. Nino, lies 2 km away and was first built in the 9th century, according to Wikipedia.
-> - The NHS calls more than 8 units in one session binge drinking for men, and more than 6 units for women.
-> - The UK reports drink spiking in Georgia and says to avoid alcohol if driving.
+> - The town sits on a steep hill above the Alazani Valley in Kakheti and is known in Georgia as the "City of Love", according to Wikipedia.[^1]
+> - Bodbe Monastery, linked to St. Nino, lies 2 km away and was first built in the 9th century, according to Wikipedia.[^2]
+> - The NHS calls more than 8 units in one session binge drinking for men, and more than 6 units for women.[^4]
+> - The UK reports drink spiking in Georgia and says to avoid alcohol if driving.[^5]
 > - Our tip: taste slowly, eat, drink water and agree on a sober driver. Emergency: 112.
 
 > [!stats]
@@ -32,15 +32,15 @@ This page is about Georgia the country, not the US state, and is part of [our tr
 
 ## Sighnaghi: the hill town over the Alazani Valley {#sighnaghi}
 
-It is a small walled town on a hilltop in the far east of the country. [Wikipedia](https://en.wikipedia.org/wiki/Sighnaghi) describes "a town in Georgia's easternmost region of Kakheti and the administrative center of the Signagi Municipality", and "one of Georgia's smallest towns".
+It is a small walled town on a hilltop in the far east of the country. [Wikipedia](https://en.wikipedia.org/wiki/Sighnaghi) describes "a town in Georgia's easternmost region of Kakheti and the administrative center of the Signagi Municipality", and "one of Georgia's smallest towns".[^1]
 
-**The view.** Built on a steep hill, the town "overlooks the vast Alazani Valley, with the Caucasus Mountains visible at a distance", Wikipedia says.
+**The view.** Built on a steep hill, the town "overlooks the vast Alazani Valley, with the Caucasus Mountains visible at a distance", Wikipedia says.[^1]
 
-**Why people come.** Wikipedia calls it "a popular tourist destination due to its location at the heart of Georgia's wine-growing regions", with "pastel houses and narrow, cobblestone streets".
+**Why people come.** Wikipedia calls it "a popular tourist destination due to its location at the heart of Georgia's wine-growing regions", with "pastel houses and narrow, cobblestone streets".[^1]
 
-**The City of Love.** The town "is known as the 'City of Love' in Georgia, with many couples visiting it just to get married", according to Wikipedia.
+**The City of Love.** The town "is known as the 'City of Love' in Georgia, with many couples visiting it just to get married", according to Wikipedia.[^1]
 
-**Churches and the museum.** According to Wikipedia, there are two Georgian Orthodox churches in the town itself, one dedicated to St. George and the other to St. Stephen. The local museum was upgraded into a modern exhibition in 2007.
+**Churches and the museum.** According to Wikipedia, there are two Georgian Orthodox churches in the town itself,[^1] one dedicated to St. George and the other to St. Stephen.[^1] The local museum was upgraded into a modern exhibition in 2007.[^1]
 
 **Our tip.** The lanes are steep and cobbled. Wear shoes with a good grip, and take extra care on the way back from a tasting.
 
@@ -48,15 +48,15 @@ It is a small walled town on a hilltop in the far east of the country. [Wikipedi
 
 ## Bodbe Monastery and St. Nino {#bodbe}
 
-It is a nunnery and one of the main pilgrimage sites in Georgia, a short way from the town. [Wikipedia](https://en.wikipedia.org/wiki/Bodbe_Monastery) describes "The Monastery of St. Nino at Bodbe" as "a Georgian Orthodox monastic complex and the seat of the Bishops of Bodbe located 2 km from the town of Sighnaghi".
+It is a nunnery and one of the main pilgrimage sites in Georgia, a short way from the town. [Wikipedia](https://en.wikipedia.org/wiki/Bodbe_Monastery) describes "The Monastery of St. Nino at Bodbe" as "a Georgian Orthodox monastic complex and the seat of the Bishops of Bodbe located 2 km from the town of Sighnaghi".[^2]
 
-**History.** "Originally built in the 9th century, it has been significantly remodeled, especially in the 17th century," Wikipedia says.
+**History.** "Originally built in the 9th century, it has been significantly remodeled, especially in the 17th century," Wikipedia says.[^2]
 
-**St. Nino.** The monastery "now functions as a nunnery and is one of the major pilgrimage sites in Georgia, due to its association with St. Nino, the 4th-century female evangelist of Georgians, whose relics are shrined there."
+**St. Nino.** The monastery "now functions as a nunnery and is one of the major pilgrimage sites in Georgia, due to its association with St. Nino, the 4th-century female evangelist of Georgians, whose relics are shrined there."[^2]
 
-**The setting.** It is "nested among tall Cypress trees on a steep hillside overlooking the Alazani Valley", according to Wikipedia.
+**The setting.** It is "nested among tall Cypress trees on a steep hillside overlooking the Alazani Valley", according to Wikipedia.[^2]
 
-**What to wear.** The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) says: "When travelling outside cities, be aware of cultural sensitivities around modest dress (particularly in places of worship) and showing affection in public."
+**What to wear.** The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) says: "When travelling outside cities, be aware of cultural sensitivities around modest dress (particularly in places of worship) and showing affection in public."[^5]
 
 **Our tip.**
 
@@ -69,11 +69,11 @@ It is a nunnery and one of the main pilgrimage sites in Georgia, a short way fro
 
 ## Kakheti wine: qvevri, Rkatsiteli and Saperavi {#wine}
 
-This is the heart of Georgian winemaking. [Wikipedia](https://en.wikipedia.org/wiki/Kakheti) says the Kakheti region is "widely regarded as the country’s principal wine-producing area".
+This is the heart of Georgian winemaking. [Wikipedia](https://en.wikipedia.org/wiki/Kakheti) says the Kakheti region is "widely regarded as the country’s principal wine-producing area".[^3]
 
-**Qvevri.** Kakheti "is also associated with traditional Georgian winemaking methods, including the use of large clay vessels known as qvevri, which are buried underground and used for fermentation and aging", Wikipedia says.
+**Qvevri.** Kakheti "is also associated with traditional Georgian winemaking methods, including the use of large clay vessels known as qvevri, which are buried underground and used for fermentation and aging", Wikipedia says.[^3]
 
-**The grapes.** "Among the many grape varieties cultivated in Kakheti, Rkatsiteli and Saperavi are the most prominent." Rkatsiteli "is widely used in white wines", while Saperavi "is the most widely planted red grape variety in the region".
+**The grapes.** "Among the many grape varieties cultivated in Kakheti, Rkatsiteli and Saperavi are the most prominent."[^3] Rkatsiteli "is widely used in white wines", while Saperavi "is the most widely planted red grape variety in the region".[^3]
 
 **Cellars and tours.** We name none and quote no prices or times: we found no official source we could check. Our tip: ask your host which cellars are open that day.
 
@@ -83,24 +83,24 @@ This is the heart of Georgian winemaking. [Wikipedia](https://en.wikipedia.org/w
 
 ## Wine tasting without the hangover: NHS advice {#tasting}
 
-Our tip: pace yourself, because small pours add up. The [NHS](https://www.nhs.uk/live-well/alcohol-advice/the-risks-of-drinking-too-much/) says: "Drinking too much alcohol too quickly on a single occasion is called binge drinking. This means drinking more than 8 units of alcohol in a single session for men, or more than 6 units in a single session for women."
+Our tip: pace yourself, because small pours add up. The [NHS](https://www.nhs.uk/live-well/alcohol-advice/the-risks-of-drinking-too-much/) says: "Drinking too much alcohol too quickly on a single occasion is called binge drinking.[^4] This means drinking more than 8 units of alcohol in a single session for men, or more than 6 units in a single session for women."[^4]
 
-**Why it matters.** The NHS says binge drinking can increase your risk of:
+**Why it matters.** The NHS says binge drinking can increase your risk of[^4]:
 
 - "accidents resulting in injury, causing death in some cases";
 - "misjudging risky situations";
 - "losing self-control, like having unprotected sex or getting involved in violence".
 
-**How to cut the risk.** To reduce your health risks on a single occasion, the NHS says:
+**How to cut the risk.** To reduce your health risks on a single occasion, the NHS says[^4]:
 
 - limit how much you drink;
 - drink more slowly;
 - drink with food;
 - alternate your drinks with water or non-alcoholic drinks.
 
-**Counting units.** We do not turn glasses into units for you. The NHS explains: "The number of units in a drink is based on the size of the drink and its alcohol strength."
+**Counting units.** We do not turn glasses into units for you. The NHS explains: "The number of units in a drink is based on the size of the drink and its alcohol strength."[^4]
 
-**No safe level.** The NHS also notes that "there's no safe drinking level". The less you drink, it says, "the lower the health risks".
+**No safe level.** The NHS also notes that "there's no safe drinking level".[^4] The less you drink, it says, "the lower the health risks".[^4]
 
 **Our tip: at a tasting.**
 
@@ -115,11 +115,11 @@ Our tip: pace yourself, because small pours add up. The [NHS](https://www.nhs.uk
 
 ## Drink spiking and home-made spirits {#spiking}
 
-Keep an eye on your glass, especially with people you have just met. The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) says: "There have been reports of drink spiking in Georgia. Be wary of strangers approaching you to take you to a restaurant or nightclub. If strangers offer you food and drink these items may contain drugs that could put you at risk. Buy your own drinks and always keep sight of them to avoid them being spiked."
+Keep an eye on your glass, especially with people you have just met. The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) says: "There have been reports of drink spiking in Georgia. Be wary of strangers approaching you to take you to a restaurant or nightclub. If strangers offer you food and drink these items may contain drugs that could put you at risk. Buy your own drinks and always keep sight of them to avoid them being spiked."[^5]
 
-**Methanol.** GOV.UK points to Travel Aware's information on spiking and methanol poisoning.
+**Methanol.** GOV.UK points to Travel Aware's information on spiking and methanol poisoning.[^5]
 
-**If you feel threatened.** GOV.UK says: "call the emergency number 112 and ask for the police."
+**If you feel threatened.** GOV.UK says: "call the emergency number 112 and ask for the police."[^5]
 
 **Our tip.**
 
@@ -134,23 +134,23 @@ For more on staying safe, read [is Georgia safe?](https://icebreaker4561.github.
 
 ## Driving after wine {#driving}
 
-If you are driving, skip the tasting. The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) says: "Drink driving punishments can be severe. Georgia has a lower blood alcohol content limit than the UK, so avoid alcohol if driving."
+If you are driving, skip the tasting. The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) says: "Drink driving punishments can be severe. Georgia has a lower blood alcohol content limit than the UK, so avoid alcohol if driving."[^5]
 
-**The limit.** The simple rule from GOV.UK is enough: if you drive, do not drink.
+**The limit.** The simple rule from GOV.UK is enough: if you drive, do not drink.[^5]
 
-**Other drivers.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia) lists among common habits on Georgian roads that drivers "drive under the influence". It advises: "always drive defensively" and "avoid travelling after dark".
+**Other drivers.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia) lists among common habits on Georgian roads that drivers "drive under the influence".[^7] It advises: "always drive defensively" and "avoid travelling after dark".[^7]
 
-**Country roads.** Canada says roads in rural areas are "sometimes poorly maintained and dangerous", with "stray livestock" among the reasons.
+**Country roads.** Canada says roads in rural areas are "sometimes poorly maintained and dangerous", with "stray livestock" among the reasons.[^7]
 
 **Our tip.** Agree on a sober driver before the first glass, or book a driver who will not drink. Read our [guide to driving in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/).
 
 ## Medical help in Kakheti {#health}
 
-Expect fewer options than in the capital. The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Outside Tbilisi, medical facilities are limited."
+Expect fewer options than in the capital. The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Outside Tbilisi, medical facilities are limited."[^6]
 
-**Rural areas.** Canada says: "In rural areas, there are shortages of medical supplies and personnel." It adds: "First responders may not be able to access rural areas."
+**Rural areas.** Canada says: "In rural areas, there are shortages of medical supplies and personnel."[^7] It adds: "First responders may not be able to access rural areas."[^7]
 
-**In an emergency.** "Dial 112 and ask for an ambulance," the UK says. Canada adds that you can use the 112 Georgia mobile app "to contact emergency service providers in English". Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+**In an emergency.** "Dial 112 and ask for an ambulance," the UK says.[^6] Canada adds that you can use the 112 Georgia mobile app "to contact emergency service providers in English".[^7] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
 
 **Clinics in Telavi.** Telavi is another town in Kakheti. The catalogue of [clinics in Telavi](https://100doc.ge/en/telavi/) on 100doc.ge listed 13 clinics when we checked on 19 November 2026.
 
@@ -162,31 +162,31 @@ Expect fewer options than in the capital. The UK [health advice](https://www.gov
 
 ### What is Sighnaghi famous for?
 
-Its hilltop view over the Alazani Valley, pastel houses and cobbled streets, and its place in the wine country. Wikipedia says it is known in Georgia as the "City of Love".
+Its hilltop view over the Alazani Valley, pastel houses and cobbled streets, and its place in the wine country. Wikipedia says it is known in Georgia as the "City of Love".[^1]
 
 ### How far is Bodbe Monastery from the town?
 
-2 km, according to Wikipedia. Bodbe was first built in the 9th century and is linked to St. Nino.
+2 km, according to Wikipedia.[^2] Bodbe was first built in the 9th century and is linked to St. Nino.
 
 ### What should I wear at Bodbe?
 
-GOV.UK asks visitors to be aware of modest dress, particularly in places of worship. Our tip: cover your shoulders and knees, and carry a scarf.
+GOV.UK asks visitors to be aware of modest dress, particularly in places of worship.[^5] Our tip: cover your shoulders and knees, and carry a scarf.
 
 ### How much is too much at a tasting?
 
-The NHS calls more than 8 units in one session binge drinking for men, and more than 6 units for women. Drink slowly, drink with food and alternate with water.
+The NHS calls more than 8 units in one session binge drinking for men, and more than 6 units for women.[^4] Drink slowly, drink with food and alternate with water.
 
 ### Can I drive after a tasting?
 
-Our advice: no. GOV.UK says Georgia has a lower blood alcohol content limit than the UK, so avoid alcohol if driving.
+Our advice: no. GOV.UK says Georgia has a lower blood alcohol content limit than the UK, so avoid alcohol if driving.[^5]
 
 ### Is drink spiking a problem in Georgia?
 
-GOV.UK reports drink spiking. Buy your own drinks and keep them in sight.
+GOV.UK reports drink spiking.[^5] Buy your own drinks and keep them in sight.
 
 ### Where can I find a doctor in Kakheti?
 
-Outside Tbilisi, facilities are limited, the UK says. In an emergency, dial 112. There are clinics in Telavi, also in Kakheti.
+Outside Tbilisi, facilities are limited, the UK says.[^6] In an emergency, dial 112. There are clinics in Telavi, also in Kakheti.
 
 ## Sources {#sources}
 

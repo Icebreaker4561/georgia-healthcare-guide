@@ -20,7 +20,7 @@ og: georgia-four-seasons.webp
 > - January is the coldest month, at 6.9 °C by day. Snow falls on about 22 days a year in Tbilisi.
 > - The Black Sea coast is humid and very wet; the east is drier, with a more continental climate.
 > - Alpine conditions begin at about 2,100 m. In winter, snow can close mountain roads.
-> - GOV.UK calls off-piste skiing "very dangerous". In an emergency, dial 112.
+> - GOV.UK calls off-piste skiing "very dangerous".[^4] In an emergency, dial 112.
 
 > [!stats]
 > - Tbilisi, hottest: August, 31.9 °C average high
@@ -47,7 +47,7 @@ Late spring and early autumn, in our reading of the figures. In the capital, May
 
 ## Tbilisi weather by month {#by-month}
 
-Expect cool, mostly dry winters, a wet late spring and hot summers. The figures below are 1991–2020 averages, as summarised on [Wikipedia](https://en.wikipedia.org/wiki/Tbilisi), a secondary source. The table there cites Pogoda.ru.net, NOAA and Weather Atlas. UV figures are as listed on Wikipedia, which credits Nomadseason.
+Expect cool, mostly dry winters, a wet late spring and hot summers. The figures below are 1991–2020 averages, as summarised on [Wikipedia](https://en.wikipedia.org/wiki/Tbilisi), a secondary source.[^1] The table there cites Pogoda.ru.net, NOAA and Weather Atlas.[^1] UV figures are as listed on Wikipedia, which credits Nomadseason.[^1]
 
 | Month | Average high, °C | Rain, mm | Snowy days | UV index |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ Expect cool, mostly dry winters, a wet late spring and hot summers. The figures 
 
 <!-- схема: img/tbilisi-weather-months.webp | Infographic: 12 months from January to December, bars for rain in mm and the average high in °C under each month, marked "Hottest: Aug 31.9 °C", "Coldest: Jan 6.9 °C" and "Wettest: May–Jun"; source: 1991–2020 normals for Tbilisi, via Wikipedia | Average highs and rain in the capital by month, 1991–2020 normals (via Wikipedia) -->
 
-**Hottest.** August has the highest average high, 31.9 °C, just above July at 31.5 °C. Nights stay warm too, with average lows of 20.4 °C in July and 20.3 °C in August. The July record listed in the same table is 42.0 °C.
+**Hottest.** August has the highest average high, 31.9 °C, just above July at 31.5 °C. Nights stay warm too, with average lows of 20.4 °C in July and 20.3 °C in August. The July record listed in the same table is 42.0 °C.[^1]
 
 **Coldest.** January averages 6.9 °C by day and −0.6 °C at night. Night lows in February (0.2 °C) and December (1.2 °C) are also close to freezing.
 
@@ -78,25 +78,25 @@ Expect cool, mostly dry winters, a wet late spring and hot summers. The figures 
 
 ## Three climates in one small country {#regions}
 
-Distance from the sea and height shape the weather. The [climate section of Wikipedia's geography article](https://en.wikipedia.org/wiki/Geography_of_Georgia_%28country%29#Climate) describes three broad types.
+Distance from the sea and height shape the weather. The [climate section of Wikipedia's geography article](https://en.wikipedia.org/wiki/Geography_of_Georgia_%28country%29#Climate) describes three broad types.[^2]
 
-**The Black Sea coast.** Wikipedia says that here "the dominant subtropical climate features high humidity and heavy precipitation", with 1,000 to 2,000 mm a year. Batumi is wetter still, at about 2,519 mm a year in airport records. July and August there reach about 31 °C by day.
+**The Black Sea coast.** Wikipedia says that here "the dominant subtropical climate features high humidity and heavy precipitation", with 1,000 to 2,000 mm a year.[^2] Batumi is wetter still, at about 2,519 mm a year in airport records.[^3] The warmest month there is August, with a daily mean of about 23 °C.[^3]
 
-**The east.** The plains of the east "are shielded from the influence of the Black Sea by mountains that provide a more continental climate", according to Wikipedia. It is much drier: no month in the capital gets more than 85 mm of rain, while Batumi (1981–2010 airport normals) gets over 300 mm in each autumn month.
+**The east.** The plains of the east "are shielded from the influence of the Black Sea by mountains that provide a more continental climate", according to Wikipedia.[^2] It is much drier: no month in the capital gets more than 85 mm of rain, while Batumi (1981–2010 airport normals) gets over 300 mm in each autumn month.[^1][^3]
 
-**The mountains.** "Alpine conditions begin at about 2,100 m", Wikipedia says, "and above 3,600 m snow and ice are present year-round". Our tip: pack warm layers and rain gear, even for a summer trip.
+**The mountains.** "Alpine conditions begin at about 2,100 m", Wikipedia says, "and above 3,600 m snow and ice are present year-round".[^2] Our tip: pack warm layers and rain gear, even for a summer trip.
 
 <!-- схема: img/georgia-climate-zones.webp | Infographic, three cards: Black Sea coast — subtropical, humid, 1,000–2,000 mm of rain a year; East, around Tbilisi — more continental; Mountains — alpine from about 2,100 m, snow and ice above 3,600 m all year; source: Wikipedia | Three climates: the humid coast, the continental east and the alpine mountains (after Wikipedia) -->
 
 ## Georgia in summer: heat, UV and storms {#summer}
 
-Expect heat in the lowlands and the main season in the mountains. In the capital, July and August average 31.5 and 31.9 °C by day. The UV index listed on Wikipedia is 7 or 8 from May to August.
+Expect heat in the lowlands and the main season in the mountains. In the capital, July and August average 31.5 and 31.9 °C by day. The UV index listed on Wikipedia is 7 or 8 from May to August.[^1]
 
-**Heat exhaustion.** The NHS [lists signs](https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/) such as "tiredness, dizziness, headache", "excessive sweating", cramps and "being very thirsty". Move the person to a cool place, give them water and cool their skin. They "should start to cool down and feel better within 30 minutes".
+**Heat exhaustion.** The NHS [lists signs](https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/) such as "tiredness, dizziness, headache", "excessive sweating", cramps and "being very thirsty".[^8] Move the person to a cool place, give them water and cool their skin. They "should start to cool down and feel better within 30 minutes".[^8]
 
-**Heatstroke: dial 112.** The NHS tells UK readers to call 999 for signs of heatstroke, including "still being unwell after 30 minutes of resting in a cool place…", "a very high temperature", "hot skin that's not sweating", confusion, "a seizure or fit" and "loss of consciousness". Here, dial 112 and ask for an ambulance, as GOV.UK advises. While you wait, the NHS says to wrap the person in "a cool, wet sheet", fan them or sponge them down with cold water.
+**Heatstroke: dial 112.** The NHS tells UK readers to call 999 for signs of heatstroke, including "still being unwell after 30 minutes of resting in a cool place…", "a very high temperature", "hot skin that's not sweating", confusion, "a seizure or fit" and "loss of consciousness".[^8] Here, dial 112 and ask for an ambulance, as GOV.UK advises.[^5] While you wait, the NHS says to wrap the person in "a cool, wet sheet", fan them or sponge them down with cold water.[^8]
 
-**Storms and fires.** GOV.UK warns: "Lightning and wildfires are a risk in summer, particularly in the mountains." Our tip: check the local forecast before a long walk, and turn back if a storm builds.
+**Storms and fires.** GOV.UK warns: "Lightning and wildfires are a risk in summer, particularly in the mountains."[^4] Our tip: check the local forecast before a long walk, and turn back if a storm builds.
 
 ## Georgia in winter: Tbilisi, mountain roads and skiing {#winter}
 
@@ -110,27 +110,27 @@ Expect cool days and nights around freezing. January averages 6.9 °C by day and
 
 ### Mountain roads
 
-Snow and landslides can block high roads. GOV.UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns that "heavy rain, flooding and snow at higher altitudes can affect roads and bridges making travel difficult or impossible (particularly in remote areas)". It adds that "landslides are common".
+Snow and landslides can block high roads. GOV.UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns that "heavy rain, flooding and snow at higher altitudes can affect roads and bridges making travel difficult or impossible (particularly in remote areas)".[^4] It adds that "landslides are common".[^4]
 
-**Your car.** Outside the capital, GOV.UK advises: "make sure your vehicle is suitable for off-road driving and check weather conditions locally." Before a mountain trip, read our [driving guide](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/) and the [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/).
+**Your car.** Outside the capital, GOV.UK advises: "make sure your vehicle is suitable for off-road driving and check weather conditions locally."[^4] Before a mountain trip, read our [driving guide](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/) and the [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/).
 
 ### Skiing
 
-Our tip: stay on marked runs. GOV.UK says: "Off-piste skiing is very dangerous." It also notes: "It can be difficult to get accurate information on mountain conditions, including avalanche risks." If you get into trouble while skiing, "the emergency response may be limited".
+Our tip: stay on marked runs. GOV.UK says: "Off-piste skiing is very dangerous."[^4] It also notes: "It can be difficult to get accurate information on mountain conditions, including avalanche risks."[^4] If you get into trouble while skiing, "the emergency response may be limited".[^4]
 
 **Altitude.** For height and how it affects you at the ski resort, see our [Gudauri guide](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/).
 
-**Your policy.** GOV.UK warns: "Many insurance policies will not cover damage to rental equipment or skiing off-piste without a guide." Check yours before you go.
+**Your policy.** GOV.UK warns: "Many insurance policies will not cover damage to rental equipment or skiing off-piste without a guide."[^4] Check yours before you go.
 
 ### Cold: hypothermia and frostbite
 
-If you think someone has hypothermia, dial 112 first, then get them somewhere sheltered and warm them slowly. The NHS pages below say 999, the UK number; here, use 112.
+If you think someone has hypothermia, dial 112 first, then get them somewhere sheltered and warm them slowly. The NHS pages below say 999, the UK number; here, use 112.[^6][^7]
 
-**Hypothermia.** The [NHS](https://www.nhs.uk/conditions/hypothermia/) lists "shivering", "pale, cold and dry skin", "slurred speech", "slow breathing" and "tiredness or confusion". Move the person "indoors or somewhere sheltered as quickly as possible". Remove wet clothing, wrap them in a blanket and "give them a warm non-alcoholic drink" only "if they're fully awake". Do not use a hot bath or a hot water bottle, do not rub their arms or legs, and do not give alcohol.
+**Hypothermia.** The [NHS](https://www.nhs.uk/conditions/hypothermia/) lists "shivering", "pale, cold and dry skin", "slurred speech", "slow breathing" and "tiredness or confusion".[^6] Move the person "indoors or somewhere sheltered as quickly as possible".[^6] Remove wet clothing, wrap them in a blanket and "give them a warm non-alcoholic drink" only "if they're fully awake".[^6] Do not use a hot bath or a hot water bottle, do not rub their arms or legs, and do not give alcohol.
 
-**Frostbite.** At first the skin may be "cold and firm" and "numb", or you may feel "a stinging or burning sensation", says the [NHS](https://www.nhs.uk/conditions/frostbite/). Get medical help. Dial 112 for "hard, frozen skin", "swelling and loss of feeling in the affected area" or blisters. While you wait, warm the area in "warm (not hot) water" and "do not rub the affected area".
+**Frostbite.** At first the skin may be "cold and firm" and "numb", or you may feel "a stinging or burning sensation", says the [NHS](https://www.nhs.uk/conditions/frostbite/).[^7] Get medical help. Dial 112 for "hard, frozen skin", "swelling and loss of feeling in the affected area" or blisters. While you wait, warm the area in "warm (not hot) water" and "do not rub the affected area".[^7]
 
-**Layers.** The NHS advises several loose layers with a waterproof outer layer. Our tip: keep gloves, a hat and dry socks in your bag.
+**Layers.** The NHS advises several loose layers with a waterproof outer layer.[^7] Our tip: keep gloves, a hat and dry socks in your bag.
 
 <!-- схема: img/heat-cold-first-aid.webp | Infographic in two columns, after NHS advice. Heat: move to a cool place, give fluids, they should feel better within 30 minutes, otherwise dial 112. Cold: hypothermia signs or hard frozen skin — dial 112 first; get to shelter, remove wet clothes, a warm drink only if fully awake, no alcohol, do not rub | First aid for heat and cold, after NHS advice, with the local emergency number 112 -->
 
@@ -138,7 +138,7 @@ If you think someone has hypothermia, dial 112 first, then get them somewhere sh
 
 Both are warm, but spring is wetter. In our reading, autumn is the steadier choice for the capital.
 
-**May.** The average high in the capital is 23.7 °C, and the UV index listed on Wikipedia is already 7. But May (82.9 mm) and June (84.0 mm) are the wettest months there. Our tip: pack a light rain jacket and sunscreen.
+**May.** The average high in the capital is 23.7 °C, and the UV index listed on Wikipedia is already 7.[^1] But May (82.9 mm) and June (84.0 mm) are the wettest months there. Our tip: pack a light rain jacket and sunscreen.
 
 **September and October.** September averages 26.2 °C by day, October 20.0 °C. Both are drier than late spring, with 34.8 and 46.3 mm of rain.
 
@@ -148,7 +148,7 @@ Both are warm, but spring is wetter. In our reading, autumn is the steadier choi
 
 ## Medical help in any season {#health}
 
-In an emergency, dial 112. The UK government's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance." Our [112 guide](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) explains how to call and what to say.
+In an emergency, dial 112. The UK government's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^5] Our [112 guide](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) explains how to call and what to say.
 
 **Finding a doctor.** For a problem that is not an emergency, the catalogue of [doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/) on 100doc.ge is one place to look.
 
@@ -168,7 +168,7 @@ Cool, not freezing, by day. December averages 8.1 °C by day and 1.2 °C at nigh
 
 ### What is the hottest month in Tbilisi?
 
-August, with an average high of 31.9 °C; July is close behind at 31.5 °C. The July record listed in Wikipedia's table is 42.0 °C.
+August, with an average high of 31.9 °C; July is close behind at 31.5 °C. The July record listed in Wikipedia's table is 42.0 °C.[^1]
 
 ### When does it snow in Tbilisi?
 
@@ -180,7 +180,7 @@ In the capital, June (84.0 mm), just ahead of May (82.9 mm). On the coast, autum
 
 ### Are mountain roads open in winter?
 
-Not always. GOV.UK warns that snow at higher altitudes can make travel "difficult or impossible", and that landslides are common. Check conditions locally before you set off.
+Not always. GOV.UK warns that snow at higher altitudes can make travel "difficult or impossible", and that landslides are common.[^4] Check conditions locally before you set off.
 
 ### What number do I call in an emergency?
 
