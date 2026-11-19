@@ -191,6 +191,15 @@
       "key": "david-gareja-ru"
     },
     {
+      "slug": "tushetiya",
+      "lang": "ru",
+      "src": "content/ru/tushetiya.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "tusheti",
+      "key": "tusheti-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -282,7 +291,8 @@
       "lang": "en",
       "src": "content/en/tusheti.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "tusheti"
     },
     {
       "slug": "sighnaghi",
