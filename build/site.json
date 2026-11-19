@@ -173,6 +173,15 @@
       "key": "vardzia-ru"
     },
     {
+      "slug": "uplistsikhe",
+      "lang": "ru",
+      "src": "content/ru/uplistsikhe.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "uplistsikhe",
+      "key": "uplistsikhe-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -248,7 +257,8 @@
       "lang": "en",
       "src": "content/en/uplistsikhe.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "uplistsikhe"
     },
     {
       "slug": "david-gareja",
