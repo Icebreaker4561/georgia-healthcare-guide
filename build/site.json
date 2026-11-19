@@ -56,6 +56,15 @@
       "key": "kazbegi-ru"
     },
     {
+      "slug": "batumi",
+      "lang": "ru",
+      "src": "content/ru/batumi.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "batumi",
+      "key": "batumi-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -96,7 +105,8 @@
       "lang": "en",
       "src": "content/en/batumi.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "batumi"
     },
     {
       "slug": "martvili-canyon",
