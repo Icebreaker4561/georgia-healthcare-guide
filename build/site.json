@@ -164,6 +164,15 @@
       "key": "tbilisi-sulfur-baths-ru"
     },
     {
+      "slug": "vardziya",
+      "lang": "ru",
+      "src": "content/ru/vardziya.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "vardzia",
+      "key": "vardzia-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -231,7 +240,8 @@
       "lang": "en",
       "src": "content/en/vardzia.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "vardzia"
     },
     {
       "slug": "uplistsikhe",
