@@ -148,6 +148,13 @@
       "kicker": "Destinations"
     },
     {
+      "slug": "tskaltubo",
+      "lang": "en",
+      "src": "content/en/tskaltubo.md",
+      "section": "destinations",
+      "kicker": "Destinations"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
