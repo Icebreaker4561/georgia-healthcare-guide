@@ -179,6 +179,13 @@
       "kicker": "Practical"
     },
     {
+      "slug": "best-time-to-visit-georgia",
+      "lang": "en",
+      "src": "content/en/best-time-to-visit-georgia.md",
+      "section": "practical",
+      "kicker": "Practical"
+    },
+    {
       "slug": "is-georgia-safe",
       "lang": "en",
       "src": "content/en/is-georgia-safe.md",
