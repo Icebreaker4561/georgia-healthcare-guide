@@ -200,6 +200,15 @@
       "key": "tusheti-ru"
     },
     {
+      "slug": "martvilskij-kanon",
+      "lang": "ru",
+      "src": "content/ru/martvilskij-kanon.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "martvili-canyon",
+      "key": "martvili-canyon-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -252,7 +261,8 @@
       "lang": "en",
       "src": "content/en/martvili-canyon.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "martvili-canyon"
     },
     {
       "slug": "svaneti",
