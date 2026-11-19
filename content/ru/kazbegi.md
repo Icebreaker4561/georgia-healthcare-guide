@@ -65,7 +65,7 @@ og: gergeti-nad-stepantsmindoy.webp
 - не поднимайтесь выше и отдыхайте: часто всё проходит за 1–3 дня;[^13]
 - хуже или нет улучшения за 1–2 дня — спускайтесь; тяжёлое состояние — срочно к врачу и вниз.[^13]
 
-Поднимайтесь постепенно. Подробнее — [о горной болезни и травмах](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/#altitude-sickness) (на английском).
+Поднимайтесь постепенно. Подробнее — [о горной болезни и травмах](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/gudauri/#gornaya-bolezn).
 
 ## Из Тбилиси в Казбеги по Военно-Грузинской дороге {#doroga}
 
@@ -157,7 +157,7 @@ og: gergeti-nad-stepantsmindoy.webp
 
 **Лавины.** Британский МИД: точные данные о лавинной опасности в горах получить трудно[^11] — спросите на месте.
 
-**Лыжи.** Для лыж georgia.travel советует Гудаури[^3] — вот [страница о Гудаури](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/) (на английском).
+**Лыжи.** Для лыж georgia.travel советует Гудаури[^3] — вот [страница о Гудаури](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/gudauri/).
 
 ## Безопасность и здоровье в Казбеги {#bezopasnost}
 

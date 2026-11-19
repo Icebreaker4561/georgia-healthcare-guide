@@ -1,5 +1,5 @@
 {
-  "name": "Georgia Health Guide",
+  "name": "Georgia Travel Guide",
   "base": "https://icebreaker4561.github.io/georgia-healthcare-guide/",
   "pages": [
     {
@@ -424,5 +424,5 @@
       "pair": "is-georgia-safe"
     }
   ],
-  "name_ru": "Справочник: медицина в Грузии"
+  "name_ru": "Путеводитель по Грузии"
 }

@@ -10,6 +10,8 @@ N — номер источника в разделе «Источники»; с
 - каждое предложение с атрибуцией («по GOV.UK», «пишет Канада», «по Википедии», «according to NHS» …) несёт сноску;
 - в разметке FAQPage (JSON-LD) нет «[N]» — поисковикам отдаём чистый текст.
 
+ВОЗ/WHO — только заглавными и целым словом: «по возможности» не атрибуция (владелец 19.11.2026: «Тест поправь»).
+
 Запуск: python3 tests/test_footnotes.py
 """
 import html
@@ -22,7 +24,7 @@ import unittest
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PAGES = sorted(p for p in ROOT.rglob("index.html") if ".git" not in p.parts)
 
-SRC = (r"(GOV\.UK|FCDO|Канад\w*|Canada|Википеди\w*|Wikipedia|NHS|ВОЗ|WHO|TravelHealthPro|CDC|нацпарк\w*|национальн\w+ парк\w*|"
+SRC = (r"(GOV\.UK|FCDO|Канад\w*|Canada|Википеди\w*|Wikipedia|NHS|(?-i:ВОЗ|WHO)\b|TravelHealthPro|CDC|нацпарк\w*|национальн\w+ парк\w*|"
        r"national park\w*|nationalparks\.ge|парк[аеу]?\b|брошюр\w*|brochure|постановлени\w*|resolution|закон\w*|the law|Минздрав\w*|"
        r"Geostat|GoBatumi|Georgia Today|georgia\.travel|EUAA|112\.gov\.ge|сайт\w* служб\w*|railway\.ge|Агентств\w+)")
 ATTR = re.compile(
