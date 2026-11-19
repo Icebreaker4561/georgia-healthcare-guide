@@ -106,6 +106,13 @@
       "kicker": "Destinations"
     },
     {
+      "slug": "svaneti",
+      "lang": "en",
+      "src": "content/en/svaneti.md",
+      "section": "destinations",
+      "kicker": "Destinations"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
