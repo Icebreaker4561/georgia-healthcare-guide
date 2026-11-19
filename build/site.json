@@ -193,6 +193,20 @@
       "kicker": "Practical"
     },
     {
+      "slug": "hiking-in-georgia",
+      "lang": "en",
+      "src": "content/en/hiking-in-georgia.md",
+      "section": "practical",
+      "kicker": "Practical"
+    },
+    {
+      "slug": "marshrutka-georgia",
+      "lang": "en",
+      "src": "content/en/marshrutka-georgia.md",
+      "section": "practical",
+      "kicker": "Practical"
+    },
+    {
       "slug": "is-georgia-safe",
       "lang": "en",
       "src": "content/en/is-georgia-safe.md",
