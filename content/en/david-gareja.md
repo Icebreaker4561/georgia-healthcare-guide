@@ -3,7 +3,7 @@ title: "David Gareja Monastery: Snakes, Heat and Getting There"
 description: "David Gareja, rock-hewn monasteries 60â€“70 km from Tbilisi: Lavra and Udabno, vipers in early summer and NHS first aid for a bite, heat, the border and medical help."
 h1: "David Gareja monastery: the cave monasteries, vipers and what to do if bitten, heat and medical help"
 kicker: Destinations Â· 2026
-lead: David Gareja is a group of cave monasteries cut into a dry hillside in Kakheti, eastern Georgia, part of it on the border with Azerbaijan. This guide covers its history, the Lavra and Udabno, the border, vipers and NHS first aid for a bite, summer heat, the road from Tbilisi and medical help. Facts about the monastery come from Wikipedia and are marked as such; safety advice comes from the UK and Canadian governments and the NHS. Sources are at the end.
+lead: David Gareja is a group of cave monasteries cut into a dry hillside in Kakheti, eastern Georgia, part of it on the border with Azerbaijan. This guide covers its history, the Lavra and Udabno, the border, vipers and NHS first aid for a bite, summer heat, the road from Tbilisi and medical help. Facts about the monastery come from Wikipedia and are marked as such; safety advice comes from the UK and Canadian governments' advice to their travellers and from the NHS. Sources are at the end.
 crumb: David Gareja
 nav: David Gareja
 card: "David Gareja"
@@ -29,7 +29,7 @@ og: gareja-cave-monastery.webp
 > - Anti-venom: rare outside major towns (GOV.UK)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## David Gareja monastery: the desert lavra {#history}
 
@@ -85,7 +85,7 @@ The dry slopes are viper country, and treatment may be far away. The UK [health 
 
 **What that means.** The nearest clinic may not be able to treat a bite, and help takes time to reach a remote hillside. Our tip: plan for that before you set out.
 
-**Canada.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia) lists snakes among the animals to avoid contact with, in its advice on reducing the risk of disease.[^4]
+**Animals.** To reduce the risk of disease, avoid contact with animals, including snakes.[^4]
 
 **Our tip: how to avoid a bite.**
 
@@ -147,7 +147,7 @@ You go by road, southeast from the capital. Wikipedia puts David Gareja some 60â
 
 **Times and fares.** We do not give them: we found no official source. Our tip: ask your host the day before.
 
-**Country roads.** Canada says rural roads are sometimes poorly maintained and dangerous because of "unpaved and uneven surfaces" and "stray livestock", and advises: "avoid travelling after dark".[^4] For remote areas, the UK says to "make sure your vehicle is suitable for off-road driving".[^3]
+**Country roads.** The Government of Canada's travel advice says rural roads are sometimes poorly maintained and dangerous because of "unpaved and uneven surfaces" and "stray livestock", and advises: "avoid travelling after dark".[^4] For remote areas, the UK says to "make sure your vehicle is suitable for off-road driving".[^3]
 
 **Our tip.** Save an offline map with the monastery marked, and be back on main roads before dark. Read our [guide to driving in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/).
 
@@ -155,7 +155,7 @@ You go by road, southeast from the capital. Wikipedia puts David Gareja some 60â
 
 Expect help to take time out here. The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Outside Tbilisi, medical facilities are limited."[^2]
 
-**Rural areas.** Canada says: "In rural areas, there are shortages of medical supplies and personnel."[^4] It adds: "First responders may not be able to access rural areas."[^4]
+**Rural areas.** The Government of Canada's travel advice says: "In rural areas, there are shortages of medical supplies and personnel."[^4] It adds: "First responders may not be able to access rural areas."[^4]
 
 **In an emergency.** Dial 112 and ask for an ambulance. Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
 

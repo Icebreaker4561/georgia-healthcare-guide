@@ -29,7 +29,7 @@ og: vardzia-cliff.webp
 > - Section closed in 2026: near the Secret Tunnel
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Vardzia cave monastery: Queen Tamar's city in the rock {#history}
 
@@ -92,7 +92,7 @@ Part of the site was closed to visitors in 2026 after rocks fell. On 15 Septembe
 - Do not stop to rest under overhanging rock or next to fresh stones on the path.
 - If the ground shakes, move away from the edge and from loose rock, then follow staff instructions.
 
-<!-- схема: img/vardzia-safety.webp | Infographic, five numbered cards headed "Vardzia in 2026: what to know": 1 Section closed in 2026 — a section near the Secret Tunnel, after rockfalls damaged a footbridge and handrails; ask if it has reopened; 2 Rockfalls — periodic, in a seismically active zone; 3 Netting — installed in high-risk areas, specialists monitor the site; 4 Our tip — stay on open, railed paths, follow staff instructions; 5 Emergency — dial 112; Canada: services may not be able to reach rural areas; sources: Georgia Today, 15 September 2026, citing the heritage agency, and Canada's travel advice | Five cards: the section closed in 2026, periodic rockfalls in a seismically active zone, protective netting, our tip to stay on railed paths, and 112 with Canada's warning about rural areas -->
+<!-- схема: img/vardzia-safety.webp | Infographic, five numbered cards headed "Vardzia in 2026: what to know": 1 Section closed in 2026 — a section near the Secret Tunnel, after rockfalls damaged a footbridge and handrails; ask if it has reopened; 2 Rockfalls — periodic, in a seismically active zone; 3 Netting — installed in high-risk areas, specialists monitor the site; 4 Our tip — stay on open, railed paths, follow staff instructions; 5 Emergency — dial 112; services may not be able to reach rural areas; sources: Georgia Today, 15 September 2026, citing the heritage agency, and Government of Canada travel advice | Five cards: the section closed in 2026, periodic rockfalls in a seismically active zone, protective netting, our tip to stay on railed paths, and 112, with a warning that help may not reach rural areas -->
 
 <!-- схема: img/gt-rockfall.webp | Excerpt from the Georgia Today article of 15 September 2026 on the rockfall closure, set in our frame, with the sentence "Periodic rockfalls are occurring at Georgia's Vardzia Museum-Reserve due to its location in a seismically active zone" highlighted | Georgia Today, 15 September 2026: the heritage agency reports periodic rockfalls in a seismically active zone; checked 19 November 2026 -->
 
@@ -118,7 +118,7 @@ Plan the trip around Akhaltsikhe, with Rabati Castle and clinics. Wikipedia puts
 
 The monastery is in a rural area, and serious care is in the cities. The UK's [health advice for Georgia](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Outside Tbilisi, medical facilities are limited."[^5]
 
-**Rural areas.** Canada's [travel advice](https://travel.gc.ca/destinations/georgia), updated 27 August 2026, says: "In rural areas, there are shortages of medical supplies and personnel."[^6] It adds: "First responders may not be able to access rural areas."[^6] Plan for help to take time.
+**Rural areas.** The Government of Canada's [travel advice](https://travel.gc.ca/destinations/georgia), updated 27 August 2026, says: "In rural areas, there are shortages of medical supplies and personnel."[^6] It adds: "First responders may not be able to access rural areas."[^6] Plan for help to take time.
 
 **In an emergency.** Dial 112. The UK advice says: "Dial 112 and ask for an ambulance. Contact your insurance company quickly if you're referred to a medical facility for treatment."[^5] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say. Our tip: tell the operator the name of the monastery, the municipality (Aspindza) and the level you are on.
 

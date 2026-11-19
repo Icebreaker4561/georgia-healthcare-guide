@@ -30,7 +30,7 @@ og: svaneti-towers.webp
 > - Zugdidi from Mestia: 128~km
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Mestia and the Svan towers {#mestia}
 
@@ -141,7 +141,7 @@ There are two ways in: by road from the lowlands or by air. Wikipedia places the
 
 Plan for serious care to be a long way off. The UK's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Outside Tbilisi, medical facilities are limited."[^4] It adds: "You or your travel insurer will need to pay for all treatment as it's provided."[^4]
 
-**Rural areas.** Canada's [travel advice](https://travel.gc.ca/destinations/georgia), updated 27 August 2026, says: "In rural areas, there are shortages of medical supplies and personnel."[^7] It adds: "First responders may not be able to access rural areas."[^7] In the mountains, weather and distance can slow help further.
+**Rural areas.** The Government of Canada's [travel advice](https://travel.gc.ca/destinations/georgia), updated 27 August 2026, says: "In rural areas, there are shortages of medical supplies and personnel."[^7] It adds: "First responders may not be able to access rural areas."[^7] In the mountains, weather and distance can slow help further.
 
 **Is there a hospital in Mestia?** We could not find an official description of one, its services or its hours. Do not plan your trip around one.
 

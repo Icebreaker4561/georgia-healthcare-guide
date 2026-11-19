@@ -29,7 +29,7 @@ og: tskaltubo-spa-town.webp
 > - Курс: 14–21 день
 > - Скорая: 112
 
-Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в «[Путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)».
 
 ## Цхалтубо: курорт рядом с Кутаиси {#gorod}
 

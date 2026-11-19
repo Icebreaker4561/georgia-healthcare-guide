@@ -3,7 +3,7 @@ title: "Sighnaghi and Kakheti: Wine Tasting, Bodbe and Health Tips"
 description: "Sighnaghi and Kakheti: the hill town, Bodbe Monastery, qvevri wine, tasting safely, drink spiking, driving after wine and where to find a doctor."
 h1: "Sighnaghi and Kakheti: the wine town, Bodbe Monastery, safe wine tasting and medical help"
 kicker: Destinations · 2026
-lead: Sighnaghi is a small hill town in Kakheti, the easternmost region of Georgia, looking out over the Alazani Valley. This guide covers the town, Bodbe Monastery and St. Nino, qvevri and the Rkatsiteli and Saperavi grapes, how to taste without overdoing it, drink spiking, driving after a tasting and where to find a doctor. Facts about the places come from Wikipedia and are marked as such; health and safety advice comes from the NHS and the UK and Canadian governments. Sources are at the end.
+lead: Sighnaghi is a small hill town in Kakheti, the easternmost region of Georgia, looking out over the Alazani Valley. This guide covers the town, Bodbe Monastery and St. Nino, qvevri and the Rkatsiteli and Saperavi grapes, how to taste without overdoing it, drink spiking, driving after a tasting and where to find a doctor. Facts about the places come from Wikipedia and are marked as such; health and safety advice comes from the NHS and the travel advice of the UK and Canadian governments. Sources are at the end.
 crumb: Sighnaghi and Kakheti
 nav: Sighnaghi and Kakheti
 card: "Sighnaghi and Kakheti"
@@ -28,7 +28,7 @@ og: sighnaghi-hill-town.webp
 > - Drink and drive: avoid alcohol (GOV.UK)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Sighnaghi: the hill town over the Alazani Valley {#sighnaghi}
 
@@ -138,9 +138,9 @@ If you are driving, skip the tasting. The UK [safety advice](https://www.gov.uk/
 
 **The limit.** The simple rule from GOV.UK is enough: if you drive, do not drink.[^5]
 
-**Other drivers.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia) lists among common habits on Georgian roads that drivers "drive under the influence".[^7] It advises: "always drive defensively" and "avoid travelling after dark".[^7]
+**Other drivers.** [The Government of Canada's travel advice](https://travel.gc.ca/destinations/georgia) lists among common habits on Georgian roads that drivers "drive under the influence".[^7] It advises: "always drive defensively" and "avoid travelling after dark".[^7]
 
-**Country roads.** Canada says roads in rural areas are "sometimes poorly maintained and dangerous", with "stray livestock" among the reasons.[^7]
+**Country roads.** The same advice says roads in rural areas are "sometimes poorly maintained and dangerous", with "stray livestock" among the reasons.[^7]
 
 **Our tip.** Agree on a sober driver before the first glass, or book a driver who will not drink. Read our [guide to driving in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/).
 
@@ -148,9 +148,9 @@ If you are driving, skip the tasting. The UK [safety advice](https://www.gov.uk/
 
 Expect fewer options than in the capital. The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Outside Tbilisi, medical facilities are limited."[^6]
 
-**Rural areas.** Canada says: "In rural areas, there are shortages of medical supplies and personnel."[^7] It adds: "First responders may not be able to access rural areas."[^7]
+**Rural areas.** The Government of Canada's travel advice says: "In rural areas, there are shortages of medical supplies and personnel."[^7] It adds: "First responders may not be able to access rural areas."[^7]
 
-**In an emergency.** "Dial 112 and ask for an ambulance," the UK says.[^6] Canada adds that you can use the 112 Georgia mobile app "to contact emergency service providers in English".[^7] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+**In an emergency.** "Dial 112 and ask for an ambulance," the UK says.[^6] You can also use the 112 Georgia mobile app to contact emergency services in English.[^7] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
 
 **Clinics in Telavi.** Telavi is another town in Kakheti. The catalogue of [clinics in Telavi](https://100doc.ge/en/telavi/) on 100doc.ge listed 13 clinics when we checked on 19 November 2026.
 

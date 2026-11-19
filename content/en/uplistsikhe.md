@@ -3,7 +3,7 @@ title: "Uplistsikhe and Gori: Cave Town, Stalin Museum and Safety"
 description: "Uplistsikhe, the rock-hewn town 10 km from Gori, Gori Fortress and the Stalin Museum: what to see, the South Ossetia line to avoid, heat and medical help."
 h1: "Uplistsikhe cave town and Gori, Georgia: what to see, the South Ossetia line and staying safe"
 kicker: Destinations · 2026
-lead: Uplistsikhe is an ancient town cut into the rock above the Mtkvari River in eastern Georgia. This guide covers what you will see there, the fortress and the Stalin Museum in nearby Gori, why you should keep well away from the South Ossetia line, summer heat, the way from Tbilisi and medical help. Facts from Wikipedia are marked as such; safety advice comes from the UK and Canadian governments. Sources are at the end.
+lead: Uplistsikhe is an ancient town cut into the rock above the Mtkvari River in eastern Georgia. This guide covers what you will see there, the fortress and the Stalin Museum in nearby Gori, why you should keep well away from the South Ossetia line, summer heat, the way from Tbilisi and medical help. Facts from Wikipedia are marked as such; safety advice comes from the travel advice the UK and Canadian governments give their own travellers. Sources are at the end.
 crumb: Uplistsikhe and Gori
 nav: Uplistsikhe and Gori
 card: "Uplistsikhe and Gori"
@@ -17,7 +17,7 @@ og: uplistsikhe-rock-town.webp
 > [!facts] In short
 > - Uplistsikhe, a rock-hewn town, lies some 10 kilometers east of Gori, in Shida Kartli, with structures from the Early Iron Age to the Late Middle Ages, according to Wikipedia.[^1]
 > - In Gori itself stand a medieval fortress on a rocky hill and a museum dedicated to Joseph Stalin in 1957.[^3][^4]
-> - The UK advises against all travel to South Ossetia and against all but essential travel next to its administrative boundary line.[^6] Canada says to avoid the area within 5 km of the line, except Highway E60.[^9]
+> - The UK advises against all travel to South Ossetia and against all but essential travel next to its administrative boundary line.[^6] The Government of Canada advises its travellers to avoid the area within 5 km of the line, except Highway E60.[^9]
 > - Summer is usually hot, Wikipedia says.[^2] Our tip: go early and carry water.
 > - Outside Tbilisi, medical facilities are limited.[^7] In an emergency, dial 112.[^7]
 
@@ -25,10 +25,10 @@ og: uplistsikhe-rock-town.webp
 > - Uplistsikhe from Gori: about 10~km
 > - Gori from Tbilisi: 86~km
 > - Site area: about 8~ha
-> - Canada: avoid within 5~km of the boundary line
+> - Zone to avoid: 5~km from the line
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Uplistsikhe cave town: what you will see {#uplistsikhe}
 
@@ -69,19 +69,19 @@ Two well-known sights stand in the town itself: a medieval citadel and a museum.
 
 ## Gori and the South Ossetia line: where not to go {#boundary}
 
-Stay well away from the line that separates South Ossetia from the rest of Georgia, and never try to cross it. Both the UK and Canada give clear advice on this, and it matters for a trip from the town.
+Stay well away from the line that separates South Ossetia from the rest of Georgia, and never try to cross it. Both the UK government and the Government of Canada give clear advice on this, and it matters for a trip from the town.
 
 **The UK advice.** The [GOV.UK warnings page](https://www.gov.uk/foreign-travel-advice/georgia/warnings-and-insurance), updated on 12 November 2026, says: "FCDO advises against all travel to the Russian occupied regions of: South Ossetia, Abkhazia".[^6] It adds: "FCDO also advises against all but essential travel to areas immediately next to the administrative boundary lines with South Ossetia and Abkhazia."[^6]
 
 **Your cover.** The same page warns: "Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO)."[^6] Read your own policy for a similar condition before the trip.
 
-**Canada: the 5 km zone.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia), updated 27 August 2026, tells travellers to avoid all travel "within 5 km of the administrative boundary line with the occupied regions of Abkhazia and South Ossetia, excluding Highway E60".[^9]
+**Government of Canada: the 5 km zone.** [The Government of Canada's travel advice](https://travel.gc.ca/destinations/georgia), updated 27 August 2026, tells travellers to avoid all travel "within 5 km of the administrative boundary line with the occupied regions of Abkhazia and South Ossetia, excluding Highway E60".[^9]
 
-**The line is hard to see.** Canada says the lines "are not well defined and change frequently".[^9] It warns: "You could be detained and arrested if you cross into these regions, even by mistake."[^9]
+**The line is hard to see.** The Government of Canada says the lines "are not well defined and change frequently".[^9] It warns: "You could be detained and arrested if you cross into these regions, even by mistake."[^9]
 
-**Landmines.** "Unexploded ordnance and landmines may pose a risk… especially in areas along the administrative boundary lines," Canada adds.[^9]
+**Landmines.** "Unexploded ordnance and landmines may pose a risk… especially in areas along the administrative boundary lines," the Government of Canada adds.[^9]
 
-**How far is the line from the town?** We found no official figure for the distance, so we do not give one. On the [FCDO briefing map](https://assets.publishing.service.gov.uk/media/690481e45e080b1224898084/FCDO_TA_018_-_Georgia_Travel_Advice_Ed4.pdf) (Edition 4, October 2025), the town is shown just south of South Ossetia, outside the zones the UK advises against; the rock-hewn town is not marked.[^5] The map itself says it is not to be used for "determining the precise location of places",[^5] and Canada says the lines "change frequently",[^9] so check the latest advice before you go.
+**How far is the line from the town?** We found no official figure for the distance, so we do not give one. On the [FCDO briefing map](https://assets.publishing.service.gov.uk/media/690481e45e080b1224898084/FCDO_TA_018_-_Georgia_Travel_Advice_Ed4.pdf) (Edition 4, October 2025), the town is shown just south of South Ossetia, outside the zones the UK advises against; the rock-hewn town is not marked.[^5] The map itself says it is not to be used for "determining the precise location of places",[^5] and the Government of Canada says the lines "change frequently",[^9] so check the latest advice before you go.
 
 **Our tip.**
 
@@ -92,7 +92,7 @@ Stay well away from the line that separates South Ossetia from the rest of Georg
 
 For roads, crime and the rest of the country, read [Is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/)
 
-<!-- схема: img/boundary-advice.webp | Infographic headed "The South Ossetia line: what two governments say", two cards. United Kingdom (FCDO), updated 12 November 2026: against all travel to South Ossetia and Abkhazia; against all but essential travel to areas immediately next to the boundary lines; insurance could be invalidated if you go against this advice. Canada, updated 27 August 2026: avoid all travel within 5 km of the boundary line, except Highway E60; lines are not well defined and change frequently; you could be detained if you cross, even by mistake; landmines and unexploded ordnance near the lines | The UK and Canadian advice on the South Ossetia line, side by side -->
+<!-- схема: img/boundary-advice.webp | Infographic headed "The South Ossetia line: what two governments say", two cards. United Kingdom (FCDO), updated 12 November 2026: against all travel to South Ossetia and Abkhazia; against all but essential travel to areas immediately next to the boundary lines; insurance could be invalidated if you go against this advice. Government of Canada, updated 27 August 2026: avoid all travel within 5 km of the boundary line, except Highway E60; lines are not well defined and change frequently; you could be detained if you cross, even by mistake; landmines and unexploded ordnance near the lines | Advice from the UK and Canadian governments on the South Ossetia line, side by side -->
 
 <!-- схема: img/govuk-warnings.webp | Crop of one sentence from the GOV.UK Georgia "Warnings and insurance" page, in our frame, with the sentence "Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO)." highlighted | GOV.UK, Georgia warnings page: travel against FCDO advice could invalidate your cover; checked 19 November 2026 -->
 
@@ -117,7 +117,7 @@ Head for Gori first, then on to Uplistsikhe. Wikipedia puts the town 86 kilometr
 
 **Times and fares.** We do not give bus or train times, fares or driving times: we found no official source for them. Ask your host or the station the day before.
 
-**On the road.** Canada's 5 km zone has one exception, Highway E60.[^9] Wherever you drive, stay on main roads and do not leave them towards the line to save time.
+**On the road.** The 5 km zone along the line has one exception, Highway E60.[^9] Wherever you drive, stay on main roads and do not leave them towards the line to save time.
 
 **Our tip.** Save an offline map with Uplistsikhe marked before you leave. It works if the signal drops, and you will need to say exactly where you are if you call for help.
 
@@ -127,7 +127,7 @@ Head for Gori first, then on to Uplistsikhe. Wikipedia puts the town 86 kilometr
 
 Plan for help to take time in the countryside. The UK's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Outside Tbilisi, medical facilities are limited."[^7]
 
-**Rural areas.** Canada's advice says: "In rural areas, there are shortages of medical supplies and personnel."[^9] It adds: "First responders may not be able to access rural areas."[^9]
+**Rural areas.** The Government of Canada's travel advice says: "In rural areas, there are shortages of medical supplies and personnel."[^9] It adds: "First responders may not be able to access rural areas."[^9]
 
 **In an emergency.** The UK advice says: "Dial 112 and ask for an ambulance."[^7] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say. Our tip: give the site name and which part of the complex you are in.
 
@@ -147,11 +147,11 @@ Rock-cut halls, passages and stairs above the Mtkvari, with a 9th–10th century
 
 ### Is it safe, with South Ossetia so near?
 
-Gori lies close to South Ossetia.[^2] The UK advises against all travel to the occupied region and against all but essential travel to areas immediately next to its administrative boundary line;[^6] Canada says to avoid the 5 km next to the line, except Highway E60.[^9] On the FCDO map Gori is outside those zones, but the map is not meant for precise locations.[^5] Check the latest advice, stay on main roads and keep away from the line.
+Gori lies close to South Ossetia.[^2] The UK advises against all travel to the occupied region and against all but essential travel to areas immediately next to its administrative boundary line;[^6] the Government of Canada says to avoid the 5 km next to the line, except Highway E60.[^9] On the FCDO map Gori is outside those zones, but the map is not meant for precise locations.[^5] Check the latest advice, stay on main roads and keep away from the line.
 
 ### Can I visit the boundary line?
 
-No. Canada says to avoid the area within 5 km of the line, except Highway E60, and warns you could be detained if you cross, even by mistake.[^9] There may also be landmines.[^9]
+No. The advice is to avoid the area within 5 km of the line, except Highway E60, and you could be detained if you cross, even by mistake.[^9] There may also be landmines.[^9]
 
 ### Is it hot in summer?
 

@@ -19,7 +19,7 @@ og: ambulance-tbilisi-street.webp
 > - It works from a mobile phone without a SIM card and from a landline with a negative balance.[^2][^3]
 > - The ambulance call-out is covered by the state.[^5] Treatment after it is on you or your insurer; since 2026 visitors must enter with a 30,000 GEL policy.[^5][^6]
 
-This page is about Georgia the country — Tbilisi, Batumi and the mountains — not the US state. It is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
+This page is about Georgia the country — Tbilisi, Batumi and the mountains — not the US state. It is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
 
 ## How to call an ambulance in Georgia: dial 112 {#how-to-call}
 

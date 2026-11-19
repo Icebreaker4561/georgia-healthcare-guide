@@ -18,7 +18,7 @@ og: georgia-mountain-road-car.webp
 > - With a UK licence you can drive in Georgia for up to one year, says GOV.UK; a car hire company may also ask for a 1968 international driving permit (IDP).[^2]
 > - A car registered abroad must have compulsory third-party (civil liability) cover for the whole stay, under Law No 1775; the obligation applies since 1 March 2018.[^1]
 > - In our reading of the law, that border policy pays for harm you cause to others.[^1] Your own treatment needs health and accident cover of at least 30,000 GEL.
-> - Canada warns of stray livestock, missing signs and poor lighting on rural roads; in the mountains in winter you must have snow tires or chains.[^4]
+> - Rural roads can have stray livestock, missing signs and poor lighting; in the mountains in winter you must have snow tires or chains.[^4]
 > - After a crash, dial 112 and ask for an ambulance.[^3]
 
 > [!stats]
@@ -28,7 +28,7 @@ og: georgia-mountain-road-car.webp
 > - Third-party limit: 30,000 GEL per person
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Your licence and the international driving permit {#licence}
 
@@ -36,7 +36,7 @@ A UK licence is enough for up to a year, though a hire company may want a permit
 
 **The 1968 permit.** If you are hiring a car, GOV.UK says to check with the company before you travel "whether they will accept the UK licence or whether you will need a 1968 international driving permit (IDP)".[^2] It adds: "You cannot buy an IDP outside the UK, so get one before you travel."[^2]
 
-**Other licences.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia), updated 27 August 2026, tells holders of a Canadian licence that "it is recommended that you obtain a notarized translation of your driver's licence into Georgian".[^4] It also recommends an International Driving Permit, "as some car rental agencies or insurance providers may require it".[^4]
+**Other licences.** [The Government of Canada's travel advice](https://travel.gc.ca/destinations/georgia) to its own travellers, updated 27 August 2026, tells holders of a Canadian licence that "it is recommended that you obtain a notarized translation of your driver's licence into Georgian".[^4] It also recommends an International Driving Permit, "as some car rental agencies or insurance providers may require it".[^4]
 
 **Our tip.** Licence from another country? Read your own government's advice. Keep the licence, IDP and any notarized translation with your passport whenever you are at the wheel.
 
@@ -69,7 +69,7 @@ The shortest term in the table is 15 days.[^1] We read these amounts on matsne o
 
 Before you sign, check your papers, the cover and the car itself. The border law applies to vehicles registered abroad. Our tip: a car you hire in the country is usually registered there, so ask the company what cover it includes.
 
-**Papers.** Ask the company before the trip whether your licence is enough or an IDP is needed; Canada notes that some rental agencies may require one.[^4]
+**Papers.** Ask the company before the trip whether your licence is enough or an IDP is needed; some rental agencies may require one.[^4]
 
 **Picking up on arrival.** For taxis, money and the first hours after landing, read our [Tbilisi airport guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/).
 
@@ -78,11 +78,11 @@ Before you sign, check your papers, the cover and the car itself. The border law
 - Ask in writing what the rental cover pays for harm to other people, for damage to the car itself, and what you pay yourself after a crash.
 - Photograph every scratch with the agent. GOV.UK warns that "many cars are poorly maintained".[^2]
 - Check the tyres, lights, seatbelts and spare wheel.
-- Going to the mountains in winter? Ask for snow tyres or chains: Canada says you must have them there.[^4]
+- Going to the mountains in winter? Ask for snow tyres or chains: you must have them there.[^4]
 
 ## Georgia roads: what to expect {#roads}
 
-Main roads in the cities are usually fine; the countryside is harder. Canada says roads "are generally in good condition in Tbilisi and in major cities", but in rural areas they can be poorly maintained and dangerous because of:[^4]
+Main roads in the cities are usually fine; the countryside is harder. Roads are generally in good condition in Tbilisi and in major cities, but in rural areas they can be poorly maintained and dangerous because of:[^4]
 
 - unpaved and uneven surfaces;
 - raised and sunken manholes;
@@ -90,29 +90,29 @@ Main roads in the cities are usually fine; the countryside is harder. Canada say
 - lack of traffic signs and insufficient lighting;
 - slippery roads and winter conditions, especially in the mountains.
 
-"In rural areas, traffic signs may only be written in Georgian," Canada adds.[^4]
+In rural areas, traffic signs may be in Georgian only.[^4]
 
-<!-- схема: img/georgia-mountain-road-car.webp | Craft paper illustration, not a photo of a real place: a small car on a winding mountain road with hairpin bends, two cows standing on the roadside, green slopes and snowy peaks behind | Canada warns rural roads can be dangerous: stray livestock, uneven surfaces and insufficient lighting -->
+<!-- схема: img/georgia-mountain-road-car.webp | Craft paper illustration, not a photo of a real place: a small car on a winding mountain road with hairpin bends, two cows standing on the roadside, green slopes and snowy peaks behind | Rural roads can be dangerous: stray livestock, uneven surfaces and insufficient lighting -->
 
 **What GOV.UK adds.** Its list of conditions says that "road markings and the right of way can be confusing", "many cars are poorly maintained" and "driving can be erratic".[^2] Outside Tbilisi, especially in remote areas, it advises making sure your vehicle "is suitable for off-road driving" and checking the weather locally.[^2]
 
-**Priority to the right.** "The 'priority to the right' system is in effect in Georgia," Canada says.[^4] At intersections you must give way to vehicles coming from the right if you are not in a priority lane, and to vehicles entering roundabouts.[^4]
+**Priority to the right.** Georgia uses the "priority to the right" system.[^4] At intersections you must give way to vehicles coming from the right if you are not in a priority lane, and to vehicles entering roundabouts.[^4]
 
-**Other road users.** Canada is blunt: "Fatal accidents are frequent and are one of the main causes of death in Georgia."[^4] It says it is common for people at the wheel to change lanes often, speed, drink and engage in road rage, and that pedestrians often cross in the middle of the road.[^4] Its advice: "always drive defensively", ignore road rage, plan your trip and carry a phone and charger.[^4] For crime and other risks, read [Is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/)
+**Other road users.** Fatal accidents are frequent and among the main causes of death in Georgia.[^4] It is common for people at the wheel to change lanes often, speed, drink and engage in road rage, and that pedestrians often cross in the middle of the road.[^4] The advice for drivers: always drive defensively, ignore road rage, plan your trip and carry a phone and charger.[^4] For crime and other risks, read [Is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/)
 
-**Closures.** Canada points to the road restrictions page of the Roads Department; you will find it on [georoad.gov.ge](https://georoad.gov.ge/en/restriction).[^4][^5] The mountain road north to Stepantsminda is covered in our [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/).
+**Closures.** The Roads Department publishes a road restrictions page on [georoad.gov.ge](https://georoad.gov.ge/en/restriction).[^4][^5] The mountain road north to Stepantsminda is covered in our [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/).
 
-<!-- схема: img/road-hazards.webp | Infographic headed "Five road hazards in Georgia", five numbered cards: Night — roads outside cities often badly lit; Livestock — stray animals on the road; Priority to the right — yield to cars from the right unless on a priority road; Mountains in winter — snow tires or chains required; Landslides — common, check road restrictions; source line GOV.UK and Canada travel advice | Five road hazards from UK and Canadian advice: night, livestock, priority to the right, winter mountains, landslides -->
+<!-- схема: img/road-hazards.webp | Infographic headed "Five road hazards in Georgia", five numbered cards: Night — roads outside cities often badly lit; Livestock — stray animals on the road; Priority to the right — yield to cars from the right unless on a priority road; Mountains in winter — snow tires or chains required; Landslides — common, check road restrictions; source line GOV.UK and Government of Canada travel advice | Five road hazards from GOV.UK and other official advice: night, livestock, priority to the right, winter mountains, landslides -->
 
 ## Night driving, mountains and winter {#night-winter}
 
-Plan to arrive before dark, and in the cold months expect snow and closures high up. GOV.UK says: "Take care when driving, especially at night," and warns that "roads outside city centres are often badly lit and poor quality".[^2] Canada's advice is shorter: "avoid travelling after dark".[^4]
+Plan to arrive before dark, and in the cold months expect snow and closures high up. GOV.UK says: "Take care when driving, especially at night," and warns that "roads outside city centres are often badly lit and poor quality".[^2] Other official advice is shorter: avoid travelling after dark.[^4]
 
 **Rain, snow and landslides.** GOV.UK says that "heavy rain, flooding and snow at higher altitudes can affect roads and bridges making travel difficult or impossible (particularly in remote areas)".[^2] It adds that "landslides are common".[^2]
 
-**Winter tyres.** Canada is clear: "If you're driving in mountainous areas in the winter, you must have snow tires or chains on your vehicle."[^4]
+**Winter tyres.** If you are driving in mountainous areas in winter, you must have snow tires or chains on your vehicle.[^4]
 
-<!-- схема: img/georgia-winter-road.webp | Craft paper illustration, not a photo of a real place: a small car with snow chains on its wheels and luggage on the roof, driving on a snowy mountain road between snow banks, snowy fir trees and white peaks, light snowfall | Canada: in mountainous areas in winter, you must have snow tires or chains on your vehicle -->
+<!-- схема: img/georgia-winter-road.webp | Craft paper illustration, not a photo of a real place: a small car with snow chains on its wheels and luggage on the roof, driving on a snowy mountain road between snow banks, snowy fir trees and white peaks, light snowfall | In mountainous areas in winter, you must have snow tires or chains on your vehicle -->
 
 **Our tip: on a mountain day.**
 
@@ -125,15 +125,15 @@ Plan to arrive before dark, and in the cold months expect snow and closures high
 
 If you are at the wheel, do not drink at all. GOV.UK says: "Drink driving punishments can be severe.[^2] Georgia has a lower blood alcohol content limit than the UK, so avoid alcohol if driving."[^2]
 
-We give no figure for the limit: our sources do not quote one. Canada also lists driving under the influence among common local habits,[^4] so, our tip, take extra care late in the evening.
+We give no figure for the limit: our sources do not quote one. Official advice also lists driving under the influence among common local habits,[^4] so, our tip, take extra care late in the evening.
 
-**Our tip.** If wine is part of the evening, leave the car at the hotel. Canada says regulated taxis are white with roof-mounted taxi signs; use only officially marked ones.[^4]
+**Our tip.** If wine is part of the evening, leave the car at the hotel. Regulated taxis are white with roof-mounted taxi signs; use only officially marked ones.[^4]
 
 ## After a crash: 112, medical care and insurance {#accident}
 
 Make the scene safe, dial 112, then tell your insurer. The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^3] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say.
 
-**Help may take time.** Canada says police "response times in remote areas and outside larger cities can be significantly longer".[^4] GOV.UK adds: "Outside Tbilisi, medical facilities are limited."[^3]
+**Help may take time.** Police response times in remote areas and outside larger cities can be significantly longer.[^4] GOV.UK adds: "Outside Tbilisi, medical facilities are limited."[^3]
 
 **Your policy.** The same GOV.UK page says: "Contact your insurance company quickly if you're referred to a medical facility for treatment."[^3] In our reading, your own care is a matter for your health cover, and harm to others goes to the third-party policy or the rental cover.
 
@@ -150,13 +150,13 @@ Make the scene safe, dial 112, then tell your insurer. The UK [health advice](ht
 
 **Doctors for injuries.** The catalogue of [orthopaedic and trauma doctors in Tbilisi](https://100doc.ge/en/tbilisi/orthopedic-traumatologist/) on 100doc.ge lists specialists who treat injuries.
 
-**Not at the wheel?** Canada says marshrutka minibuses "are poorly maintained and often lack security features like seatbelts" and advises avoiding them.[^4]
+**Not at the wheel?** The Government of Canada's travel advice says marshrutka minibuses "are poorly maintained and often lack security features like seatbelts" and advises avoiding them.[^4]
 
 ## Frequently asked questions {#faq}
 
 ### What do I need to drive in Georgia?
 
-A valid licence. GOV.UK says a UK licence works for up to one year; a hire company may also ask for a 1968 IDP.[^2] Canada recommends Canadians carry a notarized translation and an IDP.[^4]
+A valid licence. GOV.UK says a UK licence works for up to one year; a hire company may also ask for a 1968 IDP.[^2] The Government of Canada recommends that its travellers carry a notarized translation and an IDP.[^4]
 
 ### Do I need car insurance at the border?
 
@@ -172,11 +172,11 @@ Better not. GOV.UK says the blood alcohol limit is lower than in the UK and puni
 
 ### Do I need winter tyres?
 
-In the mountains in winter, yes: Canada says you must have snow tires or chains.[^4] Check road restrictions on georoad.gov.ge before a pass.[^5]
+In the mountains in winter, yes: you must have snow tires or chains.[^4] Check road restrictions on georoad.gov.ge before a pass.[^5]
 
 ### Is it safe to drive at night?
 
-It is riskier. GOV.UK warns that roads outside city centres are often badly lit and that stray livestock can be a hazard;[^2] Canada advises avoiding travel after dark.[^4]
+It is riskier. GOV.UK warns that roads outside city centres are often badly lit and that stray livestock can be a hazard;[^2] other official advice is to avoid travel after dark.[^4]
 
 ### What should I do after an accident?
 

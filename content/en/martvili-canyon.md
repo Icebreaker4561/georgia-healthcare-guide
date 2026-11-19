@@ -20,7 +20,7 @@ og: martvili-canyon-boat.webp
 > - Prometheus Cave has 22 halls; 6 are open, on a 1,420~m route that ends with a boat ride (listed for spring to autumn).[^8]
 > - Rain or snow stops the Martvili boat and closes the hanging trail; the cave boat stops when the water rises.[^2][^5][^9]
 > - The park's own pages disagree on whether Martvili and the cave close on Mondays, so call ahead.[^2][^9]
-> - In an emergency, dial 112.[^12] Emergency services may not be able to reach rural areas, Canada warns.[^11]
+> - In an emergency, dial 112.[^12] Emergency services may not be able to reach rural areas.[^11]
 
 > [!stats]
 > - Martvili from Kutaisi: 45–51~km
@@ -29,7 +29,7 @@ og: martvili-canyon-boat.webp
 > - Okatse minimum age: 6
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Martvili Canyon: the trail and the boat {#martvili}
 
@@ -136,11 +136,11 @@ Rain or snow stops the canyon boat and closes the hanging trail; high water stop
 
 **Our tip for a wet day.** The cave walk is underground, so it is the likeliest of the three to work in rain. Call first: high water stops the boat.
 
-<!-- схема: img/park-rules.webp | Infographic headed "Park rules and Canada's advice", five numbered cards: 1 Martvili boat — over 1 m tall, safety vest on, no boat in rain or snow; 2 Okatse trail — age 6+ and over 1.2 m, closed in rain and snow; 3 Prometheus boat — stops when the water in the cave rises; 4 Martvili trail — children under 14 not alone, no alcohol; 5 Emergency — dial 112; Canada: emergency services may not be able to reach rural areas; source: nationalparks.ge visitor guides and Canada's travel advice | The park's rules: boat height and safety vest, the age and height limits for the hanging trail, rain and high water, children, alcohol and the 112 emergency number -->
+<!-- схема: img/park-rules.webp | Infographic headed "Rules that can stop your visit", five numbered cards: 1 Martvili boat — over 1 m tall, safety vest on, no boat in rain or snow; 2 Okatse trail — age 6+ and over 1.2 m, closed in rain and snow; 3 Prometheus boat — stops when the water in the cave rises; 4 Martvili trail — children under 14 not alone, no alcohol; 5 Emergency — dial 112; emergency services may not be able to reach rural areas; source: nationalparks.ge visitor guides and Government of Canada travel advice | The park's rules: boat height and safety vest, the age and height limits for the hanging trail, rain and high water, children, alcohol and the 112 emergency number -->
 
 ## Medical help near the canyons {#health}
 
-These are rural sites, and serious care is in the cities. Canada's [travel advice](https://travel.gc.ca/destinations/georgia), last updated 27 August 2026, says: "High-quality medical services and facilities are generally available in major cities, such as Tbilisi and Batumi. In rural areas, there are shortages of medical supplies and personnel."[^11] It adds: "First responders may not be able to access rural areas."[^11] The UK's [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns that "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."[^7]
+These are rural sites, and serious care is in the cities. The Government of Canada's [travel advice](https://travel.gc.ca/destinations/georgia), last updated 27 August 2026, says: "High-quality medical services and facilities are generally available in major cities, such as Tbilisi and Batumi. In rural areas, there are shortages of medical supplies and personnel."[^11] It adds: "First responders may not be able to access rural areas."[^11] The UK's [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns that "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."[^7]
 
 **In an emergency.** Dial 112. The UK's [health advice for Georgia](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance. Contact your insurance company quickly if you're referred to a medical facility for treatment."[^12] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say.
 

@@ -29,7 +29,7 @@ og: tusheti-abano-road.webp
 > - Pharmacies and ATMs: none (park)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## What and where Tusheti is {#what-is}
 
@@ -164,7 +164,7 @@ Help can take hours, not minutes. The UK [safety advice](https://www.gov.uk/fore
 
 **Limited care.** "Outside Tbilisi, medical facilities are limited," says the UK health advice.[^8] "Access to medical facilities may be limited in remote areas," adds its safety page.[^9]
 
-**Rural areas.** [Canada's travel advice](https://travel.gc.ca/destinations/georgia) says: "First responders may not be able to access rural areas."[^10]
+**Rural areas.** [The Government of Canada's travel advice](https://travel.gc.ca/destinations/georgia) says: "First responders may not be able to access rural areas."[^10]
 
 **In an emergency.** The UK advice says: "Dial 112 and ask for an ambulance."[^8] The park's guide also gives 112 as the emergency number.[^2] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
 

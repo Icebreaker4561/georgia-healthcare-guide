@@ -1,9 +1,9 @@
 ---
 title: "Marshrutka in Georgia: Minibus Safety, Trains and Taxis"
-description: "Marshrutka minibuses in Georgia: why Canada advises avoiding them, Didube station, trains to Batumi and Borjomi, safer taxis, motion sickness and 112."
+description: "Marshrutka minibuses in Georgia: why the Government of Canada advises avoiding them, Didube station, trains to Batumi and Borjomi, taxis, motion sickness and 112."
 h1: "Marshrutka in Georgia: what official advice says, Didube, trains, taxis and motion sickness"
 kicker: Practical · 2026
-lead: A marshrutka is a shared minibus, and many of them leave from Didube in Tbilisi. Canada's official advice is to avoid them, and this guide says so plainly. It also covers where the minibuses start, trains to Batumi and Borjomi, the Tbilisi metro, booked cars, motion sickness on mountain roads and what to do if something goes wrong. Facts come from the Canadian and UK governments, the national parks, Georgian Railway, the NHS and Wikipedia. Sources are at the end.
+lead: A marshrutka is a shared minibus, and many of them leave from Didube in Tbilisi. The Government of Canada, in its advice to its own travellers, says to avoid them, and this guide says so plainly. It also covers where the minibuses start, trains to Batumi and Borjomi, the Tbilisi metro, booked cars, motion sickness on mountain roads and what to do if something goes wrong. Facts come from the Canadian and UK governments, the national parks, Georgian Railway, the NHS and Wikipedia. Sources are at the end.
 crumb: Marshrutka
 nav: Marshrutka
 card: "Marshrutkas and getting around"
@@ -15,21 +15,21 @@ og: marshrutka-road.webp
 ---
 
 > [!facts] In short
-> - Canada's travel advice says marshrutkas "are poorly maintained and often lack security features like seatbelts".[^1] Its next words are: "Avoid using them."[^1]
+> - The Government of Canada's travel advice says marshrutkas "are poorly maintained and often lack security features like seatbelts".[^1] Its next words are: "Avoid using them."[^1]
 > - The national parks name Didube metro station in Tbilisi as the place to catch minibuses to Prometheus Cave and Borjomi.[^4][^5]
 > - Georgian Railway lists two fast trains a day from Tbilisi to Batumi and two electric trains a day to Borjomi.[^6] Check times on railway.ge.
-> - Canada calls buses and the Tbilisi metro "generally safe and reliable", but warns about pickpockets.[^1]
+> - Buses and the Tbilisi metro are generally safe and reliable, but pickpockets may target tourists.[^1]
 > - GOV.UK says to pre-book a car through an app and check for working seatbelts.[^2]
 > - For motion sickness, the NHS says sit in the front and look at the horizon.[^8] Emergency: 112.[^3]
 
 > [!stats]
-> - Canada: "Avoid using them"
-> - Seatbelts: often missing (Canada)
+> - Official advice: "Avoid using them"
+> - Seatbelts: often missing
 > - Borjomi minibuses: daily 08:00–18:00 (park)
 > - Fast trains to Batumi: 2 a day (railway.ge)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## What a marshrutka is {#what}
 
@@ -45,25 +45,25 @@ It is a minibus that strangers share, somewhere between a cab and a route servic
 
 ## What official advice says {#official-advice}
 
-Canada's government tells travellers to avoid marshrutkas. Its advice for Georgia was last updated on 27 August 2026.[^1]
+The Government of Canada tells its travellers to avoid marshrutkas. Its advice for Georgia was last updated on 27 August 2026.[^1]
 
-**Canada's words.** In its section on public transport, [Canada's travel advice](https://travel.gc.ca/destinations/georgia) says:
+**In its own words.** In the section on public transport, [the Government of Canada's travel advice](https://travel.gc.ca/destinations/georgia) says:
 
 > Mini-buses called "marshrutka" are poorly maintained and often lack security features like seatbelts. Avoid using them.[^1]
 
 **Bags and loads.** The same section adds two rules. "Avoid storing bags in the overhead compartment or under your seat."[^1] And: "Do not take buses that look overloaded or in poor condition."[^1]
 
-**City transport.** Canada is more positive about the capital: "Buses and the Tbilisi metro are generally safe and reliable, but pickpockets may target tourists."[^1]
+**City transport.** The Government of Canada is more positive about the capital: "Buses and the Tbilisi metro are generally safe and reliable, but pickpockets may target tourists."[^1]
 
 **The UK view.** The [GOV.UK safety page](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) we checked does not mention minibuses.[^2] Its transport advice covers cabs, driving and rail; its cab rules are below.[^2]
 
-**After dark.** For drivers, Canada advises: "avoid travelling after dark".[^1] Our [driving in Georgia guide](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/) has more on the roads.
+**After dark.** For drivers, the Government of Canada advises: "avoid travelling after dark".[^1] Our [driving in Georgia guide](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/) has more on the roads.
 
 **What this means.** We do not give our own verdict on how risky these minibuses are. We report what two governments say and point to options that official sources describe.
 
 **Our tip.** If a train covers your route, consider it first. If it does not, plan the road part in daylight.
 
-<!-- схема: img/canada-advice-card.webp | Quote card, retyped: 'Mini-buses called "marshrutka" are poorly maintained and often lack security features like seatbelts. Avoid using them.' Headed "Canada on marshrutkas: avoid them"; source line: retyped from travel.gc.ca, Travel advice and advisories for Georgia, last updated 27 August 2026, checked 19 November 2026 | Canada's travel advice, retyped as a card (travel.gc.ca, updated 27 August 2026) -->
+<!-- схема: img/canada-advice-card.webp | Quote card, retyped: 'Mini-buses called "marshrutka" are poorly maintained and often lack security features like seatbelts. Avoid using them.' Headed "Government of Canada on marshrutkas: avoid them"; source line: retyped from travel.gc.ca, Travel advice and advisories for Georgia, last updated 27 August 2026, checked 19 November 2026 | The Government of Canada's travel advice, retyped as a card (travel.gc.ca, updated 27 August 2026) -->
 
 ## Didube: where many minibuses leave from {#where}
 
@@ -79,15 +79,15 @@ Didube is a metro station in northern Tbilisi. Official park pages name it as th
 
 **Heading into the mountains?** Read our [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/) before you plan the trip north.
 
-**If you do ride.** Two rules are Canada's, the seatbelt check follows GOV.UK's rule for cabs, and the rest are our tips:
+**If you do ride.** Two rules come from official travel advice, the seatbelt check follows GOV.UK's rule for cabs, and the rest are our tips:
 
-- Pick a seat with a seatbelt, and check that it works. Canada says marshrutkas often lack them.[^1]
+- Pick a seat with a seatbelt, and check that it works. Marshrutkas often lack them.[^1]
 - Keep your bag with you, not overhead or under the seat.[^1]
 - Do not board a vehicle that looks overloaded or in poor condition.[^1]
-- Our tip: plan road trips by day. Canada gives drivers the same advice.[^1]
+- Our tip: plan road trips by day. Official advice for drivers is the same.[^1]
 - Our tip: save 112 in your phone before you set off.
 
-<!-- схема: img/if-you-ride-card.webp | Infographic headed "If you still take a minibus", five cards: Seatbelt — check there is one and it works; Bags — not overhead or under your seat; Overloaded? — do not board; By day — plan road trips in daylight (our tip); 112 — emergency number; small source line: Canada and GOV.UK travel advice, checked 19 Nov 2026 | Five rules if you take a minibus anyway, after Canadian and UK travel advice, with our tips -->
+<!-- схема: img/if-you-ride-card.webp | Infographic headed "If you still take a minibus", five cards: Seatbelt — check there is one and it works; Bags — not overhead or under your seat; Overloaded? — do not board; By day — plan road trips in daylight (our tip); 112 — emergency number; small source line: Government of Canada and GOV.UK travel advice, checked 19 Nov 2026 | Five rules if you take a minibus anyway, after GOV.UK and other official travel advice, with our tips -->
 
 ## Alternatives: trains, city transport and taxis {#alternatives}
 
@@ -108,7 +108,7 @@ Georgian Railway runs trains to the coast, to the west and to Borjomi. The [gene
 
 **Times and fares.** We give none. Check railway.ge before you travel, as schedules change.
 
-**On board.** Canada says: "The condition and cleanliness of trains vary greatly from route to route."[^1]
+**On board.** Train condition and cleanliness vary greatly from route to route.[^1]
 
 **Tbilisi to Batumi.** This is where the train helps most, with two fast trains every day.[^6] People also search for a Tbilisi to Batumi bus. We found no official timetable for one, so we cannot point you to it.
 
@@ -118,7 +118,7 @@ Georgian Railway runs trains to the coast, to the west and to Borjomi. The [gene
 
 ### Tbilisi metro and buses
 
-Inside the capital, the Tbilisi metro and city routes are the main public transport. Canada calls buses and the Tbilisi metro "generally safe and reliable" and warns about pickpockets.[^1]
+Inside the capital, the Tbilisi metro and city routes are the main public transport. Buses and the metro are generally safe and reliable, though pickpockets may target tourists.[^1]
 
 **Who runs it.** The Tbilisi Transport Company runs city transport. Its site, [ttc.com.ge](https://ttc.com.ge/), has a Journey Planner, timetables and a Real Time Bus page.[^7] It lists four kinds of transport: bus, cable car, subway train and minibus.[^7]
 
@@ -132,7 +132,7 @@ Inside the capital, the Tbilisi metro and city routes are the main public transp
 
 Use an officially marked car, or book one through an app. Both governments give clear rules.
 
-**Canada.** Canada's advice says "taxis are regulated and are recognizable by their white colour and roof-mounted taxi signs".[^1] It tells visitors to "use only officially marked taxis", to "never share a taxi with strangers" and to "negotiate the fare in advance if there is no meter".[^1]
+**Official taxis.** The Government of Canada's travel advice says "taxis are regulated and are recognizable by their white colour and roof-mounted taxi signs".[^1] It tells visitors to "use only officially marked taxis", to "never share a taxi with strangers" and to "negotiate the fare in advance if there is no meter".[^1]
 
 **GOV.UK.** The UK's safety advice lists three rules:[^2]
 
@@ -190,7 +190,7 @@ A shared minibus. Wikipedia gives "marshrutka" as the name used "in former Sovie
 
 ### Are marshrutkas a good idea in Georgia?
 
-Canada's travel advice says they are poorly maintained and often lack seatbelts.[^1] It tells visitors: "Avoid using them."[^1] We add no verdict of our own.
+The Government of Canada's travel advice says they are poorly maintained and often lack seatbelts.[^1] It tells visitors: "Avoid using them."[^1] We add no verdict of our own.
 
 ### Where do minibuses leave from in Tbilisi?
 
@@ -202,7 +202,7 @@ By train. Georgian Railway lists two fast trains every day.[^6] Check times and 
 
 ### How do I take a cab safely in Georgia?
 
-GOV.UK advises pre-booking through an app and not flagging cars in the street.[^2] Canada says to use only officially marked ones, which are white with a roof sign.[^1]
+GOV.UK advises pre-booking through an app and not flagging cars in the street.[^2] Use only officially marked ones, which are white with a roof sign.[^1]
 
 ### How can I avoid motion sickness on mountain roads?
 

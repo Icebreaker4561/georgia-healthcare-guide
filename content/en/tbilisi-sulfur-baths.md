@@ -26,7 +26,7 @@ og: abanotubani-domes.webp
 > - Today: more than 10
 > - Kartlis Deda: 20 m
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
 
 ## Abanotubani: the bath district {#abanotubani}
 

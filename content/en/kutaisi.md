@@ -29,7 +29,7 @@ og: kutaisi-rioni.webp
 > - Hottest: August, 30.2 °C
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Things to do in Kutaisi {#things-to-do}
 
@@ -128,7 +128,7 @@ Official advice is short: wash your hands, and treat a stomach bug with fluids a
 
 **From the tap.** The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) lists, among health risks in Georgia, "varying water quality – bottled water is widely available".[^6] We add no verdict of our own.
 
-**Food and hands.** Canada's [travel advice](https://travel.gc.ca/destinations/georgia) tells visitors to "wash your hands often".[^8] It also says: "Travellers' diarrhea is the most common illness that affects travellers."[^8]
+**Food and hands.** The Government of Canada's [travel advice](https://travel.gc.ca/destinations/georgia) tells visitors to "wash your hands often".[^8] It also says: "Travellers' diarrhea is the most common illness that affects travellers."[^8]
 
 **Symptoms.** The [NHS page on food poisoning](https://www.nhs.uk/conditions/food-poisoning/) lists "feeling sick or being sick", diarrhoea, "tummy pain" and "a high temperature".[^9]
 

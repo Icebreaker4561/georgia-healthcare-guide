@@ -29,7 +29,7 @@ og: jvari-confluence.webp
 > - Светицховели: 1010–1029
 > - Скорая: 112
 
-Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в «[Путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)».
 
 ## Что посмотреть в Мцхете {#chto-posmotret}
 

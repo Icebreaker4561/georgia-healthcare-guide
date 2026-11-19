@@ -28,7 +28,7 @@ og: customs-medicine-bag.webp
 > - Аптеки: три группы
 > - Экстренно: 112
 
-Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в «[Путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)».
 
 ## Сколько лекарств можно ввезти: правило 10 упаковок {#10-upakovok}
 

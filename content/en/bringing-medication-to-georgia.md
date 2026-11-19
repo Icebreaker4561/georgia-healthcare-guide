@@ -19,7 +19,7 @@ og: customs-medicine-bag.webp
 > - Pharmacies sell group III to anyone; for the rest you need a local doctor.[^4]
 > - On the IRAO travel policy, medicines a doctor prescribes for a sudden illness are paid up to 2,000 GEL; self-medication is not.
 
-This page is about the country in the Caucasus — Tbilisi, Batumi and the mountains — not the US state. It is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
+This page is about the country in the Caucasus — Tbilisi, Batumi and the mountains — not the US state. It is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
 
 ## What medicine is allowed in Georgia: the 10-pack rule {#ten-packs}
 
@@ -110,7 +110,7 @@ If you think you need them, see a doctor during your trip. The doctor decides on
 
 Do not count on it. We found no rule that makes a paper prescription from abroad valid here.
 
-Since 1 March 2022, group II drugs have been prescribed electronically, under [Order No. 01-17/N on electronic prescriptions (Matsne, Georgian text)](https://matsne.gov.ge/ka/document/view/5392864); paper is kept only for rural doctors and system failures.[^5] Since 11 April 2022, psychotropics need electronic form No. 2, valid for no more than 14 days, under [Order No. 01-31/N (Matsne, Georgian text)](https://www.matsne.gov.ge/ka/document/download/5433415/0/ge/pdf).[^6]
+Since 1 March 2022, group II drugs have been prescribed electronically, under [Order No. 01-17/N on electronic prescriptions (Matsne, Georgian text)](https://matsne.gov.ge/ka/document/view/5392864); paper is kept only for rural doctors and system failures.[^5] Since 11 April 2022, psychotropics need electronic form No. 2, valid for no more than 14 days, under [Order No. 01-31/N (Matsne, local language)](https://www.matsne.gov.ge/ka/document/download/5433415/0/ge/pdf).[^6]
 
 Electronic ones are tied to the patient's personal number.[^5] If you have no local personal number, ask the doctor or clinic how they will issue it.
 

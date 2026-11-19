@@ -29,7 +29,7 @@ og: tskaltubo-spa-town.webp
 > - Resort course: 14–21 days (resort site)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## What Tskaltubo is {#town}
 

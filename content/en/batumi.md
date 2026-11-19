@@ -28,7 +28,7 @@ og: batumi-boulevard.webp
 > - Rain a year: about 2,500 mm
 > - Emergency number: 112
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
 
 ## Things to do in Batumi {#things-to-do}
 
@@ -148,7 +148,7 @@ Both are about 33~km inland, on the Adjaristskali river. A GoBatumi [article fro
 
 **The waterfall.** It is across the road from the bridge, about a 5-minute walk.
 
-**Help is further away.** Canada's [travel advice](https://travel.gc.ca/destinations/georgia) warns: "In rural areas, there are shortages of medical supplies and personnel."[^16] Our tip: wear shoes with grip on wet rocks by the river, carry water and keep 112 saved on your phone.
+**Help is further away.** The Government of Canada's [travel advice](https://travel.gc.ca/destinations/georgia) warns: "In rural areas, there are shortages of medical supplies and personnel."[^16] Our tip: wear shoes with grip on wet rocks by the river, carry water and keep 112 saved on your phone.
 
 ## Getting to Batumi from Tbilisi {#getting-there}
 
@@ -158,7 +158,7 @@ Our tip: the train is the simplest option. Georgian Railway's [general timetable
 
 ## Hospitals and medical help in Batumi {#health}
 
-Good care is available in the city. Canada's [travel advice](https://travel.gc.ca/destinations/georgia), last updated 27 August 2026, says: "High-quality medical services and facilities are generally available in major cities, such as Tbilisi and Batumi."[^16] It also warns: "Medical personnel may not speak English. Medical services can be expensive, and immediate up-front cash payment is often required."[^16]
+Good care is available in the city. The Government of Canada's [travel advice](https://travel.gc.ca/destinations/georgia), last updated 27 August 2026, says: "High-quality medical services and facilities are generally available in major cities, such as Tbilisi and Batumi."[^16] It also warns: "Medical personnel may not speak English. Medical services can be expensive, and immediate up-front cash payment is often required."[^16]
 
 **In an emergency.** Dial 112. GoBatumi calls it the "unified emergency number for police, fire rescue and medical services".[^10] The UK's [travel advice on health](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance. Contact your insurance company quickly if you're referred to a medical facility for treatment."[^17]
 
@@ -186,7 +186,7 @@ From the beginning of May, says GoBatumi, and the sea is "even more pleasant" in
 
 ### Is there good medical care in Batumi?
 
-In the city, yes, says Canada's travel advice, but staff may not speak English and care can be expensive, often paid up front in cash.[^16] Outside the city, care is limited.
+In the city, yes, but staff may not speak English and care can be expensive, often paid up front in cash.[^16] Outside the city, care is limited.
 
 ### What number do I call in an emergency?
 
@@ -198,7 +198,7 @@ For the main sights, yes, in our view: one day for the boulevard and the botanic
 
 ### Do people speak English?
 
-Not everyone; Canada warns that medical staff may not.[^16] Keep key details written down and ask the Tourist Information Centre on +995 577 90 90 93.[^10]
+Not everyone, and medical staff may not.[^16] Keep key details written down and ask the Tourist Information Centre on +995 577 90 90 93.[^10]
 
 ## Sources {#sources}
 

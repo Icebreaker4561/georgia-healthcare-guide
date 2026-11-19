@@ -18,7 +18,7 @@ og: street-dog-tbilisi.webp
 > - See a doctor the same day; do not wait to watch the animal.[^4]
 > - The doctor decides on the course, usually three or four visits.[^2]
 
-This page is about Georgia the country, not the US state, and is part of [our travel guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
+This page is about the country in the Caucasus, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
 
 ## What to do after a dog bite or scratch in Georgia {#first-aid}
 

@@ -376,6 +376,14 @@
       "pair": "kutaisi"
     },
     {
+      "slug": "tbilisi",
+      "lang": "en",
+      "src": "content/en/tbilisi.md",
+      "section": "destinations",
+      "kicker": "Destinations",
+      "pair": "tbilisi"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",

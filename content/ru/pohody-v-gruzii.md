@@ -29,7 +29,7 @@ og: georgia-trail.webp
 > - Полис: от 30 000 лари
 > - Скорая: 112
 
-Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в «[Путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)».
 
 ## Куда идти: горы Грузии для походов {#kuda}
 

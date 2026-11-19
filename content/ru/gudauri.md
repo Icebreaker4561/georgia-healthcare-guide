@@ -28,7 +28,7 @@ og: ski-patrol-slope.webp
 > - Сезон: декабрь — середина апреля
 > - Экстренный номер: 112
 
-Статья входит в [путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/).
+Статья входит в «[Путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)».
 
 ## Гудаури коротко: высота, сезон и как добраться {#kurort}
 
