@@ -42,7 +42,7 @@ The terminal covers the basics for your first hour in Georgia: a medical point w
 
 **Information Desk and Lost Luggage Office.** Both appear on the airport's list. If your bag has not come off the belt, go to the Lost Luggage Office before you leave the hall, with your baggage tag and boarding pass. That is our advice; the airport's page does not describe the procedure.
 
-<!-- схема: img/airport-arrivals-hall.webp | Craft paper illustration, not a drawing of the real terminal: a traveller with a backpack and a suitcase in a bright airport hall, a plane outside the window | Illustration: a traveller in an airport hall -->
+<!-- схема: img/airport-arrivals-hall.webp | Craft paper illustration, not a drawing of the real terminal: a traveller with a backpack and a suitcase in a bright airport hall, a plane outside the window | Our tip: if your bag has not come off the belt, go to the Lost Luggage Office before you leave the hall -->
 
 <!-- схема: img/arrival-steps.webp | Infographic "Landing in Tbilisi, step by step" in five steps: passport control, with a health and accident policy for at least 30,000 GEL; medical point and pharmacy in the hall; bus 337 (1 GEL for 90 minutes) or taxi (40 GEL, 20–30 minutes) to the centre; feel unwell? Dial 112 | Landing in Tbilisi in five steps, based on the airport's site and GOV.UK, checked 18 November 2026 -->
 
@@ -86,7 +86,7 @@ There are two ways in, both described on the airport's site: municipal bus 337 f
 
 **Our tips for the taxi.** Before you get in, show the driver your address and ask whether it counts as the city centre or a suburb, so you know whether the fare is 40 or 50 GEL. Ask how you can pay before the car moves off.
 
-<!-- схема: img/airport-bus-city.webp | Craft paper illustration, not a drawing of the real route: a city bus on a road heading towards a hilly old city with a TV tower | Illustration: a bus on its way into the city -->
+<!-- схема: img/airport-bus-city.webp | Craft paper illustration, not a drawing of the real route: a city bus on a road heading towards a hilly old city with a TV tower | Bus 337 costs 1 GEL; a taxi from the kerb outside arrivals runs at any hour at a fixed fare -->
 
 ## Feeling unwell after the flight {#unwell}
 

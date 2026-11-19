@@ -44,7 +44,7 @@ It is a small walled town on a hilltop in the far east of the country. [Wikipedi
 
 **Our tip.** The lanes are steep and cobbled. Wear shoes with a good grip, and take extra care on the way back from a tasting.
 
-<!-- схема: img/sighnaghi-hill-town.webp | Canva illustration, not a photo of the real place: a small hill town with red tiled roofs and pastel houses behind a crenellated town wall, cypresses on the slope, vineyard rows in the valley, snowy mountains on the horizon | Illustration: a walled hill town with tiled roofs above vineyards, mountains far away -->
+<!-- схема: img/sighnaghi-hill-town.webp | Canva illustration, not a photo of the real place: a small hill town with red tiled roofs and pastel houses behind a crenellated town wall, cypresses on the slope, vineyard rows in the valley, snowy mountains on the horizon | Our tip: the lanes are steep and cobbled, so wear shoes with a good grip -->
 
 ## Bodbe Monastery and St. Nino {#bodbe}
 
@@ -79,7 +79,7 @@ This is the heart of Georgian winemaking. [Wikipedia](https://en.wikipedia.org/w
 
 **Our tip.** A tasting is a run of small pours, one after another, and they add up. Read the next section before you set off.
 
-<!-- схема: img/kakheti-qvevri.webp | Canva illustration, not a photo of the real place: a vaulted stone cellar lit by a lantern, clay qvevri set into the earthen floor, some open, some with wooden lids, framed by vine leaves and grape bunches | Illustration: clay qvevri set into a cellar floor, some with wooden lids, framed by vines -->
+<!-- схема: img/kakheti-qvevri.webp | Canva illustration, not a photo of the real place: a vaulted stone cellar lit by a lantern, clay qvevri set into the earthen floor, some open, some with wooden lids, framed by vine leaves and grape bunches | Our tip: a tasting is a run of small pours, one after another, and they add up -->
 
 ## Wine tasting without the hangover: NHS advice {#tasting}
 

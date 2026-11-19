@@ -59,7 +59,7 @@ The road into the valley crosses the pass, and the last stretch needs an off-roa
 
 **The pass.** [Wikipedia](https://en.wikipedia.org/wiki/Abano_Pass) calls the Abano Pass "one of the highest drivable mountain passes in the Caucasus", linking Kakheti to the south with Tusheti to the north. It adds: "The damaged road surface allows only 4x4 vehicles to go through."
 
-<!-- схема: img/tusheti-abano-road.webp | Canva illustration, not a photo of the real place: an off-road vehicle on a narrow dirt mountain road with hairpin bends above a steep drop, no guardrails, high green slopes and peaks around | Illustration: an off-road vehicle on a narrow mountain road above a drop -->
+<!-- схема: img/tusheti-abano-road.webp | Canva illustration, not a photo of the real place: an off-road vehicle on a narrow dirt mountain road with hairpin bends above a steep drop, no guardrails, high green slopes and peaks around | Kvemo Alvani to Omalo is 80 km, about 4 h, and possible only by off-road vehicle -->
 
 **Rain, snow and landslides.** The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns that "heavy rain, flooding and snow at higher altitudes can affect roads and bridges making travel difficult or impossible (particularly in remote areas)" and that "landslides are common". In remote areas, it says, "make sure your vehicle is suitable for off-road driving and check weather conditions locally."
 
@@ -147,7 +147,7 @@ In summer you may meet dogs guarding the flocks; a bite or even a scratch needs 
 
 **What that means in Tusheti.** Treatment is in Tbilisi and major towns, and from the valley any town is hours away: the park puts Telavi at about 4 h 30 min. Our tip: after a bite, end the trip and go down at once.
 
-<!-- схема: img/tusheti-shepherd-dogs.webp | Canva illustration, not a photo of the real place: a flock of sheep on a high mountain meadow, a large shepherd dog standing guard, stone towers far away on a ridge | Illustration: sheep on a mountain meadow guarded by a large shepherd dog -->
+<!-- схема: img/tusheti-shepherd-dogs.webp | Canva illustration, not a photo of the real place: a flock of sheep on a high mountain meadow, a large shepherd dog standing guard, stone towers far away on a ridge | Our tip: after a dog bite, end the trip and go down at once: treatment is in Tbilisi and major towns -->
 
 **Our tip: near a flock.**
 

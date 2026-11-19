@@ -92,7 +92,7 @@ Main roads in the cities are usually fine; the countryside is harder. Canada say
 
 "In rural areas, traffic signs may only be written in Georgian," Canada adds.
 
-<!-- схема: img/georgia-mountain-road-car.webp | Craft paper illustration, not a photo of a real place: a small car on a winding mountain road with hairpin bends, two cows standing on the roadside, green slopes and snowy peaks behind | Illustration: a car on a mountain road, with cows standing at the roadside -->
+<!-- схема: img/georgia-mountain-road-car.webp | Craft paper illustration, not a photo of a real place: a small car on a winding mountain road with hairpin bends, two cows standing on the roadside, green slopes and snowy peaks behind | Canada warns rural roads can be dangerous: stray livestock, uneven surfaces and insufficient lighting -->
 
 **What GOV.UK adds.** Its list of conditions says that "road markings and the right of way can be confusing", "many cars are poorly maintained" and "driving can be erratic". Outside Tbilisi, especially in remote areas, it advises making sure your vehicle "is suitable for off-road driving" and checking the weather locally.
 
@@ -112,7 +112,7 @@ Plan to arrive before dark, and in the cold months expect snow and closures high
 
 **Winter tyres.** Canada is clear: "If you're driving in mountainous areas in the winter, you must have snow tires or chains on your vehicle."
 
-<!-- схема: img/georgia-winter-road.webp | Craft paper illustration, not a photo of a real place: a small car with snow chains on its wheels and luggage on the roof, driving on a snowy mountain road between snow banks, snowy fir trees and white peaks, light snowfall | Illustration: a car with snow chains on a snowy mountain road -->
+<!-- схема: img/georgia-winter-road.webp | Craft paper illustration, not a photo of a real place: a small car with snow chains on its wheels and luggage on the roof, driving on a snowy mountain road between snow banks, snowy fir trees and white peaks, light snowfall | Canada: in mountainous areas in winter, you must have snow tires or chains on your vehicle -->
 
 **Our tip: on a mountain day.**
 

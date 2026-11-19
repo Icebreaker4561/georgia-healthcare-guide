@@ -41,7 +41,7 @@ It is a small town in western Georgia, built around warm mineral springs. [Wikip
 
 **What the resort focused on.** Wikipedia describes the resort's focus as "balneotherapy for circulatory, nervous, musculo-skeletal, gynaecological and skin diseases". Since the 1970s, it adds, the resort's repertoire "has included 'speleotherapy'". We report this as history, not as a promise.
 
-<!-- схема: img/tskaltubo-spa-town.webp | Canva illustration, not a photo of the real place: a Soviet spa building with a long colonnade of white columns and a wide staircase, in a green park with tall plane trees, a winding path with flower beds and three small figures walking, no text | Illustration: a colonnaded Soviet spa building in a park -->
+<!-- схема: img/tskaltubo-spa-town.webp | Canva illustration, not a photo of the real place: a Soviet spa building with a long colonnade of white columns and a wide staircase, in a green park with tall plane trees, a winding path with flower beds and three small figures walking, no text | The springs' natural temperature is 33–35 °C, so the water is used without heating, says Wikipedia -->
 
 ## Radon baths and Spring No. 6 {#radon}
 
@@ -118,7 +118,7 @@ Wikipedia says most of the Soviet sanatoria are now abandoned and in ruins; some
 
 **Today.** "Most of the Soviet sanatoria are now abandoned and in ruins," Wikipedia says.
 
-<!-- схема: img/tskaltubo-sanatorium.webp | Canva illustration, not a photo of the real place: an abandoned neoclassical building with columns and a triangular pediment, broken windows, ivy and young trees growing over the facade and the front steps | Illustration: an overgrown neoclassical spa building -->
+<!-- схема: img/tskaltubo-sanatorium.webp | Canva illustration, not a photo of the real place: an abandoned neoclassical building with columns and a triangular pediment, broken windows, ivy and young trees growing over the facade and the front steps | Our tip: treat every ruin as unsafe, and do not go inside without an invitation -->
 
 **Our tip.** We found no official source on whether these buildings are sound. Treat every ruin as unsafe.
 

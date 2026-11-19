@@ -39,7 +39,7 @@ Expect a short walk on a loop path and an optional boat ride on the river. The p
 
 **Status.** The site is a Natural Monument in the IUCN classification of protected areas.
 
-<!-- схема: img/martvili-canyon-boat.webp | Craft paper illustration, not a photo of the real place: a narrow gorge with green water between mossy rock walls, two waterfalls falling from the walls, an inflatable boat with several people in safety vests holding paddles | Illustration: an inflatable boat with people in safety vests in a narrow green gorge with waterfalls -->
+<!-- схема: img/martvili-canyon-boat.webp | Craft paper illustration, not a photo of the real place: a narrow gorge with green water between mossy rock walls, two waterfalls falling from the walls, an inflatable boat with several people in safety vests holding paddles | The 700 m loop trail starts at the visitors' centre, with 2 bridges and 3 viewing platforms -->
 
 ### Martvili Canyon boat {#martvili-boat}
 
@@ -78,7 +78,7 @@ Plan 2–3 hours on foot: a forest path, a 780~m hanging trail fixed to the clif
 
 **Our tip: if you are afraid of heights.** Walk the forest part first and see how you feel. On the metal walkway, look at the path ahead rather than down and hold the handrail without leaning on it. Turning back is always fine.
 
-<!-- схема: img/okatse-hanging-trail.webp | Craft paper illustration, not a photo of the real place: a metal hanging walkway with railings fixed along a vertical rock face above a forested gorge | Illustration: a metal hanging walkway along a cliff above a forested gorge -->
+<!-- схема: img/okatse-hanging-trail.webp | Craft paper illustration, not a photo of the real place: a metal hanging walkway with railings fixed along a vertical rock face above a forested gorge | No children under 6 on the hanging trail, and no walking in rain or snow, says the park's guide -->
 
 ## Prometheus Cave (Kumistavi) {#prometheus}
 
@@ -96,7 +96,7 @@ The cave is in the village of Kumistavi, Tskaltubo municipality, about 34~km fro
 
 **Our tip: layers and grip.** Floors underground can be wet, so wear sports shoes with a good grip. Bring a light layer you can put on or take off: the air in the halls is not the weather outside, and from spring to autumn the route ends on the water (the park lists the cave boat for those seasons).
 
-<!-- схема: img/prometheus-cave-halls.webp | Craft paper illustration, not a photo of the real cave: a large cave hall with stalactites hanging from the ceiling and stalagmites rising from the floor, a lit walkway with a railing winding between them, and an underground river with a small boat | Illustration: a cave hall with stalactites, stalagmites, a lit walkway and an underground river with a boat -->
+<!-- схема: img/prometheus-cave-halls.webp | Craft paper illustration, not a photo of the real cave: a large cave hall with stalactites hanging from the ceiling and stalagmites rising from the floor, a lit walkway with a railing winding between them, and an underground river with a small boat | Only 6 of the cave's 22 halls are open, and boating is prohibited if the water level rises -->
 
 ## Planning the day from Kutaisi: distances, hours and Mondays {#plan}
 

@@ -35,7 +35,7 @@ This page is about Georgia the country, not the US state, and is part of [our tr
 
 Late spring and early autumn, in our reading of the figures. In the capital, May and June have average highs of 23.7 and 28.5 °C. September and October have 26.2 and 20.0 °C. That is warm, but below the July and August peak.
 
-<!-- схема: img/georgia-four-seasons.webp | Canva illustration, not a photo of the real place: four seasons in one scene: blossoming trees on green hills, a hill town with red roofs, vineyards, autumn trees and snowy mountains with snowfall on the right | Illustration: hills with a town, vineyards and snowy peaks in one scene -->
+<!-- схема: img/georgia-four-seasons.webp | Canva illustration, not a photo of the real place: four seasons in one scene: blossoming trees on green hills, a hill town with red roofs, vineyards, autumn trees and snowy mountains with snowfall on the right | In Tbilisi, May and June average highs of 23.7 and 28.5 °C; September and October, 26.2 and 20.0 °C -->
 
 **Our reading, not a forecast.** The figures are long-term averages, and the choices below are ours.
 
@@ -106,7 +106,7 @@ The capital is cool by day and near freezing at night. The mountains bring snow,
 
 Expect cool days and nights around freezing. January averages 6.9 °C by day and −0.6 °C at night; December averages 8.1 and 1.2 °C. Snow falls on about 22 days a year, most often in January and February. Our tip: bring a warm coat and shoes with grip for snowy days.
 
-<!-- схема: img/georgia-winter-mountains.webp | Canva illustration, not a photo of the real place: a snowy mountain road with a small car, and a ski slope with a gondola lift and skiers above it | Illustration: a snowy mountain road and a ski slope -->
+<!-- схема: img/georgia-winter-mountains.webp | Canva illustration, not a photo of the real place: a snowy mountain road with a small car, and a ski slope with a gondola lift and skiers above it | Our tip for Tbilisi in winter: bring a warm coat and shoes with grip for snowy days -->
 
 ### Mountain roads
 

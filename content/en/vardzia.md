@@ -47,7 +47,7 @@ It is a 12th-century monastery carved into a cliff and consecrated in the reign 
 
 **UNESCO.** Wikipedia says the wider Vardzia–Khertvisi area "has been submitted for future inscription on the UNESCO World Heritage List". It has not been inscribed.
 
-<!-- схема: img/vardzia-cliff.webp | Craft paper illustration, not a photo of the real place: one long cliff wall with many tiers of carved openings, stone steps between them, bushes at its foot and a river in the valley below | Illustration: a long cliff with tiers of carved openings and stone steps above a river -->
+<!-- схема: img/vardzia-cliff.webp | Craft paper illustration, not a photo of the real place: one long cliff wall with many tiers of carved openings, stone steps between them, bushes at its foot and a river in the valley below | Vardzia was built mainly between 1156 and 1203 and consecrated in 1185, says the Encyclopedia -->
 
 <!-- схема: img/vardzia-timeline.webp | Infographic, a horizontal timeline with seven points: 1156 construction begins; 1185 consecration; 1203 main construction ends; 1283 earthquake; 1938 museum-reserve; 2008 National Agency for Cultural Heritage Preservation; 2026 rockfalls, a section closed; source line: Georgian Encyclopedia, Wikipedia, Georgia Today | Timeline: construction begins in 1156, consecration in 1185, main construction ends in 1203, the earthquake of 1283, museum-reserve in 1938, the heritage agency from 2008, rockfalls and a closed section in 2026 -->
 
@@ -71,7 +71,7 @@ The main church is the Church of the Dormition, known for its wall paintings. Th
 - Water and a hat: much of the walk is on an open cliff face.
 - A small backpack rather than a bag, so you can hold the rail with both hands.
 
-<!-- схема: img/vardzia-church-fresco.webp | Craft paper illustration, not a photo of the real place: the interior of a small church cut into rock, an arched vault and walls covered with faded wall paintings in ochre, blue and red, a few candles on a ledge; no close-up faces of saints, no text | Illustration: the inside of a rock-cut church with wall paintings and candles -->
+<!-- схема: img/vardzia-church-fresco.webp | Craft paper illustration, not a photo of the real place: the interior of a small church cut into rock, an arched vault and walls covered with faded wall paintings in ochre, blue and red, a few candles on a ledge; no close-up faces of saints, no text | Our tip: cover shoulders and knees, keep your voice down and ask before taking photos of people -->
 
 ## Rockfalls and the 2026 closure near the Secret Tunnel {#rockfalls}
 

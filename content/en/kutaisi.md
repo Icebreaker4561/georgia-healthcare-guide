@@ -37,7 +37,7 @@ Start with three old churches: Bagrati in the centre, then Gelati and Motsameta 
 
 **An old city.** [Wikipedia](https://en.wikipedia.org/wiki/Kutaisi) calls it "one of the oldest continuously inhabited cities in the world". It says the city is "located along both banks of the Rioni River". The photos in the same article include the White Bridge and the Colchis Fountain.
 
-<!-- схема: img/kutaisi-rioni.webp | Canva illustration, not a photo of the real place: a river running through a town, with two- and three-storey houses with balconies on both banks and a footbridge across the water, green hills behind, no text | Illustration: a river through an old town with a footbridge -->
+<!-- схема: img/kutaisi-rioni.webp | Canva illustration, not a photo of the real place: a river running through a town, with two- and three-storey houses with balconies on both banks and a footbridge across the water, green hills behind, no text | Start with three old churches: Bagrati in the centre, then Gelati and Motsameta outside town -->
 
 ### Bagrati Cathedral
 
@@ -59,7 +59,7 @@ This medieval complex stands near the city and keeps its World Heritage status. 
 
 **Status today.** "The monastery is a UNESCO World Heritage Site," Wikipedia says. It is the half of the 1994 listing that stayed on the list.
 
-<!-- схема: img/gelati-monastery.webp | Canva illustration, not a photo of the real place: a medieval stone Georgian monastery with a cross-in-square church and a tall conical drum dome, a low stone wall and a bell tower, on a green hillside under a clear sky, no text | Illustration: a stone monastery church with a conical dome on a green hill -->
+<!-- схема: img/gelati-monastery.webp | Canva illustration, not a photo of the real place: a medieval stone Georgian monastery with a cross-in-square church and a tall conical drum dome, a low stone wall and a bell tower, on a green hillside under a clear sky, no text | Gelati was founded in 1106 by King David IV and is still a UNESCO World Heritage Site -->
 
 **Our tip.** Our sources give no distance from the centre, so we give none. Agree the return trip with your driver before you set off.
 

@@ -44,7 +44,7 @@ It is the seaside promenade, and it now runs for 7~km. Construction began in 188
 
 **Wi-Fi.** According to GoBatumi's [tips for visitors](https://gobatumi.com/en/gadaadgileba-regionis-signit), there is public Wi-Fi along the boulevard.
 
-<!-- схема: img/batumi-boulevard.webp | Craft paper illustration, not a photo of the real place: a seaside promenade lined with palm trees, a pebble shore and the sea | Illustration: a palm-lined promenade above a pebble shore -->
+<!-- схема: img/batumi-boulevard.webp | Craft paper illustration, not a photo of the real place: a seaside promenade lined with palm trees, a pebble shore and the sea | The promenade now runs for 7 km, and GoBatumi says there is public Wi-Fi along the boulevard -->
 
 ### Old Batumi: Piazza and Europe Square {#old-town}
 
@@ -62,7 +62,7 @@ The garden is about 9~km from the city and was founded in 1912 by professor Andr
 
 **Our tip: wear shoes for slopes.** The garden rises from sea level to 220~m, so expect steady ups and downs. In summer, go in the morning and carry water.
 
-<!-- схема: img/batumi-botanical-garden.webp | Craft paper illustration, not a photo of the real garden: a subtropical garden with palms and dense trees on a green hillside above the sea | Illustration: a subtropical garden on a slope above the sea -->
+<!-- схема: img/batumi-botanical-garden.webp | Craft paper illustration, not a photo of the real garden: a subtropical garden with palms and dense trees on a green hillside above the sea | Our tip: the garden rises to 220 m, so wear shoes for slopes, and in summer go in the morning -->
 
 ## Batumi beach and the sea {#beach}
 

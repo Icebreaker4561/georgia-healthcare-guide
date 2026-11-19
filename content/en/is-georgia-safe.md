@@ -100,7 +100,7 @@ Canada adds that official taxis "are recognizable by their white colour and roof
 
 "Prices may be quoted in US dollars and euros, but goods and services must be paid for in local currency (lari)," GOV.UK explains, and "Outside major towns, you may not find ATMs or be able to use credit and debit cards." Our tip: take out cash in Tbilisi before you head for the regions.
 
-<!-- схема: img/safety-tbilisi-evening.webp | Illustration, not a photo of a real place: an evening in Tbilisi's old town, people walking along a lit street under carved wooden balconies | Illustration: an evening walk in old Tbilisi -->
+<!-- схема: img/safety-tbilisi-evening.webp | Illustration, not a photo of a real place: an evening in Tbilisi's old town, people walking along a lit street under carved wooden balconies | Our tip: take out cash in Tbilisi, as outside major towns you may not find ATMs, says GOV.UK -->
 
 ## Is Georgia safe for solo female travellers? {#women}
 
@@ -142,7 +142,7 @@ In our reading, getting around carries more risk than the streets. Canada says: 
 - If you hire a driver, check that the rear seatbelts work, and wear one.
 - In bad weather, wait a day rather than cross a mountain pass.
 
-<!-- схема: img/safety-mountain-road.webp | Craft paper illustration, not a photo of a real place: a winding mountain road with a car and cows standing on the roadside | Illustration: a mountain road with cattle on the roadside -->
+<!-- схема: img/safety-mountain-road.webp | Craft paper illustration, not a photo of a real place: a winding mountain road with a car and cows standing on the roadside | Our tip: avoid driving at night outside the cities, above all on mountain roads -->
 
 ## Health risks: dogs, water, altitude and the cost of care {#health}
 

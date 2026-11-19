@@ -51,7 +51,7 @@ It is a town carved into a high rocky river bank, with halls, passages and steps
 - A hat and sunscreen: much of the walk is on open rock.
 - A small backpack rather than a hand bag, so you can use both hands on the steps.
 
-<!-- схема: img/uplistsikhe-rock-town.webp | Craft paper illustration, not a photo of the real place: a low flat-topped sandstone plateau beside a river, its top cut into open rock rooms, niches and a central rock-cut street with steps, a few tiny visitors | Illustration: open rock-cut rooms and a central street on a low plateau above a river -->
+<!-- схема: img/uplistsikhe-rock-town.webp | Craft paper illustration, not a photo of the real place: a low flat-topped sandstone plateau beside a river, its top cut into open rock rooms, niches and a central rock-cut street with steps, a few tiny visitors | Our tip: wear shoes with a good grip, as the stone is uneven, the steps worn and the tunnel narrow -->
 
 ## Gori: the fortress and the Stalin Museum {#gori}
 
@@ -65,7 +65,7 @@ Two well-known sights stand in the town itself: a medieval citadel and a museum.
 
 **Hours and tickets.** We give only the facts above and do not quote hours or ticket prices; check at the entrance.
 
-<!-- схема: img/gori-fortress-hill.webp | Craft paper illustration, not a photo of the real place: weathered stone fortress walls with square bastions along a rocky hilltop, white-walled houses and trees below, snowy mountains behind | Illustration: stone fortress walls on a rocky hill above a town -->
+<!-- схема: img/gori-fortress-hill.webp | Craft paper illustration, not a photo of the real place: weathered stone fortress walls with square bastions along a rocky hilltop, white-walled houses and trees below, snowy mountains behind | Our tip: the same grippy shoes you wear at the rock town will help on the fortress hill -->
 
 ## Gori and the South Ossetia line: where not to go {#boundary}
 

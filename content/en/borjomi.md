@@ -65,7 +65,7 @@ The park is the place to taste the water straight from the ground. Georgia's [to
 
 **Our suggestion.** Walk the park slowly, taste at the spring, take the cable car up for the view, then follow the marked path on into the forest to the sulfur pools. Wear shoes you can walk in: the path continues for about 2.5~km.
 
-<!-- схема: img/borjomi-park-spring.webp | Craft paper illustration, not a drawing of the real place: a drinking spring in a green park with old trees and a path leading into the forest | Illustration: a mineral spring in the town's park -->
+<!-- схема: img/borjomi-park-spring.webp | Craft paper illustration, not a drawing of the real place: a drinking spring in a green park with old trees and a path leading into the forest | The spring water "won't be bubbly", warns georgia.travel; our tip: bring a cup or a small bottle -->
 
 ### Borjomi sulfur pools {#sulfur-pools}
 
@@ -97,7 +97,7 @@ It is a large protected area with marked trails, and the first national park sin
 
 **Help can be far away.** [UK government advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Outside Tbilisi, medical facilities are limited." On a trail, help can take a long time to reach you, so in an emergency dial 112 straight away.
 
-<!-- схема: img/borjomi-national-park-trail.webp | Craft paper illustration, not a drawing of the real park: a marked hiking trail through a forested valley | Illustration: a marked forest trail; the real park has 12 marked trails -->
+<!-- схема: img/borjomi-national-park-trail.webp | Craft paper illustration, not a drawing of the real park: a marked hiking trail through a forested valley | On a trail, help can take a long time to reach you: in an emergency, dial 112 straight away -->
 
 ## Tbilisi to Borjomi: getting there {#getting-there}
 

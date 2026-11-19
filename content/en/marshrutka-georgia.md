@@ -43,7 +43,7 @@ It is a minibus that strangers share, somewhere between a cab and a route servic
 
 **Our tip.** If a route matters to your plans, ask your host or the place you are going how to get there on the day.
 
-<!-- схема: img/marshrutka-road.webp | Canva illustration, not a photo of the real place: a white minibus on a winding mountain road with hairpin bends, green slopes and peaks behind, no lettering, no number plates, no text | Illustration: a white minibus on a winding mountain road -->
+<!-- схема: img/marshrutka-road.webp | Canva illustration, not a photo of the real place: a white minibus on a winding mountain road with hairpin bends, green slopes and peaks behind, no lettering, no number plates, no text | Our tip: if a route matters, ask your host or the place you are going how to get there on the day -->
 
 ## What official advice says {#official-advice}
 

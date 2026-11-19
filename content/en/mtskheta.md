@@ -75,7 +75,7 @@ The monastery sits on a rocky cliff to the east of Mtskheta and looks down on th
 
 **Getting up there.** It stands apart from the town, on its own cliff, so plan it as a separate leg of the day; see [getting there](#getting-there).
 
-<!-- схема: img/jvari-confluence.webp | Craft paper illustration, not a drawing of the real building: a small stone cross-domed monastery on a rocky cliff, looking down on a town and a river valley | Illustration: a monastery on a cliff above the town -->
+<!-- схема: img/jvari-confluence.webp | Craft paper illustration, not a drawing of the real building: a small stone cross-domed monastery on a rocky cliff, looking down on a town and a river valley | Monks have lived at Jvari since 1996: dress modestly, keep quiet and ask before photographing anyone -->
 
 ## Svetitskhoveli Cathedral {#svetitskhoveli}
 
@@ -87,7 +87,7 @@ The cathedral was built in the 11th century, between 1010 and 1029. The [Nationa
 
 **The walk through the market.** On the way to the cathedral you pass what [georgia.travel](https://georgia.travel/cities-towns/mtskheta) calls "a bustling marketplace full of local artisans, wine vendors…". Browse it on the way back, once you have seen the churches.
 
-<!-- схема: img/svetitskhoveli-courtyard.webp | Craft paper illustration: a tall medieval stone cathedral with a pointed dome inside a walled courtyard | Illustration: a cathedral courtyard; the real Svetitskhoveli was built in 1010–1029 -->
+<!-- схема: img/svetitskhoveli-courtyard.webp | Craft paper illustration: a tall medieval stone cathedral with a pointed dome inside a walled courtyard | Svetitskhoveli was built in 1010–1029, according to the National Encyclopedia of Georgia -->
 
 ### Samtavro Monastery {#samtavro}
 

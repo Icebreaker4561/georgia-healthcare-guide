@@ -47,7 +47,7 @@ It is a working monastery carved into a remote, dry hillside. [Wikipedia](https:
 
 **Our tip.** Keep your voice down near the churches and leave plants and animals alone. The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) asks visitors to "be aware of cultural sensitivities around modest dress (particularly in places of worship)".
 
-<!-- схема: img/gareja-cave-monastery.webp | Craft paper illustration, not a photo of the real place: rows of cave openings and cells cut into layered pink and ochre half-desert slopes, sparse low shrubs, a pale sun over the plain | Illustration: caves and cells cut into a dry hillside -->
+<!-- схема: img/gareja-cave-monastery.webp | Craft paper illustration, not a photo of the real place: rows of cave openings and cells cut into layered pink and ochre half-desert slopes, sparse low shrubs, a pale sun over the plain | Our tip: keep your voice down near the churches and leave plants and animals alone -->
 
 ## Lavra and Udabno: what you will see {#monasteries}
 
@@ -65,7 +65,7 @@ You will find a group of monasteries rather than one building. The Lavra is the 
 - Cash. The UK warns: "Outside major towns, you may not find ATMs or be able to use credit and debit cards."
 - Keep to the trodden path.
 
-<!-- схема: img/gareja-desert-path.webp | Craft paper illustration, not a photo of the real place: a narrow trodden path across a dry rocky slope, loose stones and low shrubs, a walker in a wide-brimmed hat with a backpack and a water bottle | Illustration: a dry rocky path across a half-desert slope -->
+<!-- схема: img/gareja-desert-path.webp | Craft paper illustration, not a photo of the real place: a narrow trodden path across a dry rocky slope, loose stones and low shrubs, a walker in a wide-brimmed hat with a backpack and a water bottle | Our tip: carry more water than you think you need, a hat and cash, and keep to the trodden path -->
 
 ## The Azerbaijan border {#border}
 

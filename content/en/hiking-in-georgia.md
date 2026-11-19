@@ -47,7 +47,7 @@ Four areas come up most often: Svaneti, Kazbegi, Tusheti and Lagodekhi. Each has
 
 **Snow.** Wikipedia says Ushguli is "snow-covered for 6 months of the year, and often the road to Mestia is impassable". For the season, see our [best time to visit Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/) guide.
 
-<!-- схема: img/georgia-trail.webp | Canva illustration, not a photo of the real place: a mountain trail climbing to a pass, a walker with a backpack on the path, old stone defensive towers far away in the valley, snowy peaks behind, no text | Illustration: a mountain trail to a pass, with stone towers in the distance -->
+<!-- схема: img/georgia-trail.webp | Canva illustration, not a photo of the real place: a mountain trail climbing to a pass, a walker with a backpack on the path, old stone defensive towers far away in the valley, snowy peaks behind, no text | Mestia lies at 1,500 m and Ushguli at about 2,100 m, both below the 2,500 m altitude-sickness line -->
 
 ### Kazbegi
 
@@ -137,7 +137,7 @@ The main risks are vipers in early summer, shepherds' dogs, lightning and fast-c
 
 **Dogs.** The Tusheti park guide warns: "During the tourist season visitors may encounter shepherds' dogs." GOV.UK lists "rabies – treatment is available in Tbilisi and major towns". It says: "If you're bitten or scratched by a dog, get medical attention immediately." See our [rabies guide](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/).
 
-<!-- схема: img/georgia-meadow-dogs.webp | Canva illustration, not a photo of the real place: an alpine meadow with a flock of sheep and a large shepherd dog standing guard, dark storm clouds gathering over the peaks, no text | Illustration: sheep and a shepherd dog on a mountain meadow, with storm clouds over the peaks -->
+<!-- схема: img/georgia-meadow-dogs.webp | Canva illustration, not a photo of the real place: an alpine meadow with a flock of sheep and a large shepherd dog standing guard, dark storm clouds gathering over the peaks, no text | Our tip: start early, watch the sky and give flocks of sheep a wide berth -->
 
 **Storms and fire.** "Lightning and wildfires are a risk in summer, particularly in the mountains," GOV.UK says.
 

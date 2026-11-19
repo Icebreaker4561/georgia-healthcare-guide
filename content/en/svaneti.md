@@ -42,7 +42,7 @@ The small town is a common base for trips into the region. According to [Wikiped
 
 **The airport.** Wikipedia says the town is "served by the Queen Tamar Airport, which is operated by the state-owned company United Airports of Georgia since 2010". More on getting there [below](#getting-there).
 
-<!-- схема: img/svaneti-towers.webp | Craft paper illustration, not a photo of the real place: tall square stone towers rising between the houses of a mountain village, green slopes and snowy peaks behind | Illustration: stone towers rising above a mountain village, with snowy peaks behind -->
+<!-- схема: img/svaneti-towers.webp | Craft paper illustration, not a photo of the real place: tall square stone towers rising between the houses of a mountain village, green slopes and snowy peaks behind | Mestia sits at 1,500 m and is a common base for trips into the region -->
 
 ## Ushguli: five villages at 2,100 m {#ushguli}
 
@@ -58,7 +58,7 @@ Ushguli is not one village but a cluster of them. [Wikipedia](https://en.wikiped
 
 **Snow.** Wikipedia says the community is "snow-covered for 6 months of the year, and often the road to Mestia is impassable". If you plan a visit outside summer, read [the section on seasons](#when) first.
 
-<!-- схема: img/ushguli-shkhara.webp | Craft paper illustration, not a photo of the real place: small stone hamlets with towers on green slopes, a winding gravel road, snowy peaks and a glacier behind | Illustration: hamlets with stone towers below snowy peaks and a glacier -->
+<!-- схема: img/ushguli-shkhara.webp | Craft paper illustration, not a photo of the real place: small stone hamlets with towers on green slopes, a winding gravel road, snowy peaks and a glacier behind | Ushguli is snow-covered for 6 months a year, and the road to Mestia is often impassable -->
 
 ## Hikes from Mestia: Koruldi Lakes and Chalaadi Glacier {#hikes}
 
