@@ -165,6 +165,13 @@
       "kicker": "Destinations"
     },
     {
+      "slug": "kutaisi",
+      "lang": "en",
+      "src": "content/en/kutaisi.md",
+      "section": "destinations",
+      "kicker": "Destinations"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
