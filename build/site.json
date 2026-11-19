@@ -74,6 +74,15 @@
       "key": "borjomi-ru"
     },
     {
+      "slug": "kutaisi",
+      "lang": "ru",
+      "src": "content/ru/kutaisi.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "kutaisi",
+      "key": "kutaisi-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -179,7 +188,8 @@
       "lang": "en",
       "src": "content/en/kutaisi.md",
       "section": "destinations",
-      "kicker": "Destinations"
+      "kicker": "Destinations",
+      "pair": "kutaisi"
     },
     {
       "slug": "tbilisi-airport",
