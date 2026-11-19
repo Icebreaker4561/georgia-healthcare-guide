@@ -209,6 +209,15 @@
       "key": "martvili-canyon-ru"
     },
     {
+      "slug": "pohody-v-gruzii",
+      "lang": "ru",
+      "src": "content/ru/pohody-v-gruzii.md",
+      "section": "practical",
+      "kicker": "Полезное",
+      "pair": "hiking-in-georgia",
+      "key": "hiking-in-georgia-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -357,7 +366,8 @@
       "lang": "en",
       "src": "content/en/hiking-in-georgia.md",
       "section": "practical",
-      "kicker": "Practical"
+      "kicker": "Practical",
+      "pair": "hiking-in-georgia"
     },
     {
       "slug": "marshrutka-georgia",
