@@ -127,6 +127,13 @@
       "kicker": "Destinations"
     },
     {
+      "slug": "david-gareja",
+      "lang": "en",
+      "src": "content/en/david-gareja.md",
+      "section": "destinations",
+      "kicker": "Destinations"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
