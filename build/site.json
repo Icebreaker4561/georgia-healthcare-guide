@@ -28,7 +28,8 @@
       "lang": "en",
       "src": "content/en/bringing-medication-to-georgia.md",
       "section": "medicines",
-      "kicker": "Medicines"
+      "kicker": "Medicines",
+      "pair": "bringing-medication-to-georgia"
     },
     {
       "slug": "rabies-georgia",
@@ -234,6 +235,15 @@
       "kicker": "Полезное",
       "pair": "is-georgia-safe",
       "key": "is-georgia-safe-ru"
+    },
+    {
+      "slug": "lekarstva-v-gruziyu",
+      "lang": "ru",
+      "src": "content/ru/lekarstva-v-gruziyu.md",
+      "section": "practical",
+      "kicker": "Полезное",
+      "pair": "bringing-medication-to-georgia",
+      "key": "bringing-medication-to-georgia-ru"
     },
     {
       "slug": "gudauri-altitude",
