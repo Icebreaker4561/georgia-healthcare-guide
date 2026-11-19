@@ -141,6 +141,13 @@
       "kicker": "Destinations"
     },
     {
+      "slug": "sighnaghi",
+      "lang": "en",
+      "src": "content/en/sighnaghi.md",
+      "section": "destinations",
+      "kicker": "Destinations"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
