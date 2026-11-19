@@ -212,7 +212,9 @@ def render_block(b, section):
         head, data = rows[0], rows[1:]
         th = "".join(f"<th scope=\"col\">{inline(c)}</th>" for c in head)
         tr = "".join("<tr>" + "".join(f"<td data-label=\"{esc(re.sub(r'[*]', '', head[i]))}\">{inline(c)}</td>" for i, c in enumerate(r)) + "</tr>" for r in data)
-        return f'<div class="tbl"><table><thead><tr>{th}</tr></thead><tbody>{tr}</tbody></table></div>'
+        # Числовая таблица (все ячейки, кроме первой колонки, до 6 знаков) остаётся сеткой на телефоне — tests/test_compact_table.py
+        num = all(len(re.sub(r"[*~]", "", c)) <= 6 for r in data for c in r[1:])
+        return f'<div class="tbl{" num" if num else ""}"><table><thead><tr>{th}</tr></thead><tbody>{tr}</tbody></table></div>'
     if re.match(r"^(- |\d+\. )", first):
         ordered = bool(re.match(r"\d+\. ", first))
         items, cur = [], None

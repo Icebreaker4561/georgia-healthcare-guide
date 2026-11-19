@@ -96,6 +96,11 @@ td:first-child{font-weight:600}
   tr{border:1px solid var(--line);border-radius:var(--r);padding:6px 0;margin:0 0 12px;background:var(--paper)}
   td,tbody tr:last-child td{border:0;padding:6px 14px}
   td:before{content:attr(data-label);display:block;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-mute);font-weight:600}
+  .tbl.num{border:1px solid var(--line);overflow:hidden}
+  .tbl.num table{display:table}.tbl.num thead{display:table-header-group;position:static}.tbl.num tbody{display:table-row-group}
+  .tbl.num tr{display:table-row;border:0;padding:0;margin:0;background:none}
+  .tbl.num td,.tbl.num th{display:table-cell;padding:8px 8px;border-bottom:1px solid var(--line)}
+  .tbl.num td:before{content:none}
 }
 /* вопросы */
 .faq .qa{border-bottom:1px solid var(--line)}

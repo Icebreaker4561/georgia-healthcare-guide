@@ -164,7 +164,7 @@ Help in the mountains may be limited. GOV.UK: "If you get into trouble during hi
 
 You pay for treatment as you go. GOV.UK says: "Medical facilities in Tbilisi are available but can be expensive. Outside Tbilisi, medical facilities are limited." And: "The UK does not have a reciprocal healthcare agreement with Georgia. You or your travel insurer will need to pay for all treatment as it's provided."
 
-100doc.ge, an outside site, keeps a catalogue of [doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/). Every visitor also needs a health and accident policy for at least 30,000 GEL; our home page explains [the entry rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+The catalogue of [doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/) on 100doc.ge lists clinics in the capital. Every visitor also needs a health and accident policy for at least 30,000 GEL; our home page explains [the entry rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
 
 ## Earthquakes, wildfires and mountain weather {#nature}
 

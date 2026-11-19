@@ -92,6 +92,13 @@
       "kicker": "Destinations"
     },
     {
+      "slug": "batumi",
+      "lang": "en",
+      "src": "content/en/batumi.md",
+      "section": "destinations",
+      "kicker": "Destinations"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
