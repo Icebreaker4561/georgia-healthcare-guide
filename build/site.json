@@ -218,6 +218,15 @@
       "key": "hiking-in-georgia-ru"
     },
     {
+      "slug": "marshrutki-v-gruzii",
+      "lang": "ru",
+      "src": "content/ru/marshrutki-v-gruzii.md",
+      "section": "practical",
+      "kicker": "Полезное",
+      "pair": "marshrutka-georgia",
+      "key": "marshrutka-georgia-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
@@ -374,7 +383,8 @@
       "lang": "en",
       "src": "content/en/marshrutka-georgia.md",
       "section": "practical",
-      "kicker": "Practical"
+      "kicker": "Practical",
+      "pair": "marshrutka-georgia"
     },
     {
       "slug": "is-georgia-safe",
