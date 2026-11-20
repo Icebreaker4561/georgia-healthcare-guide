@@ -401,6 +401,15 @@
       "pair": "bakuriani"
     },
     {
+      "slug": "bakuriani",
+      "lang": "ru",
+      "src": "content/ru/bakuriani.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "bakuriani",
+      "key": "bakuriani-ru"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
