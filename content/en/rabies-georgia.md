@@ -6,6 +6,7 @@ kicker: Bites and vaccines · 2026
 lead: Rabies in Georgia is still found in animals, so take any wound from a dog, cat or other animal seriously. Wash it with soap and running water for 15 minutes, then see a doctor the same day: the doctor decides whether you need a vaccine course.
 crumb: Rabies and dog bites
 nav: Rabies & bites
+section: health
 card: Rabies in Georgia: what to do after a bite
 card_desc: First aid, where to get the vaccine in the capital, the WHO schedule and who pays.
 updated: 2026-11-17

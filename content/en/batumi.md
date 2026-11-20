@@ -6,6 +6,8 @@ kicker: Destinations · 2026
 lead: Batumi is Georgia's second-largest city and the capital of the Autonomous Republic of Adjara, on the Black Sea about 20~km north of the border with Turkey. This guide covers the boulevard and the old town, the botanical garden, the sea, the weather month by month, staying well on hot days, two day trips and where to find a doctor. Sources for every figure and quote are listed at the end.
 crumb: Batumi
 nav: Batumi
+section: places
+region: west
 card: "Batumi: sea, heat and help"
 card_desc: "The Black Sea city: what to see, the beach, weather by month, the summer heat and where to find a doctor."
 updated: 2026-11-19

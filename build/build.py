@@ -39,6 +39,21 @@ UI = {
            "disclaimer": "Это справочная информация, а не медицинская или юридическая консультация. Правила меняются: перед поездкой сверьтесь с официальными источниками.",
            "skip": "К тексту", "menu": "Разделы", "sources": "Источники"},
 }
+# Меню из трёх разделов (владелец 20.11.2026, вариант А). Раздел и регион — в шапке исходника статьи:
+# section: health | places | practical; у мест region; статья о здоровье с region — ещё и среди мест (nav_place).
+SECTIONS = ["health", "places", "practical"]
+SEC_LABEL = {"ru": {"health": "Здоровье и безопасность", "places": "Куда поехать", "practical": "Дорога и быт"},
+             "en": {"health": "Health & safety", "places": "Places", "practical": "Getting around"}}
+REGIONS = ["tbilisi", "mountains", "west", "south-east"]
+REGION_LABEL = {"ru": {"tbilisi": "Тбилиси и рядом", "mountains": "Горы", "west": "Запад и море", "south-east": "Юг и восток"},
+                "en": {"tbilisi": "Tbilisi and around", "mountains": "Mountains", "west": "West and the coast",
+                       "south-east": "South and east"}}
+MENU_BTN = {"ru": "Меню", "en": "Menu"}
+# Меню работает без скрипта (details/summary + флажок). Скрипт только удобство: клик мимо и Esc закрывают раздел.
+MENU_JS = ("document.addEventListener('click',function(e){document.querySelectorAll('details.msec[open]').forEach(function(d){"
+           "if(!d.contains(e.target))d.removeAttribute('open')})});document.addEventListener('keydown',function(e){"
+           "if(e.key==='Escape'){var d=document.querySelector('details.msec[open]');if(d){d.removeAttribute('open');"
+           "d.querySelector('summary').focus()}}});")
 AUTHOR = {"en": "Pavel Sheremetyev", "ru": "Павел Шереметьев"}  # творческий псевдоним (владелец 19.11.2026)
 AI_SITE = {"en": "Georgia Travel Guide", "ru": "сайте «Путеводитель по Грузии»"}
 GUIDE_NAME = {"en": "Georgia Travel Guide", "ru": "Путеводитель по Грузии"}
@@ -250,6 +265,67 @@ def render_block(b, section):
     return f"<p>{inline(' '.join(l.strip() for l in lines))}</p>"
 
 
+def members(lang, sec):
+    """Статьи раздела на языке lang. Среди мест — ещё статьи других разделов с region; места — по регионам,
+    внутри региона первым идёт город, давший региону имя (Тбилиси)."""
+    arts = [p for p in SITE["pages"] if p["lang"] == lang and p["slug"]]
+    if sec != "places":
+        return [p for p in arts if p.get("section") == sec]
+    res = [p for p in arts if p.get("region")]
+    return sorted(res, key=lambda p: (REGIONS.index(p["region"]),
+                                      0 if REGION_LABEL[lang][p["region"]].startswith(p.get("nav", "~")) else 1,
+                                      SITE["pages"].index(p)))
+
+
+def place_label(p):
+    return p.get("nav_place") if p.get("section") != "places" and p.get("nav_place") else p.get("nav") or p["card"]
+
+
+def menu_html(page, pre):
+    lang = page["lang"]
+
+    def link(p, label):
+        cur = ' aria-current="page"' if p is page else ""
+        return f'<li><a href="{pre}{out_rel(p)[:-len("index.html")]}"{cur}>{esc(label)}</a></li>'
+
+    parts = []
+    for s in SECTIONS:
+        ms = members(lang, s)
+        if s == "places":
+            cols = []
+            for r in REGIONS:
+                rs = [p for p in ms if p["region"] == r]
+                if rs:
+                    cols.append(f'<div class="mcol"><p class="mreg">{esc(REGION_LABEL[lang][r])}</p><ul>'
+                                + "".join(link(p, place_label(p)) for p in rs) + "</ul></div>")
+            inner = f'<div class="mpanel mplaces">{"".join(cols)}</div>'
+        else:
+            inner = f'<div class="mpanel"><ul>{"".join(link(p, p.get("nav") or p["card"]) for p in ms)}</ul></div>'
+        parts.append(f'<details class="msec" name="menu" data-sec="{s}"><summary>{esc(SEC_LABEL[lang][s])}</summary>{inner}</details>')
+    return (f'<nav class="menu" aria-label="{UI[lang]["menu"]}"><div class="wrap mbar">{"".join(parts)}</div></nav>')
+
+
+def hubs_html(page, pre):
+    """Главная: три блока карточек по разделам; места — с подзаголовками регионов."""
+    lang = page["lang"]
+
+    def card(p):
+        return (f'<a class="card" href="{pre}{out_rel(p)[:-len("index.html")]}"><span class="card-k">{esc(p.get("kicker", ""))}</span>'
+                f'<span class="card-t">{esc(p["card"])}</span><span class="card-d">{esc(p.get("card_desc", ""))}</span></a>')
+
+    out = []
+    for s in SECTIONS:
+        ms = members(lang, s)
+        if s == "places":
+            body = "".join(f'<h3 class="hub-reg">{esc(REGION_LABEL[lang][r])}</h3><div class="cards">'
+                           + "".join(card(p) for p in ms if p["region"] == r) + "</div>"
+                           for r in REGIONS if any(p["region"] == r for p in ms))
+        else:
+            body = f'<div class="cards">{"".join(card(p) for p in ms)}</div>'
+        out.append(f'<section class="hub" id="{s}" aria-labelledby="h-{s}"><h2 id="h-{s}">{esc(SEC_LABEL[lang][s])}</h2>{body}</section>')
+    return "".join(out)
+
+
 def fmt_date(d, lang):
     y, m, dd = map(int, d.split("-"))
     return f"{dd} {MONTHS[lang][m - 1]} {y}"
@@ -278,16 +354,18 @@ def page_html(page, meta, body, toc, faq):
     lang_switch = (f'<a class="lang" href="{pre}{out_rel(lang_link)[:-len("index.html")] or "./"}" hreflang="{lang_link["lang"]}" '
                    f'lang="{lang_link["lang"]}">{ui["lang_other"]}</a>') if lang_link else ""
     # меню
-    nav = "".join(f'<li><a href="{pre}{out_rel(p)[:-len("index.html")]}"'
-                  f'{" aria-current=\"page\"" if p is page else ""}>{esc(p["nav"])}</a></li>'
-                  for p in pages_same if p.get("nav") and p["slug"] != "")
-    # хлебные крошки
+    nav = menu_html(page, pre)
+    # хлебные крошки: Главная › Раздел (блок главной) › Статья
+    home_href = f'{pre}{out_rel(home)[:-len("index.html")] or "./"}'
     crumbs_ld = [{"@type": "ListItem", "position": 1, "name": ui["home"], "item": url(home)}]
     crumbs = ""
     if not is_home:
-        crumbs_ld.append({"@type": "ListItem", "position": 2, "name": meta.get("crumb", meta["h1"]), "item": url(page)})
-        crumbs = (f'<nav class="crumbs" aria-label="Breadcrumb"><a href="{pre}{out_rel(home)[:-len("index.html")] or "./"}">'
-                  f'{ui["home"]}</a><span aria-hidden="true">›</span><span>{esc(meta.get("crumb", meta["h1"]))}</span></nav>')
+        sec = page["section"]
+        crumbs_ld.append({"@type": "ListItem", "position": 2, "name": SEC_LABEL[lang][sec], "item": url(home) + "#" + sec})
+        crumbs_ld.append({"@type": "ListItem", "position": 3, "name": meta.get("crumb", meta["h1"]), "item": url(page)})
+        crumbs = (f'<nav class="crumbs" aria-label="Breadcrumb"><a href="{home_href}">{ui["home"]}</a><span aria-hidden="true">›</span>'
+                  f'<a href="{home_href}#{sec}">{esc(SEC_LABEL[lang][sec])}</a><span aria-hidden="true">›</span>'
+                  f'<span>{esc(meta.get("crumb", meta["h1"]))}</span></nav>')
     # содержание
     toc_items = [(i, t) for i, t in toc if i not in ("sources",)]
     toc_html = ""
@@ -295,8 +373,13 @@ def page_html(page, meta, body, toc, faq):
         toc_html = (f'<nav class="toc" aria-label="{ui["contents"]}"><p class="toc-h">{ui["contents"]}</p><ol>'
                     + "".join(f'<li><a href="#{i}">{inline(t)}</a></li>' for i, t in toc_items) + "</ol></nav>")
     # похожие
-    related = [p for p in pages_same if p["slug"] and p is not page][:6 if is_home else 3]
-    rel_html = ""
+    # «Ещё по теме» — тот же раздел, сначала тот же регион; на главной — три блока разделов
+    if is_home:
+        related = []
+    else:
+        same = [p for p in members(lang, page["section"]) if p is not page]
+        related = sorted(same, key=lambda p: 0 if page.get("region") and p.get("region") == page.get("region") else 1)[:3]
+    rel_html = hubs_html(page, pre) if is_home else ""
     if related:
         cards = "".join(f'<a class="card" href="{pre}{out_rel(p)[:-len("index.html")]}"><span class="card-k">{esc(p.get("kicker", ""))}</span>'
                         f'<span class="card-t">{esc(p["card"])}</span><span class="card-d">{esc(p.get("card_desc", ""))}</span></a>'
@@ -352,10 +435,10 @@ def page_html(page, meta, body, toc, faq):
 </head>
 <body>
 <a class="skip" href="#main">{ui["skip"]}</a>
-<header class="top"><div class="wrap top-in">
+<header class="top"><input type="checkbox" id="mt" class="mt" aria-label="{MENU_BTN[lang]}"><div class="wrap top-in">
 <a class="brand" href="{pre}{out_rel(home)[:-len("index.html")] or "./"}"><span class="mark" aria-hidden="true"></span>{esc(SITE["name"] if lang == "en" else SITE.get("name_ru", SITE["name"]))}</a>
-{lang_switch}
-</div>{f'<nav class="menu wrap" aria-label="{ui["menu"]}"><ul>{nav}</ul></nav>' if nav else ""}</header>
+<div class="top-r">{lang_switch}<label for="mt" class="mbtn">{MENU_BTN[lang]}</label></div>
+</div>{nav}</header>
 <div class="hero"><div class="wrap">{crumbs}{kicker}<h1>{inline(meta["h1"])}</h1>{lead}<p class="meta">{reviewed}</p></div></div>
 <main id="main" class="wrap">
 <div class="layout">{f'<div class="lead-box">{ai_box}{first_box}</div>' if (ai_box or first_box) else ""}{f'<aside class="side">{toc_html}</aside>' if toc_html else ""}
@@ -371,6 +454,7 @@ def page_html(page, meta, body, toc, faq):
 <p class="small">{ui["disclaimer"]}</p>
 </div></footer>
 {f"<script>{ai_read.JS}</script>" if ai_box else ""}
+<script>{MENU_JS}</script>
 </body>
 </html>
 """
@@ -382,7 +466,7 @@ def main():
         page.setdefault("key", page["slug"] or "home")
         src = ROOT / page["src"]
         meta, body, toc, faq = parse_md(src.read_text(encoding="utf-8"), page)
-        for k in ("nav", "card", "card_desc", "kicker"):
+        for k in ("nav", "card", "card_desc", "kicker", "section", "region", "nav_place"):
             if meta.get(k) and not page.get(k):
                 page[k] = meta[k]
         page["_parsed"] = (meta, body, toc, faq)

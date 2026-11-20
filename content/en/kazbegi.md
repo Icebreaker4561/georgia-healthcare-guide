@@ -6,6 +6,8 @@ kicker: Destinations · 2026
 lead: Kazbegi, officially called Stepantsminda, is a mountain town 157 km from Tbilisi at 1,750 m above sea level, according to Georgia's tourism administration. People come for the church on the hill, the valley hikes and the big snowy peak above town. This guide covers the road, the heights, the hikes and what to do if something goes wrong, using official sources only.
 crumb: Kazbegi
 nav: Kazbegi
+section: places
+region: mountains
 card: Kazbegi (Stepantsminda) travel guide
 card_desc: Gergeti, hikes, the winter road over the Jvari Pass, altitude and what to do if something goes wrong.
 updated: 2026-11-18

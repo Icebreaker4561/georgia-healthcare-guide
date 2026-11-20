@@ -6,6 +6,8 @@ kicker: Destinations · 2026
 lead: Abanotubani is the old bath district of Tbilisi, built around natural hot springs at the foot of the hill where Narikala Fortress stands. This guide covers the story of the baths, the way up to the fortress, the Leghvtakhevi waterfall and simple health rules for hot sulfur water (British guides spell it sulphur). It explains who should take care in the bath, what to do afterwards and when to see a doctor, with a link to the source for every figure and quote.
 crumb: Sulfur baths
 nav: Sulfur baths
+section: places
+region: tbilisi
 card: Tbilisi sulfur baths and Narikala
 card_desc: Abanotubani, the fortress, the waterfall and who should be careful in hot sulfur water.
 updated: 2026-11-18

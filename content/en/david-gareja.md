@@ -6,9 +6,10 @@ kicker: Destinations · 2026
 lead: David Gareja is a group of cave monasteries cut into a dry hillside in Kakheti, eastern Georgia, part of it on the border with Azerbaijan. This guide covers its history, the Lavra and Udabno, the border, vipers and NHS first aid for a bite, summer heat, the road from Tbilisi and medical help. Facts about the monastery come from Wikipedia and are marked as such; safety advice comes from the UK and Canadian governments' advice to their travellers and from the NHS. Sources are at the end.
 crumb: David Gareja
 nav: David Gareja
+section: places
+region: tbilisi
 card: "David Gareja"
 card_desc: "The half-desert cave monasteries near the Azerbaijan border: vipers and first aid, heat, and where to find a doctor."
-section: destinations
 updated: 2026-11-19
 published: 2026-11-19
 og: gareja-cave-monastery.webp

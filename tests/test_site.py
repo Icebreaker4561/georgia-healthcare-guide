@@ -74,7 +74,7 @@ class Doc(HTMLParser):
             self._a = None
         if tag == "summary":
             self._in_summary = False
-            self.details_q.append(" ".join("".join(self._sum).split()))
+            if next((x for t, x in reversed(self.tags) if t == "details"), {}).get("class") == "qa": self.details_q.append(" ".join("".join(self._sum).split()))  # только вопросы FAQ, не меню (владелец 20.11.2026: «разрешаю»)
 
     def handle_data(self, data):
         if self._ld is not None:

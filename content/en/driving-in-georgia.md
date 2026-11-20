@@ -6,9 +6,9 @@ kicker: Practical · 2026
 lead: Driving in Georgia is allowed on a UK licence for up to a year, but country roads, nights, animals on the road and mountain winters call for care. This guide covers your licence and permit, the law on compulsory cover for cars registered abroad, hiring a car, road and winter hazards, alcohol, and what to do after a crash. Facts come from the law on matsne and from UK and Canadian official travel advice. Sources are at the end.
 crumb: Driving in Georgia
 nav: Driving in Georgia
+section: practical
 card: "Driving in Georgia"
 card_desc: "Licence and IDP, the border car insurance law, road dangers, winter tyres and what to do after a crash."
-section: practical
 updated: 2026-11-19
 published: 2026-11-19
 og: georgia-mountain-road-car.webp

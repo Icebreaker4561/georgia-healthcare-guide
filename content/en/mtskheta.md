@@ -6,6 +6,8 @@ kicker: Destinations · 2026
 lead: Mtskheta was the capital of the Kartli kingdom for about eight hundred years, and today it sits about 20 minutes by road from Tbilisi. This guide covers Jvari Monastery on its cliff, Svetitskhoveli Cathedral and Samtavro, the UNESCO site they make up together, how to get there and how to stay well in the summer heat. Sources for every date and quote are listed at the end.
 crumb: Mtskheta
 nav: Mtskheta
+section: places
+region: tbilisi
 card: Mtskheta: Jvari and Svetitskhoveli
 card_desc: The old capital next to Tbilisi: what to see, the UNESCO site, summer heat and help nearby.
 updated: 2026-11-18

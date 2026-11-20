@@ -6,6 +6,7 @@ kicker: Safety · 2026
 lead: Is Georgia safe? For most visitors, the official answer is calm. UK advice says crime levels are low, and the Government of Canada, in its advice to its own travellers, asks them to take normal security precautions. The real risks lie elsewhere: two Russian-occupied regions, protests in central Tbilisi, the roads and the mountains. This guide quotes GOV.UK and the Government of Canada's travel advice word for word and marks our own tips as tips.
 crumb: Is Georgia safe
 nav: Is Georgia safe
+section: health
 card: Is Georgia safe?
 card_desc: Crime, Tbilisi protests, taxis and roads, women travelling alone, health risks and the two regions governments say to avoid.
 updated: 2026-11-18

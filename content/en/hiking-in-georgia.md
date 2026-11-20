@@ -6,9 +6,9 @@ kicker: Practical · 2026
 lead: Hiking in Georgia, the country, takes you into high mountains and remote valleys, often far from a hospital. This guide covers the best-known areas, Svaneti, Kazbegi, Tusheti and Lagodekhi, and the rules of the national parks. It also covers border lines, altitude, snakes and dogs, sprains and blisters, your travel cover and the emergency number 112. Park rules come from the parks' own guides. Health and safety advice comes from the UK government, TravelHealthPro and the NHS. Facts about places come from Wikipedia and are marked as such. Sources are at the end.
 crumb: Hiking in Georgia
 nav: Hiking in Georgia
+section: practical
 card: "Hiking in Georgia safely"
 card_desc: "Where to trek, park rules, border lines, altitude, snakes and dogs, sprains and blisters, insurance and 112."
-section: practical
 updated: 2026-11-19
 published: 2026-11-19
 og: georgia-trail.webp
