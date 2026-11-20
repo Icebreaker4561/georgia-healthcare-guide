@@ -46,6 +46,8 @@ The tourism administration says "beginners and families flock to the gentler Did
 
 **Our tip.** Spend the first day on the gentlest runs and book a lesson with an instructor before you try anything steeper. Stop while you still feel fresh, and make the last run of the day an easy one. With children, plan short sessions and frequent breaks.
 
+In March 2025, MTA said night skiing was available only on Fridays and Saturdays, from 17:00 to 21:30, on Nodo, the first trail in this area.[^5] Check mta.ski for this winter's evening hours before you plan around them.
+
 ### Kokhta and Mitarbi: for stronger skiers {#kokhta-mitarbi}
 
 These two areas are aimed at confident skiers: georgia.travel says professionals "tend to favor" them over the gentler trails.[^2]
@@ -70,9 +72,9 @@ The village stands at 1,700~m above sea level, according to the Georgian Nationa
 |---|---|---|
 | The village | 1,700 m | georgia.travel[^1] |
 | Mount Didveli viewpoint (for hikers) | 2,800 m | georgia.travel[^12] |
-| Top of the lifts | Not given here: check MTA's resort page | mta.ski[^28] |
+| Top altitude of the ski area | 2,702 m | mta.ski[^28] |
 
-The 2,800~m point is a hiking viewpoint, not a lift station. If you climb the mountain, georgia.travel says, "a magical panorama awaits you at 2,800 meters above sea level".[^12]
+MTA's resort page gives the top altitude as 2,702~m.[^28] The 2,800~m point is a hiking viewpoint, not a lift station. If you climb the mountain, georgia.travel says, "a magical panorama awaits you at 2,800 meters above sea level".[^12]
 
 TravelHealthPro's [altitude illness factsheet](https://travelhealthpro.org.uk/factsheet/26/altitude-illness) says the condition "usually occurs at altitudes over 2,500m" but "may rarely occur at altitudes between 1,500–2,500m".[^20] If you feel unwell after going up, it advises:[^20]
 
@@ -82,7 +84,7 @@ TravelHealthPro's [altitude illness factsheet](https://travelhealthpro.org.uk/fa
 
 The UK government's [health advice for Georgia](https://www.gov.uk/foreign-travel-advice/georgia/health) names "Gudauri ski resort, Mount Kazbegi, and Mount Tetnuldi" among the places where altitude sickness is a risk; this resort is not in that sentence.[^17]
 
-By TravelHealthPro's figures, the risk at the village's height is low.[^20] It is not zero: walking up to the 2,800~m panorama takes you above the level where altitude illness usually starts.[^12][^20] If you feel a new headache or nausea up there, follow the steps above.
+By TravelHealthPro's figures, the risk at the village's height is low.[^20] It is not zero: the top of the ski area, at 2,702~m, and the 2,800~m panorama are both above the level where altitude illness usually starts.[^28][^12][^20] If you feel a new headache or nausea up there, follow the steps above.
 
 In the GOV.UK list, the risk near Kazbegi is the peak, Mount Kazbegi; our [Kazbegi (Stepantsminda) guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/) covers that area.[^17] Symptoms, prevention and when to see a doctor are covered in more detail in [Gudauri Altitude, Ski Injuries and Medical Help in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/#altitude-sickness).
 
@@ -151,6 +153,10 @@ Walk in the alpine botanical garden, hike to Tabatskuri Lake in the warm months,
 **Tabatskuri Lake.** This mountain lake is about 30 kilometres from the resort one way, over the Tskhratskaro Pass, according to the Georgian National Tourism Administration.[^12][^14] The best season for hiking there "starts in May and continues through until the end of November".[^14]
 
 **Our tip.** Treat the lake as a full day out. Take water, warm layers and a charged phone, and tell someone at your guesthouse which way you are going and when you expect to be back.
+
+**Tobogganing.** MTA's resort page lists a toboggan ride among the activities here and marks the toboggan on its piste map; it does not say in which season it runs.[^28] We found no official hours or prices.
+
+**Our tip.** Ask at the ticket office whether the toboggan is running before you go.
 
 ## Bakuriani or Gudauri? Ski resorts in Georgia (the country) compared {#ski-resorts-georgia}
 
@@ -225,7 +231,7 @@ Entry is a separate rule. Since 1 January 2026, visitors entering Georgia must h
 
 ### How high is Bakuriani?
 
-The village stands at 1,700 m above sea level, according to the Georgian National Tourism Administration.[^1] Altitude illness usually starts above 2,500 m.[^20]
+The village stands at 1,700 m above sea level, according to the Georgian National Tourism Administration.[^1] MTA gives the top altitude of the ski area as 2,702 m.[^28] Altitude illness usually starts above 2,500 m.[^20]
 
 ### How can I get from Tbilisi to Bakuriani?
 
