@@ -67,6 +67,15 @@
       "key": "batumi-ru"
     },
     {
+      "slug": "tbilisi",
+      "lang": "ru",
+      "src": "content/ru/tbilisi.md",
+      "section": "destinations",
+      "kicker": "Путеводители",
+      "pair": "tbilisi",
+      "key": "tbilisi-ru"
+    },
+    {
       "slug": "borjomi",
       "lang": "ru",
       "src": "content/ru/borjomi.md",
