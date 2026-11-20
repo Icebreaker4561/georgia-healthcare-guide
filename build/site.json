@@ -243,6 +243,14 @@
       "key": "tbilisi-metro-ru"
     },
     {
+      "slug": "kuhnya-gruzii",
+      "lang": "ru",
+      "src": "content/ru/kuhnya-gruzii.md",
+      "kicker": "Полезное",
+      "pair": "food",
+      "key": "food-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
