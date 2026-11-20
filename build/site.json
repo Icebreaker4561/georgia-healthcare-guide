@@ -326,6 +326,13 @@
       "pair": "sighnaghi"
     },
     {
+      "slug": "telavi",
+      "lang": "en",
+      "src": "content/en/telavi.md",
+      "kicker": "Destinations",
+      "pair": "telavi"
+    },
+    {
       "slug": "tskaltubo",
       "lang": "en",
       "src": "content/en/tskaltubo.md",
