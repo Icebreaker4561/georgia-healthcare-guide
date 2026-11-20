@@ -6,9 +6,10 @@ kicker: Destinations · 2026
 lead: Tbilisi is the capital of Georgia, spread along both banks of the Mtkvari River in a bowl of hills. This guide covers the main things to do, from Sameba and the old town up to Mtatsminda, plus the museums. It also covers getting around, summer heat, rallies near Parliament, tap water, dogs and where to find a doctor, with every source listed at the end.
 crumb: Tbilisi
 nav: Tbilisi
+section: places
+region: tbilisi
 card: "Tbilisi: sights, heat, taxis and help"
 card_desc: "Georgia's capital: Sameba, Old Tbilisi, museums and Mtatsminda, plus summer heat, taxis, protests and where to find a doctor."
-section: destinations
 updated: 2026-11-19
 published: 2026-11-19
 og: tbilisi-old-town.webp

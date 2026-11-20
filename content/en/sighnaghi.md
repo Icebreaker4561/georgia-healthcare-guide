@@ -6,9 +6,10 @@ kicker: Destinations · 2026
 lead: Sighnaghi is a small hill town in Kakheti, the easternmost region of Georgia, looking out over the Alazani Valley. This guide covers the town, Bodbe Monastery and St. Nino, qvevri and the Rkatsiteli and Saperavi grapes, how to taste without overdoing it, drink spiking, driving after a tasting and where to find a doctor. Facts about the places come from Wikipedia and are marked as such; health and safety advice comes from the NHS and the travel advice of the UK and Canadian governments. Sources are at the end.
 crumb: Sighnaghi and Kakheti
 nav: Sighnaghi and Kakheti
+section: places
+region: south-east
 card: "Sighnaghi and Kakheti"
 card_desc: "The wine region: the hill town, Bodbe Monastery, qvevri, safe tasting, drink spiking and medical help."
-section: destinations
 updated: 2026-11-19
 published: 2026-11-19
 og: sighnaghi-hill-town.webp

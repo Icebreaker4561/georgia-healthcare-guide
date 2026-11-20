@@ -5,7 +5,10 @@ h1: Skiing and hiking in Georgia: Gudauri altitude, injuries, rescue and insuran
 kicker: Mountains · 2026
 lead: Gudauri altitude runs from about 2,000 m at the lowest lift to 3,276 m at the top, high enough that the UK government lists the resort among places in Georgia where altitude sickness is a risk. If you get hurt on a slope or a trail, this page explains who to call, who gets you off the mountain, where you are treated and what your travel cover may not pay.
 crumb: Mountains and skiing
-nav: Mountains & skiing
+nav: Altitude sickness
+section: health
+region: mountains
+nav_place: Gudauri
 card: Skiing and hiking in Georgia: medical help
 card_desc: Altitude, patrols, mountain rescue, treatment in the capital and what travel cover may not pay.
 updated: 2026-11-18

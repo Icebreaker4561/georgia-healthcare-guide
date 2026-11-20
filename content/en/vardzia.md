@@ -6,9 +6,10 @@ kicker: Destinations · 2026
 lead: Vardzia is a monastery cut into a cliff in southern Georgia, begun under King Giorgi III and consecrated in the reign of Queen Tamar. This guide covers its history, what you can see, the 2026 rockfall closure near the Secret Tunnel, Rabati Castle in Akhaltsikhe, the way there and medical help in a rural area. Figures come from the Georgian Encyclopedia, a Georgia Today report on the heritage agency and official travel advice; facts from Wikipedia are marked as such. Sources are at the end.
 crumb: Vardzia
 nav: Vardzia
+section: places
+region: south-east
 card: "Vardzia: the cave monastery"
 card_desc: "Queen Tamar's cave city: what to see, the 2026 rockfall closure, earthquakes, Rabati Castle and where to find a doctor."
-section: destinations
 updated: 2026-11-19
 published: 2026-11-19
 og: vardzia-cliff.webp

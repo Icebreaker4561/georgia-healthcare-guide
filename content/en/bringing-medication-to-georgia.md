@@ -6,6 +6,7 @@ kicker: Medicines · 2026
 lead: Bringing medication to Georgia is simple for most travellers: up to 10 standard packs for personal use need no medical documents. Travelling with prescription medication that contains codeine, tramadol or another controlled substance is different: you may bring up to a 31-day supply, and only with documents.
 crumb: Bringing medication
 nav: Medicines
+section: health
 card: Bringing medication to Georgia
 card_desc: The 10-pack rule, medicines under special control, and what pharmacies sell over the counter.
 updated: 2026-11-17

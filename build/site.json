@@ -6,21 +6,18 @@
       "slug": "",
       "lang": "en",
       "src": "content/en/home.md",
-      "section": "home",
       "pair": "home"
     },
     {
       "slug": "",
       "lang": "ru",
       "src": "content/ru/home.md",
-      "section": "home",
       "pair": "home"
     },
     {
       "slug": "ambulance-georgia",
       "lang": "en",
       "src": "content/en/ambulance-georgia.md",
-      "section": "emergency",
       "kicker": "Emergencies",
       "pair": "ambulance-georgia"
     },
@@ -28,7 +25,6 @@
       "slug": "bringing-medication-to-georgia",
       "lang": "en",
       "src": "content/en/bringing-medication-to-georgia.md",
-      "section": "medicines",
       "kicker": "Medicines",
       "pair": "bringing-medication-to-georgia"
     },
@@ -36,7 +32,6 @@
       "slug": "rabies-georgia",
       "lang": "en",
       "src": "content/en/rabies-georgia.md",
-      "section": "bites",
       "kicker": "Bites and vaccines",
       "pair": "rabies"
     },
@@ -44,7 +39,6 @@
       "slug": "beshenstvo-v-gruzii",
       "lang": "ru",
       "src": "content/ru/beshenstvo-v-gruzii.md",
-      "section": "bites",
       "kicker": "Укусы и прививки",
       "pair": "rabies"
     },
@@ -52,7 +46,6 @@
       "slug": "kazbegi",
       "lang": "ru",
       "src": "content/ru/kazbegi.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "kazbegi",
       "key": "kazbegi-ru"
@@ -61,7 +54,6 @@
       "slug": "batumi",
       "lang": "ru",
       "src": "content/ru/batumi.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "batumi",
       "key": "batumi-ru"
@@ -70,7 +62,6 @@
       "slug": "tbilisi",
       "lang": "ru",
       "src": "content/ru/tbilisi.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "tbilisi",
       "key": "tbilisi-ru"
@@ -79,7 +70,6 @@
       "slug": "borjomi",
       "lang": "ru",
       "src": "content/ru/borjomi.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "borjomi",
       "key": "borjomi-ru"
@@ -88,7 +78,6 @@
       "slug": "kutaisi",
       "lang": "ru",
       "src": "content/ru/kutaisi.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "kutaisi",
       "key": "kutaisi-ru"
@@ -97,7 +86,6 @@
       "slug": "aeroport-tbilisi",
       "lang": "ru",
       "src": "content/ru/aeroport-tbilisi.md",
-      "section": "arrival",
       "kicker": "Прилёт",
       "pair": "tbilisi-airport",
       "key": "tbilisi-airport-ru"
@@ -106,7 +94,6 @@
       "slug": "gudauri",
       "lang": "ru",
       "src": "content/ru/gudauri.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "gudauri-altitude",
       "key": "gudauri-altitude-ru"
@@ -115,7 +102,6 @@
       "slug": "mtskheta",
       "lang": "ru",
       "src": "content/ru/mtskheta.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "mtskheta",
       "key": "mtskheta-ru"
@@ -124,7 +110,6 @@
       "slug": "za-rulem-v-gruzii",
       "lang": "ru",
       "src": "content/ru/za-rulem-v-gruzii.md",
-      "section": "practical",
       "kicker": "Полезное",
       "pair": "driving-in-georgia",
       "key": "driving-in-georgia-ru"
@@ -133,7 +118,6 @@
       "slug": "svanetiya",
       "lang": "ru",
       "src": "content/ru/svanetiya.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "svaneti",
       "key": "svaneti-ru"
@@ -142,7 +126,6 @@
       "slug": "signahi",
       "lang": "ru",
       "src": "content/ru/signahi.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "sighnaghi",
       "key": "sighnaghi-ru"
@@ -151,7 +134,6 @@
       "slug": "tshaltubo",
       "lang": "ru",
       "src": "content/ru/tshaltubo.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "tskaltubo",
       "key": "tskaltubo-ru"
@@ -160,7 +142,6 @@
       "slug": "kogda-ehat-v-gruziyu",
       "lang": "ru",
       "src": "content/ru/kogda-ehat-v-gruziyu.md",
-      "section": "practical",
       "kicker": "Полезное",
       "pair": "best-time-to-visit-georgia",
       "key": "best-time-to-visit-georgia-ru"
@@ -169,7 +150,6 @@
       "slug": "sernye-bani-tbilisi",
       "lang": "ru",
       "src": "content/ru/sernye-bani-tbilisi.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "tbilisi-sulfur-baths",
       "key": "tbilisi-sulfur-baths-ru"
@@ -178,7 +158,6 @@
       "slug": "vardziya",
       "lang": "ru",
       "src": "content/ru/vardziya.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "vardzia",
       "key": "vardzia-ru"
@@ -187,7 +166,6 @@
       "slug": "uplistsikhe",
       "lang": "ru",
       "src": "content/ru/uplistsikhe.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "uplistsikhe",
       "key": "uplistsikhe-ru"
@@ -196,7 +174,6 @@
       "slug": "david-garedzhi",
       "lang": "ru",
       "src": "content/ru/david-garedzhi.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "david-gareja",
       "key": "david-gareja-ru"
@@ -205,7 +182,6 @@
       "slug": "tushetiya",
       "lang": "ru",
       "src": "content/ru/tushetiya.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "tusheti",
       "key": "tusheti-ru"
@@ -214,7 +190,6 @@
       "slug": "martvilskij-kanon",
       "lang": "ru",
       "src": "content/ru/martvilskij-kanon.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "martvili-canyon",
       "key": "martvili-canyon-ru"
@@ -223,7 +198,6 @@
       "slug": "pohody-v-gruzii",
       "lang": "ru",
       "src": "content/ru/pohody-v-gruzii.md",
-      "section": "practical",
       "kicker": "Полезное",
       "pair": "hiking-in-georgia",
       "key": "hiking-in-georgia-ru"
@@ -232,7 +206,6 @@
       "slug": "marshrutki-v-gruzii",
       "lang": "ru",
       "src": "content/ru/marshrutki-v-gruzii.md",
-      "section": "practical",
       "kicker": "Полезное",
       "pair": "marshrutka-georgia",
       "key": "marshrutka-georgia-ru"
@@ -241,7 +214,6 @@
       "slug": "bezopasno-li-v-gruzii",
       "lang": "ru",
       "src": "content/ru/bezopasno-li-v-gruzii.md",
-      "section": "practical",
       "kicker": "Полезное",
       "pair": "is-georgia-safe",
       "key": "is-georgia-safe-ru"
@@ -250,7 +222,6 @@
       "slug": "lekarstva-v-gruziyu",
       "lang": "ru",
       "src": "content/ru/lekarstva-v-gruziyu.md",
-      "section": "practical",
       "kicker": "Полезное",
       "pair": "bringing-medication-to-georgia",
       "key": "bringing-medication-to-georgia-ru"
@@ -259,7 +230,6 @@
       "slug": "112-v-gruzii",
       "lang": "ru",
       "src": "content/ru/112-v-gruzii.md",
-      "section": "practical",
       "kicker": "Полезное",
       "pair": "ambulance-georgia",
       "key": "ambulance-georgia-ru"
@@ -268,7 +238,6 @@
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
-      "section": "mountains",
       "kicker": "Mountains",
       "pair": "gudauri-altitude"
     },
@@ -276,7 +245,6 @@
       "slug": "kazbegi",
       "lang": "en",
       "src": "content/en/kazbegi.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "kazbegi"
     },
@@ -284,7 +252,6 @@
       "slug": "tbilisi-sulfur-baths",
       "lang": "en",
       "src": "content/en/tbilisi-sulfur-baths.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "tbilisi-sulfur-baths"
     },
@@ -292,7 +259,6 @@
       "slug": "mtskheta",
       "lang": "en",
       "src": "content/en/mtskheta.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "mtskheta"
     },
@@ -300,7 +266,6 @@
       "slug": "borjomi",
       "lang": "en",
       "src": "content/en/borjomi.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "borjomi"
     },
@@ -308,7 +273,6 @@
       "slug": "batumi",
       "lang": "en",
       "src": "content/en/batumi.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "batumi"
     },
@@ -316,7 +280,6 @@
       "slug": "martvili-canyon",
       "lang": "en",
       "src": "content/en/martvili-canyon.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "martvili-canyon"
     },
@@ -324,7 +287,6 @@
       "slug": "svaneti",
       "lang": "en",
       "src": "content/en/svaneti.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "svaneti"
     },
@@ -332,7 +294,6 @@
       "slug": "vardzia",
       "lang": "en",
       "src": "content/en/vardzia.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "vardzia"
     },
@@ -340,7 +301,6 @@
       "slug": "uplistsikhe",
       "lang": "en",
       "src": "content/en/uplistsikhe.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "uplistsikhe"
     },
@@ -348,7 +308,6 @@
       "slug": "david-gareja",
       "lang": "en",
       "src": "content/en/david-gareja.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "david-gareja"
     },
@@ -356,7 +315,6 @@
       "slug": "tusheti",
       "lang": "en",
       "src": "content/en/tusheti.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "tusheti"
     },
@@ -364,7 +322,6 @@
       "slug": "sighnaghi",
       "lang": "en",
       "src": "content/en/sighnaghi.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "sighnaghi"
     },
@@ -372,7 +329,6 @@
       "slug": "tskaltubo",
       "lang": "en",
       "src": "content/en/tskaltubo.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "tskaltubo"
     },
@@ -380,7 +336,6 @@
       "slug": "kutaisi",
       "lang": "en",
       "src": "content/en/kutaisi.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "kutaisi"
     },
@@ -388,7 +343,6 @@
       "slug": "tbilisi",
       "lang": "en",
       "src": "content/en/tbilisi.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "tbilisi"
     },
@@ -396,7 +350,6 @@
       "slug": "bakuriani",
       "lang": "en",
       "src": "content/en/bakuriani.md",
-      "section": "destinations",
       "kicker": "Destinations",
       "pair": "bakuriani"
     },
@@ -404,7 +357,6 @@
       "slug": "bakuriani",
       "lang": "ru",
       "src": "content/ru/bakuriani.md",
-      "section": "destinations",
       "kicker": "Путеводители",
       "pair": "bakuriani",
       "key": "bakuriani-ru"
@@ -413,7 +365,6 @@
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",
-      "section": "arrival",
       "kicker": "Arrival",
       "pair": "tbilisi-airport"
     },
@@ -421,7 +372,6 @@
       "slug": "driving-in-georgia",
       "lang": "en",
       "src": "content/en/driving-in-georgia.md",
-      "section": "practical",
       "kicker": "Practical",
       "pair": "driving-in-georgia"
     },
@@ -429,7 +379,6 @@
       "slug": "best-time-to-visit-georgia",
       "lang": "en",
       "src": "content/en/best-time-to-visit-georgia.md",
-      "section": "practical",
       "kicker": "Practical",
       "pair": "best-time-to-visit-georgia"
     },
@@ -437,7 +386,6 @@
       "slug": "hiking-in-georgia",
       "lang": "en",
       "src": "content/en/hiking-in-georgia.md",
-      "section": "practical",
       "kicker": "Practical",
       "pair": "hiking-in-georgia"
     },
@@ -445,7 +393,6 @@
       "slug": "marshrutka-georgia",
       "lang": "en",
       "src": "content/en/marshrutka-georgia.md",
-      "section": "practical",
       "kicker": "Practical",
       "pair": "marshrutka-georgia"
     },
@@ -453,7 +400,6 @@
       "slug": "is-georgia-safe",
       "lang": "en",
       "src": "content/en/is-georgia-safe.md",
-      "section": "safety",
       "kicker": "Safety",
       "pair": "is-georgia-safe"
     }

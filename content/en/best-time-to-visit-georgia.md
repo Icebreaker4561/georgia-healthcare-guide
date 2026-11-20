@@ -6,9 +6,9 @@ kicker: Practical · 2026
 lead: The best time to visit Georgia depends on where you go: the capital, the wet Black Sea coast or the high Caucasus. This guide walks through the Tbilisi weather by month, explains the three climates and covers heat, cold, mountain roads and skiing, with NHS first aid and the 112 emergency number. Climate figures come from Wikipedia and are marked as such. Sources are at the end.
 crumb: Best time to visit
 nav: Best time to visit
+section: practical
 card: "When to go to Georgia"
 card_desc: "Tbilisi weather month by month, the coast and the mountains, winter roads and skiing, cold and heat first aid."
-section: practical
 updated: 2026-11-19
 published: 2026-11-19
 og: georgia-four-seasons.webp

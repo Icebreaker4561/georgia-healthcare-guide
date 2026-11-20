@@ -6,9 +6,10 @@ kicker: Destinations · 2026
 lead: Svaneti is a high mountain region of Georgia, known for its stone tower houses, the town of Mestia and the village community of Ushguli. This guide covers the towers, the walks and the road between the two, snow, mountain sickness and where to find a doctor when the nearest city is a long drive away. Figures come from official travel advice and, where marked, from Wikipedia; sources are at the end.
 crumb: Svaneti
 nav: Svaneti
+section: places
+region: mountains
 card: "Svaneti: Mestia and Ushguli"
 card_desc: "The high valley of towers: Mestia, Ushguli, the trek, winter roads, altitude and medical help far from the cities."
-section: destinations
 updated: 2026-11-19
 published: 2026-11-19
 og: svaneti-towers.webp

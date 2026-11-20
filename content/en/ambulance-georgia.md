@@ -6,6 +6,7 @@ kicker: Emergencies · 2026
 lead: To get an ambulance in Georgia, dial 112, the single emergency number, and say "ambulance", where you are and what happened. Operators can handle calls in English. The state covers the call-out; hospital treatment of tourists is paid by you or your travel insurance.
 crumb: Ambulance and 112
 nav: Ambulance & 112
+section: health
 card: Ambulance in Georgia: how to call 112
 card_desc: What to say on the phone, what happens next, and who pays for the call-out and treatment.
 updated: 2026-11-17

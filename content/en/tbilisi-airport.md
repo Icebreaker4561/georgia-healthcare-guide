@@ -6,6 +6,7 @@ kicker: Arrival · 2026
 lead: Tbilisi International Airport serves Georgia's capital, and for many visitors it is the first place they see in the country. This guide covers what you will find in the arrivals hall, what your airline or the border officers may ask to see under the 2026 rule on travel cover, how to get to the city by bus 337 or a fixed-rate taxi, and what to do if you feel unwell after the flight. Every figure and quote comes from the airports' own sites, UK government advice or the NHS; the sources are listed at the end.
 crumb: Tbilisi Airport
 nav: Tbilisi Airport
+section: practical
 card: Arriving at Tbilisi Airport
 card_desc: Border and insurance, bus and taxi to the city, the airport's medical point and what to do if you feel unwell after the flight.
 updated: 2026-11-18

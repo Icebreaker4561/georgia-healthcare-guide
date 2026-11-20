@@ -6,9 +6,10 @@ kicker: Destinations · 2026
 lead: Tskaltubo is an old spa town in Imereti, western Georgia, 9 km from Kutaisi. This guide covers Spring No. 6 and its radon baths, how a course works, what WHO says about the gas, who should not bathe, the abandoned sanatoriums, Sataplia and Prometheus Cave, getting there and medical help. Facts about the town come from Wikipedia and are marked as such. The bath rules come from the resort's booking site; health advice comes from WHO and the UK government. Sources are at the end.
 crumb: Tskaltubo
 nav: Tskaltubo
+section: places
+region: west
 card: "Tskaltubo: spa town and radon baths"
 card_desc: "The Soviet spa town near Kutaisi: radon baths and who should skip them, the sanatoriums, Sataplia and medical help."
-section: destinations
 updated: 2026-11-19
 published: 2026-11-19
 og: tskaltubo-spa-town.webp

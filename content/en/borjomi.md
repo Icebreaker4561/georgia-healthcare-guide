@@ -6,6 +6,8 @@ kicker: Destinations · 2026
 lead: Borjomi is a spa town about two hours by road from Tbilisi, known for its mineral water, which, the producer says, comes out of the ground warm. This guide covers the spring in Central Park, the sulfur pools in the forest, Borjomi-Kharagauli National Park and how to get there. It also explains who should go easy on the water and how to read the sodium on the label. Sources for every figure and quote are listed at the end.
 crumb: Borjomi
 nav: Borjomi
+section: places
+region: south-east
 card: Borjomi: water, park and pools
 card_desc: The spa town two hours from Tbilisi: the spring, the pools, the national park and who should limit the salty water.
 updated: 2026-11-18

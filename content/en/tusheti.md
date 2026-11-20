@@ -6,9 +6,10 @@ kicker: Destinations · 2026
 lead: Tusheti is a remote mountain region in northeast Georgia, reached over the Abano Pass on a road open to off-road vehicles only. This guide covers the drive and when to check it, altitude on the pass, what to bring when there are no pharmacies or ATMs, the national park rules and local customs, shepherds' dogs and rabies, and medical help. Facts come from the national park's own pages, with Wikipedia marked as a secondary source; health advice comes from the UK and Canadian governments and TravelHealthPro. Sources are at the end.
 crumb: Tusheti
 nav: Tusheti
+section: places
+region: mountains
 card: "Tusheti"
 card_desc: "The remote valley over the Abano Pass: off-road only, June to October, no pharmacies or ATMs, shepherd dogs and medical help far away."
-section: destinations
 updated: 2026-11-19
 published: 2026-11-19
 og: tusheti-abano-road.webp

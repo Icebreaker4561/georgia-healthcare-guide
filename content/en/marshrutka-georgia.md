@@ -6,9 +6,9 @@ kicker: Practical · 2026
 lead: A marshrutka is a shared minibus, and many of them leave from Didube in Tbilisi. The Government of Canada, in its advice to its own travellers, says to avoid them, and this guide says so plainly. It also covers where the minibuses start, trains to Batumi and Borjomi, the Tbilisi metro, booked cars, motion sickness on mountain roads and what to do if something goes wrong. Facts come from the Canadian and UK governments, the national parks, Georgian Railway, the NHS and Wikipedia. Sources are at the end.
 crumb: Marshrutka
 nav: Marshrutka
+section: practical
 card: "Marshrutkas and getting around"
 card_desc: "Minibuses, Didube, trains, taxis and motion sickness: what official advice says."
-section: practical
 updated: 2026-11-19
 published: 2026-11-19
 og: marshrutka-road.webp

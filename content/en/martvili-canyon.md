@@ -6,9 +6,10 @@ kicker: Destinations · 2026
 lead: Martvili Canyon, the Okatse hanging trail and Prometheus Cave are three protected natural sites about an hour by car from Kutaisi, run by the Agency of Protected Areas. This guide covers the boat, the trails, the cave, opening hours and Mondays, the rules for rain and children, and medical help. Figures come from the park's site, nationalparks.ge, and official travel advice; sources are at the end.
 crumb: Martvili Canyon
 nav: Martvili Canyon
+section: places
+region: west
 card: "Martvili, Okatse and Prometheus"
 card_desc: "Three natural monuments near Kutaisi: the canyon boat, the hanging trail, the cave, the rules for children and rain, and medical help."
-section: destinations
 updated: 2026-11-19
 published: 2026-11-19
 og: martvili-canyon-boat.webp

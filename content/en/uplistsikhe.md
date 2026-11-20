@@ -6,9 +6,10 @@ kicker: Destinations · 2026
 lead: Uplistsikhe is an ancient town cut into the rock above the Mtkvari River in eastern Georgia. This guide covers what you will see there, the fortress and the Stalin Museum in nearby Gori, why you should keep well away from the South Ossetia line, summer heat, the way from Tbilisi and medical help. Facts from Wikipedia are marked as such; safety advice comes from the travel advice the UK and Canadian governments give their own travellers. Sources are at the end.
 crumb: Uplistsikhe and Gori
 nav: Uplistsikhe and Gori
+section: places
+region: tbilisi
 card: "Uplistsikhe and Gori"
 card_desc: "The rock-hewn town near Gori, the fortress and the Stalin Museum, the occupied-region line to avoid, summer heat and medical help."
-section: destinations
 updated: 2026-11-19
 published: 2026-11-19
 og: uplistsikhe-rock-town.webp

@@ -6,9 +6,10 @@ kicker: Destinations · 2026
 lead: Kutaisi is the third-largest city in Georgia and the capital of Imereti, in the west of the country. This guide covers the things to do in Kutaisi, from Bagrati Cathedral to Gelati and Motsameta. It also covers arriving by air, the weather by month, tap water and stomach bugs, trains to Batumi and where to find a doctor. Facts about the city come from Wikipedia and are marked as such. Health advice comes from the UK and Canadian governments and the NHS. Sources are at the end.
 crumb: Kutaisi
 nav: Kutaisi
+section: places
+region: west
 card: "Kutaisi: monasteries, airport and help"
 card_desc: "Georgia's third city: Bagrati and Gelati, arriving at the airport, weather, water and where to find a doctor."
-section: destinations
 updated: 2026-11-19
 published: 2026-11-19
 og: kutaisi-rioni.webp

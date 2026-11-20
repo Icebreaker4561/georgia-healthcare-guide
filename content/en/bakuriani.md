@@ -6,6 +6,8 @@ kicker: Destinations · 2026
 lead: Bakuriani is a ski resort in Georgia, the country in the Caucasus, 1,700 m above sea level in Borjomi Municipality and 180 km from Tbilisi, according to the Georgian National Tourism Administration.[^1] Beginners and families get gentle trails, and stronger skiers favour the other two ski areas.[^2] This guide covers the road, the season, the altitude and what to do after an injury on the slopes, using official sources and the national press.
 crumb: Bakuriani
 nav: Bakuriani
+section: places
+region: mountains
 card: Bakuriani travel guide
 card_desc: Ski areas, the road from Tbilisi, the Kukushka train, the season and what to do if you get hurt on the slopes.
 updated: 2026-11-20
