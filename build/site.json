@@ -235,6 +235,14 @@
       "key": "ambulance-georgia-ru"
     },
     {
+      "slug": "metro-tbilisi",
+      "lang": "ru",
+      "src": "content/ru/metro-tbilisi.md",
+      "kicker": "Полезное",
+      "pair": "metro",
+      "key": "tbilisi-metro-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
