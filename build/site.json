@@ -376,6 +376,13 @@
       "pair": "tbilisi-airport"
     },
     {
+      "slug": "tbilisi-metro",
+      "lang": "en",
+      "src": "content/en/tbilisi-metro.md",
+      "kicker": "Practical",
+      "pair": "metro"
+    },
+    {
       "slug": "driving-in-georgia",
       "lang": "en",
       "src": "content/en/driving-in-georgia.md",
