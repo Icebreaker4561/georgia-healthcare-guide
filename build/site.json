@@ -391,6 +391,13 @@
       "pair": "metro"
     },
     {
+      "slug": "money-in-georgia",
+      "lang": "en",
+      "src": "content/en/money-in-georgia.md",
+      "kicker": "Practical",
+      "pair": "money"
+    },
+    {
       "slug": "driving-in-georgia",
       "lang": "en",
       "src": "content/en/driving-in-georgia.md",
