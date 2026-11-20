@@ -269,8 +269,8 @@ def members(lang, sec):
     """Статьи раздела на языке lang. Среди мест — ещё статьи других разделов с region; места — по регионам,
     внутри региона первым идёт город, давший региону имя (Тбилиси)."""
     arts = [p for p in SITE["pages"] if p["lang"] == lang and p["slug"]]
-    if sec != "places":
-        return [p for p in arts if p.get("section") == sec]
+    if sec != "places":   # order в шапке статьи: меньше — выше (скорая и 112 — первой, владелец 20.11.2026)
+        return sorted((p for p in arts if p.get("section") == sec), key=lambda p: int(p.get("order", 50)))
     res = [p for p in arts if p.get("region")]
     return sorted(res, key=lambda p: (REGIONS.index(p["region"]),
                                       0 if REGION_LABEL[lang][p["region"]].startswith(p.get("nav", "~")) else 1,
@@ -466,7 +466,7 @@ def main():
         page.setdefault("key", page["slug"] or "home")
         src = ROOT / page["src"]
         meta, body, toc, faq = parse_md(src.read_text(encoding="utf-8"), page)
-        for k in ("nav", "card", "card_desc", "kicker", "section", "region", "nav_place"):
+        for k in ("nav", "card", "card_desc", "kicker", "section", "region", "nav_place", "order"):
             if meta.get(k) and not page.get(k):
                 page[k] = meta[k]
         page["_parsed"] = (meta, body, toc, faq)
