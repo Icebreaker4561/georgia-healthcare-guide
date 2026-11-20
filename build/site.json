@@ -393,6 +393,14 @@
       "pair": "tbilisi"
     },
     {
+      "slug": "bakuriani",
+      "lang": "en",
+      "src": "content/en/bakuriani.md",
+      "section": "destinations",
+      "kicker": "Destinations",
+      "pair": "bakuriani"
+    },
+    {
       "slug": "tbilisi-airport",
       "lang": "en",
       "src": "content/en/tbilisi-airport.md",

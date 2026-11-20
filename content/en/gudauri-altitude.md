@@ -25,7 +25,7 @@ This page is about Georgia the country, not the US state, and is part of the [Ge
 
 Lifts at the resort run from about 2,000 m to 3,276 m, according to [Georgia's tourism administration](https://www.georgia.travel/gudauri-in-winter).[^6] It is 120 km from the capital, a drive of 2 to 2.5 hours, and the season lasts from early December to mid-April.[^6]
 
-Other high areas include Bakuriani, Mestia in Svaneti and Goderdzi; we found no official elevation figures for them. Stepantsminda (Kazbegi) sits at 1,750 m, says the tourism administration:[^7] see [our Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/).
+Other high areas include Mestia in Svaneti and Goderdzi; we found no official elevation figures for them. For Bakuriani, see [our Bakuriani guide](https://icebreaker4561.github.io/georgia-healthcare-guide/bakuriani/). Stepantsminda (Kazbegi) sits at 1,750 m, says the tourism administration:[^7] see [our Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/).
 
 In winter, snow can block roads and bridges in the mountains, especially in remote areas, and landslides are common, says [the UK government's safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security).[^2] So reaching a hospital can take longer than you expect.
 
