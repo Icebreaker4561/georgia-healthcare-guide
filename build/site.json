@@ -474,6 +474,13 @@
       "pair": "trains"
     },
     {
+      "slug": "georgian-food",
+      "lang": "en",
+      "src": "content/en/georgian-food.md",
+      "kicker": "Practical",
+      "pair": "food"
+    },
+    {
       "slug": "driving-in-georgia",
       "lang": "en",
       "src": "content/en/driving-in-georgia.md",
