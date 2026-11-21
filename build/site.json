@@ -346,6 +346,13 @@
       "pair": "anaklia"
     },
     {
+      "slug": "dashbashi-canyon",
+      "lang": "en",
+      "src": "content/en/dashbashi-canyon.md",
+      "kicker": "Destinations",
+      "pair": "dashbashi"
+    },
+    {
       "slug": "svaneti",
       "lang": "en",
       "src": "content/en/svaneti.md",
