@@ -251,6 +251,14 @@
       "key": "food-ru"
     },
     {
+      "slug": "ananuri",
+      "lang": "ru",
+      "src": "content/ru/ananuri.md",
+      "kicker": "Путеводители",
+      "pair": "ananuri",
+      "key": "ananuri-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
