@@ -354,6 +354,14 @@
       "pair": "anaklia"
     },
     {
+      "slug": "kanon-dashbashi",
+      "lang": "ru",
+      "src": "content/ru/kanon-dashbashi.md",
+      "kicker": "Путеводители",
+      "pair": "dashbashi",
+      "key": "dashbashi-ru"
+    },
+    {
       "slug": "dashbashi-canyon",
       "lang": "en",
       "src": "content/en/dashbashi-canyon.md",
