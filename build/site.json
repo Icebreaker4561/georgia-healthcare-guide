@@ -434,6 +434,13 @@
       "pair": "tusheti"
     },
     {
+      "slug": "khevsureti",
+      "lang": "en",
+      "src": "content/en/khevsureti.md",
+      "kicker": "Destinations",
+      "pair": "khevsureti"
+    },
+    {
       "slug": "sighnaghi",
       "lang": "en",
       "src": "content/en/sighnaghi.md",
