@@ -354,6 +354,13 @@
       "pair": "anaklia"
     },
     {
+      "slug": "ureki",
+      "lang": "en",
+      "src": "content/en/ureki.md",
+      "kicker": "Destinations",
+      "pair": "ureki"
+    },
+    {
       "slug": "kanon-dashbashi",
       "lang": "ru",
       "src": "content/ru/kanon-dashbashi.md",
