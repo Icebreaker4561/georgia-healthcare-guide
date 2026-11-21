@@ -267,6 +267,14 @@
       "key": "chiatura-ru"
     },
     {
+      "slug": "poezda-gruzii",
+      "lang": "ru",
+      "src": "content/ru/poezda-gruzii.md",
+      "kicker": "Полезное",
+      "pair": "trains",
+      "key": "georgia-trains-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
