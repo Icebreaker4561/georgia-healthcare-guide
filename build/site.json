@@ -308,6 +308,13 @@
       "pair": "martvili-canyon"
     },
     {
+      "slug": "chiatura",
+      "lang": "en",
+      "src": "content/en/chiatura.md",
+      "kicker": "Destinations",
+      "pair": "chiatura"
+    },
+    {
       "slug": "svaneti",
       "lang": "en",
       "src": "content/en/svaneti.md",
