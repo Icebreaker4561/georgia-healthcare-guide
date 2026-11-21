@@ -429,6 +429,13 @@
       "pair": "money"
     },
     {
+      "slug": "georgia-trains",
+      "lang": "en",
+      "src": "content/en/georgia-trains.md",
+      "kicker": "Practical",
+      "pair": "trains"
+    },
+    {
       "slug": "driving-in-georgia",
       "lang": "en",
       "src": "content/en/driving-in-georgia.md",
