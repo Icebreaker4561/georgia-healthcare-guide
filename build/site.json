@@ -283,6 +283,14 @@
       "key": "georgia-trains-ru"
     },
     {
+      "slug": "dengi-v-gruziyu",
+      "lang": "ru",
+      "src": "content/ru/dengi-v-gruziyu.md",
+      "kicker": "Полезное",
+      "pair": "money",
+      "key": "money-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
