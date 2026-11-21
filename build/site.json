@@ -259,6 +259,14 @@
       "key": "ananuri-ru"
     },
     {
+      "slug": "telavi",
+      "lang": "ru",
+      "src": "content/ru/telavi.md",
+      "kicker": "Путеводители",
+      "pair": "telavi",
+      "key": "telavi-ru"
+    },
+    {
       "slug": "chiatura",
       "lang": "ru",
       "src": "content/ru/chiatura.md",
