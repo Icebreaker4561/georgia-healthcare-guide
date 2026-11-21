@@ -171,6 +171,14 @@
       "key": "uplistsikhe-ru"
     },
     {
+      "slug": "gori",
+      "lang": "ru",
+      "src": "content/ru/gori.md",
+      "kicker": "Путеводители",
+      "pair": "gori",
+      "key": "gori-ru"
+    },
+    {
       "slug": "david-garedzhi",
       "lang": "ru",
       "src": "content/ru/david-garedzhi.md",
