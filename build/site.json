@@ -259,6 +259,14 @@
       "key": "ananuri-ru"
     },
     {
+      "slug": "chiatura",
+      "lang": "ru",
+      "src": "content/ru/chiatura.md",
+      "kicker": "Путеводители",
+      "pair": "chiatura",
+      "key": "chiatura-ru"
+    },
+    {
       "slug": "gudauri-altitude",
       "lang": "en",
       "src": "content/en/gudauri-altitude.md",
