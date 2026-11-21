@@ -267,6 +267,14 @@
       "key": "chiatura-ru"
     },
     {
+      "slug": "anakliya",
+      "lang": "ru",
+      "src": "content/ru/anakliya.md",
+      "kicker": "Путеводители",
+      "pair": "anaklia",
+      "key": "anakliya-ru"
+    },
+    {
       "slug": "poezda-gruzii",
       "lang": "ru",
       "src": "content/ru/poezda-gruzii.md",
