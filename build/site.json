@@ -405,6 +405,13 @@
       "pair": "uplistsikhe"
     },
     {
+      "slug": "gori",
+      "lang": "en",
+      "src": "content/en/gori.md",
+      "kicker": "Destinations",
+      "pair": "gori"
+    },
+    {
       "slug": "david-gareja",
       "lang": "en",
       "src": "content/en/david-gareja.md",

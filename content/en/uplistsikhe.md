@@ -1,35 +1,35 @@
 ---
-title: "Uplistsikhe and Gori: Cave Town, Stalin Museum and Safety"
-description: "Uplistsikhe, the rock-hewn town 10 km from Gori, Gori Fortress and the Stalin Museum: what to see, the South Ossetia line to avoid, heat and medical help."
-h1: "Uplistsikhe cave town and Gori, Georgia: what to see, the South Ossetia line and staying safe"
+title: "Uplistsikhe, Georgia: Cave Town near Gori, Heat and Safety"
+description: "Uplistsikhe, the rock-hewn town 10 km from Gori: what to see, the South Ossetia line to avoid, summer heat, the way from Tbilisi and medical help."
+h1: "Uplistsikhe cave town near Gori, Georgia: what to see, the South Ossetia line and staying safe"
 kicker: Destinations · 2026
-lead: Uplistsikhe is an ancient town cut into the rock above the Mtkvari River in eastern Georgia. This guide covers what you will see there, the fortress and the Stalin Museum in nearby Gori, why you should keep well away from the South Ossetia line, summer heat, the way from Tbilisi and medical help. Facts from Wikipedia are marked as such; safety advice comes from the travel advice the UK and Canadian governments give their own travellers. Sources are at the end.
-crumb: Uplistsikhe and Gori
-nav: Uplistsikhe and Gori
+lead: Uplistsikhe is an ancient town cut into the rock above the Mtkvari River in eastern Georgia. This guide covers what you will see there, a short word on nearby Gori, why you should keep well away from the South Ossetia line, summer heat, the way from Tbilisi and medical help. Facts from Wikipedia are marked as such; safety advice comes from the travel advice the UK and Canadian governments give their own travellers. Sources are at the end.
+crumb: Uplistsikhe
+nav: Uplistsikhe
 section: places
 region: tbilisi
-card: "Uplistsikhe and Gori"
-card_desc: "The rock-hewn town near Gori, the fortress and the Stalin Museum, the occupied-region line to avoid, summer heat and medical help."
-updated: 2026-11-19
+card: "Uplistsikhe"
+card_desc: "The rock-hewn town near Gori: what to see, the occupied-region line to avoid, summer heat and medical help."
+updated: 2026-11-22
 published: 2026-11-19
 og: uplistsikhe-rock-town.webp
 ---
 
 > [!facts] In short
 > - Uplistsikhe, a rock-hewn town, lies some 10 kilometers east of Gori, in Shida Kartli, with structures from the Early Iron Age to the Late Middle Ages, according to Wikipedia.[^1]
-> - In Gori itself stand a medieval fortress on a rocky hill and a museum dedicated to Joseph Stalin in 1957.[^3][^4]
+> - In nearby Gori stand a medieval fortress on a rocky hill and the Stalin Museum, established in 1937.[^3][^11]
 > - The UK advises against all travel to South Ossetia and against all but essential travel next to its administrative boundary line.[^6] The Government of Canada advises its travellers to avoid the area within 5 km of the line, except Highway E60.[^9]
 > - Summer is usually hot, Wikipedia says.[^2] Our tip: go early and carry water.
 > - Outside Tbilisi, medical facilities are limited.[^7] In an emergency, dial 112.[^7]
 
 > [!stats]
 > - Uplistsikhe from Gori: about 10~km
-> - Gori from Tbilisi: 86~km
+> - Gori from Tbilisi: about 80~km
 > - Site area: about 8~ha
 > - Zone to avoid: 5~km from the line
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
 
 ## Uplistsikhe cave town: what you will see {#uplistsikhe}
 
@@ -56,15 +56,7 @@ It is a town carved into a high rocky river bank, with halls, passages and steps
 
 ## Gori: the fortress and the Stalin Museum {#gori}
 
-Two well-known sights stand in the town itself: a medieval citadel and a museum. According to [Wikipedia](https://en.wikipedia.org/wiki/Gori,_Georgia), the town lies 86 kilometres west of Tbilisi, "at the confluence of the rivers Mtkvari and Greater Liakhvi", 588 metres above sea level.[^2]
-
-**Gori Fortress.** [Wikipedia](https://en.wikipedia.org/wiki/Gori_Fortress) calls it "a medieval citadel… situated above the city of Gori on a rocky hill".[^3] Our tip: the same grippy shoes you wear at the rock town will help on the hill.
-
-**The Joseph Stalin Museum.** According to [Wikipedia](https://en.wikipedia.org/wiki/Joseph_Stalin_Museum,_Gori), it is a museum "dedicated to the life of Joseph Stalin", who was born in the town.[^4] It has three sections, all on the central square, and was "officially dedicated" to him in 1957.[^4] Wikipedia adds: "The museum retains its Soviet-era characteristics."[^4]
-
-**His birthplace.** The house where he was born is part of the museum complex, Wikipedia says.[^4]
-
-**Hours and tickets.** We give only the facts above and do not quote hours or ticket prices; check at the entrance.
+The nearest town lies about 80 km west of Tbilisi.[^10] Its two best-known sights are Gori Fortress, which [Wikipedia](https://en.wikipedia.org/wiki/Gori_Fortress) calls "a medieval citadel" on a rocky hill,[^3] and the Stalin Museum, which the city hall says was established there in 1937.[^11] Hours, tickets, the summer heat and doctors in the town are covered in [our guide to the town](https://icebreaker4561.github.io/georgia-healthcare-guide/gori/).
 
 <!-- схема: img/gori-fortress-hill.webp | Craft paper illustration, not a photo of the real place: weathered stone fortress walls with square bastions along a rocky hilltop, white-walled houses and trees below, snowy mountains behind | Our tip: the same grippy shoes you wear at the rock town will help on the fortress hill -->
 
@@ -114,7 +106,7 @@ For the signs of heat illness and what to do, read our [heat advice in the Batum
 
 ## Getting there from Tbilisi {#getting-there}
 
-Head for Gori first, then on to Uplistsikhe. Wikipedia puts the town 86 kilometres west of the capital and the ancient site some 10 kilometers east of it.[^2][^1]
+Head for Gori first, then on to Uplistsikhe. georgia.travel puts the town about 80 km west of the capital,[^10] and Wikipedia puts the ancient site some 10 kilometers east of it.[^1]
 
 **Times and fares.** We do not give bus or train times, fares or driving times: we found no official source for them. Ask your host or the station the day before.
 
@@ -122,7 +114,7 @@ Head for Gori first, then on to Uplistsikhe. Wikipedia puts the town 86 kilometr
 
 **Our tip.** Save an offline map with Uplistsikhe marked before you leave. It works if the signal drops, and you will need to say exactly where you are if you call for help.
 
-<!-- схема: img/uplistsikhe-numbers.webp | Infographic headed "Uplistsikhe and Gori in numbers", five cards: 86 km, Tbilisi to Gori; about 10 km, Gori to Uplistsikhe; about 8 ha, area of the rock-hewn town; Early Iron Age to Late Middle Ages, its structures; 1957, Stalin Museum dedicated; source line: Wikipedia (secondary source) | Uplistsikhe and Gori in five numbers, from Wikipedia -->
+<!-- схема: img/uplistsikhe-numbers.webp | Infographic headed "Uplistsikhe and Gori in numbers", five cards: about 80 km, Tbilisi to Gori; about 10 km, Gori to Uplistsikhe; about 8 ha, area of the rock-hewn town; Early Iron Age to Late Middle Ages, its structures; 1937, Stalin Museum established; source line: georgia.travel, Gori City Hall, Wikipedia | The rock-hewn town lies about 10 km east of Gori, on the Tbilisi side -->
 
 ## Medical help in Gori {#health}
 
@@ -132,7 +124,7 @@ Plan for help to take time in the countryside. The UK's [health advice](https://
 
 **In an emergency.** The UK advice says: "Dial 112 and ask for an ambulance."[^7] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say. Our tip: give the site name and which part of the complex you are in.
 
-**Clinics in Gori.** The town, some 10 km from the site, has clinics in our catalogue. The catalogue of [clinics in Gori](https://100doc.ge/en/gori/) on 100doc.ge listed 11 clinics when we checked on 19 November 2026.
+**Clinics in Gori.** The town, some 10 km from the site, has clinics in our catalogue. The catalogue of [clinics in Gori](https://100doc.ge/en/gori/) on 100doc.ge listed 11 clinics when we checked on 22 November 2026.
 
 **Your cover.** Visitors need health and accident cover of at least 30,000~GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
 
@@ -140,7 +132,7 @@ Plan for help to take time in the countryside. The UK's [health advice](https://
 
 ### How far is Uplistsikhe from Tbilisi and Gori?
 
-Wikipedia puts Gori 86 km west of Tbilisi and the rock-hewn town some 10 km east of it.[^2][^1]
+georgia.travel puts Gori about 80 km west of Tbilisi;[^10] Wikipedia puts the rock-hewn town some 10 km east of it.[^1]
 
 ### What is there to see?
 
@@ -160,7 +152,7 @@ Wikipedia says summer is usually hot.[^2] Go early, carry water and a hat, and r
 
 ### What is the Stalin Museum?
 
-A museum in Gori dedicated to the life of the Soviet leader, who was born there. Wikipedia says it was officially dedicated in 1957 and retains its Soviet-era characteristics.[^4]
+A museum in Gori dedicated to the life of the Soviet leader, who was born there. The city hall there says it was established in 1937;[^11] Wikipedia adds that it retains its Soviet-era characteristics.[^4]
 
 ### Where can I find a doctor nearby?
 
@@ -177,6 +169,8 @@ In Gori: the catalogue on 100doc.ge listed 11 clinics there. In an emergency, di
 - [GOV.UK travel advice for Georgia: health](https://www.gov.uk/foreign-travel-advice/georgia/health)
 - [GOV.UK travel advice for Georgia: safety and security](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security)
 - [Government of Canada: travel advice for Georgia](https://travel.gc.ca/destinations/georgia)
+- [Georgian National Tourism Administration: Gori](https://georgia.travel/cities-towns/gori)
+- [Gori City Hall: Tourism](https://gori.gov.ge/index.php?lng=eng&m=412)
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
