@@ -10,7 +10,7 @@ section: places
 region: south-east
 card: Telavi travel guide
 card_desc: The Gombori Pass road from Tbilisi, winter closures, summer heat, the hospital, 112 and what to see around Telavi.
-updated: 2026-11-20
+updated: 2026-11-22
 published: 2026-11-20
 og: batonis-tsikhe.webp
 ---
@@ -31,13 +31,13 @@ og: batonis-tsikhe.webp
 > - Detour via Sagarejo: +40 min
 > - Emergency: 112
 
-This page is about the town in Georgia, the country in the Caucasus, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 20 November 2026.
+This page is about the town in Georgia, the country in the Caucasus, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
 
 ## Tbilisi to Telavi: how to get there and how long it takes {#getting-there}
 
 Plan on a little under two hours by road. Georgian National Tourism Administration gives 1 h 55 min on its page about the town[^1] and 1 h 50 min in its article about the mountain road.[^2]
 
-The direct route crosses the range at 1,620 m.[^2] The pass road, which starts from Tbilisi near Vaziani, is 65 km long, the tourism administration says.[^2] We give no total distance from central Tbilisi: we found no official figure, and the unofficial ones we saw do not agree.
+The direct route crosses the range at 1,620 m.[^2] The pass road, which starts from Tbilisi near Vaziani, is 65 km long, the tourism administration says.[^2] The whole trip from Tbilisi to the town is about 94 km by the shortest route, via Gombori, according to the tourism administration.[^20]
 
 There is a second, slower road that avoids the pass. According to the tourism administration, going round the mountains adds about 40 minutes to the trip.[^2] When that is worth it is covered in [the pass or the detour](#gombori-or-detour) below.
 
@@ -114,7 +114,7 @@ Choose the longer road when:
 
 Yes: the tourism administration says the road is open all year.[^2] But "in the middle of the autumn, the way may be covered by a milky fog or snow", it adds,[^2] and then the Roads Department of Georgia can restrict traffic. Check its [restrictions page](https://georoad.gov.ge/en/restriction) on the day you travel.[^7]
 
-The department publishes restrictions as a list by date. When we checked on 20 November 2026, its most recent entries did not mention the Vaziani–Gombori–Telavi road.[^7] That is a snapshot at the time of checking, not a forecast for this winter.
+The department publishes restrictions as a list by date. When we checked on 22 November 2026, its most recent entries did not mention the Vaziani–Gombori–Telavi road.[^7] That is a snapshot at the time of checking, not a forecast for this winter.
 
 Past winters show what to expect:
 
@@ -233,7 +233,7 @@ The Ministry of Health runs a hotline, 1505, available around the clock, accordi
 
 Keep expectations realistic. The UK government's health advice says: "Outside Tbilisi, medical facilities are limited."[^17]
 
-For something that is not an emergency, such as a fever, a sore throat or a check after a fall, the town also has clinics. The [catalogue of clinics in Telavi](https://100doc.ge/en/telavi/) listed 13 clinics when we checked on 20 November 2026.
+For something that is not an emergency, such as a fever, a sore throat or a check after a fall, the town also has clinics. The [catalogue of clinics in Telavi](https://100doc.ge/en/telavi/) listed 13 clinics when we checked on 22 November 2026.
 
 For the rest of the region, see [Medical help in Kakheti](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/#health).
 
@@ -359,6 +359,7 @@ For history and wine country, yes. The tourism administration says King Erekle I
 - [GOV.UK travel advice: health](https://www.gov.uk/foreign-travel-advice/georgia/health)
 - [Georgian National Tourism Administration: medical information](https://georgia.travel/coming-to-georgia/medical-information)
 - [Legislative Herald of Georgia: Resolution No. 602 (Georgian)](https://matsne.gov.ge/ka/document/view/6728816)
+- [Georgian National Tourism Administration: things to do and see](https://georgia.travel/things-to-do-telavi)
 
 This guide is general information, not medical advice: the doctor decides on your treatment.
 
