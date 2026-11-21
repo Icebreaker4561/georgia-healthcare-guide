@@ -410,6 +410,13 @@
       "pair": "telavi"
     },
     {
+      "slug": "ananuri",
+      "lang": "en",
+      "src": "content/en/ananuri.md",
+      "kicker": "Destinations",
+      "pair": "ananuri"
+    },
+    {
       "slug": "tskaltubo",
       "lang": "en",
       "src": "content/en/tskaltubo.md",
