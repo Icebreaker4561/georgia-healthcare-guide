@@ -331,6 +331,13 @@
       "pair": "chiatura"
     },
     {
+      "slug": "anaklia",
+      "lang": "en",
+      "src": "content/en/anaklia.md",
+      "kicker": "Destinations",
+      "pair": "anaklia"
+    },
+    {
       "slug": "svaneti",
       "lang": "en",
       "src": "content/en/svaneti.md",
