@@ -17,7 +17,7 @@ og: ski-patrol-slope.webp
 ---
 
 > [!facts] In short
-> - Hurt on a slope or a trail? Call 112 first.
+> - Hurt on a slope or a trail? Call 112 first.[^10]
 > - If life is at risk, do not wait for anyone's approval; otherwise call the assistance line on your policy before a transfer, so it can be paid.
 > - Ordinary travel cover may exclude sport: check the exclusions in yours.
 > - New headache after going up high? Go no higher and rest; go down if it gets worse, and get urgent help for severe symptoms.
@@ -169,6 +169,7 @@ The national tourism administration lists a fully equipped medical station and a
 - [Georgian National Tourism Administration: four-day SUV tour in Stepantsminda (elevation)](https://georgia.travel/4-day-suv-tour-in-stepantsminda)
 - IRAO: "Incoming Tourists And Domestic Tour Insurance. Essential Terms" — clause 9.1.22 and other exclusions
 - [Government Resolution No. 602 of 26 December 2025 (matsne.gov.ge, local language)](https://matsne.gov.ge/ka/document/view/6728816)
+- [Official service site: services covered and what to say on a call](https://112.gov.ge/?page_id=1686&lang=en)
 
 This guide is general information, not medical advice: the doctor decides on your treatment.
 
