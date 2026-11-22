@@ -66,6 +66,13 @@
       "pair": "taxi"
     },
     {
+      "slug": "esim-georgia",
+      "lang": "en",
+      "src": "content/en/esim-georgia.md",
+      "kicker": "Practical",
+      "pair": "esim"
+    },
+    {
       "slug": "beshenstvo-v-gruzii",
       "lang": "ru",
       "src": "content/ru/beshenstvo-v-gruzii.md",
