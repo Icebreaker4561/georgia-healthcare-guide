@@ -210,6 +210,14 @@
       "key": "tusheti-ru"
     },
     {
+      "slug": "hevsuretiya",
+      "lang": "ru",
+      "src": "content/ru/hevsuretiya.md",
+      "kicker": "Путеводители",
+      "pair": "khevsureti",
+      "key": "khevsureti-ru"
+    },
+    {
       "slug": "martvilskij-kanon",
       "lang": "ru",
       "src": "content/ru/martvilskij-kanon.md",
