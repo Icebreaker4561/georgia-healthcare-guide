@@ -615,7 +615,7 @@ def page_html(page, meta, body, toc, faq):
 <body>
 <a class="skip" href="#main">{ui["skip"]}</a>
 <header class="top"><input type="checkbox" id="mt" class="mt" aria-label="{MENU_BTN[lang]}"><div class="wrap top-in">
-<a class="logo" href="{home_href}">100doc<span class="logo-ge">.ge</span><span class="logo-g">/Guide</span></a>
+<a class="logo" href="{home_href}"><img src="{pre}assets/img/logo-100doc-guide-1x.webp" srcset="{pre}assets/img/logo-100doc-guide-1x.webp 1x, {pre}assets/img/logo-100doc-guide.webp 2x" width="190" height="28" alt="100doc.ge Guide"></a>
 <div class="top-r">{lang_switch}<label for="mt" class="mbtn">{MENU_BTN[lang]}</label></div>
 </div>{nav}</header>
 <div class="law"><div class="wrap"><a href="{strip_href}">{strip_text}</a></div></div>
@@ -624,7 +624,7 @@ def page_html(page, meta, body, toc, faq):
 {main_html}
 </main>
 <footer class="foot"><div class="wrap">
-<p class="foot-logo">100doc<span class="logo-ge">.ge</span><span class="logo-g">/Guide</span></p>
+<p class="foot-logo"><img src="{pre}assets/img/logo-100doc-guide-1x.webp" srcset="{pre}assets/img/logo-100doc-guide-1x.webp 1x, {pre}assets/img/logo-100doc-guide.webp 2x" width="190" height="28" alt="100doc.ge Guide" loading="lazy"></p>
 <p>{ui["about"]}</p>
 <ul class="foot-links">{footer_links}</ul>
 <p class="small">{ui["disclaimer"]}</p>

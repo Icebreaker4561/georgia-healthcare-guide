@@ -3,7 +3,8 @@ https://100doc.ge/ru/blog/ — белая шапка, светло-серый ф
 и мягкой тенью, системный шрифт в духе Inter, серый подвал). Заменяет прежний тест «как thegeorgianguide.com».
 
 Проверяет собранные страницы и build/style.css:
-- шапка белая, логотип — текст «100doc.ge/Guide» и ведёт на главную путеводителя своего языка;
+- шапка белая, логотип — картинка «100doc.ge / Guide» в стиле логотипов разделов 100doc.ge (/Tourist, /Review; владелец 22.11.2026:
+  «должен быть такой же, как и в остальных разделах сайта»), alt «100doc.ge Guide», ведёт на главную путеводителя своего языка;
 - токены цвета блога: фон #f9fafb, ссылки #0f68ae, розовый #fe1d95, рамка #e0e0e8, белая поверхность;
 - шрифт: стек Inter → системные, без Google Fonts и без Fraunces;
 - карточки: белые, рамка 1px, скруглённые, с тенью; подвал серый, не тёмный;
@@ -53,8 +54,11 @@ class DesignTest(unittest.TestCase):
             m = re.search(r'<header class="top">.*?<a class="logo" href="([^"]+)"[^>]*>(.*?)</a>', h, re.S)
             if not m:
                 bad.append(f"{key}: нет логотипа"); continue
-            if re.sub(r"<[^>]+>", "", m.group(2)).strip() != "100doc.ge/Guide":
-                bad.append(f"{key}: логотип «{m.group(2)}»")
+            img = re.search(r'<img [^>]*src="([^"]*assets/img/logo-100doc-guide-1x\.webp)"[^>]*>', m.group(2))
+            if not img or 'alt="100doc.ge Guide"' not in img.group(0) or "logo-100doc-guide.webp 2x" not in img.group(0):
+                bad.append(f"{key}: логотип не картинка 100doc.ge / Guide: «{m.group(2)[:120]}»")
+            elif not (ROOT / urllib.parse.urljoin("/" + rel(p), img.group(1)).lstrip("/")).exists():
+                bad.append(f"{key}: файла логотипа нет: {img.group(1)}")
             home = BASE + ("ru/" if p["lang"] == "ru" else "")
             if urllib.parse.urljoin(BASE + rel(p), m.group(1)) != home:
                 bad.append(f"{key}: логотип ведёт на {m.group(1)}")
