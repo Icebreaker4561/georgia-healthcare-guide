@@ -484,6 +484,13 @@
       "pair": "sairme"
     },
     {
+      "slug": "zugdidi",
+      "lang": "en",
+      "src": "content/en/zugdidi.md",
+      "kicker": "Destinations",
+      "pair": "zugdidi"
+    },
+    {
       "slug": "kutaisi",
       "lang": "en",
       "src": "content/en/kutaisi.md",
