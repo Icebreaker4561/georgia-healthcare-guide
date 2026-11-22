@@ -51,6 +51,14 @@
       "pair": "chacha"
     },
     {
+      "slug": "taksi-v-gruzii",
+      "lang": "ru",
+      "src": "content/ru/taksi-v-gruzii.md",
+      "kicker": "Полезное",
+      "pair": "taxi",
+      "key": "taxi-ru"
+    },
+    {
       "slug": "taxi-in-georgia",
       "lang": "en",
       "src": "content/en/taxi-in-georgia.md",
