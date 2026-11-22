@@ -33,9 +33,9 @@ class HeaderBrand(unittest.TestCase):
         bad = []
         for p in PAGES:
             h = p.read_text(encoding="utf-8")
-            m = re.search(r'<a class="brand"[^>]*>(?:<span[^>]*></span>)?(.*?)</a>', h, re.S)
-            want = BRAND[lang_of(h)]
-            if not m or m.group(1).strip() != want:
+            m = re.search(r'<a class="logo"[^>]*>(.*?)</a>', h, re.S)  # владелец 22.11.2026: в шапке логотип «100doc.ge/Guide»
+            want = "100doc.ge/Guide"
+            if not m or re.sub(r"<[^>]+>", "", m.group(1)).strip() != want:
                 bad.append(f"{p.parent.relative_to(ROOT)}: шапка «{m.group(1).strip() if m else '—'}», нужно «{want}»")
             for part in re.findall(r'<header class="top">.*?</header>|<footer class="foot">.*?</footer>', h, re.S):
                 if OLD.search(re.sub(r"<[^>]+>", " ", part)):

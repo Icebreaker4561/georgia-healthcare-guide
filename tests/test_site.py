@@ -131,8 +131,12 @@ class SiteTest(unittest.TestCase):
 
     def test_links_to_100doc(self):
         for p in SITE["pages"]:
-            d = parse(page_path(p))
-            ours = [(a, t) for a, t in d.a if "100doc.ge" in (a.get("href") or "")]
+            # владелец 22.11.2026: считаем только текст статьи — article.body и «Коротко»; шапка, полоса, автор,
+            # кнопки ИИ и адрес самого сайта (guide.100doc.ge) в счёт не идут
+            h = page_path(p).read_text(encoding="utf-8")
+            d = Doc()
+            d.feed(" ".join(re.findall(r'<article class="body[^"]*">.*?</article>|<aside class="box facts">.*?</aside>', h, re.S)))
+            ours = [(a, t) for a, t in d.a if "100doc.ge" in (a.get("href") or "") and not (a.get("href") or "").startswith(BASE)]
             limit = (1, 6) if p["slug"] == "" else (1, 2)
             self.assertTrue(limit[0] <= len(ours) <= limit[1], f"{page_path(p)}: ссылок на 100doc.ge {len(ours)}, нужно {limit}")
             for a, t in ours:

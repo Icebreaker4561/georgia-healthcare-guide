@@ -54,7 +54,7 @@ class AiRead(unittest.TestCase):
             prompt = html.unescape(re.search(r'data-prompt="([^"]*)"', sec).group(1))
             url = SITE["base"] + rel
             h1 = html.unescape(re.sub(r"<[^>]+>", "", re.search(r"<h1>(.*?)</h1>", h, re.S).group(1))).strip()
-            if url not in prompt or h1 not in prompt or NAME[lang] not in prompt or "100doc" in prompt:
+            if url not in prompt or h1 not in prompt or NAME[lang] not in prompt or "100doc" in prompt.replace(url, ""):  # адрес guide.100doc.ge — не текст вопроса (владелец 22.11.2026)
                 bad.append(f"{rel}: вопрос без адреса/H1/названия путеводителя или с 100doc: {prompt[:120]}")
             if not re.search(r"5 (пунктах|bullets)", prompt):
                 bad.append(f"{rel}: в вопросе нет «5 пунктах»")

@@ -34,7 +34,7 @@ class GuideName(unittest.TestCase):
                 bad.append(f"{p.relative_to(ROOT)}: старое название")
             for m in re.finditer(r'<script type="application/ld\+json">(.*?)</script>', h, re.S):
                 d = json.loads(m.group(1))
-                if d.get("@type") == "Article" and d.get("publisher", {}).get("name") != BRAND[lang]:
+                if d.get("@type") == "Article" and d.get("publisher", {}).get("name") != "100doc.ge":  # издатель — 100doc.ge, как в блоге (владелец 22.11.2026)
                     bad.append(f"{p.relative_to(ROOT)}: publisher {d.get('publisher')}")
             foot = re.search(r'<footer.*?</footer>', h, re.S)
             if not foot or BRAND[lang] not in foot.group(0):

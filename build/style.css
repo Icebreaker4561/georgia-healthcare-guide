@@ -268,5 +268,6 @@ sup.fn a::before{content:"[" attr(data-n) "]"}
 .ai-read-dlg-go:hover{background:var(--teal-deep);color:var(--surface)}
 .ai-read-dlg-close{background:var(--surface);color:var(--ink);border:1px solid var(--line)}
 .ai-read-dlg-go:focus-visible,.ai-read-dlg-close:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
-@media (max-width:600px){.ai-read{padding:14px}.ai-read ul{display:grid;grid-template-columns:1fr 1fr}.ai-read li:last-child:nth-child(odd){grid-column:1/-1}.ai-read a,.ai-read button{justify-content:center;width:100%;padding:0 8px;white-space:nowrap}}
+@media (max-width:600px){.ai-read{padding:14px}.ai-read ul{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}.ai-read li:last-child:nth-child(odd){grid-column:1/-1}.ai-read a,.ai-read button{justify-content:center;width:100%;padding:0 8px;white-space:nowrap}}
 @media (prefers-reduced-motion:reduce){.ai-read a,.ai-read button{transition:none}}
+@media (max-width:359px){.ai-read ul{grid-template-columns:minmax(0,1fr)}.ai-read li:last-child:nth-child(odd){grid-column:auto}}

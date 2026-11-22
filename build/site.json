@@ -73,6 +73,13 @@
       "pair": "esim"
     },
     {
+      "slug": "georgia-with-kids",
+      "lang": "en",
+      "src": "content/en/georgia-with-kids.md",
+      "kicker": "Family",
+      "pair": "kids"
+    },
+    {
       "slug": "beshenstvo-v-gruzii",
       "lang": "ru",
       "src": "content/ru/beshenstvo-v-gruzii.md",
