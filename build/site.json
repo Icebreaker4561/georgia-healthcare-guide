@@ -291,6 +291,14 @@
       "key": "chiatura-ru"
     },
     {
+      "slug": "katskhi",
+      "lang": "ru",
+      "src": "content/ru/katskhi.md",
+      "kicker": "Путеводители",
+      "pair": "katskhi",
+      "key": "katskhi-ru"
+    },
+    {
       "slug": "anakliya",
       "lang": "ru",
       "src": "content/ru/anakliya.md",
