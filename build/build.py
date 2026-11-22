@@ -702,7 +702,6 @@ def page_html(page, meta, body, toc, faq):
 <div class="site-hdr-left"><span class="hdr-logo-link"><a class="logo" href="{home_href}">{logo_img}</a></span></div>
 <div class="site-hdr-right">{lang_switch.replace('class="lang"', 'class="lang"')}{phone}<label for="mt" class="mbtn">{MENU_BTN[lang]}</label></div>
 </div>{nav}</div></header>
-<div class="hdr-tagline"><span class="ok-mark" aria-hidden="true">✓</span> {bl["tagline"]}</div>
 <a class="law-strip" href="{strip_href}"><p>{TPL_LAW_ICON}{strip_text}</p></a>
 <main id="main" class="page{" home" if is_home else ""}">
 {main_html}
