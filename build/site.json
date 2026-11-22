@@ -139,6 +139,14 @@
       "key": "tskaltubo-ru"
     },
     {
+      "slug": "sairme",
+      "lang": "ru",
+      "src": "content/ru/sairme.md",
+      "kicker": "Путеводители",
+      "pair": "sairme",
+      "key": "sairme-ru"
+    },
+    {
       "slug": "kogda-ehat-v-gruziyu",
       "lang": "ru",
       "src": "content/ru/kogda-ehat-v-gruziyu.md",
