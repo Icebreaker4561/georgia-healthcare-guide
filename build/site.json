@@ -299,6 +299,14 @@
       "key": "katskhi-ru"
     },
     {
+      "slug": "sachkhere",
+      "lang": "ru",
+      "src": "content/ru/sachkhere.md",
+      "kicker": "Путеводители",
+      "pair": "sachkhere",
+      "key": "sachkhere-ru"
+    },
+    {
       "slug": "anakliya",
       "lang": "ru",
       "src": "content/ru/anakliya.md",
