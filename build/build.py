@@ -89,9 +89,9 @@ REGION_LABEL = {"ru": {"tbilisi": "Тбилиси и рядом", "mountains": "
                        "south-east": "South and east"}}
 MENU_BTN = {"ru": "Меню", "en": "Menu"}
 # Меню работает без скрипта (details/summary + флажок). Скрипт только удобство: клик мимо и Esc закрывают раздел.
-MENU_JS = ("document.addEventListener('click',function(e){document.querySelectorAll('details.msec[open]').forEach(function(d){"
+MENU_JS = ("document.addEventListener('click',function(e){document.querySelectorAll('details.msec[open],details.langs[open]').forEach(function(d){"
            "if(!d.contains(e.target))d.removeAttribute('open')})});document.addEventListener('keydown',function(e){"
-           "if(e.key==='Escape'){var d=document.querySelector('details.msec[open]');if(d){d.removeAttribute('open');"
+           "if(e.key==='Escape'){var d=document.querySelector('details.msec[open],details.langs[open]');if(d){d.removeAttribute('open');"
            "d.querySelector('summary').focus()}}});")
 # Автор и издатель — как в разметке блога 100doc.ge (владелец 22.11.2026; псевдоним снят). Тексты и @id скопированы
 # из JSON-LD статей блога: ru https://100doc.ge/ru/blog/chto-delat-pri-dtp-v-gruzii/, en https://100doc.ge/en/blog/car-accident-in-georgia/
@@ -409,6 +409,18 @@ def tx(s):
     return html.escape(s, quote=False)
 
 
+LANG_NAME = {"ru": "Русский", "en": "English"}
+# Флажки — встроенные SVG (эмодзи-флаги в Windows показываются буквами)
+FLAG = {
+    "ru": '<svg viewBox="0 0 9 6" width="24" height="16" aria-hidden="true"><rect width="9" height="6" fill="#fff"/>'
+          '<rect y="2" width="9" height="4" fill="#0039a6"/><rect y="4" width="9" height="2" fill="#d52b1e"/></svg>',
+    "en": '<svg viewBox="0 0 60 30" width="24" height="16" aria-hidden="true"><clipPath id="gbt"><path d="M30,15h30v15zv15H0zH0V0zV0h30z"/></clipPath>'
+          '<path d="M0,0v30h60V0z" fill="#012169"/><path d="M0,0 60,30M60,0 0,30" stroke="#fff" stroke-width="6"/>'
+          '<path d="M0,0 60,30M60,0 0,30" clip-path="url(#gbt)" stroke="#C8102E" stroke-width="4"/>'
+          '<path d="M30,0v30M0,15h60" stroke="#fff" stroke-width="10"/><path d="M30,0v30M0,15h60" stroke="#C8102E" stroke-width="6"/></svg>',
+}
+
+
 def href_to(p, pre):
     return f'{pre}{out_rel(p)[:-len("index.html")]}' or "./"
 
@@ -558,8 +570,12 @@ def page_html(page, meta, body, toc, faq):
     other = next((p for p in alts if p["lang"] != lang), None)
     other_home = next((p for p in SITE["pages"] if p["lang"] != lang and p["slug"] == ""), None)
     lang_link = other or other_home
-    lang_switch = (f'<a class="lang" href="{href_to(lang_link, pre)}" hreflang="{lang_link["lang"]}" '
-                   f'lang="{lang_link["lang"]}">{ui["lang_other"]}</a>') if lang_link else ""
+    # выбор языка — компактный, выпадающий вниз, флажками (владелец 22.11.2026); работает без скрипта (details/summary)
+    lang_switch = (f'<details class="langs"><summary aria-label="{"Язык" if lang == "ru" else "Language"}: {LANG_NAME[lang]}" '
+                   f'title="{LANG_NAME[lang]}">{FLAG[lang]}<span class="lang-caret" aria-hidden="true">▾</span></summary>'
+                   f'<div class="lang-menu"><a class="lang" href="{href_to(lang_link, pre)}" hreflang="{lang_link["lang"]}" '
+                   f'lang="{lang_link["lang"]}">{FLAG[lang_link["lang"]]}<span>{LANG_NAME[lang_link["lang"]]}</span></a></div></details>'
+                   ) if lang_link else ""
     nav = menu_html(page, pre)
     home_href = href_to(home, pre)
     # хлебные крошки: Путеводитель по Грузии › Раздел (блок главной) › Статья
@@ -700,7 +716,7 @@ def page_html(page, meta, body, toc, faq):
 <a class="skip" href="#main">{ui["skip"]}</a>
 <header class="top"><div class="site-hdr"><input type="checkbox" id="mt" class="mt" aria-label="{MENU_BTN[lang]}"><div class="site-hdr-in">
 <div class="site-hdr-left"><span class="hdr-logo-link"><a class="logo" href="{home_href}">{logo_img}</a></span></div>
-<div class="site-hdr-right">{lang_switch.replace('class="lang"', 'class="lang"')}{phone}<label for="mt" class="mbtn">{MENU_BTN[lang]}</label></div>
+<div class="site-hdr-right">{lang_switch}{phone}<label for="mt" class="mbtn">{MENU_BTN[lang]}</label></div>
 </div>{nav}</div></header>
 <a class="law-strip" href="{strip_href}"><p>{TPL_LAW_ICON}{strip_text}</p></a>
 <main id="main" class="page{" home" if is_home else ""}">
