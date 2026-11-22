@@ -30,7 +30,7 @@ og: vardzia-cliff.webp
 > - Section closed in 2026: near the Secret Tunnel
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## Vardzia cave monastery: Queen Tamar's city in the rock {#history}
 
@@ -111,7 +111,7 @@ Plan the trip around Akhaltsikhe, with Rabati Castle and clinics. Wikipedia puts
 
 **Khertvisi.** Khertvisi fortress belongs to the Vardzia–Khertvisi area that, according to Wikipedia, was submitted to UNESCO together with the monastery.[^3]
 
-**From Borjomi.** If you are based in the spa town, see our [guide to Borjomi](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/).
+**From Borjomi.** If you are based in the spa town, see our [guide to Borjomi](https://guide.100doc.ge/borjomi/).
 
 **Our tip.** Save an offline map and the names Aspindza and Akhaltsikhe before you leave. The map works if the signal drops, and you will need to say where you are if you call for help.
 
@@ -121,13 +121,13 @@ The monastery is in a rural area, and serious care is in the cities. The UK's [h
 
 **Rural areas.** The Government of Canada's [travel advice](https://travel.gc.ca/destinations/georgia), updated 27 August 2026, says: "In rural areas, there are shortages of medical supplies and personnel."[^6] It adds: "First responders may not be able to access rural areas."[^6] Plan for help to take time.
 
-**In an emergency.** Dial 112. The UK advice says: "Dial 112 and ask for an ambulance. Contact your insurance company quickly if you're referred to a medical facility for treatment."[^5] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say. Our tip: tell the operator the name of the monastery, the municipality (Aspindza) and the level you are on.
+**In an emergency.** Dial 112. The UK advice says: "Dial 112 and ask for an ambulance. Contact your insurance company quickly if you're referred to a medical facility for treatment."[^5] Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/) and what to say. Our tip: tell the operator the name of the monastery, the municipality (Aspindza) and the level you are on.
 
 **Clinics in Akhaltsikhe.** Akhaltsikhe is the regional centre. The catalogue of [clinics in Akhaltsikhe](https://100doc.ge/en/akhaltsikhe/) on 100doc.ge listed 5 clinics when we checked on 19 November 2026.
 
-**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance).
 
-**Other risks.** For roads and crime, read [Is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/)
+**Other risks.** For roads and crime, read [Is Georgia safe?](https://guide.100doc.ge/is-georgia-safe/)
 
 ## Frequently asked questions {#faq}
 
@@ -171,4 +171,4 @@ The nearest regional town with clinics in our catalogue is Akhaltsikhe. In an em
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

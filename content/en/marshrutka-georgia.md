@@ -29,7 +29,7 @@ og: marshrutka-road.webp
 > - Fast trains to Batumi: 2 a day (railway.ge)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## What a marshrutka is {#what}
 
@@ -57,7 +57,7 @@ The Government of Canada tells its travellers to avoid marshrutkas. Its advice f
 
 **The UK view.** The [GOV.UK safety page](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) we checked does not mention minibuses.[^2] Its transport advice covers cabs, driving and rail; its cab rules are below.[^2]
 
-**After dark.** For drivers, the Government of Canada advises: "avoid travelling after dark".[^1] Our [driving in Georgia guide](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/) has more on the roads.
+**After dark.** For drivers, the Government of Canada advises: "avoid travelling after dark".[^1] Our [driving in Georgia guide](https://guide.100doc.ge/driving-in-georgia/) has more on the roads.
 
 **What this means.** We do not give our own verdict on how risky these minibuses are. We report what two governments say and point to options that official sources describe.
 
@@ -71,13 +71,13 @@ Didube is a metro station in northern Tbilisi. Official park pages name it as th
 
 **Prometheus Cave.** The [national parks' page](https://nationalparks.ge/en/site/prometheuscave/getHere) says the cave "can be accessed from Tbilisi, from the territory near the metro station Didube by mini-buses".[^4]
 
-**Borjomi.** For Borjomi-Kharagauli National Park, the [parks write](https://nationalparks.ge/en/site/borjomi-kharagaulinp/getHere): "Micro-buses are running from Tbilisi Didube subway to Borjomi every day, from 08:00 am to 18:00 pm."[^5] Our [Borjomi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/) covers the town itself.
+**Borjomi.** For Borjomi-Kharagauli National Park, the [parks write](https://nationalparks.ge/en/site/borjomi-kharagaulinp/getHere): "Micro-buses are running from Tbilisi Didube subway to Borjomi every day, from 08:00 am to 18:00 pm."[^5] Our [Borjomi guide](https://guide.100doc.ge/borjomi/) covers the town itself.
 
 **A transport hub.** [Wikipedia](https://en.wikipedia.org/wiki/Didube_%28Tbilisi_Metro%29) says the station "serves as a transport hub, serving the district of Didube and other northern neighbourhoods".[^10] It also calls it one of the busiest stations in the network.[^10]
 
 **Didube bus station.** According to Wikipedia, "Next to the station is Didube Bus Station, one of the busiest bus stations of Tbilisi, which is used for traveling to mainly western and northern directions of the country."[^10] The official park pages speak only of the metro station and the area near it, and we found no official address, opening hours or phone number, so we give none.
 
-**Heading into the mountains?** Read our [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/) before you plan the trip north.
+**Heading into the mountains?** Read our [Kazbegi guide](https://guide.100doc.ge/kazbegi/) before you plan the trip north.
 
 **If you do ride.** Two rules come from official travel advice, the seatbelt check follows GOV.UK's rule for cabs, and the rest are our tips:
 
@@ -124,7 +124,7 @@ Inside the capital, the Tbilisi metro and city routes are the main public transp
 
 **Fares.** The company's site has a fares page. We do not repeat figures we could not check.
 
-**Arriving by air?** See our [Tbilisi airport guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/).
+**Arriving by air?** See our [Tbilisi airport guide](https://guide.100doc.ge/tbilisi-airport/).
 
 **Our tip.** At busy stations such as Didube, keep your phone and wallet in a zipped inner pocket.
 
@@ -170,9 +170,9 @@ Winding roads can make you dizzy or sick. The NHS lists simple steps that help, 
 
 Dial 112 in an emergency. GOV.UK's health advice says: "Dial 112 and ask for an ambulance."[^3]
 
-**How to call.** Our [112 guide](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) explains how to call and what to say.
+**How to call.** Our [112 guide](https://guide.100doc.ge/ambulance-georgia/) explains how to call and what to say.
 
-**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance).
 
 **A doctor in the capital.** For a problem that can wait, see the catalogue of [doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/) on 100doc.ge.
 
@@ -227,4 +227,4 @@ Dial 112. GOV.UK says: "Dial 112 and ask for an ambulance."[^3]
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

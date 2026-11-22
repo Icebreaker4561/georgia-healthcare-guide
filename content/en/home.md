@@ -4,7 +4,7 @@ description: Georgia Travel Guide for traveling to Georgia, the country: travel 
 h1: Georgia Travel Guide: traveling to Georgia (the country), travel tips, safety and healthcare
 kicker: Travel guide · 2026
 lead: What to do in an emergency, which insurance you need to enter the country, and how to find a doctor in Tbilisi, Batumi or Kutaisi.
-updated: 2026-11-17
+updated: 2026-11-22
 published: 2026-11-17
 ---
 
@@ -24,7 +24,7 @@ published: 2026-11-17
 - Keep your passport (or a photo of it) and your policy number with you. Clinics will ask for both.
 - Save your exact address in Georgian or Latin letters on your phone. It helps the dispatcher and the driver.
 
-Step by step, with what to say on the phone and who pays afterwards: [how to call an ambulance in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+Step by step, with what to say on the phone and who pays afterwards: [how to call an ambulance in Georgia](https://guide.100doc.ge/ambulance-georgia/).
 
 ## Insurance to enter Georgia (2026 rule) {#entry-insurance}
 
@@ -74,14 +74,36 @@ For an overview of local plans and monthly prices, see [health insurance plans f
 - The legal status of a medicine in Georgia can differ from your home country. A drug that is over the counter at home may need a prescription here, and the other way round.
 - If you bring your own medicines, keep them in the original packaging with a copy of the prescription, ideally in English.
 
-What you can bring, which papers you need for codeine or tramadol, and what pharmacies sell without a prescription: [bringing medication to Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/bringing-medication-to-georgia/).
+What you can bring, which papers you need for codeine or tramadol, and what pharmacies sell without a prescription: [bringing medication to Georgia](https://guide.100doc.ge/bringing-medication-to-georgia/).
 
 ## Practical tips {#tips}
 
-- **Dog bites and scratches:** get medical help the same day because of the risk of rabies — see [what to do after a dog bite in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/).
-- **Mountains:** altitude sickness is a real risk in places like Gudauri and Kazbegi — see [skiing and hiking in Georgia: altitude, injuries and rescue](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/).
+- **Dog bites and scratches:** get medical help the same day because of the risk of rabies — see [what to do after a dog bite in Georgia](https://guide.100doc.ge/rabies-georgia/).
+- **Mountains:** altitude sickness is a real risk in places like Gudauri and Kazbegi — see [skiing and hiking in Georgia: altitude, injuries and rescue](https://guide.100doc.ge/gudauri-altitude/).
 - **Hiking in summer:** vipers are a risk, especially in early summer, and few facilities outside major towns stock anti-venom.
 - **Keep receipts** for every visit and purchase. Insurers will ask for them.
+
+## Frequently asked questions {#faq}
+
+### What is the emergency number in Georgia?
+
+112 is the single number for police, fire and ambulance. Call-takers answer in six languages, English among them, and it works from a mobile without a SIM card. More: [Ambulance in Georgia: how to call 112](https://guide.100doc.ge/ambulance-georgia/).
+
+### Do I need travel insurance to enter Georgia?
+
+Yes, since 1 January 2026: a health and accident policy of at least 30,000 GEL covering the whole stay (Government Resolution No 602). More: [Arriving at Tbilisi Airport](https://guide.100doc.ge/tbilisi-airport/).
+
+### Is Georgia safe for tourists?
+
+GOV.UK says crime levels are low. Watch for pickpockets in crowds, and do not go to Abkhazia or South Ossetia. More: [Is Georgia safe?](https://guide.100doc.ge/is-georgia-safe/)
+
+### Can I drive in Georgia with my licence?
+
+With a UK licence, yes, for up to one year, says GOV.UK; a car hire company may ask for an international driving permit. In the mountains in winter you need snow tires or chains. More: [Driving in Georgia](https://guide.100doc.ge/driving-in-georgia/).
+
+### How do I get from Tbilisi airport to the city centre?
+
+Bus 337 from in front of arrivals costs 1 GEL, paid by Metro Money or bank card; taxis at the kerb charge a fixed 40 GEL, 20–30 minutes. More: [Arriving at Tbilisi Airport](https://guide.100doc.ge/tbilisi-airport/).
 
 ## Official sources {#sources}
 

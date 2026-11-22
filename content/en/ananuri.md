@@ -31,7 +31,7 @@ og: ananuri-fortress.webp
 > - From Tbilisi: about 60 km
 > - Emergency number: 112
 
-This page is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 21 November 2026.
+This page is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 21 November 2026.
 
 ## Where is Ananuri and how far is it from Tbilisi? {#where}
 
@@ -67,7 +67,7 @@ The entry, written by the Georgian side, notes that "the visual perception of th
 
 There is no official ticket price or visiting times that we could check, and unofficial websites contradict each other. Check on the spot.
 
-**Our tip.** Dress modestly when you go inside, as you would for any Orthodox church in Georgia. See [Visiting churches](https://icebreaker4561.github.io/georgia-healthcare-guide/mtskheta/#church-etiquette) for what that means in practice.
+**Our tip.** Dress modestly when you go inside, as you would for any Orthodox church in Georgia. See [Visiting churches](https://guide.100doc.ge/mtskheta/#church-etiquette) for what that means in practice.
 
 ## Tbilisi to Ananuri: by car, taxi or marshrutka, and the way back {#getting-there}
 
@@ -77,9 +77,9 @@ Drive or take a taxi north along the main road. The road runs through the villag
 
 ### By car or taxi {#by-car}
 
-This is the simplest option, because the return is in your hands. The road leaves the capital northwards past [Mtskheta](https://icebreaker4561.github.io/georgia-healthcare-guide/mtskheta/) and then follows the river valley into the mountains.
+This is the simplest option, because the return is in your hands. The road leaves the capital northwards past [Mtskheta](https://guide.100doc.ge/mtskheta/) and then follows the river valley into the mountains.
 
-The UK government's travel advice warns that "roads outside city centres are often badly lit and poor quality".[^7] What that means behind the wheel is covered in [Georgia roads: what to expect](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#roads). With a taxi, agree in advance whether the driver waits while you look round.
+The UK government's travel advice warns that "roads outside city centres are often badly lit and poor quality".[^7] What that means behind the wheel is covered in [Georgia roads: what to expect](https://guide.100doc.ge/driving-in-georgia/#roads). With a taxi, agree in advance whether the driver waits while you look round.
 
 **Our tip.** Drive there and back in daylight, and set off early enough that the return does not fall after dark.
 
@@ -87,11 +87,11 @@ The UK government's travel advice warns that "roads outside city centres are oft
 
 A shared van heading north uses the road through the village, but getting off there is not officially confirmed, and getting back is harder still: nothing official tells you where or when a van towards the capital will pick you up.
 
-Many shared vans in the capital leave from around Didube metro station; see [Didube: where many minibuses leave from](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#where). No official source names the departure point for this route, and we do not repeat the fares quoted on unofficial websites.
+Many shared vans in the capital leave from around Didube metro station; see [Didube: where many minibuses leave from](https://guide.100doc.ge/marshrutka-georgia/#where). No official source names the departure point for this route, and we do not repeat the fares quoted on unofficial websites.
 
 The Government of Canada's travel advice is blunt: "Mini-buses called 'marshrutka' are poorly maintained and often lack security features like seatbelts. Avoid using them."[^8]
 
-**Our tip.** Arrange the return before you leave the capital: a taxi that waits for you, or a driver for the whole day. Do not count on a free seat in a passing van. If bends make you feel sick, read [Motion sickness on mountain roads](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#motion-sickness) first.
+**Our tip.** Arrange the return before you leave the capital: a taxi that waits for you, or a driver for the whole day. Do not count on a free seat in a passing van. If bends make you feel sick, read [Motion sickness on mountain roads](https://guide.100doc.ge/marshrutka-georgia/#motion-sickness) first.
 
 <!-- схема: img/ananuri-there-and-back.webp | Infographic in four cards: 1, before you go: plan the way back first, save 112, travel by daylight (our tip); 2, about the vans: the Government of Canada advises avoiding marshrutkas, calling them poorly maintained and saying they often lack seatbelts (Government of Canada advice); 3, at the village: pull over and stand only fully off the road (our tip); 4, getting back: no official timetable or stop, agree on a taxi or driver in advance (our tip) | The Government of Canada advises travellers to avoid these vans altogether -->
 
@@ -101,13 +101,13 @@ Both work: a short stop on the drive north, or a day trip on its own. The touris
 
 **Our tip.** Winter days are short: check when it gets dark before you set off.
 
-If you are going further into the mountains, see [Tbilisi to Kazbegi: the Georgian Military Road](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/#getting-there). For the ski resort on the way, see [How high is Gudauri?](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/#altitude)
+If you are going further into the mountains, see [Tbilisi to Kazbegi: the Georgian Military Road](https://guide.100doc.ge/kazbegi/#getting-there). For the ski resort on the way, see [How high is Gudauri?](https://guide.100doc.ge/gudauri-altitude/#altitude)
 
 ## Is the road to Ananuri safe? Stopping, the roadside and winter {#road-safety}
 
 The answer depends on the day, the light and the driver. The UK government's travel advice for Georgia warns that "heavy rain, flooding and snow at higher altitudes can affect roads and bridges making travel difficult or impossible" and that "landslides are common".[^7]
 
-For taxis and vans in general, see [Is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#roads)
+For taxis and vans in general, see [Is Georgia safe?](https://guide.100doc.ge/is-georgia-safe/#roads)
 
 ### Stopping by the road and waiting for a minibus {#stopping}
 
@@ -128,7 +128,7 @@ The Roads Department of Georgia publishes current limits on its [restrictions pa
 
 <!-- схема: img/ananuri-winter-road.webp | Craft paper illustration: a snowy mountain road above a reservoir, with a fortress on a hill and a small car on the road | Check the Roads Department's restrictions page on the day you travel -->
 
-In snow and storms, closures happen further north, on the pass: see [The Jvari Pass and road closures](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/#winter-road). Driving yourself in winter? Read [Night driving, mountains and winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter) first.
+In snow and storms, closures happen further north, on the pass: see [The Jvari Pass and road closures](https://guide.100doc.ge/kazbegi/#winter-road). Driving yourself in winter? Read [Night driving, mountains and winter](https://guide.100doc.ge/driving-in-georgia/#night-winter) first.
 
 Summer has its own risk. The UK government's travel advice says: "Lightning and wildfires are a risk in summer, particularly in the mountains."[^7]
 
@@ -165,7 +165,7 @@ In an emergency, dial 112 and ask for an ambulance; the UK government's travel a
 
 One number covers every emergency, and you can speak English. Operators take calls in Georgian, English, Azerbaijani, Armenian, Turkish and Russian, 24/7 across the whole country, but the phone must be within a mobile operator's coverage area, the emergency service says.[^4] The tourism administration says the call is free from any phone; the Ministry of Health's hotline, 1505, answers 24 hours a day.[^11]
 
-**Our tip.** Say where you are first: "Ananuri village, Dusheti Municipality, on the Georgian Military Road". Then give your direction, towards the capital or north into the mountains, and a landmark: the fortress or the reservoir. If your phone shows no network, move to where it does. More in [What to tell the operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**Our tip.** Say where you are first: "Ananuri village, Dusheti Municipality, on the Georgian Military Road". Then give your direction, towards the capital or north into the mountains, and a landmark: the fortress or the reservoir. If your phone shows no network, move to where it does. More in [What to tell the operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 <!-- схема: img/ananuri-112-card.webp | Infographic card: dial 112, 24/7, English and Russian among six languages; say the village, the municipality and the road; give your direction, towards the capital or north; name a landmark, the fortress or the reservoir | Operators take calls in six languages, including English and Russian -->
 
@@ -175,7 +175,7 @@ We found no official list of hospitals for the municipality and no official info
 
 The clinics we can point to are in the capital: the [catalogue of doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/) listed 574 clinics when we checked on 21 November 2026.
 
-Since 1 January 2026, tourists entering Georgia must have health and accident cover of at least 30,000~GEL, with some exceptions such as diplomatic passport holders, under [Resolution No. 602 of the Government of Georgia of 26 December 2025](https://matsne.gov.ge/ka/document/view/6728816).[^13] What the rule asks of you is explained in [Insurance to enter Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance). The UK government also advises insurance that covers local treatment and medical evacuation.[^10]
+Since 1 January 2026, tourists entering Georgia must have health and accident cover of at least 30,000~GEL, with some exceptions such as diplomatic passport holders, under [Resolution No. 602 of the Government of Georgia of 26 December 2025](https://matsne.gov.ge/ka/document/view/6728816).[^13] What the rule asks of you is explained in [Insurance to enter Georgia](https://guide.100doc.ge/#entry-insurance). The UK government also advises insurance that covers local treatment and medical evacuation.[^10]
 
 ## Frequently asked questions {#faq}
 
@@ -225,6 +225,6 @@ It is a mountain road, and the answer depends on the conditions and the light. T
 
 This guide is general information, not medical advice: the doctor decides on your treatment.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

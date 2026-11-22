@@ -32,7 +32,7 @@ og: chiatura-cable-cars.webp
 > - New cabins since: August 2021
 > - Emergency number: 112
 
-This page is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 21 November 2026.
+This page is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 21 November 2026.
 
 ## Where is Chiatura, and is it worth visiting? {#where}
 
@@ -83,7 +83,7 @@ The builder says the new cabins are linked to a control post and have night ligh
 
 ## Katskhi Pillar: where it is and can you climb it? {#katskhi}
 
-It is a rock column about 40 m high by the village of Katskhi, which Chiatura Municipality calls the "Katskhi column".[^6] The Georgian National Tourism Administration says ordinary visitors may not climb it,[^5] while the municipality's undated page says anyone can, so plan to see it from the ground.[^6] Katskhi village also has a working church you can enter freely, the tourism administration says;[^12] the climb, both churches and the road are covered in full in our [Katskhi Pillar](https://icebreaker4561.github.io/georgia-healthcare-guide/katskhi-pillar/) guide.
+It is a rock column about 40 m high by the village of Katskhi, which Chiatura Municipality calls the "Katskhi column".[^6] The Georgian National Tourism Administration says ordinary visitors may not climb it,[^5] while the municipality's undated page says anyone can, so plan to see it from the ground.[^6] Katskhi village also has a working church you can enter freely, the tourism administration says;[^12] the climb, both churches and the road are covered in full in our [Katskhi Pillar](https://guide.100doc.ge/katskhi-pillar/) guide.
 
 <!-- схема: img/katskhi-pillar.webp | Illustration: a tall rock column with a small church and a cell on top and a church at its foot, people standing on the ground, no one on the ladder | The pillar is about 40 m high, says the municipality: plan to see it from the ground -->
 
@@ -99,7 +99,7 @@ The municipality describes a two-nave basilica with carved decoration on its fac
 
 **Our tip.** The stairs are long and narrow: wear good shoes and take water. With small children, or with heart or knee problems, judge your strength first. In rain, expect slippery steps.
 
-**More of the region.** For other day trips, see [Tskaltubo: Radon Baths, Sanatoriums, Sataplia and Health](https://icebreaker4561.github.io/georgia-healthcare-guide/tskaltubo/) and [Okatse Canyon: the hanging trail](https://icebreaker4561.github.io/georgia-healthcare-guide/martvili-canyon/#okatse).
+**More of the region.** For other day trips, see [Tskaltubo: Radon Baths, Sanatoriums, Sataplia and Health](https://guide.100doc.ge/tskaltubo/) and [Okatse Canyon: the hanging trail](https://guide.100doc.ge/martvili-canyon/#okatse).
 
 ## How to get to Chiatura from Kutaisi and Tbilisi {#getting-there}
 
@@ -109,7 +109,7 @@ From Tbilisi to Chiatura we quote no road distance: the municipality gives a fig
 
 ### By car: driving there and back {#by-car}
 
-Driving is the simplest option, because the way back is in your hands. The UK government's [travel advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) for Georgia warns that "roads outside city centres are often badly lit and poor quality" and that "stray livestock can be a hazard".[^13] It asks drivers to "take care when driving, especially at night".[^13] More in [Georgia roads: what to expect](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#roads).
+Driving is the simplest option, because the way back is in your hands. The UK government's [travel advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) for Georgia warns that "roads outside city centres are often badly lit and poor quality" and that "stray livestock can be a hazard".[^13] It asks drivers to "take care when driving, especially at night".[^13] More in [Georgia roads: what to expect](https://guide.100doc.ge/driving-in-georgia/#roads).
 
 **Our tip.** Drive there and back in daylight, and set off early enough that the return does not fall after dark.
 
@@ -119,11 +119,11 @@ Driving is the simplest option, because the way back is in your hands. The UK go
 
 Unofficial sources describe shared vans from the regional centre and from the capital, but we found no official timetable, fare or stop, or confirmation that a passenger train runs. Plan the way back before you leave.
 
-Many shared vans in the capital leave from around Didube metro station; see [Didube: where many minibuses leave from](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#where).
+Many shared vans in the capital leave from around Didube metro station; see [Didube: where many minibuses leave from](https://guide.100doc.ge/marshrutka-georgia/#where).
 
 The Government of Canada's travel advice says: "Mini-buses called 'marshrutka' are poorly maintained and often lack security features like seatbelts. Avoid using them."[^14]
 
-**Our tip.** Do not count on a late van back: agree a taxi for the return in advance. If bends make you feel sick, read [Motion sickness on mountain roads](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#motion-sickness) first.
+**Our tip.** Do not count on a late van back: agree a taxi for the return in advance. If bends make you feel sick, read [Motion sickness on mountain roads](https://guide.100doc.ge/marshrutka-georgia/#motion-sickness) first.
 
 ### Chiatura weather and landslides on the road {#weather-road}
 
@@ -131,7 +131,7 @@ The regional administration describes a humid subtropical climate, with cold win
 
 The UK government's travel advice for Georgia warns that "heavy rain, flooding and snow at higher altitudes can affect roads and bridges" and that "landslides are common".[^13] It adds that "lightning and wildfires are a risk in summer, particularly in the mountains".[^13]
 
-Current traffic limits are on the Roads Department of Georgia's [restrictions page](https://georoad.gov.ge/en/restriction).[^15] For the seasons, see [Three climates in one small country](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/#regions).
+Current traffic limits are on the Roads Department of Georgia's [restrictions page](https://georoad.gov.ge/en/restriction).[^15] For the seasons, see [Three climates in one small country](https://guide.100doc.ge/best-time-to-visit-georgia/#regions).
 
 ## Medical help in Chiatura: 112, hospitals and insurance {#medical-help}
 
@@ -141,7 +141,7 @@ In an emergency, dial 112 and ask for an ambulance; the UK government's [health 
 
 One number covers every emergency, and you can speak English. The [emergency service](https://112.gov.ge/?p=1715) says it has been the single emergency number since 2012 and takes calls 24/7 across the whole country, in Georgian, English, Azerbaijani, Armenian, Turkish and Russian.[^7] The phone must be in a mobile operator's coverage area, it adds.[^7]
 
-**Our tip.** Say where you are first: "Chiatura, Imereti". Then name the place: a cable car station or line, the pillar, the stairs in the Kvirila gorge, or the road. On the road, give your direction: towards Kutaisi or towards Tbilisi. If your phone shows no network, move to where it does. More in [What to tell the operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**Our tip.** Say where you are first: "Chiatura, Imereti". Then name the place: a cable car station or line, the pillar, the stairs in the Kvirila gorge, or the road. On the road, give your direction: towards Kutaisi or towards Tbilisi. If your phone shows no network, move to where it does. More in [What to tell the operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 <!-- схема: img/chiatura-112-card.webp | Infographic card: dial 112, 24/7 across the country, English and Russian among six languages; say where: Chiatura, Imereti; name the place: station, pillar, stairs or road; direction: towards Kutaisi or Tbilisi, on the road say which way you were going; source: 112.gov.ge | Operators take calls in six languages, including English and Russian -->
 
@@ -151,9 +151,9 @@ We cannot say which is nearest: we found no official address for one in Chiatura
 
 The UK government's list of medical facilities in Georgia, updated 16 October 2026, has none in this region either: all are in the capital and Batumi, and the list says it is not exhaustive.[^18]
 
-For care there, see [Hospitals and doctors in Kutaisi](https://icebreaker4561.github.io/georgia-healthcare-guide/kutaisi/#health) or the [catalogue of doctors and clinics](https://100doc.ge/en/kutaisi/) on 100doc.ge.
+For care there, see [Hospitals and doctors in Kutaisi](https://guide.100doc.ge/kutaisi/#health) or the [catalogue of doctors and clinics](https://100doc.ge/en/kutaisi/) on 100doc.ge.
 
-**Your cover.** Georgian law requires visitors to hold health and accident cover of at least 30,000 GEL for their whole stay, under [Resolution No. 602 of the Government of Georgia of 26 December 2025](https://matsne.gov.ge/ka/document/view/6728816).[^19] More in [Insurance to enter Georgia (2026 rule)](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance). The UK government warns that you or your insurer "will need to pay for all treatment as it's provided".[^16]
+**Your cover.** Georgian law requires visitors to hold health and accident cover of at least 30,000 GEL for their whole stay, under [Resolution No. 602 of the Government of Georgia of 26 December 2025](https://matsne.gov.ge/ka/document/view/6728816).[^19] More in [Insurance to enter Georgia (2026 rule)](https://guide.100doc.ge/#entry-insurance). The UK government warns that you or your insurer "will need to pay for all treatment as it's provided".[^16]
 
 ## Frequently asked questions {#faq}
 
@@ -209,6 +209,6 @@ Chiatura Municipality gives 39,884, without a date.[^1]
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

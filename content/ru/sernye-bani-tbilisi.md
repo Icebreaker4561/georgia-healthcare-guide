@@ -30,7 +30,7 @@ og: abanotubani-domes.webp
 > - Канатка к Нарикале: 500 м
 > - Скорая: 112
 
-Статья входит в «[Путеводитель по Грузии](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)».
+Статья входит в «[Путеводитель по Грузии](https://guide.100doc.ge/ru/)».
 
 ## Абанотубани: квартал серных бань {#abanotubani}
 
@@ -82,7 +82,7 @@ og: abanotubani-domes.webp
 
 **Наш совет:** возьмите шлёпанцы, бутылку воды и сменную одежду.
 
-Другие курорты с минеральной водой — в наших путеводителях по [Боржоми](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/borjomi/) и [Цхалтубо](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/tshaltubo/).
+Другие курорты с минеральной водой — в наших путеводителях по [Боржоми](https://guide.100doc.ge/ru/borjomi/) и [Цхалтубо](https://guide.100doc.ge/ru/tshaltubo/).
 
 ## Кому осторожно: давление, беременность, алкоголь {#ostorozhno}
 
@@ -176,7 +176,7 @@ og: abanotubani-domes.webp
 
 Преступность в Грузии, по [GOV.UK](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) (на английском), низкая, но в людных местах берегитесь карманников.[^12]
 
-Для въезда в Грузию иностранцу нужен полис с покрытием не меньше 30 000 лари — подробнее в нашем [разделе о полисе для въезда](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/#entry-insurance).
+Для въезда в Грузию иностранцу нужен полис с покрытием не меньше 30 000 лари — подробнее в нашем [разделе о полисе для въезда](https://guide.100doc.ge/ru/#entry-insurance).
 
 **Наш совет.** Сохраните в телефоне 112 и адрес жилья, чтобы быстро назвать его диспетчеру.
 
@@ -233,4 +233,4 @@ og: abanotubani-domes.webp
 
 Это справочная информация, а не медицинская консультация: можно ли вам в горячую воду, решает врач. Проверено 19 ноября 2026 года.
 
-[Вернуться к путеводителю](https://icebreaker4561.github.io/georgia-healthcare-guide/ru/)
+[Вернуться к путеводителю](https://guide.100doc.ge/ru/)

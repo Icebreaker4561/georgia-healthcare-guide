@@ -32,7 +32,7 @@ og: khevsureti-datvisjvari-road.webp
 > - Snow cover: 4–5 months
 > - Emergency: 112
 
-This page is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
+This page is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
 
 ## Where is Khevsureti, and what is Shatili? {#where}
 
@@ -48,7 +48,7 @@ One road leads in, over the pass. The trip from Tbilisi is around 150 km[^9] and
 
 <!-- схема: img/khevsureti-datvisjvari-road.webp | Craft paper illustration: an off-road vehicle on a narrow gravel road climbing to a foggy mountain pass | Fog is frequent on the way to Khevsureti, especially in the colder months, and visibility can drop suddenly -->
 
-**The route.** On the Georgian Military Road, turn right near Zhinvali village and head north past [the reservoir below Ananuri Fortress](https://icebreaker4561.github.io/georgia-healthcare-guide/ananuri/#zhinvali), then the ancient village of Barisakho, and keep climbing.[^4] The national park's directions follow the same route.[^10]
+**The route.** On the Georgian Military Road, turn right near Zhinvali village and head north past [the reservoir below Ananuri Fortress](https://guide.100doc.ge/ananuri/#zhinvali), then the ancient village of Barisakho, and keep climbing.[^4] The national park's directions follow the same route.[^10]
 
 **The vehicle.** The national park's [visitor guide](https://nationalparks.ge/en/site/pshav-khevsuretinp/guide) says: "Visiting these territories is possible only by off-road vehicle."[^5] We found no vehicle requirements for the road itself on the park's pages.
 
@@ -56,11 +56,11 @@ One road leads in, over the pass. The trip from Tbilisi is around 150 km[^9] and
 
 **Road restrictions.** Check the [Roads Department of Georgia restrictions page](https://georoad.gov.ge/en/restriction) on the day you set off.[^12]
 
-**By marshrutka.** A seasonal marshrutka runs twice a week from Didube bus station in the capital, and the journey takes about 5 hours.[^3] It "is usually unavailable in late autumn and winter, so be sure to check the schedule in advance".[^3] See [Didube: where many minibuses leave from](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#where) and [Motion sickness on mountain roads](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#motion-sickness).
+**By marshrutka.** A seasonal marshrutka runs twice a week from Didube bus station in the capital, and the journey takes about 5 hours.[^3] It "is usually unavailable in late autumn and winter, so be sure to check the schedule in advance".[^3] See [Didube: where many minibuses leave from](https://guide.100doc.ge/marshrutka-georgia/#where) and [Motion sickness on mountain roads](https://guide.100doc.ge/marshrutka-georgia/#motion-sickness).
 
 **Stay the night.** The tourism administration recommends sleeping there "rather than attempt the long drive back to Tbilisi".[^9]
 
-**Our tip.** Leave in the morning and cross the pass in daylight. Fill the tank and take out cash before you leave the main road. More in [Night driving, mountains and winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter).
+**Our tip.** Leave in the morning and cross the pass in daylight. Fill the tank and take out cash before you leave the main road. More in [Night driving, mountains and winter](https://guide.100doc.ge/driving-in-georgia/#night-winter).
 
 ### Shatili weather: fog, long winters and snow {#weather}
 
@@ -68,7 +68,7 @@ Expect long, cold winters and short, cool summers.[^3] In the northern half, Pir
 
 **Visibility.** The tourism administration warns: "Traveling by car can be dangerous, as fog is frequent, especially in the colder months, and visibility can drop suddenly."[^3]
 
-**When roads close.** Heavy rain, flooding and snow higher up can make roads difficult or impossible, particularly in remote areas.[^6] In summer, lightning and wildfires are a risk in the mountains.[^6] Read about [mountain roads in winter](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/#winter).
+**When roads close.** Heavy rain, flooding and snow higher up can make roads difficult or impossible, particularly in remote areas.[^6] In summer, lightning and wildfires are a risk in the mountains.[^6] Read about [mountain roads in winter](https://guide.100doc.ge/best-time-to-visit-georgia/#winter).
 
 <!-- схема: img/khevsureti-in-numbers.webp | Infographic with eight tiles: Datvisjvari Pass 2,676 m; Shatili about 1,400 m; Tbilisi to Shatili around 150 km; 3.5–4 h — by car from Tbilisi; snow cover 4–5 months; average winter, northern Khevsureti −12 to −18 °C; Abudelauri Lakes 2,600 m; emergency 112; sources georgia.travel, UNESCO, GOV.UK | Summers are short and cool: in Pirikita they average +10 °C to +14 °C -->
 
@@ -80,7 +80,7 @@ The pass is 2,676 m above sea level;[^4] the settlement on the far side is at ap
 
 **What it means here.** You drive over the top and sleep far lower. Hikes go higher: the Abudelauri Lakes lie at 2,600 m.[^3] TravelHealthPro's key to prevention is gradual ascent with regular rest days.[^13]
 
-**Our tip.** If you get a headache or feel dizzy on the way up, tell the driver. See the [signs of altitude sickness and what to do](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/#altitude-sickness) and, before a trek, [Hiking in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/#altitude).
+**Our tip.** If you get a headache or feel dizzy on the way up, tell the driver. See the [signs of altitude sickness and what to do](https://guide.100doc.ge/gudauri-altitude/#altitude-sickness) and, before a trek, [Hiking in Georgia](https://guide.100doc.ge/hiking-in-georgia/#altitude).
 
 <!-- схема: img/khevsureti-road-profile.webp | Road profile infographic: from Tbilisi via Zhinvali and Barisakho up to the Datvisjvari Pass at 2,676 m and down to Shatili at about 1,400 m, with the 2,500 m altitude-illness line | You cross the pass above 2,500 m but sleep at about 1,400 m: the risk is counted by sleeping height -->
 
@@ -114,13 +114,13 @@ Roshka is the village where the hike to the lakes usually starts.[^3] It is 119 
 
 Keep away from flocks when you are on foot: almost all of them are guarded by a Caucasian sheepdog.[^9] If a dog bites or scratches you, get medical attention immediately.[^7]
 
-**Our tip.** Give flocks a wide berth and do not run. Read [Rabies in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/) before the trip.
+**Our tip.** Give flocks a wide berth and do not run. Read [Rabies in Georgia](https://guide.100doc.ge/rabies-georgia/) before the trip.
 
 <!-- схема: img/khevsureti-sheepdog.webp | Craft paper illustration: a flock of sheep on a high meadow guarded by a large Caucasian sheepdog, stone towers in the distance | Almost every flock is guarded by a Caucasian sheepdog — keep away from herds on foot -->
 
 ### The Omalo–Shatili trek and related guides {#trek-links}
 
-The route from Omalo ends here and is one of Georgia's "most famous (and longest) trekking routes".[^3] Start with the [Tusheti guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tusheti/) and [Border lines and when to take a guide](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/#borders). For the [Juta valley](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/#juta), see our Kazbegi guide.
+The route from Omalo ends here and is one of Georgia's "most famous (and longest) trekking routes".[^3] Start with the [Tusheti guide](https://guide.100doc.ge/tusheti/) and [Border lines and when to take a guide](https://guide.100doc.ge/hiking-in-georgia/#borders). For the [Juta valley](https://guide.100doc.ge/kazbegi/#juta), see our Kazbegi guide.
 
 ## Shatili and the border with Chechnya {#border}
 
@@ -128,7 +128,7 @@ The village lies near the border.[^2] [The Government of Canada](https://travel.
 
 **Permits.** We found no official page on whether you need a permit to drive here. Ask your host before you set off.
 
-Areas to avoid elsewhere in Georgia: [Where not to go](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#where-not).
+Areas to avoid elsewhere in Georgia: [Where not to go](https://guide.100doc.ge/is-georgia-safe/#where-not).
 
 ## Cash, food and what to bring {#supplies}
 
@@ -136,7 +136,7 @@ Bring money and supplies with you. Outside major towns you may not find ATMs or 
 
 **What the park asks.** Wear coarse trousers and high-top shoes, such as boots, and take food and water to the field.[^5]
 
-**Our tip.** Bring your regular medicines for the whole trip, a small first-aid kit and food for an extra day of bad weather. See [money in the mountains and villages](https://icebreaker4561.github.io/georgia-healthcare-guide/money-in-georgia/#regions).
+**Our tip.** Bring your regular medicines for the whole trip, a small first-aid kit and food for an extra day of bad weather. See [money in the mountains and villages](https://guide.100doc.ge/money-in-georgia/#regions).
 
 ### Phone signal {#signal}
 
@@ -148,7 +148,7 @@ We found no official data on mobile coverage along the road or in the settlement
 
 ## Medical help in Khevsureti: 112 and where to find a doctor {#health}
 
-The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^7] The same number appears in the national park's visitor guide.[^5] What to say: [What to tell the operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^7] The same number appears in the national park's visitor guide.[^5] What to say: [What to tell the operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 **Help is far away.** The UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns: "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."[^6] Outside the capital, medical facilities are limited.[^7] In rural areas supplies and staff run short, first responders may not reach you, and staff may not speak English.[^11]
 
@@ -156,7 +156,7 @@ The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) 
 
 **Where to find a doctor.** There is no official list of clinics in Khevsureti that we could find. The nearest catalogue we can point to covers the capital, around 150 km away.[^9] It is the [catalogue of doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/) on 100doc.ge.
 
-**Your cover.** Most visitors need health and accident cover for their stay: see [Insurance to enter Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance). If a life is at risk, call the emergency number first; do not wait for the insurer.
+**Your cover.** Most visitors need health and accident cover for their stay: see [Insurance to enter Georgia](https://guide.100doc.ge/#entry-insurance). If a life is at risk, call the emergency number first; do not wait for the insurer.
 
 ## Frequently asked questions {#faq}
 
@@ -208,6 +208,6 @@ No official list exists that we could find. In an emergency, dial 112; the neare
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

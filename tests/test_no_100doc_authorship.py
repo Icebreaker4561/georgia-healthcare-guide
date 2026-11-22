@@ -1,9 +1,11 @@
-"""Владелец 19.11.2026: «убери упоминание авторства 100doc.ge ото всюду».
+"""Владелец 22.11.2026: путеводитель переезжает на guide.100doc.ge — теперь это проект 100doc.ge. Заменяет прежний тест
+«убери авторство 100doc.ge» (решение 19.11.2026 отменено владельцем вместе с псевдонимом).
 
-Проверяет все собранные страницы (en и ru): нигде нет 100doc.ge в роли автора или издателя —
-ни в видимом тексте (подвал «подготовлен командой 100doc.ge»), ни в разметке schema.org (author/publisher).
-Обычные ссылки на каталог 100doc.ge в тексте статей — не авторство, их проверяет test_site.py.
-
+Проверяет:
+- у каждой статьи schema.org Article.publisher — та же организация 100doc.ge, что в разметке блога 100doc.ge
+  (@id https://tourist.100doc.ge/#organization, url, logo, sameAs);
+- на главных CollectionPage.publisher — она же;
+- псевдонима «Павел Шереметьев» / «Pavel Sheremetyev» нет нигде: в собранных страницах, исходниках, сборщике.
 Запуск: python3 tests/test_no_100doc_authorship.py
 """
 import json
@@ -14,11 +16,11 @@ import unittest
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PAGES = sorted(p for p in ROOT.rglob("index.html") if ".git" not in p.parts)
-
-AUTHOR_TEXT = re.compile(
-    r"(?i)(team behind 100doc|100doc\.ge editorial|editorial team|prepared by[^<.]{0,40}100doc|by the 100doc"
-    r"|командой 100doc|команд[аы] 100doc|редакци[яи] 100doc|подготовлен[^<.]{0,40}100doc|автор[^<.]{0,20}100doc)"
-)
+ORG = {"@type": "Organization", "@id": "https://tourist.100doc.ge/#organization", "name": "100doc.ge",
+       "url": "https://tourist.100doc.ge/",
+       "logo": {"@type": "ImageObject", "url": "https://tourist.100doc.ge/logo.png", "width": 360, "height": 100},
+       "sameAs": ["https://www.trustpilot.com/review/tourist.100doc.ge"]}
+PSEUDO = re.compile(r"Шереметьев|Sheremetyev|Павел Ш|Pavel S")
 
 
 def ld_blocks(html):
@@ -26,27 +28,25 @@ def ld_blocks(html):
         yield json.loads(m.group(1))
 
 
-class NoAuthorship(unittest.TestCase):
+class Publisher(unittest.TestCase):
     def test_pages_found(self):
         self.assertGreater(len(PAGES), 40, f"собранных страниц {len(PAGES)}")
 
-    def test_no_authorship_text(self):
-        bad = []
-        for p in PAGES:
-            h = p.read_text(encoding="utf-8")
-            h = re.sub(r'<script type="application/ld\+json">.*?</script>', " ", h, flags=re.S)
-            m = AUTHOR_TEXT.search(h)
-            if m:
-                bad.append(f"{p.relative_to(ROOT)}: «{m.group(0)}»")
-        self.assertEqual(bad, [], "\n".join(bad[:10]))
-
-    def test_no_100doc_in_author_publisher(self):
-        bad = []
+    def test_publisher_is_100doc(self):
+        bad, n = [], 0
         for p in PAGES:
             for block in ld_blocks(p.read_text(encoding="utf-8")):
-                for key in ("author", "publisher", "creator", "copyrightHolder"):
-                    if key in block and "100doc" in json.dumps(block[key], ensure_ascii=False).lower():
-                        bad.append(f"{p.relative_to(ROOT)}: {key}")
+                if block.get("@type") in ("Article", "CollectionPage"):
+                    n += 1
+                    if block.get("publisher") != ORG:
+                        bad.append(f"{p.relative_to(ROOT)}: publisher {block.get('publisher')}")
+        self.assertEqual(n, len(PAGES))
+        self.assertEqual(bad, [], "\n".join(bad[:10]))
+
+    def test_no_pseudonym_anywhere(self):
+        files = PAGES + sorted((ROOT / "content").rglob("*.md")) + [ROOT / "build" / "build.py", ROOT / "build" / "site.json",
+                                                                    ROOT / "llms.txt"]
+        bad = [str(f.relative_to(ROOT)) for f in files if f.exists() and PSEUDO.search(f.read_text(encoding="utf-8"))]
         self.assertEqual(bad, [], "\n".join(bad[:10]))
 
 

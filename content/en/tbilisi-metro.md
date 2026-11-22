@@ -53,7 +53,7 @@ Rustaveli and Didube opened with the first line in 1966; Liberty Square and Avla
 
 - **Rustaveli.** Rustaveli metro station was one of the six original stops.[^3] According to Wikipedia, it stands next to the Shota Rustaveli statue at the end of Rustaveli Avenue.[^19]
 - **Liberty Square.** TTC's Georgian history page names the Liberty Square metro station თავისუფლების მოედანი (Tavisuplebis Moedani, "Freedom Square").[^3]
-- **Didube.** Didube metro station was also one of the first six.[^3] For minibuses from there, see our [Marshrutka in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#where) guide.
+- **Didube.** Didube metro station was also one of the first six.[^3] For minibuses from there, see our [Marshrutka in Georgia](https://guide.100doc.ge/marshrutka-georgia/#where) guide.
 - **Avlabari.** It hosts one of the two "problem card" centres (see below).[^6]
 
 ## How to pay for the Tbilisi metro: price and cards {#fares}
@@ -115,7 +115,7 @@ Whether you call it the metro or the subway, riding it takes six steps:
 
 The Government of Canada puts it this way: "Buses and the Tbilisi metro are generally safe and reliable, but pickpockets may target tourists."[^12] For Georgia as a whole, GOV.UK writes that "crime levels are low".[^13]
 
-**Day and night in the capital.** See our guide [Is Georgia Safe to Travel in 2026?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#tbilisi)
+**Day and night in the capital.** See our guide [Is Georgia Safe to Travel in 2026?](https://guide.100doc.ge/is-georgia-safe/#tbilisi)
 
 ### Rush hour and pickpockets {#rush-hour}
 
@@ -157,7 +157,7 @@ We found no official information from Tbilisi Transport Company on lifts or on r
 
 Georgia has one emergency number for the police, fire and rescue, and ambulance, and it answers 24/7.[^15][^14] If someone threatens or attacks you, GOV.UK advises: "call the emergency number 112 and ask for the police".[^13]
 
-**What to say.** Give your exact location (the name of the stop), what happened, which service you need, and your name and surname.[^15] Details: [Ambulance in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**What to say.** Give your exact location (the name of the stop), what happened, which service you need, and your name and surname.[^15] Details: [Ambulance in Georgia](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 **Languages.** Call-takers handle Georgian, English, Azerbaijani, Armenian, Turkish and Russian.[^16] Deaf and hard-of-hearing callers can use video and text, 24/7.[^16]
 
@@ -171,7 +171,7 @@ Georgia has one emergency number for the police, fire and rescue, and ambulance,
 
 ## Metro, buses and cable cars on one fare {#other-transport}
 
-The same tap covers buses, minibuses and the Bagebi–University cable car.[^5] The rest of Tbilisi public transport, taxis included, is in our [Tbilisi](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi/#getting-around) guide. The Tbilisi bus from the airport, bus 337, is in [Tbilisi Airport Arrival](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/#to-the-city).
+The same tap covers buses, minibuses and the Bagebi–University cable car.[^5] The rest of Tbilisi public transport, taxis included, is in our [Tbilisi](https://guide.100doc.ge/tbilisi/#getting-around) guide. The Tbilisi bus from the airport, bus 337, is in [Tbilisi Airport Arrival](https://guide.100doc.ge/tbilisi-airport/#to-the-city).
 
 ## Frequently asked questions {#faq}
 
@@ -233,4 +233,4 @@ Dial 112, Georgia's emergency number for police, fire and ambulance, open 24/7.[
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the Georgia Travel Guide](https://guide.100doc.ge/)

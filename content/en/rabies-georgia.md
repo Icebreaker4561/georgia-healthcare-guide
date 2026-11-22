@@ -19,7 +19,7 @@ og: street-dog-tbilisi.webp
 > - See a doctor the same day; do not wait to watch the animal.[^4]
 > - The doctor decides on the course, usually three or four visits.[^2]
 
-This page is about the country in the Caucasus, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
+This page is about the country in the Caucasus, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 17 November 2026.
 
 ## What to do after a dog bite or scratch in Georgia {#first-aid}
 
@@ -32,7 +32,7 @@ The country's National Center for Disease Control and Public Health (NCDC) agree
 - Saliva in your eyes, nose or mouth? Rinse with water and see a doctor too.[^4]
 - Do not wait to see if the animal falls ill: NCDC says treatment must not be delayed to observe it.[^4]
 - If the animal has an owner, note their contacts and ask if it is vaccinated.
-- Heavy bleeding? Call 112 — here is [how to call an ambulance](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+- Heavy bleeding? Call 112 — here is [how to call an ambulance](https://guide.100doc.ge/ambulance-georgia/).
 
 <!-- схема: img/who-rabies-fact-sheet.webp | Excerpt from the WHO rabies fact sheet with the advice to wash the wound with water and soap for at least 15 minutes highlighted | The fact sheet advice: water and soap, at least 15 minutes (screenshot, 17 November 2026) -->
 
@@ -88,7 +88,7 @@ If none is available, the vaccine still starts at once: "Vaccines should never b
 
 The Immunization Centre gives its price by phone and says emergency immunisation is covered by universal and/or private insurance.[^7] We found no official confirmation that the state pays for rabies shots for visitors.
 
-Since 1 January 2026, foreigners must enter with health and accident cover of 30,000 GEL, as Georgian law requires ([the 2026 entry insurance rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance)).[^8]
+Since 1 January 2026, foreigners must enter with health and accident cover of 30,000 GEL, as Georgian law requires ([the 2026 entry insurance rule](https://guide.100doc.ge/#entry-insurance)).[^8]
 
 A policy covers events during its term, so arrange it before the trip, not after a bite. Still choosing? Here is [travel insurance for visitors to Georgia](https://100doc.ge/tourist/en), an IRAO plan. Its policy wording lists "Emergency Vaccination", including the full anti-rabies course, at 100 %, with no deductible and no separate limit within the 30,000 GEL aggregated limit. Routine vaccination is excluded; over 65, 50 % of costs is reimbursed. The Light plan costs from €0.78 (2.22 GEL, ≈ $0.86) a day on a 360-day policy.
 
@@ -155,4 +155,4 @@ We found no official answer. The Immunization Centre quotes its price by phone;[
 
 This guide is general information, not medical advice: the doctor decides on your treatment.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

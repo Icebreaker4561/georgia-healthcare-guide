@@ -30,7 +30,7 @@ og: sairme-resort-forest.webp
 > - July average: 17~°C (Wikipedia)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
 
 ## What Sairme is and where it is {#resort}
 
@@ -46,7 +46,7 @@ It is a mountain spa in western Georgia, set in a forested river gorge. Georgia'
 
 **The "magical ground".** In the 1890s, the same site tells, shepherds came upon a patch of earth where snow never settled and rain evaporated in seconds.[^1] People called it "magical ground".[^1] The answer came only "in the 1920s when geologists" found "hot mineral water deep below the ground".[^1] The site gives no year for the opening of the spa, and neither do we.
 
-**Other spa towns.** This is one of several spa resorts in Georgia. For radon baths, see our [Tskaltubo guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tskaltubo/). For Borjomi water and how to read its label, see our [Borjomi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/#mineral-water).
+**Other spa towns.** This is one of several spa resorts in Georgia. For radon baths, see our [Tskaltubo guide](https://guide.100doc.ge/tskaltubo/). For Borjomi water and how to read its label, see our [Borjomi guide](https://guide.100doc.ge/borjomi/#mineral-water).
 
 <!-- схема: img/sairme-resort-forest.webp | Canva illustration, not a photo of the real place: spa buildings in a narrow mountain gorge, slopes of conifers and deciduous trees, a small river running along the valley floor, no text or signs | Sairme sits about 950 m above sea level among conifers and deciduous trees, says the national tourism site -->
 
@@ -78,7 +78,7 @@ Large amounts without a prescription are not recommended. The Imereti tourism or
 
 It gives no figure for "large amounts", and we do not invent one.
 
-**Our tip.** If you have high blood pressure, a heart condition or another long-term illness, or keep to a low-salt diet, check with your own GP before the trip. Watch the sodium: how to read it on a bottle label is explained in our [Borjomi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/#sodium).
+**Our tip.** If you have high blood pressure, a heart condition or another long-term illness, or keep to a low-salt diet, check with your own GP before the trip. Watch the sodium: how to read it on a bottle label is explained in our [Borjomi guide](https://guide.100doc.ge/borjomi/#sodium).
 
 ### Who decides on a course
 
@@ -104,7 +104,7 @@ Take a marshrutka to the nearest town, then a taxi for the last stretch. A 2024 
 
 **The last stretch.** The blog adds: "There is no public transport to Sairme, so you'll need to take a local taxi the rest of the way."[^5] We found no official timetable, so we give none.
 
-How the vans work is in our guide [Marshrutka in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/). For the city where you start, see our [Kutaisi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kutaisi/).
+How the vans work is in our guide [Marshrutka in Georgia](https://guide.100doc.ge/marshrutka-georgia/). For the city where you start, see our [Kutaisi guide](https://guide.100doc.ge/kutaisi/).
 
 ### Tbilisi to Sairme
 
@@ -118,7 +118,7 @@ The road up to the resort is paved; the road beyond it, towards Abastumani, is n
 
 **From the city.** The blog puts Sairme "just over an hour's drive" south of the city and calls the road "fully paved and easy to navigate".[^5]
 
-**Further south.** "The road after the resort between Sairme and Abastumani to the south is unpaved and very rough," the blog warns.[^5] It also says the Zekari Pass is normally closed in winter, roughly from December to March, because of heavy snow.[^5] Read [Night Driving, Mountains and Winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter) in our Driving in Georgia guide.
+**Further south.** "The road after the resort between Sairme and Abastumani to the south is unpaved and very rough," the blog warns.[^5] It also says the Zekari Pass is normally closed in winter, roughly from December to March, because of heavy snow.[^5] Read [Night Driving, Mountains and Winter](https://guide.100doc.ge/driving-in-georgia/#night-winter) in our Driving in Georgia guide.
 
 **Our tip.** Agree the ride back with your driver before you set off. Do not drive the mountain road in the dark or in snow.
 
@@ -140,22 +140,22 @@ Drinking at the buvettes, forest walks and an adventure park. Bigger sights are 
 
 **The adventure park.** The Imereti tourism organisation lists "an 800-meter Zip Line", "a city of ropes, and an outdoor pool".[^2]
 
-**Walks.** Wander-Lush writes: "There are several marked hiking trails that start from Sairme Resort, including the 'Air Temple' trail."[^5] It gives no lengths. Before a longer walk, read our guide [Hiking in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/).
+**Walks.** Wander-Lush writes: "There are several marked hiking trails that start from Sairme Resort, including the 'Air Temple' trail."[^5] It gives no lengths. Before a longer walk, read our guide [Hiking in Georgia](https://guide.100doc.ge/hiking-in-georgia/).
 
 **Further afield.** The national tourism site lists these top attractions on the same page:[^1]
 
-- [Okatse Canyon](https://icebreaker4561.github.io/georgia-healthcare-guide/martvili-canyon/#okatse);
-- Prometheus Cave and Sataplia Cave, both in our [Tskaltubo guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tskaltubo/);
-- [Borjomi-Kharagauli National Park](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/#national-park);
-- the [Katskhi Pillar](https://icebreaker4561.github.io/georgia-healthcare-guide/katskhi-pillar/).
+- [Okatse Canyon](https://guide.100doc.ge/martvili-canyon/#okatse);
+- Prometheus Cave and Sataplia Cave, both in our [Tskaltubo guide](https://guide.100doc.ge/tskaltubo/);
+- [Borjomi-Kharagauli National Park](https://guide.100doc.ge/borjomi/#national-park);
+- the [Katskhi Pillar](https://guide.100doc.ge/katskhi-pillar/).
 
-**Our tip.** In the forest, watch where you step: the UK government warns of vipers, especially in early summer.[^6] Keep away from dogs, and if one bites or scratches you, see [Rabies in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/). More in [Snakes, Dogs and Weather](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/#wildlife).
+**Our tip.** In the forest, watch where you step: the UK government warns of vipers, especially in early summer.[^6] Keep away from dogs, and if one bites or scratches you, see [Rabies in Georgia](https://guide.100doc.ge/rabies-georgia/). More in [Snakes, Dogs and Weather](https://guide.100doc.ge/hiking-in-georgia/#wildlife).
 
 ## Doctors and medical help near Sairme {#health}
 
 In an emergency, dial 112. For a clinic or a hospital, plan on Kutaisi.
 
-**Emergency.** The UK government's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^6] It also warns: "Outside Tbilisi, medical facilities are limited."[^6] Georgia's [112 service](https://112.gov.ge/?p=1715) says its call-takers handle calls in Georgian, English, Azerbaijani, Armenian, Turkish and Russian.[^7] It adds that to call 112 the "phone must be in the mobile operator coverage area".[^7] Step by step: [Ambulance in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+**Emergency.** The UK government's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^6] It also warns: "Outside Tbilisi, medical facilities are limited."[^6] Georgia's [112 service](https://112.gov.ge/?p=1715) says its call-takers handle calls in Georgian, English, Azerbaijani, Armenian, Turkish and Russian.[^7] It adds that to call 112 the "phone must be in the mobile operator coverage area".[^7] Step by step: [Ambulance in Georgia](https://guide.100doc.ge/ambulance-georgia/).
 
 **At the resort.** The polyclinic is described above. The national tourism site does not say what emergencies it handles.[^1]
 
@@ -163,7 +163,7 @@ In an emergency, dial 112. For a clinic or a hospital, plan on Kutaisi.
 
 **City clinics.** The catalogue of [doctors and clinics in Kutaisi](https://100doc.ge/en/kutaisi/) on 100doc.ge listed 139 clinics on 22 November 2026. Of these, 25 had a hospital profile.
 
-**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [Insurance to Enter Georgia (2026 Rule)](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [Insurance to Enter Georgia (2026 Rule)](https://guide.100doc.ge/#entry-insurance).
 
 **Our tip.**
 
@@ -215,4 +215,4 @@ Drink at the buvettes and walk the marked trails.[^5] There is also a city of ro
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

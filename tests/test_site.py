@@ -24,7 +24,7 @@ import unittest
 from html.parser import HTMLParser
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BASE = "https://icebreaker4561.github.io/georgia-healthcare-guide/"
+BASE = "https://guide.100doc.ge/"
 SITE = json.loads((ROOT / "build" / "site.json").read_text(encoding="utf-8"))
 OFFICIAL = re.compile(r"https?://([a-z0-9-]+\.)*(gov\.ge|matsne\.gov\.ge|gov\.uk|smartraveller\.gov\.au|who\.int)(/|$)")
 

@@ -30,7 +30,7 @@ og: chacha-glasses.webp
 > - NHS weekly guideline: 14 units
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
 
 ## What is chacha? Georgia's grape spirit {#what-is-chacha}
 
@@ -40,7 +40,7 @@ Georgian chacha (sometimes spelled cha cha) is a strong drink made from grapes. 
 
 **How it is made.** Under the Law on Vine and Wine, it is produced by distilling the "fermented, squeezed or non-squeezed pulp".[^2] Under the specification, only chacha spirit may be used: no other spirit may be added, and sugar or alcohol content may not be raised artificially.[^1]
 
-**At the table.** If you are invited to a supra, the Georgian feast, read how toasts and drinks work in [The Supra, Wine and Drinks](https://icebreaker4561.github.io/georgia-healthcare-guide/georgian-food/#supra-drinks) before you go.
+**At the table.** If you are invited to a supra, the Georgian feast, read how toasts and drinks work in [The Supra, Wine and Drinks](https://guide.100doc.ge/georgian-food/#supra-drinks) before you go.
 
 ### Is chacha vodka or brandy? {#vodka-or-brandy}
 
@@ -109,7 +109,7 @@ Buy sealed drinks from licensed places and skip anything unlabelled. Official UK
 - buy sealed drinks and turn down free shots;[^8]
 - skip streetside drinks and unlabelled bottles.[^3]
 
-**Spiking.** GOV.UK's travel advice warns: "Buy your own drinks and always keep sight of them to avoid them being spiked."[^5] More in [Drink Spiking and Home-Made Spirits](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/#spiking) and [Bars, Drinks and the Bill](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#bars-drinks-and-the-bill).
+**Spiking.** GOV.UK's travel advice warns: "Buy your own drinks and always keep sight of them to avoid them being spiked."[^5] More in [Drink Spiking and Home-Made Spirits](https://guide.100doc.ge/sighnaghi/#spiking) and [Bars, Drinks and the Bill](https://guide.100doc.ge/is-georgia-safe/#bars-drinks-and-the-bill).
 
 **Our tip.** At a home supra you can politely say no, or ask for wine instead. Keep track of which bottle your glass was filled from.
 
@@ -125,7 +125,7 @@ Buy sealed drinks from licensed places and skip anything unlabelled. Official UK
 
 **How the line works.** The line's own website calls it "a single emergency number", dialled "without any prefix". In its words, "Calling is possible even when there is no SIM card in the mobile phone".[^13] It asks people to call "only in the event of an emergency";[^14] a suspected poisoning is one.
 
-**On the phone.** What to say is in [What to Tell the Operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say). Without a SIM card, or if you can't talk, see [No SIM Card, No Credit or Can't Talk: the 112 App](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#no-sim-app).
+**On the phone.** What to say is in [What to Tell the Operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say). Without a SIM card, or if you can't talk, see [No SIM Card, No Credit or Can't Talk: the 112 App](https://guide.100doc.ge/ambulance-georgia/#no-sim-app).
 
 <!-- схема: img/chacha-112.webp | Four cards: dial 112 (ambulance, fire, police); no SIM, you can still call; our tip: tell them what you drank and when; the 112 Georgia app in English | The 112 line asks people to call only in the event of an emergency; a suspected poisoning is one -->
 
@@ -145,7 +145,7 @@ Slowly, in small amounts, with food and water. The NHS counts a "Single small sh
 
 **A bad hangover.** If a hangover after a drink from an unlabelled bottle is not getting better, that is a reason to [get help](#call-112), not to sleep it off.[^3]
 
-**Tastings.** If your trip includes a wine tasting, read [Wine Tasting Without the Hangover: NHS Advice](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/#tasting). For wine country, see the [Telavi Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/telavi/).
+**Tastings.** If your trip includes a wine tasting, read [Wine Tasting Without the Hangover: NHS Advice](https://guide.100doc.ge/sighnaghi/#tasting). For wine country, see the [Telavi Travel Guide](https://guide.100doc.ge/telavi/).
 
 **Our tip.** At a supra you don't have to drain your glass at every toast; a sip counts. Before the first glass, agree who will stay sober and take the wheel.
 
@@ -157,7 +157,7 @@ No. The UK government's [safety advice](https://www.gov.uk/foreign-travel-advice
 
 **The Canadian view.** The Government of Canada warns: "Georgia has a zero-tolerance policy for drinking and driving." It lists heavy fines, detention and a ban "for several months or years" among the penalties.[^12]
 
-**No figure.** The UK government says only that the limit is lower than the UK's, and the Government of Canada describes a zero-tolerance policy. More in [Drink Driving](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#alcohol).
+**No figure.** The UK government says only that the limit is lower than the UK's, and the Government of Canada describes a zero-tolerance policy. More in [Drink Driving](https://guide.100doc.ge/driving-in-georgia/#alcohol).
 
 **Our tip.** After a long supra the night before, don't plan an early start at the wheel.
 
@@ -228,6 +228,6 @@ At most UK airports, liquids in containers over 100 ml cannot go through securit
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

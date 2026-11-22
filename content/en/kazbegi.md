@@ -28,7 +28,7 @@ og: gergeti-church.webp
 > - By road: about 3 hours
 > - Mount Kazbek: 5,054 m
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 18 November 2026.
 
 ## Kazbegi or Stepantsminda? Where it is {#stepantsminda}
 
@@ -63,7 +63,7 @@ It is a named risk here. [The UK government's health advice for Georgia](https:/
 - Go down if you feel worse or are no better after 1 to 2 days.[^13]
 - Severe forms affect the brain or lungs and are life-threatening: get urgent medical help and go down.[^13]
 
-Go up gradually, with rest days. If you have a long-term illness, see a doctor before the trip. Our [page on altitude and mountain injuries](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/#altitude-sickness) has more detail.
+Go up gradually, with rest days. If you have a long-term illness, see a doctor before the trip. Our [page on altitude and mountain injuries](https://guide.100doc.ge/gudauri-altitude/#altitude-sickness) has more detail.
 
 <!-- схема: img/kazbegi-heights.webp | Infographic: the town at 1,750 m, a Truso valley village at 2,400 m and the summit at 5,054 m; 157 km and about three hours by road from Tbilisi; source: Georgian National Tourism Administration | Heights and distance from georgia.travel, checked 18 November 2026 -->
 
@@ -176,7 +176,7 @@ The fine is 100~GEL and 5 points on the licence.[^8] For cars, the tyres need th
 
 **Avalanches.** UK advice warns: "It can be difficult to get accurate information on mountain conditions, including avalanche risks."[^11] Stay on marked routes in winter, and ask locally before any walk.
 
-**Skiing.** For skiing, georgia.travel says "it is better to select Gudauri".[^3] Our guide to [Gudauri altitude, ski injuries and medical help](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/) covers it.
+**Skiing.** For skiing, georgia.travel says "it is better to select Gudauri".[^3] Our guide to [Gudauri altitude, ski injuries and medical help](https://guide.100doc.ge/gudauri-altitude/) covers it.
 
 ## Safety and health in Kazbegi {#safety}
 
@@ -184,7 +184,7 @@ Overall, the tourism administration calls the area "generally quite a safe place
 
 **Medical care.** [UK health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Outside Tbilisi, medical facilities are limited."[^10] We found no official listing of a hospital or clinic in the town. For anything serious, plan on treatment in the capital, 157~km away.
 
-**Emergencies.** Dial 112 for an ambulance, fire service or police ([GOV.UK, getting help](https://www.gov.uk/foreign-travel-advice/georgia/getting-help)).[^12] Mountain rescuers belong to the Emergency Management Service of the Ministry of Internal Affairs, and you reach them through 112 too. We found no separate local number for them. Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+**Emergencies.** Dial 112 for an ambulance, fire service or police ([GOV.UK, getting help](https://www.gov.uk/foreign-travel-advice/georgia/getting-help)).[^12] Mountain rescuers belong to the Emergency Management Service of the Ministry of Internal Affairs, and you reach them through 112 too. We found no separate local number for them. Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/).
 
 **Near the boundary lines.** General [UK advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) for the whole country: "If you plan to hike close to the administrative boundary lines, consider hiring a professional guide."[^11]
 
@@ -194,7 +194,7 @@ Overall, the tourism administration calls the area "generally quite a safe place
 
 ### Travel insurance for Kazbegi {#insurance}
 
-You need a policy to enter Georgia, but it may not cover mountain activities. Since 1 January 2026, foreigners must enter with health and accident cover of 30,000~GEL, as Georgian law requires ([the 2026 entry insurance rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance)).
+You need a policy to enter Georgia, but it may not cover mountain activities. Since 1 January 2026, foreigners must enter with health and accident cover of 30,000~GEL, as Georgian law requires ([the 2026 entry insurance rule](https://guide.100doc.ge/#entry-insurance)).
 
 UK advice is direct: "Make sure your travel insurance covers your activities."[^11] It adds that cover should include "local treatment or unexpected medical evacuation".[^10] TravelHealthPro says: "When travelling to altitude adequate travel insurance is essential."[^13]
 
@@ -259,4 +259,4 @@ The national tourism administration suggests two to three days "at the very mini
 
 This guide is general information, not medical advice: the doctor decides on your treatment.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

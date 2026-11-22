@@ -73,7 +73,7 @@ Sameba is the main cathedral of the Georgian Orthodox Church.[^6] It was built b
 
 Narikala fortress stands on the hill between the sulfur baths and the botanical gardens.[^7] The first fortress dates from around 364, but most of the walls you see are from the 16th and 17th centuries.[^7]
 
-Below it lies Abanotubani, literally the "bath district"; legend says King Vakhtang Gorgasali's falcon fell here, which led to the discovery of the hot springs.[^8] On Sololaki hill, Kartlis Deda was put up in 1958, the year the city marked its 1,500th anniversary; it is a twenty-metre aluminium figure designed by Elguja Amashukeli.[^9] Bath etiquette and the way up are in our [sulfur baths guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-sulfur-baths/), with parts on [Narikala](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-sulfur-baths/#narikala) and [Kartlis Deda](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-sulfur-baths/#kartlis-deda).
+Below it lies Abanotubani, literally the "bath district"; legend says King Vakhtang Gorgasali's falcon fell here, which led to the discovery of the hot springs.[^8] On Sololaki hill, Kartlis Deda was put up in 1958, the year the city marked its 1,500th anniversary; it is a twenty-metre aluminium figure designed by Elguja Amashukeli.[^9] Bath etiquette and the way up are in our [sulfur baths guide](https://guide.100doc.ge/tbilisi-sulfur-baths/), with parts on [Narikala](https://guide.100doc.ge/tbilisi-sulfur-baths/#narikala) and [Kartlis Deda](https://guide.100doc.ge/tbilisi-sulfur-baths/#kartlis-deda).
 
 ### Bridge of Peace and Rike Park {#bridge-of-peace}
 
@@ -133,7 +133,7 @@ The metro has two lines and 23 stations; construction began in 1952 and was fini
 
 **On board.** Buses and the metro are "generally safe and reliable, but pickpockets may target tourists".[^21]
 
-**Buses and minibuses.** For marshrutkas and intercity buses, read our [marshrutka guide](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/).
+**Buses and minibuses.** For marshrutkas and intercity buses, read our [marshrutka guide](https://guide.100doc.ge/marshrutka-georgia/).
 
 ### Taxis and taxi apps {#taxi}
 
@@ -143,7 +143,7 @@ Do not flag cars down in the street: pre-book through an app and check that the 
 
 **More precautions.** Use only officially marked cars, never share a ride with strangers, and agree the fare first if there is no meter.[^21] Advice for women travellers adds: sit in the back seat.[^21]
 
-**From the airport.** The airport is about 18 km southeast of the centre.[^1] Arrival, transfers and the entry check are in our [airport guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/).
+**From the airport.** The airport is about 18 km southeast of the centre.[^1] Arrival, transfers and the entry check are in our [airport guide](https://guide.100doc.ge/tbilisi-airport/).
 
 <!-- схема: img/tbilisi-taxi-checklist.webp | Infographic \"Taxis in Tbilisi: six rules\", six cards: not in the street — don't flag a car down; use an app — pre-book the ride; seatbelts — check they work; official cars — white, with a roof sign; no strangers — never share a ride with strangers; back seat — advice for women travellers; source line: GOV.UK and Government of Canada travel advice | Book through an app, check the seatbelts; women travellers are advised to sit in the back; never share a ride with strangers -->
 
@@ -165,7 +165,7 @@ July is the hottest month, at 25.4 °C on average, and the afternoon reaches 32 
 
 **Summer range and record.** Summer temperatures mostly range from 20 to 32 °C.[^1] The absolute maximum, 42.0 °C, was set on 17 July 1882.[^1] May is the wettest month.[^1]
 
-**Every month.** For averages from January to December, use our [weather by month](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/#by-month) table.
+**Every month.** For averages from January to December, use our [weather by month](https://guide.100doc.ge/best-time-to-visit-georgia/#by-month) table.
 
 **Air.** "Air pollution can be hazardous, especially in Tbilisi."[^21] Pollution levels can change quickly.[^21]
 
@@ -221,7 +221,7 @@ Crime levels are low, but long-running rallies near Parliament can turn tense wi
 
 **Drinks.** There have been reports of drink spiking in Georgia.[^18] "Buy your own drinks and always keep sight of them."[^18]
 
-**More detail.** Day and night in the capital are covered in our [guide to whether Georgia is safe](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#tbilisi).
+**More detail.** Day and night in the capital are covered in our [guide to whether Georgia is safe](https://guide.100doc.ge/is-georgia-safe/#tbilisi).
 
 ## Tap water, food and street dogs {#water-dogs}
 
@@ -233,7 +233,7 @@ We give no verdict on the tap. If a dog bites or scratches you, get medical atte
 
 **Street dogs.** Avoid contact with animals, including street dogs.[^21] Rabies treatment is available in Tbilisi and major towns.[^19] "If you're bitten or scratched by a dog, get medical attention immediately."[^19]
 
-**After a bite.** Wash the wound right away with soap and clean water for about 15 minutes, then get medical care as soon as possible.[^21] Our [rabies guide](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/) explains what happens next.
+**After a bite.** Wash the wound right away with soap and clean water for about 15 minutes, then get medical care as soon as possible.[^21] Our [rabies guide](https://guide.100doc.ge/rabies-georgia/) explains what happens next.
 
 ## Medical help in Tbilisi: 112, hospitals and doctors {#health}
 
@@ -249,15 +249,15 @@ In a life-threatening emergency, call 112 first — do not wait for an insurer. 
 
 **Before treatment.** "Contact your insurance company quickly if you're referred to a medical facility for treatment."[^19]
 
-**Entry rule.** All visitors must have health and accident insurance of no less than 30,000 GEL, covering the whole stay; the airline or border officers may ask for proof.[^20] Details: [the entry rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Entry rule.** All visitors must have health and accident insurance of no less than 30,000 GEL, covering the whole stay; the airline or border officers may ask for proof.[^20] Details: [the entry rule](https://guide.100doc.ge/#entry-insurance).
 
-**Calls and medicines.** What to say on the phone is in our [ambulance guide](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/). Bringing prescription drugs? Read our [guide to bringing medication to Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/bringing-medication-to-georgia/).
+**Calls and medicines.** What to say on the phone is in our [ambulance guide](https://guide.100doc.ge/ambulance-georgia/). Bringing prescription drugs? Read our [guide to bringing medication to Georgia](https://guide.100doc.ge/bringing-medication-to-georgia/).
 
 <!-- схема: img/tbilisi-at-a-glance.webp | Infographic headed "Tbilisi at a glance", five cards: 1.3 million+ people; founded in the 5th century; 380–770 m above sea level; 22 days a year at 32 °C or hotter; emergency number with English spoken; small source line: Wikipedia and the emergency service site | Over 1.3 million people, founded in the 5th century, 380–770 m up, and 22 days a year at 32 °C or more -->
 
 ## Day trips from Tbilisi {#day-trips}
 
-Each classic day trip has its own guide. Go to [Mtskheta](https://icebreaker4561.github.io/georgia-healthcare-guide/mtskheta/) for the old churches, [Kazbegi](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/) for the mountains, [David Gareja](https://icebreaker4561.github.io/georgia-healthcare-guide/david-gareja/) for the cave monasteries, [Sighnaghi](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/) for Kakheti and [Uplistsikhe](https://icebreaker4561.github.io/georgia-healthcare-guide/uplistsikhe/) for the rock-cut town.
+Each classic day trip has its own guide. Go to [Mtskheta](https://guide.100doc.ge/mtskheta/) for the old churches, [Kazbegi](https://guide.100doc.ge/kazbegi/) for the mountains, [David Gareja](https://guide.100doc.ge/david-gareja/) for the cave monasteries, [Sighnaghi](https://guide.100doc.ge/sighnaghi/) for Kakheti and [Uplistsikhe](https://guide.100doc.ge/uplistsikhe/) for the rock-cut town.
 
 ## Frequently asked questions {#faq}
 
@@ -271,7 +271,7 @@ Walk Old Tbilisi and Abanotubani, climb to Narikala, see the Holy Trinity Cathed
 
 ### What is the best time to visit Tbilisi?
 
-Summer is hot: July averages 25.4 °C, and 22 days a year reach 32 °C or more.[^1] Compare the months in our [weather by month table](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/#by-month).
+Summer is hot: July averages 25.4 °C, and 22 days a year reach 32 °C or more.[^1] Compare the months in our [weather by month table](https://guide.100doc.ge/best-time-to-visit-georgia/#by-month).
 
 ### Is it safe to walk in Tbilisi at night?
 
@@ -324,4 +324,4 @@ In an emergency, dial 112.[^23] For a visit that can wait, the catalogue linked 
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

@@ -31,7 +31,7 @@ og: katskhi-pillar-ground.webp
 > - To the village church from Tbilisi: about 3 h
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
 
 ## Where is the Katskhi Pillar, and is it worth visiting? {#where}
 
@@ -39,7 +39,7 @@ It rises by the village of Katskhi in Chiatura Municipality, Imereti, on the wat
 
 <!-- схема: img/katskhi-pillar-ground.webp | Illustration: a tall rock column with two small churches on top, a church at its foot and visitors standing on the ground | The column rises on the watershed of the Katskhuri and Gvitori rivers -->
 
-**The nearest town.** The municipal centre lies 72 km from Kutaisi, the centre of the region, by the municipality's own figure.[^3] The town's cable cars and other sights are in our [Chiatura guide](https://icebreaker4561.github.io/georgia-healthcare-guide/chiatura/).
+**The nearest town.** The municipal centre lies 72 km from Kutaisi, the centre of the region, by the municipality's own figure.[^3] The town's cable cars and other sights are in our [Chiatura guide](https://guide.100doc.ge/chiatura/).
 
 **Is it worth the trip?** The national tourism site calls the pillar "the truly remarkable sight" of the country.[^5]
 
@@ -95,7 +95,7 @@ This is a different building, in the village rather than at the rock. The touris
 
 We found no official dress code for either site.
 
-**Our tip.** Dress modestly, as you would at any Orthodox place of worship. What that means in practice is in [Visiting Churches](https://icebreaker4561.github.io/georgia-healthcare-guide/mtskheta/#church-etiquette).
+**Our tip.** Dress modestly, as you would at any Orthodox place of worship. What that means in practice is in [Visiting Churches](https://guide.100doc.ge/mtskheta/#church-etiquette).
 
 ## How to get to the Katskhi Pillar {#getting-there}
 
@@ -107,7 +107,7 @@ By car it takes about 1.5 hours from Kutaisi and about 3 hours from Tbilisi, the
 
 The municipality gives 72 km from the regional centre to the nearest town.[^3]
 
-**From the capital.** We quote no road distance: the sources disagree, and one of their figures is by railway.[^3][^4] What to expect on the way is in [Georgia Roads: What to Expect](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#roads).
+**From the capital.** We quote no road distance: the sources disagree, and one of their figures is by railway.[^3][^4] What to expect on the way is in [Georgia Roads: What to Expect](https://guide.100doc.ge/driving-in-georgia/#roads).
 
 **Our tip.** Drive there and back in daylight.
 
@@ -115,7 +115,7 @@ The municipality gives 72 km from the regional centre to the nearest town.[^3]
 
 Without a car, we cannot confirm a direct route. The national railway's schedule lists a train from Kutaisi to Sachkhere; we found no Katskhi stop in the timetable.[^10]
 
-**Shared vans.** There is no official marshrutka timetable to the village that we could find. The Government of Canada's travel advice warns: "Mini-buses called 'marshrutka' are poorly maintained … Avoid using them."[^9] The advice is general, not about this route. In the capital, see [Didube: Where Many Minibuses Leave From](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#where). For the nearest town, read [How to Get to Chiatura](https://icebreaker4561.github.io/georgia-healthcare-guide/chiatura/#getting-there).
+**Shared vans.** There is no official marshrutka timetable to the village that we could find. The Government of Canada's travel advice warns: "Mini-buses called 'marshrutka' are poorly maintained … Avoid using them."[^9] The advice is general, not about this route. In the capital, see [Didube: Where Many Minibuses Leave From](https://guide.100doc.ge/marshrutka-georgia/#where). For the nearest town, read [How to Get to Chiatura](https://guide.100doc.ge/chiatura/#getting-there).
 
 **Our tip.** Do not count on a late van back. Agree a taxi for the return trip in advance.
 
@@ -132,7 +132,7 @@ The sources point to two risks on this trip: landslides and weather on mountain 
 - Do not stand right under the rock if stones are falling.
 - Head back in daylight, and save 112 in your phone before you set off.
 
-**Minor injuries.** For a bruise or a twisted ankle, see [Sprains, Blisters and When to Call 112](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/#injuries). Drivers: [Night Driving, Mountains and Winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter).
+**Minor injuries.** For a bruise or a twisted ankle, see [Sprains, Blisters and When to Call 112](https://guide.100doc.ge/hiking-in-georgia/#injuries). Drivers: [Night Driving, Mountains and Winter](https://guide.100doc.ge/driving-in-georgia/#night-winter).
 
 <!-- схема: img/katskhi-pillar-safety.webp | Four safety cards: stay on the ground, landslides on roads, fast-changing weather, emergency number 112 | Outside Tbilisi, medical facilities are limited, says the UK government: keep 112 saved and return before dark -->
 
@@ -146,7 +146,7 @@ One number handles every emergency, and you can speak English. The 112 service s
 
 **The app.** The Government of Canada's advice adds: "You can also use the 112 Georgia mobile application".[^9]
 
-**Our tip.** Say the place first: "Katskhi village, Chiatura Municipality, Imereti". Then give a landmark: the church at the foot, the path or the road. On the road, say which way you were heading. More in [What to Tell the Operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**Our tip.** Say the place first: "Katskhi village, Chiatura Municipality, Imereti". Then give a landmark: the church at the foot, the path or the road. On the road, say which way you were heading. More in [What to Tell the Operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 <!-- схема: img/katskhi-pillar-112.webp | Card for calling 112 near the rock column: the place, a landmark and the nearest city | 112 operators take calls in six languages, English among them -->
 
@@ -156,9 +156,9 @@ Plan on Kutaisi, the regional centre.[^3] We found no official address for a hos
 
 **Rural areas.** The Government of Canada's advice notes: "In rural areas, there are shortages of medical supplies and personnel."[^9]
 
-**In the city.** See [Hospitals and Doctors in Kutaisi](https://icebreaker4561.github.io/georgia-healthcare-guide/kutaisi/#health), or a [catalogue of doctors and clinics](https://100doc.ge/en/kutaisi/) on 100doc.ge.
+**In the city.** See [Hospitals and Doctors in Kutaisi](https://guide.100doc.ge/kutaisi/#health), or a [catalogue of doctors and clinics](https://100doc.ge/en/kutaisi/) on 100doc.ge.
 
-**Before the trip.** Check the entry rule on travel insurance: [Insurance to Enter Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Before the trip.** Check the entry rule on travel insurance: [Insurance to Enter Georgia](https://guide.100doc.ge/#entry-insurance).
 
 ## Frequently asked questions {#faq}
 
@@ -205,6 +205,6 @@ Dial 112: it works 24/7 and operators speak English.[^6] There is also an offici
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

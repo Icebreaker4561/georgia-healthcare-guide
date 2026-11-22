@@ -28,7 +28,7 @@ og: jvari-confluence.webp
 > - Svetitskhoveli: 1010–1029
 > - UNESCO list: 1994
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 18 November 2026.
 
 ## Why Mtskheta matters: the old capital {#mtskheta}
 
@@ -164,7 +164,7 @@ They should "start to cool down and feel better within 30 minutes", the NHS says
 
 **Signs of heatstroke: dial 112 at once.** The NHS lists "a very high temperature, hot skin without sweating, fast breathing and a fast heartbeat, confusion and restlessness, seizure (fit), loss of consciousness".[^7] It is clear: "Heatstroke is a medical emergency."[^7] Do not wait 30 minutes: dial 112 straight away. While you wait, the NHS advises you to "wrap the person in a cool, wet sheet, or fan them or sponge them down with cold water".[^7]
 
-**Heat exhaustion that does not improve.** If someone with heat exhaustion is not feeling better within 30~minutes, dial 112 too. Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say.
+**Heat exhaustion that does not improve.** If someone with heat exhaustion is not feeling better within 30~minutes, dial 112 too. Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/) and what to say.
 
 <!-- схема: img/heat-steps.webp | Infographic: signs of heat exhaustion — tiredness, dizziness, headache, nausea, excessive sweating, cramps, high temperature, being very thirsty; first steps — move to a cool place, remove unnecessary clothing, give plenty of water, cool the skin; not better within 30 minutes: dial 112; signs of heatstroke: dial 112 at once | Heat exhaustion: signs and first steps, after the NHS, with Georgia's emergency number 112 -->
 
@@ -172,7 +172,7 @@ They should "start to cool down and feel better within 30 minutes", the NHS says
 
 If you still feel unwell the next day, see a doctor. You can find a [family doctor in Tbilisi on 100doc.ge](https://100doc.ge/en/tbilisi/family-doctor/) and contact the clinic directly.
 
-**Insurance.** Georgia requires visitors to have travel insurance to enter: see [the 2026 entry insurance rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Insurance.** Georgia requires visitors to have travel insurance to enter: see [the 2026 entry insurance rule](https://guide.100doc.ge/#entry-insurance).
 
 ## Frequently asked questions {#faq}
 
@@ -221,4 +221,4 @@ Our suggestion is a half or full day. A half day is enough for the three main ch
 
 This guide is general information, not medical advice: the doctor decides on your treatment.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

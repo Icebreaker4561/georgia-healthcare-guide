@@ -21,7 +21,7 @@ og: ambulance-tbilisi-street.webp
 > - It works from a mobile phone without a SIM card and from a landline with a negative balance.[^2][^3]
 > - The ambulance call-out is covered by the state.[^5] Treatment after it is on you or your insurer; since 2026 visitors must enter with a 30,000 GEL policy.[^5][^6]
 
-This page is about Georgia the country — Tbilisi, Batumi and the mountains — not the US state. It is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
+This page is about Georgia the country — Tbilisi, Batumi and the mountains — not the US state. It is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 17 November 2026.
 
 ## How to call an ambulance in Georgia: dial 112 {#how-to-call}
 
@@ -72,7 +72,7 @@ While you wait:
 
 The state pays for the ambulance call-out for anyone in Georgia, visitors included.[^5] Inpatient admission and treatment of a tourist are not paid for by the state.[^5] This follows from Government Resolution No. 655 of 31 December 2025, Annex 18.1 ([Resolution No. 655 on matsne.gov.ge, Georgian text](https://www.matsne.gov.ge/ka/document/view/6748252)).[^5]
 
-So the bill for the hospital stay and treatment lands on you or on your policy. That is why the entry rule matters. Since 1 January 2026, foreigners must enter with health and accident insurance of 30,000 GEL for the whole stay ([Resolution No. 602 on matsne.gov.ge, Georgian text](https://matsne.gov.ge/ka/document/view/6728816)).[^6] Our guide explains [the 2026 entry insurance rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance) in more detail.
+So the bill for the hospital stay and treatment lands on you or on your policy. That is why the entry rule matters. Since 1 January 2026, foreigners must enter with health and accident insurance of 30,000 GEL for the whole stay ([Resolution No. 602 on matsne.gov.ge, Georgian text](https://matsne.gov.ge/ka/document/view/6728816)).[^6] Our guide explains [the 2026 entry insurance rule](https://guide.100doc.ge/#entry-insurance) in more detail.
 
 If you are still choosing a policy, look for [travel insurance for Georgia that covers emergency hospital care](https://100doc.ge/tourist/en). On the Light plan it costs from €0.78 (2.22 GEL, ≈ $0.86) a day on a 360-day policy; a 3-day policy is €6.27 (17.90 GEL, ≈ $6.90), at the National Bank rate of 17 November 2026.
 
@@ -132,4 +132,4 @@ Yes. It works from a mobile phone without a SIM card, and from a landline withou
 - [Government Resolution No. 602 of 26 December 2025 (Matsne, Georgian text)](https://matsne.gov.ge/ka/document/view/6728816)
 - [EU Asylum Agency, MedCOI report: provision of healthcare, 2025 (data for 2021–2022)](https://www.euaa.europa.eu/sites/default/files/publications/2025-03/2025_MedCOI_Georgia_Provision_of_Healthcare.pdf)
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

@@ -30,7 +30,7 @@ og: tusheti-abano-road.webp
 > - Pharmacies and ATMs: none (park)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## What and where Tusheti is {#what-is}
 
@@ -72,7 +72,7 @@ The road into the valley crosses the pass, and the last stretch needs an off-roa
 - Start early and arrive in daylight.
 - Keep a spare day at the end of the trip in case weather shuts the road.
 
-More on mountain roads is in our [guide to driving in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/).
+More on mountain roads is in our [guide to driving in Georgia](https://guide.100doc.ge/driving-in-georgia/).
 
 <!-- схема: img/tusheti-numbers.webp | Infographic with the small heading "nationalparks.ge and Wikipedia, checked 19 Nov 2026" and the title "Tusheti: the numbers that shape a trip", five cards: 195 km — about 6 h, Tbilisi to the park (park); 80 km — about 4 h, Kvemo Alvani to Omalo, off-road only (park); 2,826 m — Abano Pass (Wikipedia); June–October — tourist season (park); 11 — tourist trails (park) | The numbers that shape a trip, from the park and Wikipedia -->
 
@@ -90,7 +90,7 @@ At 2,826 m, the pass is above the 2,500 m line that [TravelHealthPro](https://tr
 - Drink water during the drive.
 - If you have a heart or lung condition, ask your doctor before the trip.
 
-The signs of altitude illness and what to do are in our [altitude guide for Gudauri](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/).
+The signs of altitude illness and what to do are in our [altitude guide for Gudauri](https://guide.100doc.ge/gudauri-altitude/).
 
 ## No pharmacies, ATMs or petrol: what to bring {#supplies}
 
@@ -157,7 +157,7 @@ In summer you may meet dogs guarding the flocks; a bite or even a scratch needs 
 - If a shepherd is near, wait for them to call the dogs off.
 - Ask your doctor about a rabies vaccine before the trip.[^10]
 
-What to do after a bite, step by step, is in our [rabies guide](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/).
+What to do after a bite, step by step, is in our [rabies guide](https://guide.100doc.ge/rabies-georgia/).
 
 ## Medical help: far from a hospital {#health}
 
@@ -167,11 +167,11 @@ Help can take hours, not minutes. The UK [safety advice](https://www.gov.uk/fore
 
 **Rural areas.** [The Government of Canada's travel advice](https://travel.gc.ca/destinations/georgia) says: "First responders may not be able to access rural areas."[^10]
 
-**In an emergency.** The UK advice says: "Dial 112 and ask for an ambulance."[^8] The park's guide also gives 112 as the emergency number.[^2] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+**In an emergency.** The UK advice says: "Dial 112 and ask for an ambulance."[^8] The park's guide also gives 112 as the emergency number.[^2] Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/).
 
 **A town with clinics.** The park puts Telavi 105 km and about 4 h 30 min away.[^3] The catalogue of [clinics in Telavi](https://100doc.ge/en/telavi/) on 100doc.ge listed 13 clinics when we checked on 19 November 2026.
 
-**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance).
 
 **Our tip.** Tell your host your route and when you plan to be back. Save 112 and your host's number in your phone before the first trail.
 
@@ -220,4 +220,4 @@ We found no official list of medical services in Tusheti. The park puts Telavi 1
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

@@ -31,7 +31,7 @@ og: sachkhere-town.webp
 > - Train 633/634: daily
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
 
 ## Where is Sachkhere, Georgia? {#where}
 
@@ -68,7 +68,7 @@ Yes, according to an undated page; check on the spot. The regional tourism site 
 
 **Our tip.** Go in daylight and wear closed shoes. If you find a fence or a works sign, do not go past it. Hold children's hands near the walls.
 
-**If you slip on the path.** First aid for small knocks is in [Sprains, Blisters and When to Call 112](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/#injuries).
+**If you slip on the path.** First aid for small knocks is in [Sprains, Blisters and When to Call 112](https://guide.100doc.ge/hiking-in-georgia/#injuries).
 
 ### When was Modinakhe built? The sources disagree {#modinakhe-date}
 
@@ -96,7 +96,7 @@ Beyond the castle, the national tourism site lists a writer's house museum, a mo
 
 ### Chiatura and the Katskhi Pillar {#chiatura-katskhi}
 
-Both have their own articles: the [Chiatura guide](https://icebreaker4561.github.io/georgia-healthcare-guide/chiatura/) and the [Katskhi Pillar guide](https://icebreaker4561.github.io/georgia-healthcare-guide/katskhi-pillar/).
+Both have their own articles: the [Chiatura guide](https://guide.100doc.ge/chiatura/) and the [Katskhi Pillar guide](https://guide.100doc.ge/katskhi-pillar/).
 
 ## How to get to Sachkhere: train and road {#getting-there}
 
@@ -110,15 +110,15 @@ Georgian Railway's general schedule lists train 633/634 Kutaisi I–Sachkhere am
 
 **The station.** It is in the centre of the town, on the right bank of the Qvirila (also spelled Kvirila), at #1 Kostava Street. The railway here dates back to 1904, when the first line was laid.[^7]
 
-**From Tbilisi.** Whether you can reach the start of this line by rail is answered in [Is There a Tbilisi to Kutaisi Train?](https://icebreaker4561.github.io/georgia-healthcare-guide/georgia-trains/#kutaisi) Other lines: [Train Routes in Georgia: What the Georgian Railway Schedule Lists](https://icebreaker4561.github.io/georgia-healthcare-guide/georgia-trains/#routes).
+**From Tbilisi.** Whether you can reach the start of this line by rail is answered in [Is There a Tbilisi to Kutaisi Train?](https://guide.100doc.ge/georgia-trains/#kutaisi) Other lines: [Train Routes in Georgia: What the Georgian Railway Schedule Lists](https://guide.100doc.ge/georgia-trains/#routes).
 
 **Our tip.** Ask about the return train at the ticket office while you are at the station.
 
 ### By road and marshrutka {#by-road}
 
-Check the route in a navigation app before you set off: we found no official road distance, and no official minibus timetable either. The Government of Canada advises against using minibuses;[^9] more in [Marshrutkas: What Official Advice Says](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#official-advice).
+Check the route in a navigation app before you set off: we found no official road distance, and no official minibus timetable either. The Government of Canada advises against using minibuses;[^9] more in [Marshrutkas: What Official Advice Says](https://guide.100doc.ge/marshrutka-georgia/#official-advice).
 
-**Onward.** See [How to Get to Chiatura from Kutaisi and Tbilisi](https://icebreaker4561.github.io/georgia-healthcare-guide/chiatura/#getting-there); it does not cover the road from here.
+**Onward.** See [How to Get to Chiatura from Kutaisi and Tbilisi](https://guide.100doc.ge/chiatura/#getting-there); it does not cover the road from here.
 
 **Our tip.** Drive there and back in daylight. Fill up and download an offline map before you leave.
 
@@ -132,7 +132,7 @@ We found no official climate data for the town itself, so plan by season and roa
 - heavy rain, flooding and snow at higher altitudes can affect roads and bridges;
 - "Take care when driving, especially at night."
 
-**In winter.** In the mountains you must have "snow tires or chains", says the Government of Canada.[^9] More in [Night Driving, Mountains and Winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter); for the west of the country, see [Three Climates in One Small Country](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/#regions).
+**In winter.** In the mountains you must have "snow tires or chains", says the Government of Canada.[^9] More in [Night Driving, Mountains and Winter](https://guide.100doc.ge/driving-in-georgia/#night-winter); for the west of the country, see [Three Climates in One Small Country](https://guide.100doc.ge/best-time-to-visit-georgia/#regions).
 
 **Our tip.** After heavy rain, put off mountain stretches. In the cold months, check your tyres before you set off.
 
@@ -148,7 +148,7 @@ The line works round the clock across the country, and operators can take your c
 
 **Ambulance in the town.** In 2018 the regional administration reported a new ambulance centre here, with 11 rooms.[^11]
 
-**Our tip.** Start with where you are: "Sachkhere, Imereti". Add something a crew can find: the station on Kostava Street, the road up to the castle or your village. More in [What to Tell the Operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**Our tip.** Start with where you are: "Sachkhere, Imereti". Add something a crew can find: the station on Kostava Street, the road up to the castle or your village. More in [What to Tell the Operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 <!-- схема: img/sachkhere-112.webp | Card for calling 112 in a small Georgian town: the number, the place, a landmark and the 112 mobile app | A new ambulance centre opened in the town in 2018, says the regional administration -->
 
@@ -160,9 +160,9 @@ Do not count on one: we found no official record of a medical facility's address
 
 **Rural areas.** There are shortages of medical supplies and personnel in rural areas.[^9]
 
-**The regional centre.** For doctors in the region's centre,[^13] see [Hospitals and Doctors in Kutaisi](https://icebreaker4561.github.io/georgia-healthcare-guide/kutaisi/#health), or the catalogue of [doctors and clinics in Kutaisi](https://100doc.ge/en/kutaisi/) on 100doc.ge.
+**The regional centre.** For doctors in the region's centre,[^13] see [Hospitals and Doctors in Kutaisi](https://guide.100doc.ge/kutaisi/#health), or the catalogue of [doctors and clinics in Kutaisi](https://100doc.ge/en/kutaisi/) on 100doc.ge.
 
-**Before the trip.** The UK government advises a policy that includes "unexpected medical evacuation".[^10] Check the entry rule as well: [Insurance to Enter Georgia (2026 Rule)](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Before the trip.** The UK government advises a policy that includes "unexpected medical evacuation".[^10] Check the entry rule as well: [Insurance to Enter Georgia (2026 Rule)](https://guide.100doc.ge/#entry-insurance).
 
 ## Frequently asked questions {#faq}
 
@@ -212,6 +212,6 @@ We found no official climate data for the town. Heavy rains may cause flooding a
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

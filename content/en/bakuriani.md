@@ -30,7 +30,7 @@ og: didveli-beginners.webp
 > - Lifts: 12
 > - Ski area: 36 km
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 20 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 20 November 2026.
 
 ## Bakuriani ski resort: slopes, lifts and season {#ski-resort}
 
@@ -88,7 +88,7 @@ The UK government's [health advice for Georgia](https://www.gov.uk/foreign-trave
 
 By TravelHealthPro's figures, the risk at the village's height is low.[^20] It is not zero: the top of the ski area, at 2,702~m, and the 2,800~m panorama are both above the level where altitude illness usually starts.[^28][^12][^20] If you feel a new headache or nausea up there, follow the steps above.
 
-In the GOV.UK list, the risk near Kazbegi is the peak, Mount Kazbegi; our [Kazbegi (Stepantsminda) guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/) covers that area.[^17] Symptoms, prevention and when to see a doctor are covered in more detail in [Gudauri Altitude, Ski Injuries and Medical Help in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/#altitude-sickness).
+In the GOV.UK list, the risk near Kazbegi is the peak, Mount Kazbegi; our [Kazbegi (Stepantsminda) guide](https://guide.100doc.ge/kazbegi/) covers that area.[^17] Symptoms, prevention and when to see a doctor are covered in more detail in [Gudauri Altitude, Ski Injuries and Medical Help in Georgia](https://guide.100doc.ge/gudauri-altitude/#altitude-sickness).
 
 ## How to get from Tbilisi to Bakuriani {#getting-there}
 
@@ -98,8 +98,8 @@ The trip is 180~km and takes about 2 hours 25 minutes by car or by minibus, acco
 
 We found no official bus or minibus timetables or fares, so we give none. Here are the options:
 
-- **Minibus (marshrutka).** Ask locally where they leave from and when. Our page [Marshrutka in Georgia: Minibus Safety, Trains and Taxis](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/) explains what to expect on board.
-- **Your own or a hired car.** The most flexible option. Before a winter drive, read [Driving in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/).
+- **Minibus (marshrutka).** Ask locally where they leave from and when. Our page [Marshrutka in Georgia: Minibus Safety, Trains and Taxis](https://guide.100doc.ge/marshrutka-georgia/) explains what to expect on board.
+- **Your own or a hired car.** The most flexible option. Before a winter drive, read [Driving in Georgia](https://guide.100doc.ge/driving-in-georgia/).
 - **Taxi or private driver.** Agree the price and the route, including any stops, before you set off.
 - **Train to Borjomi, then the road.** Check the Tbilisi–Borjomi train times on Georgian Railway's site before you plan; we do not give a journey time.
 
@@ -107,7 +107,7 @@ We found no official bus or minibus timetables or fares, so we give none. Here a
 
 ### Borjomi to Bakuriani {#from-borjomi}
 
-The resort lies in Borjomi Municipality.[^1] We give no distance for this stretch: two georgia.travel pages give two different figures. If you stop in Borjomi for a night before or after the slopes, our [Borjomi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/) covers the town itself.
+The resort lies in Borjomi Municipality.[^1] We give no distance for this stretch: two georgia.travel pages give two different figures. If you stop in Borjomi for a night before or after the slopes, our [Borjomi guide](https://guide.100doc.ge/borjomi/) covers the town itself.
 
 ### Is the Kukushka train running? {#kukushka}
 
@@ -128,7 +128,7 @@ Come between December and late March for snow, according to the tourism administ
 
 This winter has a date. MTA announced on 28 October 2026 that the winter season will officially open on 20 December at all four resorts it manages, this one included.[^8] Lifts and pistes open in stages as snow allows. Last winter, for example, MTA said Kokhta would open first, on 20 December 2025, with the cable car and the piste running daily from 10:00 to 17:00, [1TV reported](https://1tv.ge/lang/en/news/bakurianis-kokhta-ski-area-opens-december-20-gudauri-and-other-resorts-follow-december-27/).[^7] So check which lifts are running before you book your first days.
 
-For the weather on your dates, use a forecast service shortly before you travel. For how the seasons compare across the whole country, see [Best time to visit Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/).
+For the weather on your dates, use a forecast service shortly before you travel. For how the seasons compare across the whole country, see [Best time to visit Georgia](https://guide.100doc.ge/best-time-to-visit-georgia/).
 
 ### Is there snow in Bakuriani now? {#snow}
 
@@ -171,8 +171,8 @@ For a family trip or a first time on skis, the official evidence points here. Ge
 | Resort | Confirmed officially | Altitude risk named by GOV.UK | Our guide |
 |---|---|---|---|
 | Bakuriani | 12 lifts, 36 km ski area;[^28] three ski areas;[^3] village at 1,700 m[^1] | Not named[^17] | This page |
-| Gudauri | Ski areas managed by MTA[^3] | Yes[^17] | [Gudauri Altitude, Ski Injuries and Medical Help in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/) |
-| Mestia: Hatsvali, Tetnuldi | Ski areas managed by MTA[^3] | Yes, for the mountain of the same name[^17] | [Svaneti Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/svaneti/) |
+| Gudauri | Ski areas managed by MTA[^3] | Yes[^17] | [Gudauri Altitude, Ski Injuries and Medical Help in Georgia](https://guide.100doc.ge/gudauri-altitude/) |
+| Mestia: Hatsvali, Tetnuldi | Ski areas managed by MTA[^3] | Yes, for the mountain of the same name[^17] | [Svaneti Guide](https://guide.100doc.ge/svaneti/) |
 | Goderdzi | Ski areas managed by MTA[^3] | Not named[^17] | — |
 
 For heights and piste lengths at the other resorts, see MTA's site.
@@ -193,7 +193,7 @@ You can speak English. Operators answer in Georgian, English, Azerbaijani, Armen
 
 **Our tip.** Say where you are as precisely as you can: the ski area and the nearest lift. Save the name of your area in your phone when you arrive. Stay with the injured person while you wait.
 
-What the operator asks and what happens next: see [Ambulance in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+What the operator asks and what happens next: see [Ambulance in Georgia](https://guide.100doc.ge/ambulance-georgia/).
 
 ### Who helps on the slopes? {#ski-patrol}
 
@@ -203,7 +203,7 @@ We found no official announcement about ski patrols or mountain rescuers at this
 - **2021.** The ministry's notice on ski patrols named three other resorts and did not name this one.[^22]
 - **2023.** For the freestyle and snowboard World Championships held here, the ministry said: "Ski patrols will protect the safety of vacationers on the ski tracks." Firefighters and rescuers of the Emergency Management Service were also stationed in the town for the event.[^23] That was for the championships, not a permanent arrangement.
 
-So do not assume a patrol is close by. The UK government's travel advice warns: "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."[^18] More on patrols and rescuers: [Who helps on the slopes: ski patrols and mountain rescuers](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/#ski-patrol).
+So do not assume a patrol is close by. The UK government's travel advice warns: "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."[^18] More on patrols and rescuers: [Who helps on the slopes: ski patrols and mountain rescuers](https://guide.100doc.ge/gudauri-altitude/#ski-patrol).
 
 ### Off-piste and avalanches {#off-piste}
 
@@ -225,9 +225,9 @@ Back in the capital, you may need follow-up care: a second look at a sprain, a c
 
 ### Does travel insurance cover skiing? {#insurance-skiing}
 
-Not always, so check your policy wording before you ski. The UK government's travel advice says: "Make sure your travel insurance covers your activities."[^18] It also warns that many policies will not cover skiing off-piste without a guide.[^18] The details are in [Does travel insurance pay for ski injuries in Georgia?](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/#insurance)
+Not always, so check your policy wording before you ski. The UK government's travel advice says: "Make sure your travel insurance covers your activities."[^18] It also warns that many policies will not cover skiing off-piste without a guide.[^18] The details are in [Does travel insurance pay for ski injuries in Georgia?](https://guide.100doc.ge/gudauri-altitude/#insurance)
 
-Entry is a separate rule. Since 1 January 2026, visitors entering Georgia must have health and accident cover of at least 30,000~GEL, under [Resolution No. 602 of the Government of Georgia](https://matsne.gov.ge/ka/document/view/6728816).[^26][^27] What the rule asks of you is explained in [Insurance to enter Georgia (2026 rule)](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance). Meeting it does not by itself mean your cover pays for a ski injury.
+Entry is a separate rule. Since 1 January 2026, visitors entering Georgia must have health and accident cover of at least 30,000~GEL, under [Resolution No. 602 of the Government of Georgia](https://matsne.gov.ge/ka/document/view/6728816).[^26][^27] What the rule asks of you is explained in [Insurance to enter Georgia (2026 rule)](https://guide.100doc.ge/#entry-insurance). Meeting it does not by itself mean your cover pays for a ski injury.
 
 ## Frequently asked questions {#faq}
 
@@ -296,4 +296,4 @@ Dial 112 and ask for an ambulance.[^17] Operators speak English.[^16] Say which 
 
 This guide is general information, not medical advice: the doctor decides on your treatment.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

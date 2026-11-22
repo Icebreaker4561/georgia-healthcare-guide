@@ -1,0 +1,97 @@
+# Georgia Travel Guide — guide.100doc.ge
+
+> Practical guide by 100doc.ge to trips, holidays and healthcare in Georgia (the country): places to go, getting around, emergencies, entry insurance and doctors. Every fact links to its official source. English at the site root, Russian under /ru/.
+
+## English
+
+- [Ambulance in Georgia: How to Call 112 and Who Pays](https://guide.100doc.ge/ambulance-georgia/): What to say on the phone, what happens next, and who pays for the call-out and treatment.
+- [Bringing Medication to Georgia: Rules, Codeine, Pharmacies](https://guide.100doc.ge/bringing-medication-to-georgia/): The 10-pack rule, medicines under special control, and what pharmacies sell over the counter.
+- [Rabies in Georgia: What to Do After a Dog Bite or Scratch](https://guide.100doc.ge/rabies-georgia/): First aid, where to get the vaccine in the capital, the WHO schedule and who pays.
+- [Chacha in Georgia: What It Is, Strength and Methanol Risk](https://guide.100doc.ge/chacha-georgia/): Georgia's grape spirit: what it is, its strength by law, methanol in homemade alcohol, the signs, 112 and driving.
+- [Taxi in Tbilisi and Georgia: Bolt, Airport Fares, Safety](https://guide.100doc.ge/taxi-in-georgia/): Which apps work in Georgia, the fixed Tbilisi Airport fare, Kutaisi and Batumi, official taxis, trips between cities and 112.
+- [eSIM and SIM Cards in Georgia: Operators, Prices, Coverage](https://guide.100doc.ge/esim-georgia/): eSIM or local SIM, Magti, Silknet and Cellfie, airport SIMs, official prices, coverage in the mountains and calling 112 with no SIM.
+- [Gudauri Altitude, Ski Injuries and Medical Help in Georgia](https://guide.100doc.ge/gudauri-altitude/): Altitude, patrols, mountain rescue, treatment in the capital and what travel cover may not pay.
+- [Kazbegi (Stepantsminda), Georgia: Gergeti, Hikes and Safety](https://guide.100doc.ge/kazbegi/): Gergeti, hikes, the winter road over the Jvari Pass, altitude and what to do if something goes wrong.
+- [Tbilisi Sulfur Baths and Narikala: Abanotubani Guide](https://guide.100doc.ge/tbilisi-sulfur-baths/): Abanotubani, the fortress, the waterfall and who should be careful in hot sulfur water.
+- [Mtskheta, Georgia: Jvari Monastery and Svetitskhoveli Guide](https://guide.100doc.ge/mtskheta/): The old capital next to Tbilisi: what to see, the UNESCO site, summer heat and help nearby.
+- [Borjomi, Georgia: Mineral Water, Park and Sulfur Pools Guide](https://guide.100doc.ge/borjomi/): The spa town two hours from Tbilisi: the spring, the pools, the national park and who should limit the salty water.
+- [Batumi, Georgia: Beach, Weather by Month and Health Guide](https://guide.100doc.ge/batumi/): The Black Sea city: what to see, the beach, weather by month, the summer heat and where to find a doctor.
+- [Martvili Canyon, Okatse Canyon and Prometheus Cave Guide](https://guide.100doc.ge/martvili-canyon/): Three natural monuments near Kutaisi: the canyon boat, the hanging trail, the cave, the rules for children and rain, and medical help.
+- [Chiatura: Cable Cars, Katskhi Pillar, Road and Medical Help](https://guide.100doc.ge/chiatura/): The mining town of cable cars: old and new lines, the fare, the Katskhi Pillar, the road and 112.
+- [Anaklia, Georgia: Beach, Swimming, Abkhazia Line and 112](https://guide.100doc.ge/anaklia/): Black Sea village on the Abkhazia line: the beach, the footbridge, swimming, sun, official advice and 112.
+- [Ureki, Georgia: Magnetic Sand Beach, Swimming, Sun and 112](https://guide.100doc.ge/ureki/): Black Sea resort in Guria: magnetic sand and what sources say, swimming, hot sand, sun, the road and 112.
+- [Dashbashi Canyon and Diamond Bridge: Road, Trail and 112](https://guide.100doc.ge/dashbashi-canyon/): Dashbashi (Tsalka) Canyon and the Diamond Bridge: the road from Tbilisi, heights, the trail, weather and 112.
+- [Svaneti Guide: Mestia, Ushguli, Altitude and Medical Help](https://guide.100doc.ge/svaneti/): The high valley of towers: Mestia, Ushguli, the trek, winter roads, altitude and medical help far from the cities.
+- [Vardzia Cave Monastery: Visiting, Rockfalls and Safety 2026](https://guide.100doc.ge/vardzia/): Queen Tamar's cave city: what to see, the 2026 rockfall closure, earthquakes, Rabati Castle and where to find a doctor.
+- [Uplistsikhe, Georgia: Cave Town near Gori, Heat and Safety](https://guide.100doc.ge/uplistsikhe/): The rock-hewn town near Gori: what to see, the occupied-region line to avoid, summer heat and medical help.
+- [Gori, Georgia: Stalin Museum, Fortress, Summer Heat and 112](https://guide.100doc.ge/gori/): Gori, Georgia: the Stalin Museum, the fortress hill, the road from Tbilisi, summer heat, street dogs and 112.
+- [David Gareja Monastery: Snakes, Heat and Getting There](https://guide.100doc.ge/david-gareja/): The half-desert cave monasteries near the Azerbaijan border: vipers and first aid, heat, and where to find a doctor.
+- [Tusheti: Abano Pass Road, Omalo, Park Rules and Health](https://guide.100doc.ge/tusheti/): The remote valley over the Abano Pass: off-road only, June to October, no pharmacies or ATMs, shepherd dogs and medical help far away.
+- [Khevsureti and Shatili: Datvisjvari Pass Road and Safety](https://guide.100doc.ge/khevsureti/): The tower villages beyond the Datvisjvari Pass: one narrow road, fog and long snow, cash, altitude and medical help far away.
+- [Sighnaghi and Kakheti: Wine Tasting, Bodbe and Health Tips](https://guide.100doc.ge/sighnaghi/): The wine region: the hill town, Bodbe Monastery, qvevri, safe tasting, drink spiking and medical help.
+- [Telavi, Georgia: Gombori Pass, Summer Heat and Medical Help](https://guide.100doc.ge/telavi/): The Gombori Pass road from Tbilisi, winter closures, summer heat, the hospital, 112 and what to see around Telavi.
+- [Ananuri Fortress and Zhinvali Reservoir: Road, Water and 112](https://guide.100doc.ge/ananuri/): Ananuri Fortress and Zhinvali Reservoir: getting there and back from Tbilisi, the roadside, winter, swimming and 112.
+- [Tskaltubo: Radon Baths, Sanatoriums, Sataplia and Health](https://guide.100doc.ge/tskaltubo/): The Soviet spa town near Kutaisi: radon baths and who should skip them, the sanatoriums, Sataplia and medical help.
+- [Sairme, Georgia: Mineral Water Resort, Road and Health Guide](https://guide.100doc.ge/sairme/): The forest spa resort in Imereti: drinking the springs, the road from Kutaisi, the weather, things to do and 112.
+- [Katskhi Pillar, Georgia: Can You Climb It? Road and Safety](https://guide.100doc.ge/katskhi-pillar/): The 40 m rock column near Chiatura: who may go up, the churches at its foot, the road from Kutaisi and 112.
+- [Sachkhere, Georgia: Modinakhe Castle, Train and Medical Help](https://guide.100doc.ge/sachkhere/): A town in Upper Imereti: Modinakhe Castle, nearby churches and museums, the train from Kutaisi, road safety and 112.
+- [Zugdidi, Georgia: Dadiani Palace, Weather and Health Guide](https://guide.100doc.ge/zugdidi/): The Samegrelo capital: Dadiani Palace and garden, the train from Tbilisi, the road to Mestia, the Abkhazia line and 112.
+- [Kutaisi, Georgia: Bagrati, Gelati, Airport and Health Guide](https://guide.100doc.ge/kutaisi/): Georgia's third city: Bagrati and Gelati, arriving at the airport, weather, water and where to find a doctor.
+- [Tbilisi, Georgia: Things to Do, Sights and Staying Safe](https://guide.100doc.ge/tbilisi/): Georgia's capital: Sameba, Old Tbilisi, museums and Mtatsminda, plus summer heat, taxis, protests and where to find a doctor.
+- [Bakuriani, Georgia: Ski Resort, Getting There and Safety](https://guide.100doc.ge/bakuriani/): Ski areas, the road from Tbilisi, the Kukushka train, the season and what to do if you get hurt on the slopes.
+- [Tbilisi Airport Arrival: Border, Insurance, Bus and Taxi](https://guide.100doc.ge/tbilisi-airport/): Border and insurance, bus and taxi to the city, the airport's medical point and what to do if you feel unwell after the flight.
+- [Tbilisi Metro: Map, Stations, Fares, Hours and Safety](https://guide.100doc.ge/tbilisi-metro/): Two lines and 23 stations: how to pay, when trains run, deep escalators, rush-hour pickpockets and calling 112.
+- [Georgian Lari: Money in Georgia, Cards, ATMs and Scams](https://guide.100doc.ge/money-in-georgia/): The Georgian lari, cash or card, ATMs and DCC, safe currency exchange, money scams and paying a doctor up front.
+- [Georgia Trains: Tbilisi to Batumi Train, Tickets and Health](https://guide.100doc.ge/georgia-trains/): Tbilisi to Batumi and other routes, Georgian Railway tickets, heat, water and 112 on the train.
+- [Georgian Food: What to Try, Tap Water and Food Safety](https://guide.100doc.ge/georgian-food/): Khachapuri, khinkali, cheese and wine, plus tap water, raw milk, food poisoning and when to see a doctor in Georgia.
+- [Driving in Georgia: Licence, Border Insurance, Roads, Safety](https://guide.100doc.ge/driving-in-georgia/): Licence and IDP, the border car insurance law, road dangers, winter tyres and what to do after a crash.
+- [Best Time to Visit Georgia: Weather by Month and Health Tips](https://guide.100doc.ge/best-time-to-visit-georgia/): Tbilisi weather month by month, the coast and the mountains, winter roads and skiing, cold and heat first aid.
+- [Hiking in Georgia (the Country): Trails, Safety and Health](https://guide.100doc.ge/hiking-in-georgia/): Where to trek, park rules, border lines, altitude, snakes and dogs, sprains and blisters, insurance and 112.
+- [Marshrutka in Georgia: Minibus Safety, Trains and Taxis](https://guide.100doc.ge/marshrutka-georgia/): Minibuses, Didube, trains, taxis and motion sickness: what official advice says.
+- [Is Georgia Safe to Travel in 2026? Crime, Protests, Health](https://guide.100doc.ge/is-georgia-safe/): Crime, Tbilisi protests, taxis and roads, women travelling alone, health risks and the two regions governments say to avoid.
+
+## Русский
+
+- [Чача, Грузия: что это, сколько градусов и риск метанола](https://guide.100doc.ge/ru/chacha/): Виноградная водка по закону: крепость, метанол в домашней, признаки отравления, 112, руль и вывоз.
+- [Такси в Грузии и Тбилиси: Bolt, Яндекс Go, аэропорт](https://guide.100doc.ge/ru/taksi-v-gruzii/): Bolt, Яндекс Go и «Максим», фиксированный тариф из аэропорта, официальное такси, Батуми и Кутаиси, ремни и 112.
+- [Бешенство в Грузии: что делать после укуса собаки](https://guide.100doc.ge/ru/beshenstvo-v-gruzii/): Первая помощь, где сделать прививку в Тбилиси, схема уколов ВОЗ и кто платит.
+- [Казбеги (Степанцминда): Гергети, дорога и высота — 2026](https://guide.100doc.ge/ru/kazbegi/): Гергети, маршруты, Военно-Грузинская дорога зимой, высота и что делать, если что-то случилось.
+- [Батуми: что посмотреть, погода по месяцам и медпомощь — 2026](https://guide.100doc.ge/ru/batumi/): Что посмотреть, пляжи, погода по месяцам, летняя жара и где найти врача в Батуми.
+- [Тбилиси: что посмотреть, достопримечательности и жара — 2026](https://guide.100doc.ge/ru/tbilisi/): Старый Тбилиси, Самеба и Мтацминда, маршрут на 1–3 дня, летняя жара, такси, вода и где найти врача в столице Грузии.
+- [Боржоми: что посмотреть, источники, вода и здоровье — 2026](https://guide.100doc.ge/ru/borjomi/): Что посмотреть в Боржоми, серные бассейны, нацпарк, натрий в минеральной воде и где врач.
+- [Кутаиси: что посмотреть, аэропорт, погода и медпомощь — 2026](https://guide.100doc.ge/ru/kutaisi/): Третий город Грузии: Баграти и Гелати, прилёт в аэропорт, погода, вода и где найти врача.
+- [Аэропорт Тбилиси: как добраться до города, граница, медпункт](https://guide.100doc.ge/ru/aeroport-tbilisi/): Граница и полис, автобус и такси до центра, медпункт в зале прилёта и что делать, если плохо после перелёта.
+- [Гудаури: высота, горная болезнь, травма на склоне и 112](https://guide.100doc.ge/ru/gudauri/): Горнолыжный курорт в 120 км от Тбилиси: высота, горная болезнь, травма на склоне, кто помогает и что с полисом.
+- [Мцхета: что посмотреть, Джвари и Светицховели, жара и 112](https://guide.100doc.ge/ru/mtskheta/): Древняя столица в 20 минутах от Тбилиси: Джвари, Светицховели, Самтавро, ЮНЕСКО и что делать в жару.
+- [За рулём в Грузии: ПДД, дороги, права, ДТП и 112](https://guide.100doc.ge/ru/za-rulem-v-gruzii/): Правила и опасности дорог, права иностранца, полис на машину по закону, ДТП и 112.
+- [Сванетия: Местиа и Ушгули, высота, горная болезнь и врач](https://guide.100doc.ge/ru/svanetiya/): Местиа и Ушгули, высоты, горная болезнь, что делать, если плохо в горах, и где найти врача.
+- [Сигнахи и Кахетия: что посмотреть, Бодбе, вино и здоровье](https://guide.100doc.ge/ru/signahi/): Город любви и монастырь Бодбе, квеври, дегустация без вреда, безопасность напитков и где врач в Кахетии.
+- [Цхалтубо: радоновые ванны, противопоказания и пещеры](https://guide.100doc.ge/ru/tshaltubo/): Радоновые ванны и противопоказания, история санаториев, пещеры рядом и где найти врача.
+- [Саирме, Грузия: курорт минеральных вод, дорога и где врач](https://guide.100doc.ge/ru/sairme/): Бюветы и вода, дорога из Кутаиси, погода, чем заняться, поликлиника курорта, 112 и где врач.
+- [Когда ехать в Грузию: погода по месяцам, Грузия зимой](https://guide.100doc.ge/ru/kogda-ehat-v-gruziyu/): Погода по месяцам, сезоны, Грузия зимой, горы и дороги, жара и холод — что делать и куда звонить.
+- [Серные бани Тбилиси: Абанотубани, Нарикала и кому осторожно](https://guide.100doc.ge/ru/sernye-bani-tbilisi/): Абанотубани и история бань, Нарикала рядом, кому осторожно в горячей воде и что делать, если стало плохо.
+- [Вардзия: пещерный город царицы Тамары, камнепады и врач](https://guide.100doc.ge/ru/vardziya/): Пещерный город XII века: история, что внутри, камнепады и закрытые участки, где врач рядом.
+- [Уплисцихе: пещерный город у Гори, линия Осетии и врач](https://guide.100doc.ge/ru/uplistsikhe/): Скальный город, Гори рядом, линия Южной Осетии по GOV.UK и правительству Канады, где врач.
+- [Гори, Грузия: музей Сталина, крепость, дорога и 112](https://guide.100doc.ge/ru/gori/): Город в Шида-Картли: музей Сталина с домом и вагоном, крепость на холме, дорога из Тбилиси, жара, собаки, линия Южной Осетии и куда звонить.
+- [Давид Гареджи: монастырь в полупустыне и гадюки](https://guide.100doc.ge/ru/david-garedzhi/): Скальные монастыри в полупустыне: Лавра и Удабно, граница, гадюки и первая помощь при укусе, где врач.
+- [Тушетия: Омало, перевал Абано, аптек нет — где врач](https://guide.100doc.ge/ru/tushetiya/): Дорога через Абано, сезон, нет аптек и банкоматов, горная болезнь, собаки и где врач.
+- [Хевсурети и Шатили: перевал Датвисджвари, дорога, где врач](https://guide.100doc.ge/ru/hevsuretiya/): Перевал, туман, снег, высота, наличные, граница с Чечнёй и где врач.
+- [Мартвильский каньон: лодка, Окаце и правила парка](https://guide.100doc.ge/ru/martvilskij-kanon/): Лодка и тропа в Мартвили, подвесная тропа Окаце, правила парка, где врач.
+- [Походы в Грузии: правила нацпарков, высота и травмы](https://guide.100doc.ge/ru/pohody-v-gruzii/): Где ходить, правила нацпарков, гид у линий, высота, растяжения и мозоли, полис и 112.
+- [Маршрутки в Грузии: безопасны ли они и чем заменить](https://guide.100doc.ge/ru/marshrutki-v-gruzii/): Совет правительства Канады, Дидубе, поезда и такси вместо маршрутки, укачивание и 112.
+- [Безопасно ли в Грузии: советы GOV.UK и правительства Канады](https://guide.100doc.ge/ru/bezopasno-li-v-gruzii/): Что пишут GOV.UK и правительство Канады: преступность, протесты, дороги, куда не ехать, здоровье и 112.
+- [Лекарства в Грузию: 10 упаковок, кодеин и рецепты](https://guide.100doc.ge/ru/lekarstva-v-gruziyu/): 10 упаковок без документов, особый контроль на 31 день, рецепты в аптеках и совет GOV.UK.
+- [112 в Грузии: как звонить, на русском, без SIM-карты](https://guide.100doc.ge/ru/112-v-gruzii/): Единый номер, языки, без SIM, что сказать, приложение и кто платит за скорую.
+- [Метро Тбилиси: схема, станции, цена, часы и безопасность](https://guide.100doc.ge/ru/metro-tbilisi/): Две линии и 23 станции: как платить, когда ходят поезда, глубокие эскалаторы, карманники в час пик и номер 112.
+- [Кухня Грузии: что попробовать, вода и как не отравиться](https://guide.100doc.ge/ru/kuhnya-gruzii/): Хачапури, хинкали, сулугуни и вино, а ещё вода из-под крана, сырое молоко, отравление и когда к врачу.
+- [Ананури: крепость, Жинвальское водохранилище, дорога и 112](https://guide.100doc.ge/ru/ananuri/): Крепость у Жинвальского водохранилища в 60 км от Тбилиси: что посмотреть, как доехать и вернуться, можно ли купаться и куда звонить.
+- [Телави, Грузия: перевал Гомбори, жара, врач и что посмотреть](https://guide.100doc.ge/ru/telavi/): Главный город Кахетии: дорога через Гомборский перевал, зима на перевале, жара, больница, 112 и что посмотреть рядом.
+- [Чиатура: канатные дороги, столп Кацхи, дорога и 112](https://guide.100doc.ge/ru/chiatura/): Город канатных дорог в Имерети: цена проезда, можно ли подняться на столп Кацхи, как доехать и вернуться, куда звонить.
+- [Столп Кацхи: можно ли подняться, что у подножия и 112](https://guide.100doc.ge/ru/katskhi/): Скала 40 м в Имерети: что пишут официальные источники о подъёме, что увидеть у подножия, как доехать и куда звонить.
+- [Сачхере, Грузия: крепость Модинахе, электропоезд и 112](https://guide.100doc.ge/ru/sachkhere/): Сачхерский муниципалитет в Имерети: крепость Модинахе на хребте, музеи и храмы рядом, электропоезд, дорога и куда звонить.
+- [Анаклия, Грузия: пляж, дорога, купание и 112](https://guide.100doc.ge/ru/anakliya/): Курорт у устья Ингури: галька и мелкий песок, купание и солнце, дорога и время в пути, линия Абхазии, куда звонить и где больница.
+- [Поезда Грузии: Тбилиси — Батуми, Ереван, Баку, билеты и 112](https://guide.100doc.ge/ru/poezda-gruzii/): Какие поезда ходят, где купить билет за 20 дней, ночной поезд в Ереван, жара в вагоне и 112 по-русски.
+- [Деньги в Грузию: лари, карты, банкоматы, обмен и мошенники](https://guide.100doc.ge/ru/dengi-v-gruziyu/): Валюта — лари, наличные или карта, российские карты, банкоматы и DCC, честный обмен, мошенники и наличные на врача.
+- [Каньон Дашбаши: стеклянный мост, тропа и 112 в Грузии](https://guide.100doc.ge/ru/kanon-dashbashi/): Памятник природы в Цалкском муниципалитете: стеклянный мост, тропа к водопаду, дорога из Тбилиси, лёд зимой, жара, 112 по-русски и врач.
+- [Зугдиди, Грузия: дворец Дадиани, поезд, линия Абхазии и врач](https://guide.100doc.ge/ru/zugdidi/): Столица Самегрело: музей и сад, поезд из столицы, дорога в Местиа, советы правительств о линии Абхазии, больница и 112.
+- [Бакуриани: высота, трассы, дорога из Тбилиси, 112 при травме](https://guide.100doc.ge/ru/bakuriani/): Курорт над Боржоми на 1 700 м: дорога из Тбилиси, зоны катания, сезон, что делать при травме, где врач и что с полисом.

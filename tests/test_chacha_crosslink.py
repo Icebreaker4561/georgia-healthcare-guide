@@ -9,7 +9,7 @@ import pathlib
 import re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BASE = "https://icebreaker4561.github.io/georgia-healthcare-guide/"
+BASE = "https://guide.100doc.ge/"
 
 
 def section(md, sid):

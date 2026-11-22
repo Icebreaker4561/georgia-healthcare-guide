@@ -30,7 +30,7 @@ og: taxi-tbilisi-street.webp
 > - Bus 337 to the centre: 1 GEL
 > - Emergency number: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
 
 ## Taxi apps in Georgia: Bolt, Yandex Go and what about Uber {#apps}
 
@@ -74,7 +74,7 @@ Whatever taxi service in Tbilisi you choose, the same steps apply:
 4. **Belt.** Check that the belt works before the car moves off.[^1]
 5. **Pay.** Keep change ready: "have small bills available for payment".[^6]
 
-More on the capital in [Is Tbilisi Safe Day and Night?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#tbilisi)
+More on the capital in [Is Tbilisi Safe Day and Night?](https://guide.100doc.ge/is-georgia-safe/#tbilisi)
 
 <!-- схема: img/taxi-how-to-ride.webp | Infographic titled "Five steps before the car moves": Book — in an app or at the hotel front desk, don't flag cars; Check — the car and plate match (our own advice); No meter? — agree the fare first; Seatbelt — check it works and wear it; Pay — have small notes ready | The UK government's taxi rules: don't flag cars in the street, pre-book, check the belts -->
 
@@ -100,7 +100,7 @@ The fixed rate is 40 GEL to the city centre and 50 GEL to suburban areas, accord
 
 **Booking ahead.** The Government of Canada's advice is to "arrange your pickup with a reputable company before arrival when travelling by air, or use authorized cabs at the airport".[^6]
 
-**The bus.** Bus 337 costs 1 GEL;[^13] times and stops are in [Tbilisi Airport to the City](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/#to-the-city).
+**The bus.** Bus 337 costs 1 GEL;[^13] times and stops are in [Tbilisi Airport to the City](https://guide.100doc.ge/tbilisi-airport/#to-the-city).
 
 **Our tip.** Ignore offers of a ride inside the arrivals hall: walk out to the kerb or book a ride.
 
@@ -108,7 +108,7 @@ The fixed rate is 40 GEL to the city centre and 50 GEL to suburban areas, accord
 
 Kutaisi International Airport's site lists one taxi operator, working 24/7 in the arrivals hall,[^11] and three bus transfer operators, also 24/7.[^14] It gives no prices.
 
-**Distance and rides.** The airport lies 14 km west of the city, according to Bolt.[^15] Its Kutaisi page lists XL Travel, "Large vehicles with seating for 6", and Bolt Travel, "comfortable intercity rides".[^15] Economy is not listed there, so check the app for rides in town. More in [Arriving at Kutaisi Airport](https://icebreaker4561.github.io/georgia-healthcare-guide/kutaisi/#airport).
+**Distance and rides.** The airport lies 14 km west of the city, according to Bolt.[^15] Its Kutaisi page lists XL Travel, "Large vehicles with seating for 6", and Bolt Travel, "comfortable intercity rides".[^15] Economy is not listed there, so check the app for rides in town. More in [Arriving at Kutaisi Airport](https://guide.100doc.ge/kutaisi/#airport).
 
 ### Batumi: taxis at the terminal exit {#batumi}
 
@@ -124,7 +124,7 @@ The only official price we found is the fixed airport rate above.[^5] Ride servi
 
 **Paying.** Payment methods for the apps are covered above. With a driver you hire directly, keep small notes ready.[^6]
 
-**Lari and cards.** For money in general, see [Cash or Card in Georgia?](https://icebreaker4561.github.io/georgia-healthcare-guide/money-in-georgia/#cash-or-card)
+**Lari and cards.** For money in general, see [Cash or Card in Georgia?](https://guide.100doc.ge/money-in-georgia/#cash-or-card)
 
 **Our tip.** Settle the amount in lari, not dollars or euros, and say the address before the car moves off.
 
@@ -132,17 +132,17 @@ The only official price we found is the fixed airport rate above.[^5] Ride servi
 
 We found no official fare for trips between cities, so agree it before you set off.[^6] Bolt's Kutaisi page lists Bolt Travel, "comfortable intercity rides".[^15]
 
-**Roads.** In the Government of Canada's words, "Roads are generally in good condition in Tbilisi and in major cities, but in rural areas, they are sometimes poorly maintained" and can be dangerous.[^6] More in [Roads, Taxis and Marshrutkas: the Bigger Risk](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#roads).
+**Roads.** In the Government of Canada's words, "Roads are generally in good condition in Tbilisi and in major cities, but in rural areas, they are sometimes poorly maintained" and can be dangerous.[^6] More in [Roads, Taxis and Marshrutkas: the Bigger Risk](https://guide.100doc.ge/is-georgia-safe/#roads).
 
 **Our tip.** Avoid long drives after dark on mountain roads, and plan the way back before you leave. If the driver goes too fast, ask them to slow down or stop.
 
-**Other ways.** Trains and minibuses are alternatives on some of these routes: [Tbilisi to Batumi Train and Back](https://icebreaker4561.github.io/georgia-healthcare-guide/georgia-trains/#tbilisi-batumi), [Tbilisi to Kazbegi: the Georgian Military Road](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/#getting-there), [Tbilisi to Borjomi: Getting There](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/#getting-there) and [Marshrutka in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#alternatives). In the capital, the [Tbilisi Metro](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-metro/) is the alternative to a car.
+**Other ways.** Trains and minibuses are alternatives on some of these routes: [Tbilisi to Batumi Train and Back](https://guide.100doc.ge/georgia-trains/#tbilisi-batumi), [Tbilisi to Kazbegi: the Georgian Military Road](https://guide.100doc.ge/kazbegi/#getting-there), [Tbilisi to Borjomi: Getting There](https://guide.100doc.ge/borjomi/#getting-there) and [Marshrutka in Georgia](https://guide.100doc.ge/marshrutka-georgia/#alternatives). In the capital, the [Tbilisi Metro](https://guide.100doc.ge/tbilisi-metro/) is the alternative to a car.
 
 <!-- схема: img/taxi-mountain-road.webp | Craft-paper illustration, not a real place, square: a white car on a winding road through a green valley towards snowy peaks, a small stone church on a hill; no text, no logos | Outside the cities, roads are sometimes poorly maintained, in the Government of Canada's words -->
 
 ### Tbilisi to Yerevan by taxi {#yerevan}
 
-Neither the UK nor the Canadian advice we checked describes the land border with Armenia or a ride to Yerevan, so we give no route, time or price. The UK government's advice for Armenia mentions "the cross-border train service between Armenia and Georgia".[^17] See [Is There a Tbilisi to Yerevan Train?](https://icebreaker4561.github.io/georgia-healthcare-guide/georgia-trains/#international)
+Neither the UK nor the Canadian advice we checked describes the land border with Armenia or a ride to Yerevan, so we give no route, time or price. The UK government's advice for Armenia mentions "the cross-border train service between Armenia and Georgia".[^17] See [Is There a Tbilisi to Yerevan Train?](https://guide.100doc.ge/georgia-trains/#international)
 
 ## Safety in the car: seatbelts, the back seat and night rides {#safety}
 
@@ -158,7 +158,7 @@ We found no official rule on child seats in hired cars that we could check.
 
 ### The back seat and travelling alone {#back-seat}
 
-The Government of Canada's advice is to "Use reputable taxi services or ride-sharing services and sit in the back seat".[^6] It also asks travellers to "never share a taxi with strangers".[^6] More in [Is Georgia Safe for Solo Female Travellers?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#women)
+The Government of Canada's advice is to "Use reputable taxi services or ride-sharing services and sit in the back seat".[^6] It also asks travellers to "never share a taxi with strangers".[^6] More in [Is Georgia Safe for Solo Female Travellers?](https://guide.100doc.ge/is-georgia-safe/#women)
 
 **If you feel threatened.** In its safety advice, the UK government says: "If someone attempts to assault you or you feel threatened, call the emergency number 112 and ask for the police."[^1]
 
@@ -172,11 +172,11 @@ The UK government's general advice: "Take usual precautions after dark in unfami
 
 Dial 112 at once: it is Georgia's "single emergency number", and its call-takers handle calls 24/7 for the police, fire and rescue and the ambulance.[^7]
 
-**What to say.** Start with where it happened, "the exact location of the incident".[^7] More in [What to Tell the Operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**What to say.** Start with where it happened, "the exact location of the incident".[^7] More in [What to Tell the Operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
-**In English.** The Government of Canada's advice mentions "the 112 Georgia mobile application to contact emergency service providers in English".[^6] No SIM card, or can't talk? See [No SIM Card, No Credit on the Phone or Can't Talk](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#no-sim-app).
+**In English.** The Government of Canada's advice mentions "the 112 Georgia mobile application to contact emergency service providers in English".[^6] No SIM card, or can't talk? See [No SIM Card, No Credit on the Phone or Can't Talk](https://guide.100doc.ge/ambulance-georgia/#no-sim-app).
 
-**Driving yourself?** See [What to Do After a Road Accident](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#accident).
+**Driving yourself?** See [What to Do After a Road Accident](https://guide.100doc.ge/driving-in-georgia/#accident).
 
 If anyone is hurt, call the emergency number first.
 
@@ -238,6 +238,6 @@ The UK government says taxi safety "has improved significantly".[^1] Its advice:
 
 This guide is general information. Fares, services and rules change: check the official pages before you travel.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

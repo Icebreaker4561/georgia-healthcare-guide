@@ -32,7 +32,7 @@ og: gori-town.webp
 > - Uplistsikhe from Gori: 10 km east
 > - Emergency number: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
 
 ## Where is Gori, Georgia, and what is it famous for? {#where}
 
@@ -52,7 +52,7 @@ Travellers come to the town for the museum and the hill. The UK Foreign Office a
 
 The Government of Canada advises avoiding all travel within 5 km of the line, except on the E60 highway.[^9] It warns that the boundaries "are not well defined and change frequently" and that "You could be detained and arrested if you cross into these regions, even by mistake".[^9] The UK government notes that consular support is not available in South Ossetia.[^10]
 
-More on this in [Gori and the South Ossetia line](https://icebreaker4561.github.io/georgia-healthcare-guide/uplistsikhe/#boundary) and in [Is Georgia safe? Where not to go](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#where-not).
+More on this in [Gori and the South Ossetia line](https://guide.100doc.ge/uplistsikhe/#boundary) and in [Is Georgia safe? Where not to go](https://guide.100doc.ge/is-georgia-safe/#where-not).
 
 ### Things to do in Gori in one day (and in what order in summer) {#one-day}
 
@@ -103,7 +103,7 @@ We found no official figures for the climb. Its length, the time it takes, the h
 - hold children by the hand near the walls and the drops;
 - if you feel dizzy or sick or get a headache, get into the shade, drink and do not climb further.
 
-The warning signs to watch for in strong sun are in [Georgia in summer: heat, UV and storms](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/#summer). For a twisted ankle on the stones, see [what to do about sprains and blisters](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/#injuries).
+The warning signs to watch for in strong sun are in [Georgia in summer: heat, UV and storms](https://guide.100doc.ge/best-time-to-visit-georgia/#summer). For a twisted ankle on the stones, see [what to do about sprains and blisters](https://guide.100doc.ge/hiking-in-georgia/#injuries).
 
 ## Gori weather in summer: heat, sun and water {#weather}
 
@@ -116,7 +116,7 @@ We found no official climate norms for Gori, such as average July or January tem
 - Wear sunscreen and a hat, and drink before you feel thirsty.
 - Do not leave children, or your drinks, in a parked car or minibus in the sun.
 
-The advice in the [Tbilisi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi/#summer-heat) works for this town too.
+The advice in the [Tbilisi guide](https://guide.100doc.ge/tbilisi/#summer-heat) works for this town too.
 
 <!-- схема: img/gori-heat-water-112.webp | Infographic in four cards: 1, the weather, no official climate figures for Gori, check the forecast before you go; 2, the order, the fortress hill early, the museum at midday, Uplistsikhe late (our tip); 3, water quality varies, and bottled water is widely available: buy it in town before the climb (UK government advice; buying ahead is our tip); 4, emergency, 112, 24/7, English and Russian spoken (112 Georgia); sources, GOV.UK travel advice (health) and 112 Georgia (112.gov.ge) | Plan the day around the sun: the hill early, the museum at midday -->
 
@@ -124,7 +124,7 @@ The advice in the [Tbilisi guide](https://icebreaker4561.github.io/georgia-healt
 
 We found no data on the town's mains supply, so we make no claim about it. The UK government's travel advice says water quality varies in Georgia and bottled water is widely available.[^5]
 
-More in [Bottled water and Borjomi](https://icebreaker4561.github.io/georgia-healthcare-guide/georgian-food/#bottled-water).
+More in [Bottled water and Borjomi](https://guide.100doc.ge/georgian-food/#bottled-water).
 
 **Our tip.** Buy bottles in town before you climb the hill: we found no information on anything for sale on top.
 
@@ -138,7 +138,7 @@ georgia.travel puts Gori about 80 km west of Tbilisi, about 1 h 10 min by road.[
 
 We could not confirm it from the official timetable. The general timetable on railway.ge shows only start and end stations, such as the capital to Batumi, Borjomi, Zugdidi, Poti or Ozurgeti, so Gori does not appear in it as a stop.[^13]
 
-Check the stop in Gori when you buy your ticket, or ask at the station before you board. Station names are explained in [Train stations in the capital and Batumi](https://icebreaker4561.github.io/georgia-healthcare-guide/georgia-trains/#stations); the same guide covers [how warm it gets on board](https://icebreaker4561.github.io/georgia-healthcare-guide/georgia-trains/#heat).
+Check the stop in Gori when you buy your ticket, or ask at the station before you board. Station names are explained in [Train stations in the capital and Batumi](https://guide.100doc.ge/georgia-trains/#stations); the same guide covers [how warm it gets on board](https://guide.100doc.ge/georgia-trains/#heat).
 
 ### By marshrutka or car: what official advice says about the road {#road}
 
@@ -146,13 +146,13 @@ We found no official timetable or fare for minibuses between Tbilisi and Gori, s
 
 The Government of Canada warns: "Fatal accidents are frequent and are one of the main causes of death in Georgia".[^9] The UK government's travel advice adds that roads outside city centres are often badly lit and poor quality.[^14]
 
-See [What official advice says about marshrutkas](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#official-advice) and [Georgia roads: what to expect](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#roads).
+See [What official advice says about marshrutkas](https://guide.100doc.ge/marshrutka-georgia/#official-advice) and [Georgia roads: what to expect](https://guide.100doc.ge/driving-in-georgia/#roads).
 
-**Our tip.** Wear a seat belt if there is one. Start back while it is still light. Keep a drink with you in the heat. If you get travel sick, read [Motion sickness on mountain roads](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#motion-sickness) before you go.
+**Our tip.** Wear a seat belt if there is one. Start back while it is still light. Keep a drink with you in the heat. If you get travel sick, read [Motion sickness on mountain roads](https://guide.100doc.ge/marshrutka-georgia/#motion-sickness) before you go.
 
 ### Uplistsikhe and other places near Gori {#nearby}
 
-Uplistsikhe, which Gori City Hall calls an open-air museum, is 10 km east of the town on the left bank of the Mtkvari River.[^2] The cave town has [its own guide](https://icebreaker4561.github.io/georgia-healthcare-guide/uplistsikhe/). For another day trip from the capital, see [Mtskheta](https://icebreaker4561.github.io/georgia-healthcare-guide/mtskheta/).
+Uplistsikhe, which Gori City Hall calls an open-air museum, is 10 km east of the town on the left bank of the Mtkvari River.[^2] The cave town has [its own guide](https://guide.100doc.ge/uplistsikhe/). For another day trip from the capital, see [Mtskheta](https://guide.100doc.ge/mtskheta/).
 
 ## Street dogs and rabies in Gori {#dogs}
 
@@ -162,7 +162,7 @@ If you are bitten or scratched, wash the wound with soap and water for at least 
 
 <!-- схема: img/gori-dog-bite.webp | Infographic in three steps: 1, wash, soap and water for at least 15 minutes (World Health Organization); 2, see a doctor, get medical attention immediately (UK government travel advice); 3, emergency, dial 112, avoid contact with free-roaming dogs (112 Georgia, Government of Canada); sources, who.int, gov.uk, travel.gc.ca and 112.gov.ge | Wash a bite or scratch with soap for at least 15 minutes, the WHO advises, then get medical attention immediately -->
 
-The steps are set out in [What to do after a dog bite or scratch](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/#first-aid), and the bigger picture in [Stray dogs across Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/#stray-dogs).
+The steps are set out in [What to do after a dog bite or scratch](https://guide.100doc.ge/rabies-georgia/#first-aid), and the bigger picture in [Stray dogs across Georgia](https://guide.100doc.ge/rabies-georgia/#stray-dogs).
 
 **Our tip.** Do not feed or pet free-roaming animals, do not run, and keep children close.
 
@@ -174,7 +174,7 @@ In an emergency, call the emergency number and ask for an ambulance, the UK gove
 
 It is the single emergency number. Since 2012 it has taken calls 24/7 across the whole country, in Georgian, English, Azerbaijani, Armenian, Turkish and Russian.[^6] The Government of Canada also mentions an app, "112 Georgia", in English.[^9]
 
-**Our tip.** Say the name of the town first, then where you are: at the museum, on the hill, or on the road and which way you were heading. Say how many of you there are and what happened. On the hill, if you can, get down to a street the ambulance can reach. More in [What to tell the operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**Our tip.** Say the name of the town first, then where you are: at the museum, on the hill, or on the road and which way you were heading. Say how many of you there are and what happened. On the hill, if you can, get down to a street the ambulance can reach. More in [What to tell the operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 <!-- схема: img/gori-112-card.webp | Infographic card: dial 112, 24/7, English and Russian among six languages; where, Gori, Shida Kartli region; exactly, museum, fortress hill or road, whichever is nearest to you; what, how many of you, what happened, on the hill get down to the street if you can; source, 112 Georgia (112.gov.ge) | Operators take calls in six languages, including English and Russian -->
 
@@ -184,7 +184,7 @@ Gori has clinics, but the Ministry of Health list of hospitals was not checked f
 
 The [catalogue of clinics in Gori](https://100doc.ge/en/gori/) on 100doc.ge listed 11 clinics on 22 November 2026.
 
-Since 1 January 2026, tourists entering Georgia need health insurance of at least 30,000 GEL for their stay, under [Resolution No. 602 of the Government of Georgia](https://matsne.gov.ge/ka/document/view/6728816).[^15] What the rule asks of you is explained in [Insurance to enter Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+Since 1 January 2026, tourists entering Georgia need health insurance of at least 30,000 GEL for their stay, under [Resolution No. 602 of the Government of Georgia](https://matsne.gov.ge/ka/document/view/6728816).[^15] What the rule asks of you is explained in [Insurance to enter Georgia](https://guide.100doc.ge/#entry-insurance).
 
 ## Frequently asked questions {#faq}
 
@@ -241,6 +241,6 @@ We found no official climate figures. Climb early, carry a drink and a hat, and 
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

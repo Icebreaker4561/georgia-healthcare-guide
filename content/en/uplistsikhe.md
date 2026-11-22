@@ -29,7 +29,7 @@ og: uplistsikhe-rock-town.webp
 > - Zone to avoid: 5~km from the line
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
 
 ## Uplistsikhe cave town: what you will see {#uplistsikhe}
 
@@ -56,7 +56,7 @@ It is a town carved into a high rocky river bank, with halls, passages and steps
 
 ## Gori: the fortress and the Stalin Museum {#gori}
 
-The nearest town lies about 80 km west of Tbilisi.[^10] Its two best-known sights are Gori Fortress, which [Wikipedia](https://en.wikipedia.org/wiki/Gori_Fortress) calls "a medieval citadel" on a rocky hill,[^3] and the Stalin Museum, which the city hall says was established there in 1937.[^11] Hours, tickets, the summer heat and doctors in the town are covered in [our guide to the town](https://icebreaker4561.github.io/georgia-healthcare-guide/gori/).
+The nearest town lies about 80 km west of Tbilisi.[^10] Its two best-known sights are Gori Fortress, which [Wikipedia](https://en.wikipedia.org/wiki/Gori_Fortress) calls "a medieval citadel" on a rocky hill,[^3] and the Stalin Museum, which the city hall says was established there in 1937.[^11] Hours, tickets, the summer heat and doctors in the town are covered in [our guide to the town](https://guide.100doc.ge/gori/).
 
 <!-- схема: img/gori-fortress-hill.webp | Craft paper illustration, not a photo of the real place: weathered stone fortress walls with square bastions along a rocky hilltop, white-walled houses and trees below, snowy mountains behind | Our tip: the same grippy shoes you wear at the rock town will help on the fortress hill -->
 
@@ -83,7 +83,7 @@ Stay well away from the line that separates South Ossetia from the rest of Georg
 - If a navigation app suggests a shortcut along back roads through villages, ignore it and ask locally.
 - Keep your passport with you.
 
-For roads, crime and the rest of the country, read [Is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/)
+For roads, crime and the rest of the country, read [Is Georgia safe?](https://guide.100doc.ge/is-georgia-safe/)
 
 <!-- схема: img/boundary-advice.webp | Infographic headed "The South Ossetia line: what two governments say", two cards. United Kingdom (FCDO), updated 12 November 2026: against all travel to South Ossetia and Abkhazia; against all but essential travel to areas immediately next to the boundary lines; insurance could be invalidated if you go against this advice. Government of Canada, updated 27 August 2026: avoid all travel within 5 km of the boundary line, except Highway E60; lines are not well defined and change frequently; you could be detained if you cross, even by mistake; landmines and unexploded ordnance near the lines | Advice from the UK and Canadian governments on the South Ossetia line, side by side -->
 
@@ -102,7 +102,7 @@ Expect strong sun and plan your visit for the cooler part of the day. Wikipedia'
 - Rest in the shade of the rock-cut halls between climbs.
 - Stop and cool down if you feel dizzy, sick or have a headache.
 
-For the signs of heat illness and what to do, read our [heat advice in the Batumi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#heat).
+For the signs of heat illness and what to do, read our [heat advice in the Batumi guide](https://guide.100doc.ge/batumi/#heat).
 
 ## Getting there from Tbilisi {#getting-there}
 
@@ -122,11 +122,11 @@ Plan for help to take time in the countryside. The UK's [health advice](https://
 
 **Rural areas.** The Government of Canada's travel advice says: "In rural areas, there are shortages of medical supplies and personnel."[^9] It adds: "First responders may not be able to access rural areas."[^9]
 
-**In an emergency.** The UK advice says: "Dial 112 and ask for an ambulance."[^7] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say. Our tip: give the site name and which part of the complex you are in.
+**In an emergency.** The UK advice says: "Dial 112 and ask for an ambulance."[^7] Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/) and what to say. Our tip: give the site name and which part of the complex you are in.
 
 **Clinics in Gori.** The town, some 10 km from the site, has clinics in our catalogue. The catalogue of [clinics in Gori](https://100doc.ge/en/gori/) on 100doc.ge listed 11 clinics when we checked on 22 November 2026.
 
-**Your cover.** Visitors need health and accident cover of at least 30,000~GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Visitors need health and accident cover of at least 30,000~GEL for their whole stay; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance).
 
 ## Frequently asked questions {#faq}
 
@@ -148,7 +148,7 @@ No. The advice is to avoid the area within 5 km of the line, except Highway E60,
 
 ### Is it hot in summer?
 
-Wikipedia says summer is usually hot.[^2] Go early, carry water and a hat, and read our [heat advice](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#heat).
+Wikipedia says summer is usually hot.[^2] Go early, carry water and a hat, and read our [heat advice](https://guide.100doc.ge/batumi/#heat).
 
 ### What is the Stalin Museum?
 
@@ -174,4 +174,4 @@ In Gori: the catalogue on 100doc.ge listed 11 clinics there. In an emergency, di
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

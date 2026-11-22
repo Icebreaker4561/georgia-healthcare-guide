@@ -31,7 +31,7 @@ og: batonis-tsikhe.webp
 > - Detour via Sagarejo: +40 min
 > - Emergency: 112
 
-This page is about the town in Georgia, the country in the Caucasus, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
+This page is about the town in Georgia, the country in the Caucasus, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
 
 ## Tbilisi to Telavi: how to get there and how long it takes {#getting-there}
 
@@ -55,7 +55,7 @@ You decide when to leave, which way to go and where to stop. With a taxi, agree 
 
 The UK government's travel advice warns that "roads outside city centres are often badly lit and poor quality".[^13] On a mountain road that matters most after dark, in rain and in fog.
 
-If you are driving yourself, read [Driving in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/) before the trip. It covers what to expect on Georgian roads in general.
+If you are driving yourself, read [Driving in Georgia](https://guide.100doc.ge/driving-in-georgia/) before the trip. It covers what to expect on Georgian roads in general.
 
 **Our tip.** Leave Tbilisi in the morning and cross the pass in daylight. If you want to stop for views on the way, add time for it, and pull over only where there is room to do so safely.
 
@@ -65,7 +65,7 @@ We found no official information on minibuses between Tbilisi and the town: no t
 
 Unofficial websites name different stations and departure times, so we do not repeat them. Ask your guesthouse or hotel in Tbilisi, and check again on the day you travel.
 
-What to expect on board, how to pay and how to stay safe in a shared van are covered in [Marshrutka in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/).
+What to expect on board, how to pay and how to stay safe in a shared van are covered in [Marshrutka in Georgia](https://guide.100doc.ge/marshrutka-georgia/).
 
 **Our tip.** If you do take one, ask the driver which way they go: over the pass or round it. If you get carsick, the answer matters, and so does a seat near the front.
 
@@ -81,7 +81,7 @@ In summer, start early and read [the section on heat](#summer-heat) first: the h
 
 ### Telavi to Sighnaghi, Tusheti and back to Tbilisi {#onward}
 
-From the town you can go on to other parts of the region or head for the mountains. For the next stops, see our guides [Sighnaghi and Kakheti](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/) and [Tusheti](https://icebreaker4561.github.io/georgia-healthcare-guide/tusheti/).
+From the town you can go on to other parts of the region or head for the mountains. For the next stops, see our guides [Sighnaghi and Kakheti](https://guide.100doc.ge/sighnaghi/) and [Tusheti](https://guide.100doc.ge/tusheti/).
 
 The tourism administration gives the travel time from Tbilisi only;[^1] expect the trip from Telavi to Tbilisi to take about as long. Everything below about the pass, the weather and the detour applies both ways.
 
@@ -127,13 +127,13 @@ Past winters show what to expect:
 
 The department's home page also carries the headline "Restoration and Stabilization of the Landslide-Damaged Section of the Vaziani–Gombori–Telavi Road Is Underway".[^8] It gives no dates and no location, so we cannot say which stretch is affected or for how long.
 
-The UK government's travel advice warns that "snow at higher altitudes can affect roads and bridges making travel difficult or impossible" and that "landslides are common".[^13] From 1 December to 1 March, winter tyres and/or snow chains are compulsory on the stretch from Sasadilo into town, km 27–65 of the pass road from Vaziani, under Government of Georgia Resolution No. 526 of 27 December 2023.[^14] Before a winter drive, read the section [Night driving, mountains and winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter) in our guide to driving in Georgia.
+The UK government's travel advice warns that "snow at higher altitudes can affect roads and bridges making travel difficult or impossible" and that "landslides are common".[^13] From 1 December to 1 March, winter tyres and/or snow chains are compulsory on the stretch from Sasadilo into town, km 27–65 of the pass road from Vaziani, under Government of Georgia Resolution No. 526 of 27 December 2023.[^14] Before a winter drive, read the section [Night driving, mountains and winter](https://guide.100doc.ge/driving-in-georgia/#night-winter) in our guide to driving in Georgia.
 
 The department lists a hotline on its site: 032 2 31 30 76.[^7]
 
 ### Motion sickness, stops and calling for help on the pass {#gombori-health}
 
-A mountain road with many bends can make passengers carsick; our page [Motion sickness on mountain roads](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#motion-sickness) has practical advice. If there is an accident or someone becomes seriously unwell, dial 112. The emergency service lists phones without a SIM card among the ways to reach it, but the phone must be within a mobile operator's coverage area.[^17]
+A mountain road with many bends can make passengers carsick; our page [Motion sickness on mountain roads](https://guide.100doc.ge/marshrutka-georgia/#motion-sickness) has practical advice. If there is an accident or someone becomes seriously unwell, dial 112. The emergency service lists phones without a SIM card among the ways to reach it, but the phone must be within a mobile operator's coverage area.[^17]
 
 **Our tip.** Tell the operator you are on the pass road from Tbilisi and name the nearest village or the last one you passed. Glance at village signs as you drive, so you have an answer ready. If your phone shows no network where you are, the call cannot get through, so move to where it does.
 
@@ -141,7 +141,7 @@ Summer brings its own risks on the mountain. The UK government's travel advice s
 
 **Our tip.** In summer, check the weather for the mountains before you set off, and if you see smoke near the road, turn back rather than drive on.
 
-For a wider look at road and personal safety, see [Is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/)
+For a wider look at road and personal safety, see [Is Georgia safe?](https://guide.100doc.ge/is-georgia-safe/)
 
 ## Telavi in summer: weather, heat and how to stay well {#summer-heat}
 
@@ -149,7 +149,7 @@ We found no official climate data for the town, so we give no temperatures here.
 
 <!-- схема: img/telavi-heat-signs.webp | Infographic: signs of heat exhaustion and heatstroke from the NHS, and when to call the emergency number in Georgia | In Georgia, the emergency number is not 999 or 111: one number covers the whole country -->
 
-For summer figures for Tbilisi and the rest of the country, see [Georgia in summer: heat, UV and storms](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/#summer) in our guide to the best time to visit.
+For summer figures for Tbilisi and the rest of the country, see [Georgia in summer: heat, UV and storms](https://guide.100doc.ge/best-time-to-visit-georgia/#summer) in our guide to the best time to visit.
 
 Most of what there is to see here means time outdoors: the fortress, the plane tree, the monasteries and the drives between them. Plan the day around the hottest hours rather than against them, and carry water from the start.
 
@@ -203,7 +203,7 @@ Do your walking early and late. The NHS advises people to "avoid the sun between
 
 **Our tip.** See the fortress and the old plane tree in the morning, while it is cooler, and visit the monasteries in the first half of the day. Keep water in the car for the drive over the pass. Travelling with children or older relatives? Plan more breaks in the shade.
 
-More ideas for hot days: [Batumi: staying healthy in the summer heat](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#heat) and [David Gareja: heat, sun and wildfires](https://icebreaker4561.github.io/georgia-healthcare-guide/david-gareja/#heat).
+More ideas for hot days: [Batumi: staying healthy in the summer heat](https://guide.100doc.ge/batumi/#heat) and [David Gareja: heat, sun and wildfires](https://guide.100doc.ge/david-gareja/#heat).
 
 ## Medical help in Telavi: hospital, clinics and 112 {#medical-help}
 
@@ -221,7 +221,7 @@ You can speak English. Operators take calls in Georgian, English, Azerbaijani, A
 
 **Our tip.** Say where you are first: the street or a landmark in town, or, on the road, the last village you passed. Then say what happened and how many people need help. Stay on the line until the operator ends the call.
 
-What the operator asks and what happens next: see [Ambulance in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+What the operator asks and what happens next: see [Ambulance in Georgia](https://guide.100doc.ge/ambulance-georgia/).
 
 ### Is there a hospital in Telavi? {#telavi-hospital}
 
@@ -235,13 +235,13 @@ Keep expectations realistic. The UK government's health advice says: "Outside Tb
 
 For something that is not an emergency, such as a fever, a sore throat or a check after a fall, the town also has clinics. The [catalogue of clinics in Telavi](https://100doc.ge/en/telavi/) listed 13 clinics when we checked on 22 November 2026.
 
-For the rest of the region, see [Medical help in Kakheti](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/#health).
+For the rest of the region, see [Medical help in Kakheti](https://guide.100doc.ge/sighnaghi/#health).
 
 ### Travel insurance for Kakheti {#insurance}
 
 To enter Georgia you need health and accident cover, and for the trip itself it should also pay for treatment on the spot and medical evacuation.[^18][^20]
 
-Since 1 January 2026, tourists entering Georgia must have health and accident cover of at least 30,000~GEL, under [Resolution No. 602 of the Government of Georgia](https://matsne.gov.ge/ka/document/view/6728816).[^20] Some travellers, such as holders of diplomatic passports, are exempt.[^20] What the rule asks of you is explained in [Insurance to enter Georgia (2026 rule)](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+Since 1 January 2026, tourists entering Georgia must have health and accident cover of at least 30,000~GEL, under [Resolution No. 602 of the Government of Georgia](https://matsne.gov.ge/ka/document/view/6728816).[^20] Some travellers, such as holders of diplomatic passports, are exempt.[^20] What the rule asks of you is explained in [Insurance to enter Georgia (2026 rule)](https://guide.100doc.ge/#entry-insurance).
 
 Meeting the entry rule does not by itself mean your travel insurance covers everything you need. Read the policy wording before you go, especially if you plan to drive over the pass in winter.
 
@@ -300,9 +300,9 @@ Its Archangel Church was built in 1565 by King Levan.[^5] The site lies near Kva
 
 The tourism administration lists the old and the new monastery here among the sights near the town.[^1] We found no official details on visiting them.
 
-This is also wine country: the tourism administration says qvevri winemaking is "a method used for more than 8,000 years".[^1] For cellars, tastings and grape varieties, see [Kakheti wine: qvevri, Rkatsiteli and Saperavi](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/#wine).
+This is also wine country: the tourism administration says qvevri winemaking is "a method used for more than 8,000 years".[^1] For cellars, tastings and grape varieties, see [Kakheti wine: qvevri, Rkatsiteli and Saperavi](https://guide.100doc.ge/sighnaghi/#wine).
 
-If you have been tasting, do not drive over the pass. Read [Driving after wine](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/#driving) first.
+If you have been tasting, do not drive over the pass. Read [Driving after wine](https://guide.100doc.ge/sighnaghi/#driving) first.
 
 ## Frequently asked questions {#faq}
 
@@ -364,6 +364,6 @@ For history and wine country, yes. The tourism administration says King Erekle I
 
 This guide is general information, not medical advice: the doctor decides on your treatment.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

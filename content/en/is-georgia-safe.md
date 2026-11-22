@@ -27,7 +27,7 @@ og: safety-tbilisi-evening.webp
 > - Government of Canada risk level: normal; high caution in Tbilisi
 > - Regions to avoid: 2
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 18 November 2026.
 
 ## Is Georgia safe? The short answer {#short-answer}
 
@@ -95,7 +95,7 @@ Canadian government advice warns of "locals luring tourists met online into bars
 
 GOV.UK says that "Taxi provision and safety has improved significantly" and gives three rules: "do not flag taxis in the street; try to pre-book taxis through an app; check the taxi has working seatbelts".[^2]
 
-Canadian government advice adds that official taxis "are recognizable by their white colour and roof-mounted taxi signs", but "Unofficial taxis continue to operate, and drivers generally don't use meters. They may overcharge you for the ride."[^4] Our tip: agree the fare before the car moves. For the airport taxi, see our page on [arriving at Tbilisi Airport](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/).
+Canadian government advice adds that official taxis "are recognizable by their white colour and roof-mounted taxi signs", but "Unofficial taxis continue to operate, and drivers generally don't use meters. They may overcharge you for the ride."[^4] Our tip: agree the fare before the car moves. For the airport taxi, see our page on [arriving at Tbilisi Airport](https://guide.100doc.ge/tbilisi-airport/).
 
 ### Money
 
@@ -147,17 +147,17 @@ In our reading, getting around carries more risk than the streets. The Governmen
 
 ## Health risks: dogs, water, altitude and the cost of care {#health}
 
-Medical emergencies go through 112 as well. GOV.UK's [health page](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^3] The Government of Canada's advice adds: "You can also use the 112 Georgia mobile application to contact emergency service providers in English."[^4] Our guide explains [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+Medical emergencies go through 112 as well. GOV.UK's [health page](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^3] The Government of Canada's advice adds: "You can also use the 112 Georgia mobile application to contact emergency service providers in English."[^4] Our guide explains [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/).
 
 ### Dogs and rabies
 
-GOV.UK lists[^3] "rabies – treatment is available in Tbilisi and major towns. If you're bitten or scratched by a dog, get medical attention immediately."[^3] Our tip: do not pet stray dogs. More in our guide to [rabies in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/).
+GOV.UK lists[^3] "rabies – treatment is available in Tbilisi and major towns. If you're bitten or scratched by a dog, get medical attention immediately."[^3] Our tip: do not pet stray dogs. More in our guide to [rabies in Georgia](https://guide.100doc.ge/rabies-georgia/).
 
 ### Tap water, snakes and altitude
 
 - **Water.** GOV.UK mentions "varying water quality – bottled water is widely available".[^3] Our tip: if unsure about the tap water, drink bottled.
 - **Snakes.** It warns of "venomous snakes (vipers), particularly in early summer – few medical facilities outside major towns have anti-venom".[^3]
-- **Altitude.** "Altitude sickness is a risk in parts of Georgia, including Gudauri ski resort, Mount Kazbegi, and Mount Tetnuldi."[^3] See our page on [altitude in Gudauri](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/).
+- **Altitude.** "Altitude sickness is a risk in parts of Georgia, including Gudauri ski resort, Mount Kazbegi, and Mount Tetnuldi."[^3] See our page on [altitude in Gudauri](https://guide.100doc.ge/gudauri-altitude/).
 
 Help in the mountains may be limited. GOV.UK: "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."[^2]
 
@@ -165,7 +165,7 @@ Help in the mountains may be limited. GOV.UK: "If you get into trouble during hi
 
 You pay for treatment as you go. GOV.UK says:[^3] "Medical facilities in Tbilisi are available but can be expensive. Outside Tbilisi, medical facilities are limited."[^3] And: "The UK does not have a reciprocal healthcare agreement with Georgia. You or your travel insurer will need to pay for all treatment as it's provided."[^3]
 
-The catalogue of [doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/) on 100doc.ge lists clinics in the capital. Every visitor also needs a health and accident policy for at least 30,000 GEL;[^5] our home page explains [the entry rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+The catalogue of [doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/) on 100doc.ge lists clinics in the capital. Every visitor also needs a health and accident policy for at least 30,000 GEL;[^5] our home page explains [the entry rule](https://guide.100doc.ge/#entry-insurance).
 
 ## Earthquakes, wildfires and mountain weather {#nature}
 
@@ -229,4 +229,4 @@ You may lose it. GOV.UK warns your travel insurance "could be invalidated" if yo
 
 This guide is general information, not legal or medical advice. Travel advice changes; check the sources before you go.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

@@ -29,7 +29,7 @@ og: georgia-four-seasons.webp
 > - Coast rain: 1,000–2,000 mm a year
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## When is the best time to visit Georgia? {#overview}
 
@@ -40,8 +40,8 @@ Late spring and early autumn, in our reading of the figures. In the capital, May
 **Our reading, not a forecast.** The figures are long-term averages, and the choices below are ours.
 
 - **The capital and the eastern plains:** May–June and September–October. May and June are also the wettest months in the capital, so pack a rain jacket. September and October are drier.
-- **The mountains:** summer. Our [Tusheti guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tusheti/) gives its season as June to October. In [Svaneti](https://icebreaker4561.github.io/georgia-healthcare-guide/svaneti/) and [Kazbegi](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/), plan for snow on high roads in the cold months.
-- **The Black Sea coast:** humid all year, and wettest in autumn. In Batumi, September, October and November each bring more than 300 mm of rain. Our [Batumi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/) has its weather by month.
+- **The mountains:** summer. Our [Tusheti guide](https://guide.100doc.ge/tusheti/) gives its season as June to October. In [Svaneti](https://guide.100doc.ge/svaneti/) and [Kazbegi](https://guide.100doc.ge/kazbegi/), plan for snow on high roads in the cold months.
+- **The Black Sea coast:** humid all year, and wettest in autumn. In Batumi, September, October and November each bring more than 300 mm of rain. Our [Batumi guide](https://guide.100doc.ge/batumi/) has its weather by month.
 
 **Our tip.** June and September fall inside the Tusheti season and outside the hottest months in the capital. They suit a trip that mixes the city and the mountains.
 
@@ -112,13 +112,13 @@ Expect cool days and nights around freezing. January averages 6.9 °C by day and
 
 Snow and landslides can block high roads. GOV.UK [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns that "heavy rain, flooding and snow at higher altitudes can affect roads and bridges making travel difficult or impossible (particularly in remote areas)".[^4] It adds that "landslides are common".[^4]
 
-**Your car.** Outside the capital, GOV.UK advises: "make sure your vehicle is suitable for off-road driving and check weather conditions locally."[^4] Before a mountain trip, read our [driving guide](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/) and the [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/).
+**Your car.** Outside the capital, GOV.UK advises: "make sure your vehicle is suitable for off-road driving and check weather conditions locally."[^4] Before a mountain trip, read our [driving guide](https://guide.100doc.ge/driving-in-georgia/) and the [Kazbegi guide](https://guide.100doc.ge/kazbegi/).
 
 ### Skiing
 
 Our tip: stay on marked runs. GOV.UK says: "Off-piste skiing is very dangerous."[^4] It also notes: "It can be difficult to get accurate information on mountain conditions, including avalanche risks."[^4] If you get into trouble while skiing, "the emergency response may be limited".[^4]
 
-**Altitude.** For height and how it affects you at the ski resort, see our [Gudauri guide](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/).
+**Altitude.** For height and how it affects you at the ski resort, see our [Gudauri guide](https://guide.100doc.ge/gudauri-altitude/).
 
 **Your policy.** GOV.UK warns: "Many insurance policies will not cover damage to rental equipment or skiing off-piste without a guide."[^4] Check yours before you go.
 
@@ -148,11 +148,11 @@ Both are warm, but spring is wetter. In our reading, autumn is the steadier choi
 
 ## Medical help in any season {#health}
 
-In an emergency, dial 112. The UK government's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^5] Our [112 guide](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) explains how to call and what to say.
+In an emergency, dial 112. The UK government's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^5] Our [112 guide](https://guide.100doc.ge/ambulance-georgia/) explains how to call and what to say.
 
 **Finding a doctor.** For a problem that is not an emergency, the catalogue of [doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/) on 100doc.ge is one place to look.
 
-**Your cover.** Most visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Most visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance).
 
 **Our tip.** Save 112 and your host's number in your phone, and carry a list of your medicines in English.
 
@@ -199,4 +199,4 @@ Dial 112 and ask for an ambulance.
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

@@ -31,7 +31,7 @@ og: svaneti-towers.webp
 > - Zugdidi from Mestia: 128~km
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## Mestia and the Svan towers {#mestia}
 
@@ -112,7 +112,7 @@ It can happen here, mostly on the higher hikes and climbs. The UK's [health advi
 
 **Severe forms.** Swelling of the brain (HACE) or of the lungs (HAPE) can kill. "Severe altitude illness is a life-threatening condition and requires urgent attention."[^6] TravelHealthPro describes HACE as "confusion, altered consciousness and or incoordination", and HAPE as breathlessness that may progress to "breathlessness at rest" and a wet cough.[^6] Go down to a lower altitude and get medical help: dial 112. It also says: "Never leave an individual with altitude illness alone."[^6]
 
-For skiing, evacuation and the full advice, read our [guide to Gudauri and the mountains](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/).
+For skiing, evacuation and the full advice, read our [guide to Gudauri and the mountains](https://guide.100doc.ge/gudauri-altitude/).
 
 <!-- схема: img/svaneti-heights.webp | Infographic, four bars on one scale with labels under them: Mestia 1,500 m, Ushguli 2,100 m, Tetnuldi 4,974 m, Shkhara 5,201 m, and a dashed line across all four bars labelled "Altitude illness usually above 2,500 m (TravelHealthPro)"; sources: Wikipedia, TravelHealthPro | Heights on one scale: Mestia 1,500 m and Ushguli 2,100 m below the 2,500 m line above which TravelHealthPro says the illness usually starts; Tetnuldi 4,974 m and Shkhara 5,201 m above it -->
 
@@ -146,13 +146,13 @@ Plan for serious care to be a long way off. The UK's [health advice](https://www
 
 **Is there a hospital in Mestia?** We could not find an official description of one, its services or its hours. Do not plan your trip around one.
 
-**In an emergency.** Dial 112 and ask for an ambulance.[^4] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say. Our tip: give the village name and the trail you are on, not just the name of the town.
+**In an emergency.** Dial 112 and ask for an ambulance.[^4] Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/) and what to say. Our tip: give the village name and the trail you are on, not just the name of the town.
 
 **Clinics in Zugdidi.** Zugdidi is the regional capital, some 128~km from Mestia.[^1] The catalogue of [clinics in Zugdidi](https://100doc.ge/en/zugdidi/) on 100doc.ge listed 39 clinics when we checked on 19 November 2026.
 
-**Your cover.** Visitors need health and accident cover of at least 30,000~GEL for the whole stay;[^9] see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance). For hiking, the UK advice is plain: "Make sure your travel insurance covers your activities."[^5] What a policy says about walking and sport is covered in our [mountain guide](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/#hiking).
+**Your cover.** Visitors need health and accident cover of at least 30,000~GEL for the whole stay;[^9] see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance). For hiking, the UK advice is plain: "Make sure your travel insurance covers your activities."[^5] What a policy says about walking and sport is covered in our [mountain guide](https://guide.100doc.ge/gudauri-altitude/#hiking).
 
-**Other mountain areas.** The same advice applies in [Kazbegi](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/), another high mountain area of Georgia.
+**Other mountain areas.** The same advice applies in [Kazbegi](https://guide.100doc.ge/kazbegi/), another high mountain area of Georgia.
 
 ## Frequently asked questions {#faq}
 
@@ -198,4 +198,4 @@ Our tip: ask about rooms and road access before you go, and plan for snow outsid
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

@@ -27,7 +27,7 @@ og: airport-arrivals-hall.webp
 > - Taxi to the centre: 40~GEL fixed
 > - By taxi: 20–30~min
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 18 November 2026.
 
 ## Tbilisi Airport arrival: what is in the hall {#arrival}
 
@@ -61,11 +61,11 @@ GOV.UK does not spell out what those difficulties are,[^5] and we do not guess. 
 
 Our tip on the dates: if you land just after midnight, the policy must already be valid on that day, and your departure day must fall inside the period too. Check this at home, not at the passport desk.
 
-For the full list of what the policy must state, GOV.UK points to Georgia's official [entry information](https://geoconsul.gov.ge/en/entering-georgia).[^5][^10] 100doc.ge, a site that sells these policies, also explains [what the policy must include](https://100doc.ge/tourist/en/lp/mandatory-travel-insurance-georgia). Our guide's home page has a short summary of [the 2026 entry rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+For the full list of what the policy must state, GOV.UK points to Georgia's official [entry information](https://geoconsul.gov.ge/en/entering-georgia).[^5][^10] 100doc.ge, a site that sells these policies, also explains [what the policy must include](https://100doc.ge/tourist/en/lp/mandatory-travel-insurance-georgia). Our guide's home page has a short summary of [the 2026 entry rule](https://guide.100doc.ge/#entry-insurance).
 
 **Our tip: keep it in two forms.** Save the policy as a PDF on your phone so it opens offline, and carry a printed copy in your hand luggage. After a long flight a phone can run flat, and a file buried in an email or an app with a login is slow to open in a queue.
 
-**Medicines in your bag.** If you travel with prescription medicines, check the rules before you pack: our guide on [bringing medication to Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/bringing-medication-to-georgia/) covers them. Our tip: carry them in your hand luggage, so a delayed bag does not leave you without them.
+**Medicines in your bag.** If you travel with prescription medicines, check the rules before you pack: our guide on [bringing medication to Georgia](https://guide.100doc.ge/bringing-medication-to-georgia/) covers them. Our tip: carry them in your hand luggage, so a delayed bag does not leave you without them.
 
 <!-- схема: img/govuk-insurance-entry.webp | Quote from the GOV.UK entry requirements page for Georgia, with the line "You may be asked for evidence of this, either by your airline at check-in or by immigration authorities" | GOV.UK: your airline at check-in or the border officers on arrival may ask for evidence; checked 18 November 2026 -->
 
@@ -108,7 +108,7 @@ For anything urgent, dial 112: that is the emergency number in Georgia, not the 
 
 <!-- схема: img/dvt-signs.webp | Infographic based on the NHS: signs of a blood clot in the leg are throbbing pain in one leg, usually in the calf or thigh; swelling in one leg; red, blue or darker skin; if you think you have a clot, see a doctor urgently; with shortness of breath or chest pain, dial 112 now | Signs of a blood clot in the leg, from the NHS; in Georgia the emergency number is 112 -->
 
-**Calling an ambulance.** UK government [health advice for Georgia](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^6] Our guide explains [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say. Our tip: start with where you are, for example "Tbilisi International Airport, arrivals hall", then what happened.
+**Calling an ambulance.** UK government [health advice for Georgia](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^6] Our guide explains [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/) and what to say. Our tip: start with where you are, for example "Tbilisi International Airport, arrivals hall", then what happened.
 
 **What care may cost.** GOV.UK also warns: "Medical facilities in Tbilisi are available but can be expensive."[^6] That is one more reason to land with a valid policy that covers every day of your stay.
 
@@ -165,4 +165,4 @@ A fixed 40 GEL to the city centre and 50 GEL to suburban areas, according to the
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

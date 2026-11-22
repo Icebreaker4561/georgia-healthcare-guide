@@ -30,7 +30,7 @@ og: batumi-boulevard.webp
 > - Rain a year: about 2,500 mm
 > - Emergency number: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## Things to do in Batumi {#things-to-do}
 
@@ -126,7 +126,7 @@ Hot, humid days in July and August can cause heat exhaustion, which can turn int
 
 **Who is most at risk.** The NHS asks you to check on "children, older people and people with long-term health conditions, such as diabetes or heart problems".[^18]
 
-**Signs of heatstroke: dial 112.** The NHS lists signs that need an ambulance, including "still being unwell after 30 minutes of resting in a cool place", "hot skin that's not sweating", a fast heartbeat or fast breathing, "confusion", "a seizure or fit" and "loss of consciousness".[^18] In Georgia, dial 112. While you wait, move the person into the shade and cool them with water and a fan. Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say.
+**Signs of heatstroke: dial 112.** The NHS lists signs that need an ambulance, including "still being unwell after 30 minutes of resting in a cool place", "hot skin that's not sweating", a fast heartbeat or fast breathing, "confusion", "a seizure or fit" and "loss of consciousness".[^18] In Georgia, dial 112. While you wait, move the person into the shade and cool them with water and a fan. Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/) and what to say.
 
 <!-- схема: img/batumi-heat-steps.webp | Infographic, five steps after the NHS: 1 drink more cold drinks and go easy on alcohol; 2 avoid the sun from 11am to 3pm; 3 wear light-coloured, loose clothes; 4 put sunscreen on again after the sea and every 2 hours; 5 heatstroke signs, for example unwell after 30 minutes in the cool, hot dry skin, confusion, a fit or passing out: dial 112 | Five steps for a hot day, after NHS advice, with Georgia's emergency number 112 -->
 
@@ -168,9 +168,9 @@ Good care is available in the city. The Government of Canada's [travel advice](h
 
 **Language.** Our tip: keep your address and any medical conditions written down in English. The Tourist Information Centre answers on +995 577 90 90 93.[^10]
 
-**Your policy.** Since 1 January 2026, visitors need health and accident cover for their whole stay of at least 30,000~GEL; see [the entry rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your policy.** Since 1 January 2026, visitors need health and accident cover for their whole stay of at least 30,000~GEL; see [the entry rule](https://guide.100doc.ge/#entry-insurance).
 
-**Dog bites.** If a dog bites or scratches you, see a doctor promptly; our [rabies guide](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/) explains why. For crime, protests and roads, see [Is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/)
+**Dog bites.** If a dog bites or scratches you, see a doctor promptly; our [rabies guide](https://guide.100doc.ge/rabies-georgia/) explains why. For crime, protests and roads, see [Is Georgia safe?](https://guide.100doc.ge/is-georgia-safe/)
 
 ## Frequently asked questions {#faq}
 
@@ -226,4 +226,4 @@ Not everyone, and medical staff may not.[^16] Keep key details written down and 
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

@@ -30,7 +30,7 @@ og: gareja-cave-monastery.webp
 > - Anti-venom: rare outside major towns (GOV.UK)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## David Gareja monastery: the desert lavra {#history}
 
@@ -140,7 +140,7 @@ Expect strong sun on open, dry ground. Our tip: plan your walk for the cooler pa
 - Rest in open shade where you can see the ground.
 - Stop and cool down if you feel dizzy, sick or have a headache.
 
-For the signs of heat illness, read our [heat advice in the Batumi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#heat).
+For the signs of heat illness, read our [heat advice in the Batumi guide](https://guide.100doc.ge/batumi/#heat).
 
 ## Getting there from Tbilisi {#getting-there}
 
@@ -150,7 +150,7 @@ You go by road, southeast from the capital. Wikipedia puts David Gareja some 60â
 
 **Country roads.** The Government of Canada's travel advice says rural roads are sometimes poorly maintained and dangerous because of "unpaved and uneven surfaces" and "stray livestock", and advises: "avoid travelling after dark".[^4] For remote areas, the UK says to "make sure your vehicle is suitable for off-road driving".[^3]
 
-**Our tip.** Save an offline map with the monastery marked, and be back on main roads before dark. Read our [guide to driving in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/).
+**Our tip.** Save an offline map with the monastery marked, and be back on main roads before dark. Read our [guide to driving in Georgia](https://guide.100doc.ge/driving-in-georgia/).
 
 ## Medical help {#health}
 
@@ -158,11 +158,11 @@ Expect help to take time out here. The UK [health advice](https://www.gov.uk/for
 
 **Rural areas.** The Government of Canada's travel advice says: "In rural areas, there are shortages of medical supplies and personnel."[^4] It adds: "First responders may not be able to access rural areas."[^4]
 
-**In an emergency.** Dial 112 and ask for an ambulance. Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+**In an emergency.** Dial 112 and ask for an ambulance. Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/).
 
 **Doctors in the capital.** Tbilisi has the widest choice of hospitals and clinics. The catalogue of [doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/) on 100doc.ge listed 2,252 doctors and 574 clinics when we checked on 19 November 2026.
 
-**Your cover.** Visitors need health and accident cover of at least 30,000~GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Visitors need health and accident cover of at least 30,000~GEL for their whole stay; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance).
 
 ## Frequently asked questions {#faq}
 
@@ -204,5 +204,5 @@ One of the monasteries of the complex, built from the late 11th to the early 13t
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 

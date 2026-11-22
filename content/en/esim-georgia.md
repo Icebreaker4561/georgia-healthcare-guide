@@ -30,7 +30,7 @@ og: esim-georgia-phone.webp
 > - Emergency number, even with no SIM: 112
 > - Georgia's country code: +995
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Prices checked on 22 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Prices checked on 22 November 2026.
 
 ## eSIM or a local SIM card in Georgia: which one to get {#esim-or-sim}
 
@@ -111,7 +111,7 @@ Magti's tourist page offers a "FREE SIM card with Welcome Package in Tbilisi or 
 
 **Free Wi-Fi.** It works "at most of the seating and public areas", and "No registration is required."[^10]
 
-**What else is there.** See [Tbilisi Airport Arrival: What Is in the Hall](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/#arrival).
+**What else is there.** See [Tbilisi Airport Arrival: What Is in the Hall](https://guide.100doc.ge/tbilisi-airport/#arrival).
 
 **Our tip.** Connect to the free network first: message your host and check your operator's page before you queue.
 
@@ -170,7 +170,7 @@ How much data you need depends on your trip; the operators' pages give no figure
 
 **Our tip.** Download maps and offline translation on Wi-Fi, and pick the bigger package if you plan to navigate all day.
 
-Ride apps need a connection to book a car: see [Taxi Apps in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/taxi-in-georgia/#apps).
+Ride apps need a connection to book a car: see [Taxi Apps in Georgia](https://guide.100doc.ge/taxi-in-georgia/#apps).
 
 ## How to set up an eSIM for Georgia, step by step {#esim-setup}
 
@@ -198,9 +198,9 @@ Magti's offices page carries a coverage map by network type, 2G to 5G.[^4] We co
 
 **5G at Cellfie.** Its page names 14 places: Tbilisi, Batumi, Kobuleti, Gonio, Kvariati, Shekvetili, Gudauri, Bakuriani, Zugdidi, Kutaisi, Rustavi, Poti, Telavi and Gori.[^16] A mountain resort on that list is not a promise of signal on the trail above it.
 
-**High valleys.** For mobile internet in Georgia's remote valleys, we found no official data on coverage, so plan as if you may lose the signal. More in [Khevsureti and Shatili](https://icebreaker4561.github.io/georgia-healthcare-guide/khevsureti/#signal), [Tusheti](https://icebreaker4561.github.io/georgia-healthcare-guide/tusheti/#health) and [Svaneti](https://icebreaker4561.github.io/georgia-healthcare-guide/svaneti/#hikes).
+**High valleys.** For mobile internet in Georgia's remote valleys, we found no official data on coverage, so plan as if you may lose the signal. More in [Khevsureti and Shatili](https://guide.100doc.ge/khevsureti/#signal), [Tusheti](https://guide.100doc.ge/tusheti/#health) and [Svaneti](https://guide.100doc.ge/svaneti/#hikes).
 
-**Help may be slow.** The UK government warns: "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."[^8] Sprains, blisters and when to get help: [Hiking in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/#injuries).
+**Help may be slow.** The UK government warns: "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."[^8] Sprains, blisters and when to get help: [Hiking in Georgia](https://guide.100doc.ge/hiking-in-georgia/#injuries).
 
 **Our tip.** Tell your host or guesthouse your route and return time, and save their number before you leave the last village.
 
@@ -208,7 +208,7 @@ Magti's offices page carries a coverage map by network type, 2G to 5G.[^4] We co
 
 **Our tip.** Before a trip to the mountains, download the area in your map app and save your accommodation and the nearest town, all on Wi-Fi. Check that the app shows your position offline before you leave.
 
-If you need help with no data left, the official emergency app has a chat with the call-taker. With GPS on, the chat sends your location coordinates, and if you have run out of data, they are sent "in the form of SMS".[^17] More in [No SIM Card, No Credit on the Phone or Can't Talk](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#no-sim-app).
+If you need help with no data left, the official emergency app has a chat with the call-taker. With GPS on, the chat sends your location coordinates, and if you have run out of data, they are sent "in the form of SMS".[^17] More in [No SIM Card, No Credit on the Phone or Can't Talk](https://guide.100doc.ge/ambulance-georgia/#no-sim-app).
 
 ### Keep your phone charged {#battery}
 
@@ -224,9 +224,9 @@ No card in the phone and no credit still let you call. [Georgia's emergency serv
 
 **Languages.** Calls are taken 24/7 "throughout the whole country", in Georgian, English, Azerbaijani, Armenian, Turkish and Russian.[^7]
 
-**The app.** It is free of charge, works on Android and iOS and comes in five languages.[^17] The Government of Canada adds: "You can also use the 112 Georgia mobile application to contact emergency service providers in English."[^18] What to say when you get through: [What to Tell the Operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**The app.** It is free of charge, works on Android and iOS and comes in five languages.[^17] The Government of Canada adds: "You can also use the 112 Georgia mobile application to contact emergency service providers in English."[^18] What to say when you get through: [What to Tell the Operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
-**Underground.** In the metro, check the signal before you need it: [If Something Happens in the Metro](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-metro/#emergency).
+**Underground.** In the metro, check the signal before you need it: [If Something Happens in the Metro](https://guide.100doc.ge/tbilisi-metro/#emergency).
 
 **Country code.** Georgia's country code is +995.[^19]
 
@@ -244,7 +244,7 @@ Free Wi-Fi is handy, and on landing in Tbilisi you can use it without registrati
 
 **What it advises.** In the same list: "Use secure public Wi-Fi networks" and "Use your own USB adaptor or carry an extra battery pack".[^18]
 
-**Cards and cash.** Before you pay on a public network, read [Card and ATM Fraud](https://icebreaker4561.github.io/georgia-healthcare-guide/money-in-georgia/#card-fraud).
+**Cards and cash.** Before you pay on a public network, read [Card and ATM Fraud](https://guide.100doc.ge/money-in-georgia/#card-fraud).
 
 **Our tip.** Pay and log in to your bank over mobile data, not café or hotel Wi-Fi.
 
@@ -306,6 +306,6 @@ Yes: from a mobile phone, even with no SIM card or a negative balance, as long a
 
 This guide is general information. Prices, packages and coverage change: check the operators' pages before you buy.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

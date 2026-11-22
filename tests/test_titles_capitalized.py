@@ -15,7 +15,7 @@ import unittest
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PAGES = sorted(p for p in ROOT.rglob("index.html") if ".git" not in p.parts)
-BASE = "https://icebreaker4561.github.io/georgia-healthcare-guide/"
+BASE = "https://guide.100doc.ge/"
 
 
 class Titles(unittest.TestCase):

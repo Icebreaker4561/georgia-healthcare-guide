@@ -32,7 +32,7 @@ og: ureki-beach.webp
 > - Sunshine: 1,800–1,820 hours (average)
 > - Emergency number: 112
 
-This page is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 21 November 2026.
+This page is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 21 November 2026.
 
 ## Where is Ureki, Georgia? {#where}
 
@@ -86,7 +86,7 @@ We found no official list of people who should avoid lying or burying themselves
 - Do not bury a small child in the middle of the day.
 - If you feel unwell, move into the shade at once; if it does not pass, call the [emergency number](#call-112).
 
-Another Georgian spa town with similar claims, Tskaltubo, has its own section: [Who should not take radon baths](https://icebreaker4561.github.io/georgia-healthcare-guide/tskaltubo/#who-should-not).
+Another Georgian spa town with similar claims, Tskaltubo, has its own section: [Who should not take radon baths](https://guide.100doc.ge/tskaltubo/#who-should-not).
 
 ## Ureki beach: 1.5 km of grey and black sand {#beach}
 
@@ -94,7 +94,7 @@ The resort's own coastline is 1.5 km long, by the tourism administration's figur
 
 <!-- схема: img/ureki-shore.webp | Illustration: a long curve of dark sand along the Black Sea, with surf breaking on the shore and pale low land behind | The 1.5 km figure excludes Grigoleti; the five kilometres include it -->
 
-The colour is official too: the administration calls it "gray and black".[^7] Not all of this coast looks like that. For a shore of pebbles, see [Batumi beach and the sea](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#beach); for a mix of pebbles and fine grains, see [Anaklia beach: pebble and fine sand](https://icebreaker4561.github.io/georgia-healthcare-guide/anaklia/#beach).
+The colour is official too: the administration calls it "gray and black".[^7] Not all of this coast looks like that. For a shore of pebbles, see [Batumi beach and the sea](https://guide.100doc.ge/batumi/#beach); for a mix of pebbles and fine grains, see [Anaklia beach: pebble and fine sand](https://guide.100doc.ge/anaklia/#beach).
 
 No official page we checked describes its facilities or how the water deepens, so we leave both out.
 
@@ -115,13 +115,13 @@ We found no official information on flags, currents or depths here, and no 2026 
 - Keep children within arm's reach.
 - If someone gets into trouble in the water, [call the emergency number](#call-112).
 
-More about swimming on this coast: [Can you swim in the sea at Anaklia?](https://icebreaker4561.github.io/georgia-healthcare-guide/anaklia/#swimming)
+More about swimming on this coast: [Can you swim in the sea at Anaklia?](https://guide.100doc.ge/anaklia/#swimming)
 
 ### Ureki weather and the summer season {#weather}
 
 The regional administration calls the climate here "humid, subtropical" and gives an average of 1,800–1,820 hours of sunshine, without naming the period.[^2] Summer dates are in the [section above](#swimming).
 
-Neither the tourism nor the regional administration gives water or summer air temperatures, so we give none. For the warm months across the country, see [Georgia in summer: heat, UV and storms](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/#summer). Check the forecast on the day you travel.
+Neither the tourism nor the regional administration gives water or summer air temperatures, so we give none. For the warm months across the country, see [Georgia in summer: heat, UV and storms](https://guide.100doc.ge/best-time-to-visit-georgia/#summer). Check the forecast on the day you travel.
 
 ## Hot dark sand and the sun {#sun-sand}
 
@@ -135,7 +135,7 @@ Heatstroke is "a medical emergency", say both the NHS and WHO.[^12][^13] WHO adv
 
 Little ones need extra care. WHO advises wide-brimmed hats, sunglasses and sunscreen to protect children from the sun's rays.[^13]
 
-**Our tip.** Wear beach shoes at midday. Bring your own shade, such as an umbrella. Keep the youngest and oldest in your group out of the sun in the middle of the day. More in [Staying healthy in the summer heat](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#heat).
+**Our tip.** Wear beach shoes at midday. Bring your own shade, such as an umbrella. Keep the youngest and oldest in your group out of the sun in the middle of the day. More in [Staying healthy in the summer heat](https://guide.100doc.ge/batumi/#heat).
 
 ## How to get to Ureki from Tbilisi, Batumi and Kutaisi {#getting-there}
 
@@ -143,11 +143,11 @@ By road, the tourism administration gives 4 h 30 min from Tbilisi to Ureki, 55 m
 
 <!-- схема: img/ureki-route-map.webp | Infographic headed "Ureki on the map, schematically", not to scale, with cards: Ureki — Guria, Black Sea coast, 1.5 km of magnetic sand; Tbilisi — 4 h 30 min by road, train 854/853 to Ozurgeti every second day; Batumi — 55 min by road to Ureki, train 613/614 to Ozurgeti daily; Kutaisi — 1 h 40 min by road to Ureki; Train — the schedule lists only end points, check stops on railway.ge; Emergency — dial 112, 24/7 | The tourism administration gives times by road only, not kilometres -->
 
-**By marshrutka or bus.** No official timetable or fares turned up for shared vans or buses to the coast. See [What official advice says](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#official-advice).
+**By marshrutka or bus.** No official timetable or fares turned up for shared vans or buses to the coast. See [What official advice says](https://guide.100doc.ge/marshrutka-georgia/#official-advice).
 
-**By car.** Before you drive, read [Georgia roads: what to expect](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#roads).
+**By car.** Before you drive, read [Georgia roads: what to expect](https://guide.100doc.ge/driving-in-georgia/#roads).
 
-**From the airport.** If you fly into western Georgia, see [Arriving at Kutaisi airport](https://icebreaker4561.github.io/georgia-healthcare-guide/kutaisi/#airport).
+**From the airport.** If you fly into western Georgia, see [Arriving at Kutaisi airport](https://guide.100doc.ge/kutaisi/#airport).
 
 **Our tip.** Plan the drive back for daylight, and carry water on summer days.
 
@@ -155,7 +155,7 @@ By road, the tourism administration gives 4 h 30 min from Tbilisi to Ureki, 55 m
 
 Services run to Ozurgeti, but the timetable does not show where they stop on the way. The general schedule of Georgian Railway lists only the end points of each route: the fast 854/853 Tbilisi–Ozurgeti every second day and the electric 613/614 Batumi–Ozurgeti daily.[^14]
 
-**Our tip.** Before you travel, check on railway.ge or at the station where your service stops. Routes are in [Train routes in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/georgia-trains/#routes).
+**Our tip.** Before you travel, check on railway.ge or at the station where your service stops. Routes are in [Train routes in Georgia](https://guide.100doc.ge/georgia-trains/#routes).
 
 ## Medical help near Ureki: 112 and doctors {#medical-help}
 
@@ -165,7 +165,7 @@ In an emergency, dial 112 and ask for an ambulance, as the UK government's healt
 
 One number covers every emergency, and you can speak English. The service states that it takes calls 24/7 across the whole country, in Georgian, English, Azerbaijani, Armenian, Turkish and Russian.[^5]
 
-**Our tip.** Start with "Ureki, Guria". Then say exactly where you are: the shore and the nearest entrance or café, the road, or the train. More in [What to tell the operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**Our tip.** Start with "Ureki, Guria". Then say exactly where you are: the shore and the nearest entrance or café, the road, or the train. More in [What to tell the operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 <!-- схема: img/ureki-112-card.webp | Infographic "Calling 112 at Ureki: what to tell the operator", four cards: dial 112 — 24/7, English and Russian among six languages; say where — "Ureki, Guria"; name the place — the beach and nearest entrance or café, the road, or the train; ask for an ambulance; sources: 112.gov.ge, GOV.UK | 112 has been the single emergency number since 2012 -->
 
@@ -229,6 +229,6 @@ The ministry said in 2025 that the Guria coast would be fully covered; no 2026 s
 
 This guide is general information, not medical advice.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

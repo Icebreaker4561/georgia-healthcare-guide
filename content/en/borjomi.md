@@ -29,7 +29,7 @@ og: borjomi-park-spring.webp
 > - Sulfur pools: 32–38~°C
 > - National park: 104,099~ha
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 18 November 2026.
 
 ## Borjomi mineral water: what it is and who should go easy on it {#mineral-water}
 
@@ -81,7 +81,7 @@ They are a forest walk from the park. The [tourism site](https://georgia.travel/
 
 **Health claims.** The tourism site says the pools are used for some diseases.[^1] As with the water, we found no medical confirmation, so we do not recommend them for any condition.
 
-**Hot water and your health.** Hot pools are not for everyone. Our [guide to Tbilisi's sulfur baths](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-sulfur-baths/#health) explains who should check with a doctor first, such as in pregnancy or with high blood pressure, and why not to bathe after alcohol. Our tips: keep the first soak short, drink water, do not soak alone, get out slowly and stop if you feel dizzy or unwell. If someone faints, has chest pain or is confused, get them out of the water, lay them down in the shade and dial 112. The pools are in the forest, so help can take time to arrive.
+**Hot water and your health.** Hot pools are not for everyone. Our [guide to Tbilisi's sulfur baths](https://guide.100doc.ge/tbilisi-sulfur-baths/#health) explains who should check with a doctor first, such as in pregnancy or with high blood pressure, and why not to bathe after alcohol. Our tips: keep the first soak short, drink water, do not soak alone, get out slowly and stop if you feel dizzy or unwell. If someone faints, has chest pain or is confused, get them out of the water, lay them down in the shade and dial 112. The pools are in the forest, so help can take time to arrive.
 
 ## Borjomi-Kharagauli National Park {#national-park}
 
@@ -131,7 +131,7 @@ Beyond the spring and the pools, the tourism administration points to several si
 
 ## Health and help in Borjomi {#safety}
 
-In an emergency, dial 112. [UK government advice](https://www.gov.uk/foreign-travel-advice/georgia/health) puts it simply: "Dial 112 and ask for an ambulance."[^14] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say.
+In an emergency, dial 112. [UK government advice](https://www.gov.uk/foreign-travel-advice/georgia/health) puts it simply: "Dial 112 and ask for an ambulance."[^14] Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/) and what to say.
 
 **The local hospital.** Georgia's tourism administration lists Borjomi Geo Hospital in its [medical information for visitors](https://georgia.travel/coming-to-georgia/medical-information): Giorgi Saakadze Street 3, tel. +995 32 250 52 22 (032 250 52 22 from a Georgian number).[^3] For anything urgent, dial 112 rather than this number. Keep the address on your phone to show a driver.
 
@@ -139,7 +139,7 @@ In an emergency, dial 112. [UK government advice](https://www.gov.uk/foreign-tra
 
 **Ticks.** After walks in the park or the forest, check your skin for ticks; see [the national park section](#national-park) for what TravelHealthPro says.[^13]
 
-**Insurance.** Georgia requires visitors to have travel insurance to enter: see [the 2026 entry insurance rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Insurance.** Georgia requires visitors to have travel insurance to enter: see [the 2026 entry insurance rule](https://guide.100doc.ge/#entry-insurance).
 
 ## Frequently asked questions {#faq}
 
@@ -157,7 +157,7 @@ Yes, the tourism site invites visitors to taste the water at the mineral spring,
 
 ### How hot are the sulfur pools?
 
-On average 32–38~°C, according to georgia.travel.[^2] There are larger pools for adults and smaller ones for children.[^2] If you are pregnant, have high blood pressure or have been drinking alcohol, read our [sulfur baths guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-sulfur-baths/#health) before you go in. If someone feels faint or unwell, help them out slowly; if it is serious, dial 112.
+On average 32–38~°C, according to georgia.travel.[^2] There are larger pools for adults and smaller ones for children.[^2] If you are pregnant, have high blood pressure or have been drinking alcohol, read our [sulfur baths guide](https://guide.100doc.ge/tbilisi-sulfur-baths/#health) before you go in. If someone feels faint or unwell, help them out slowly; if it is serious, dial 112.
 
 ### Do you need to register in Borjomi-Kharagauli National Park?
 
@@ -190,4 +190,4 @@ Yes. Georgia's tourism administration lists Borjomi Geo Hospital at Giorgi Saaka
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

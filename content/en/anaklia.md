@@ -32,7 +32,7 @@ og: anaklia-beach.webp
 > - Aquapark built: 2012
 > - Emergency number: 112
 
-This page is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 21 November 2026.
+This page is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 21 November 2026.
 
 ## Where is Anaklia, Georgia? {#where}
 
@@ -50,7 +50,7 @@ The shore is mixed. Georgia's tourism administration writes that "there is not o
 
 The administration's page on beaches says that recently, "Anaklia and Ganmukhuri, on the western shores of Georgia, have become more popular".[^6] For sandy shores, that page points to Ureki and Grigoleti.[^6]
 
-The big city further south has a shore of stones rather than this mix: see [Batumi beach and the sea](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#beach).
+The big city further south has a shore of stones rather than this mix: see [Batumi beach and the sea](https://guide.100doc.ge/batumi/#beach).
 
 <!-- схема: img/anaklia-beach-facts.webp | Infographic headed "Anaklia beach: the beach in short", four cards: Shore — pebble and fine sand (tourism administration); Climate — dry and temperate on the beach, humid subtropical across Samegrelo (tourism administration); Swimming season — no official dates found; Lifeguards — no official schedule found, our tip: ask locally; sources in small print below | A mixed shore; another page of the same administration calls the region's climate humid subtropical -->
 
@@ -90,7 +90,7 @@ In 2020 the Ministry of Internal Affairs opened a building in the village that "
 
 We found no official season dates or water temperatures for the resort, and Georgia's tourism administration describes its climate in two ways. One of its pages calls the climate of this coast "dry and temperate, unlike in Batumi, Sarpi, and Kobuleti",[^6] while its weather page calls the climate of Samegrelo "humid subtropical".[^9]
 
-That page also gives average temperatures for Samegrelo as a whole, not for the village itself.[^9] For the hot months in general, see [Georgia in summer: heat, UV and storms](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/#summer). Check the forecast on the day you travel.
+That page also gives average temperatures for Samegrelo as a whole, not for the village itself.[^9] For the hot months in general, see [Georgia in summer: heat, UV and storms](https://guide.100doc.ge/best-time-to-visit-georgia/#summer). Check the forecast on the day you travel.
 
 ## Sun and heat on the beach {#sun-heat}
 
@@ -98,7 +98,7 @@ By the water you burn faster than it feels. The NHS warns: "Water washes sunscre
 
 Heatstroke is "a medical emergency", the NHS warns.[^11] To prevent it, the NHS suggests cold drinks, light-coloured loose clothing and staying out of direct sun between 11am and 3pm;[^11] on its sun safety page it gives these hours for the UK.[^10] In Georgia, for suspected heatstroke, call 112.
 
-**Our tip.** There may be no shade by the water: bring your own. Keep children and older relatives in the shade around midday. Put sunscreen on again each time you come out of the water. More on hot days in [Staying healthy in the summer heat](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#heat).
+**Our tip.** There may be no shade by the water: bring your own. Keep children and older relatives in the shade around midday. Put sunscreen on again each time you come out of the water. More on hot days in [Staying healthy in the summer heat](https://guide.100doc.ge/batumi/#heat).
 
 <!-- схема: img/anaklia-sun-heat.webp | Infographic headed "At the beach: sun and heat", four cards: In the water — water washes sunscreen off (NHS); Reflection — water reflects UV rays and raises your exposure (NHS); Sunscreen — reapply every 2 hours (NHS); Heatstroke — a medical emergency: call 112; sources in small print below | The cooling water can hide sunburn, the NHS warns -->
 
@@ -112,7 +112,7 @@ Georgia's tourism administration places Anaklia on the border.[^1] Both governme
 
 **The Government of Canada.** Its [travel advice](https://travel.gc.ca/destinations/georgia) says to "avoid all travel" "within 5 km of the administrative boundary line" with the occupied regions, "excluding Highway E60", "due to crime, military activity, the risk of detention and the presence of landmines".[^12] The Government of Canada warns that the lines "are not well defined and change frequently", and that "you could be detained and arrested if you cross into these regions, even by mistake".[^12] If you travel to such areas despite its warning, the Government of Canada advises you to "stay on main and paved roads", "avoid walking in fields" and "avoid roadside ditches, shoulders and unmarked trails".[^12] Entering Georgia from those regions through an unofficial crossing point can bring "heavy fines and jail sentences", the Government of Canada warns.[^12]
 
-**Our tip.** If you decide to go despite these warnings, keep to the shore, the seafront and paved roads. Do not walk up the Enguri, across fields, along road shoulders or on unmarked paths. Do not go near the line and do not try to cross it. For the rest of the country, see [Where not to go: Abkhazia and South Ossetia](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#where-not).
+**Our tip.** If you decide to go despite these warnings, keep to the shore, the seafront and paved roads. Do not walk up the Enguri, across fields, along road shoulders or on unmarked paths. Do not go near the line and do not try to cross it. For the rest of the country, see [Where not to go: Abkhazia and South Ossetia](https://guide.100doc.ge/is-georgia-safe/#where-not).
 
 ## How to get to Anaklia from Tbilisi, Kutaisi and Batumi {#getting-there}
 
@@ -120,17 +120,17 @@ By road, the tourism administration gives 5 h 25 min from Tbilisi to Anaklia, 2 
 
 <!-- схема: img/anaklia-route-map.webp | Route infographic, not to scale: Anaklia, Zugdidi, Tbilisi, Kutaisi and Batumi, with journey times to Anaklia by road, the Tbilisi–Zugdidi train 870/869, Kutaisi airport 14 km from the city, the Abkhazia region to the north and the emergency number 112 | By road it takes 5 h 25 min from the capital and 2 h 35 min from Batumi -->
 
-**By train.** Fast train 870/869 runs daily from Tbilisi to Zugdidi, the [Georgian Railway schedule](https://www.railway.ge/en/traffic-general-schedule/) shows.[^14] There is no Anaklia station in it. From the end of the line it is about a thirty-minute drive to the coast.[^2] Routes and tickets are in [Train routes in Georgia: what the Georgian Railway schedule lists](https://icebreaker4561.github.io/georgia-healthcare-guide/georgia-trains/#routes).
+**By train.** Fast train 870/869 runs daily from Tbilisi to Zugdidi, the [Georgian Railway schedule](https://www.railway.ge/en/traffic-general-schedule/) shows.[^14] There is no Anaklia station in it. From the end of the line it is about a thirty-minute drive to the coast.[^2] Routes and tickets are in [Train routes in Georgia: what the Georgian Railway schedule lists](https://guide.100doc.ge/georgia-trains/#routes).
 
-**From the airport.** Kutaisi airport lies 14 kilometres from the city, the tourism administration says.[^15] From the city, the drive to the coast takes about 2 h 10 min.[^1] We found no official time for the airport-to-coast leg. See [Arriving at Kutaisi airport](https://icebreaker4561.github.io/georgia-healthcare-guide/kutaisi/#airport).
+**From the airport.** Kutaisi airport lies 14 kilometres from the city, the tourism administration says.[^15] From the city, the drive to the coast takes about 2 h 10 min.[^1] We found no official time for the airport-to-coast leg. See [Arriving at Kutaisi airport](https://guide.100doc.ge/kutaisi/#airport).
 
-**By marshrutka.** We found no official timetable or fares for shared vans to the village. The Government of Canada's travel advice says: "Mini-buses called 'marshrutka' are poorly maintained and often lack security features like seatbelts."[^12] More in [What official advice says](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#official-advice).
+**By marshrutka.** We found no official timetable or fares for shared vans to the village. The Government of Canada's travel advice says: "Mini-buses called 'marshrutka' are poorly maintained and often lack security features like seatbelts."[^12] More in [What official advice says](https://guide.100doc.ge/marshrutka-georgia/#official-advice).
 
 **Our tip.** Agree on the ride back before you go: do not count on finding one late in the day.
 
 **By car.** The UK government's travel advice asks drivers to "take care when driving, especially at night".[^13]
 
-**Our tip.** Drive there and back in daylight. If you go on into the mountains of Svaneti, read [Getting to Mestia](https://icebreaker4561.github.io/georgia-healthcare-guide/svaneti/#getting-there) first.
+**Our tip.** Drive there and back in daylight. If you go on into the mountains of Svaneti, read [Getting to Mestia](https://guide.100doc.ge/svaneti/#getting-there) first.
 
 ## Medical help near Anaklia: 112 and Zugdidi {#medical-help}
 
@@ -140,7 +140,7 @@ In an emergency, dial 112 and ask for an ambulance; the UK government's [health 
 
 One number covers every emergency, and you can speak English. The [emergency service](https://112.gov.ge/?p=1715) says it has been the single emergency number since 2012 and takes calls 24/7 across the whole country, in Georgian, English, Azerbaijani, Armenian, Turkish and Russian.[^4] Your phone must be in a mobile operator's coverage area, the service adds.[^4]
 
-**Our tip.** Start with "Anaklia, Samegrelo". Then say exactly where you are: the beach and the nearest entrance or café, the walkway over the river, or the road towards the regional town. More in [What to tell the operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**Our tip.** Start with "Anaklia, Samegrelo". Then say exactly where you are: the beach and the nearest entrance or café, the walkway over the river, or the road towards the regional town. More in [What to tell the operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 <!-- схема: img/anaklia-112-card.webp | Infographic headed "Calling 112 near Anaklia: what to tell the operator", four cards: dial 112, 24/7, English and Russian among six languages; say where — Anaklia, Samegrelo; name the place — beach, footbridge, water park or the Zugdidi road; hospital on the official list — Zugdidi Referral Hospital, about 30 minutes by car; sources: 112.gov.ge, georgia.travel | Operators take calls in six languages, including English and Russian -->
 
@@ -152,7 +152,7 @@ The same page says medical establishments "are open 24 hours a day, every day, i
 
 For other doctors, the [catalogue of clinics in Zugdidi on 100doc.ge](https://100doc.ge/en/zugdidi/) listed 39 clinics on 21 November 2026.
 
-**Your cover.** Georgian law requires visitors to hold health and accident cover of at least 30,000 GEL for their whole stay, under [Resolution No. 602 of the Government of Georgia of 26 December 2025](https://matsne.gov.ge/ka/document/view/6728816).[^18] More in [Insurance to enter Georgia (2026 rule)](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance). The UK government advises cover for medical treatment and evacuation.[^16]
+**Your cover.** Georgian law requires visitors to hold health and accident cover of at least 30,000 GEL for their whole stay, under [Resolution No. 602 of the Government of Georgia of 26 December 2025](https://matsne.gov.ge/ka/document/view/6728816).[^18] More in [Insurance to enter Georgia (2026 rule)](https://guide.100doc.ge/#entry-insurance). The UK government advises cover for medical treatment and evacuation.[^16]
 
 ## Frequently asked questions {#faq}
 
@@ -207,6 +207,6 @@ In Zugdidi, about 30 minutes by car, on the tourism administration's list. In an
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

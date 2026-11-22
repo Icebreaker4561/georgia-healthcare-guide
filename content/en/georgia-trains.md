@@ -29,7 +29,7 @@ og: train-black-sea-coast.webp
 > - Sales stop: 10 min before departure
 > - Emergency number: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 21 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 21 November 2026.
 
 <!-- схема: img/train-black-sea-coast.webp | Illustration: an electric passenger train runs along the Black Sea coast, green hills and mountains behind | Two fast services a day run each way on the main line to the sea -->
 
@@ -63,7 +63,7 @@ The scheme below is a simple map of these routes, without distances.
 
 Two fast services run each way every day: 802 and 804 leave the capital.[^1] On the way back, the Batumi to Tbilisi train is 801 or 803, the odd number of each pair.[^1]
 
-For the city itself, see [Batumi, Georgia: Beach, Weather by Month and Health Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/).
+For the city itself, see [Batumi, Georgia: Beach, Weather by Month and Health Guide](https://guide.100doc.ge/batumi/).
 
 ### Tbilisi to Batumi train schedule: how many trains a day? {#tb-schedule}
 
@@ -81,8 +81,8 @@ Two in each direction, and the operator marks all four "Stadler-kiss".[^1] That 
 
 From the capital, 802 and 804 are the only direct trains to Batumi that the operator lists. The electric pairs 682/681 and 684/683 do not start there (see the table).[^1] By road or by air, other pages of this guide have the details.
 
-- For road options, and what official advice says about shared minibuses, see [Marshrutka in Georgia: Minibus Safety, Trains and Taxis](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#alternatives).
-- To fly into the west of the country, see [Tbilisi Airport Arrival: Border, Insurance, Bus and Taxi](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/#other-airports).
+- For road options, and what official advice says about shared minibuses, see [Marshrutka in Georgia: Minibus Safety, Trains and Taxis](https://guide.100doc.ge/marshrutka-georgia/#alternatives).
+- To fly into the west of the country, see [Tbilisi Airport Arrival: Border, Insurance, Bus and Taxi](https://guide.100doc.ge/tbilisi-airport/#other-airports).
 
 **Our tip.** Buy as soon as sales open for your date, 20~days ahead. Have a back-up plan in case your service is full or cancelled.
 
@@ -94,13 +94,13 @@ Away from the coast route, the main lines go across the west of the country, int
 
 Not a direct one: we found none when we checked on 21 November 2026.[^1] That can change, so look again before you travel.
 
-The Kutaisi to Batumi train runs as two electric pairs, 682/681 and 684/683, and 633/634 runs to Sachkhere.[^1] For the road and other ways between the two cities, see [Kutaisi, Georgia: Bagrati, Gelati, Airport and Health Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kutaisi/#getting-there).
+The Kutaisi to Batumi train runs as two electric pairs, 682/681 and 684/683, and 633/634 runs to Sachkhere.[^1] For the road and other ways between the two cities, see [Kutaisi, Georgia: Bagrati, Gelati, Airport and Health Guide](https://guide.100doc.ge/kutaisi/#getting-there).
 
 ### Is there a Tbilisi to Borjomi train? {#borjomi}
 
-Yes: two electric services run every day, 618/617 and 686/685.[^1] For the town and the road, see [Borjomi, Georgia: Mineral Water, Park and Sulfur Pools Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/#getting-there).
+Yes: two electric services run every day, 618/617 and 686/685.[^1] For the town and the road, see [Borjomi, Georgia: Mineral Water, Park and Sulfur Pools Guide](https://guide.100doc.ge/borjomi/#getting-there).
 
-From there, there is also a narrow-gauge line to Bakuriani. Before you plan on it, read [Is the Kukushka train running?](https://icebreaker4561.github.io/georgia-healthcare-guide/bakuriani/#kukushka)
+From there, there is also a narrow-gauge line to Bakuriani. Before you plan on it, read [Is the Kukushka train running?](https://guide.100doc.ge/bakuriani/#kukushka)
 
 <!-- схема: img/train-mountain-gorge.webp | Illustration: a small electric train winds through a green forested river gorge in the mountains | Both electric pairs on this line run every day -->
 
@@ -171,7 +171,7 @@ We cannot say: we found no official information on cooling in the carriages, so 
 
 **When it is an emergency.** "Heatstroke is a medical emergency," the NHS says.[^8] Its signs of heatstroke include a very high temperature, hot skin that is not sweating, a fast heartbeat, fast breathing, confusion, a seizure or loss of consciousness. Call an ambulance if you see them, or if the person is no better after 30~minutes of rest in a cool place.[^8] The NHS gives the UK number, 999; in Georgia, dial 112 ([see below](#call-112)). While you wait for help, the NHS says to wrap the person in a cool, wet sheet, or fan them or sponge them down with cold water.[^8]
 
-On arrival at the coast, see [Staying healthy in the summer heat](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#heat).
+On arrival at the coast, see [Staying healthy in the summer heat](https://guide.100doc.ge/batumi/#heat).
 
 <!-- схема: img/train-heat-signs.webp | Infographic in three blocks: Warning signs: tiredness, dizziness, headache, intense thirst, feeling sick, heavy sweating, cramps; What to do: move somewhere cooler, remove extra clothing, give plenty to drink, cool the skin, stay with them; Emergency, signs of heatstroke: very high temperature, hot skin that is not sweating, fast heartbeat or breathing, confusion, seizure, loss of consciousness, or no better after 30 minutes; in Georgia dial 112; source: NHS, reviewed 28 May 2026 (UK number 999), in Georgia 112 (112.gov.ge) | Stay with the person while they cool down, the NHS advises -->
 
@@ -180,10 +180,10 @@ On arrival at the coast, see [Staying healthy in the summer heat](https://icebre
 **Our tip.** Pack for the whole journey, not for the next stop:
 
 - Drinks and food for the full ride. GOV.UK notes that water quality varies in Georgia.[^10]
-- Your medicines in your hand luggage, in their original packaging. See [Bringing Medication to Georgia: Rules, Codeine, Pharmacies](https://icebreaker4561.github.io/georgia-healthcare-guide/bringing-medication-to-georgia/#ten-packs).
+- Your medicines in your hand luggage, in their original packaging. See [Bringing Medication to Georgia: Rules, Codeine, Pharmacies](https://guide.100doc.ge/bringing-medication-to-georgia/#ten-packs).
 - A charged phone with the emergency number saved.
 
-If winding stretches make you queasy, see [Motion sickness on mountain roads](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#motion-sickness).
+If winding stretches make you queasy, see [Motion sickness on mountain roads](https://guide.100doc.ge/marshrutka-georgia/#motion-sickness).
 
 ### Is the train safe? Your bags and the compartment {#safety}
 
@@ -191,7 +191,7 @@ Take ordinary care with your things. The UK government's [travel advice](https:/
 
 The Government of Canada's advice adds: "Don't leave your compartment unattended" and "Keep the compartment door locked from the inside". It also asks you to keep your passport and other travel documents secure at all times.[^7]
 
-For road travel, see [Is Georgia Safe to Travel in 2026?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#roads).
+For road travel, see [Is Georgia Safe to Travel in 2026?](https://guide.100doc.ge/is-georgia-safe/#roads).
 
 ### Feeling unwell on the train: calling 112 {#call-112}
 
@@ -199,7 +199,7 @@ Call the emergency number yourself. [Georgia's emergency service](https://112.go
 
 The UK government's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) puts it simply: "Dial 112 and ask for an ambulance."[^10] It also warns: "Outside Tbilisi, medical facilities are limited."[^10]
 
-**Our tip.** Ask the conductor to help. Before you set off, note your train number from the operator's timetable, for example 802. Tell the call-taker that number, your direction (towards the coast or the capital) and the last station you passed. More in [What to tell the operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**Our tip.** Ask the conductor to help. Before you set off, note your train number from the operator's timetable, for example 802. Tell the call-taker that number, your direction (towards the coast or the capital) and the last station you passed. More in [What to tell the operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 **If it can wait.** For a problem that can wait until you arrive, see the [catalogue of doctors and clinics in Batumi](https://100doc.ge/en/batumi/) on 100doc.ge.
 
@@ -251,6 +251,6 @@ You board only with your ticket and an identity document, so keep it to hand.[^2
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

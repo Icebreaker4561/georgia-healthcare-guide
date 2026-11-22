@@ -28,7 +28,7 @@ og: abanotubani-domes.webp
 > - Today: more than 10
 > - Kartlis Deda: 20 m
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 18 November 2026.
 
 ## Abanotubani: the bath district {#abanotubani}
 
@@ -167,11 +167,11 @@ That fits the bath district well: its streets and viewpoints get busy, and you l
 
 <!-- схема: img/govuk-crime-low.webp | Screenshot of the UK government's safety and security advice for Georgia with the line Crime levels are low | UK travel advice for Georgia, checked 18 November 2026 -->
 
-**Emergencies.** Dial 112 for an ambulance, the police or the fire service ([GOV.UK, getting help](https://www.gov.uk/foreign-travel-advice/georgia/getting-help)).[^13] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say when you get through.
+**Emergencies.** Dial 112 for an ambulance, the police or the fire service ([GOV.UK, getting help](https://www.gov.uk/foreign-travel-advice/georgia/getting-help)).[^13] Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/) and what to say when you get through.
 
 **Summer heat.** Summer days can be hot, and a hot bath followed by a climb in the sun adds up. Carry water, take breaks in the shade and go up the hill in the morning or evening if you can. Remember Drinkaware's warning above: alcohol in the heat raises the risk of dehydration and heat exhaustion.[^11]
 
-**Insurance.** Georgia requires visitors to have travel insurance to enter: see [the 2026 entry insurance rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Insurance.** Georgia requires visitors to have travel insurance to enter: see [the 2026 entry insurance rule](https://guide.100doc.ge/#entry-insurance).
 
 ## Frequently asked questions {#faq}
 
@@ -222,4 +222,4 @@ Local media reported a restriction on tourist movement during rockfall preventio
 
 This guide is general information, not medical advice: the doctor decides on your treatment.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

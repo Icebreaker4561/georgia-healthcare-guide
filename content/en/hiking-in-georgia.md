@@ -29,7 +29,7 @@ og: georgia-trail.webp
 > - Ushguli: about 2,100 m (Wikipedia)
 > - Entry cover: 30,000 GEL
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## Where to go: the best-known hiking areas {#where}
 
@@ -43,9 +43,9 @@ Four areas come up most often: Svaneti, Kazbegi, Tusheti and Lagodekhi. Each has
 
 **Heights.** According to [Wikipedia](https://en.wikipedia.org/wiki/Mestia), Mestia lies at 1,500 m.[^11] [Wikipedia](https://en.wikipedia.org/wiki/Ushguli) describes Ushguli as "a community of five medieval villages", "at an altitude of 2,100 metres… near the foot of Shkhara".[^12] Both are below the 2,500 m line where altitude sickness usually starts.[^8]
 
-**The Mestia to Ushguli trek.** Our [Svaneti guide](https://icebreaker4561.github.io/georgia-healthcare-guide/svaneti/) covers the route between the two. It gives no distance or day count either.
+**The Mestia to Ushguli trek.** Our [Svaneti guide](https://guide.100doc.ge/svaneti/) covers the route between the two. It gives no distance or day count either.
 
-**Snow.** Wikipedia says Ushguli is "snow-covered for 6 months of the year, and often the road to Mestia is impassable".[^12] For the season, see our [best time to visit Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/) guide.
+**Snow.** Wikipedia says Ushguli is "snow-covered for 6 months of the year, and often the road to Mestia is impassable".[^12] For the season, see our [best time to visit Georgia](https://guide.100doc.ge/best-time-to-visit-georgia/) guide.
 
 <!-- схема: img/georgia-trail.webp | Canva illustration, not a photo of the real place: a mountain trail climbing to a pass, a walker with a backpack on the path, old stone defensive towers far away in the valley, snowy peaks behind, no text | Mestia lies at 1,500 m and Ushguli at about 2,100 m, both below the 2,500 m altitude-sickness line -->
 
@@ -57,7 +57,7 @@ Trails here are covered by the guide of Kazbegi National Park.[^5] Its first rul
 
 **Our tip.** If you plan to go onto ice or towards the summit, take a guide. For extreme sports, GOV.UK's advice is: "consider going with specialist guides".[^1]
 
-**More.** Our [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/) covers the walks to Gergeti and Juta.
+**More.** Our [Kazbegi guide](https://guide.100doc.ge/kazbegi/) covers the walks to Gergeti and Juta.
 
 ### Tusheti
 
@@ -67,7 +67,7 @@ This remote region has its own national park, which lists 11 tourist trails. Con
 
 **The road in.** [Wikipedia](https://en.wikipedia.org/wiki/Abano_Pass) puts the Abano Pass, which links Kakheti and Tusheti, at 2,826 m.[^13] The road over the pass goes above the 2,500 m line; the line refers to where you sleep.[^8]
 
-**More.** See our [Tusheti guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tusheti/) for the road, the season and local customs.
+**More.** See our [Tusheti guide](https://guide.100doc.ge/tusheti/) for the road, the season and local customs.
 
 ### Lagodekhi
 
@@ -93,7 +93,7 @@ Contact the park before you go, dress for rough ground, carry food and water, an
 
 **Edges.** Lagodekhi bans standing "near rock edge or ravine side closer than 0.5 m".[^6] Tusheti asks you not to go nearer than half a metre to the edge of a gorge.[^7]
 
-**Emergency.** Each guide lists "112 emergency number".[^5][^6][^7] Our [112 guide](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) explains how to call.
+**Emergency.** Each guide lists "112 emergency number".[^5][^6][^7] Our [112 guide](https://guide.100doc.ge/ambulance-georgia/) explains how to call.
 
 **Our tip.** Tell your host your route and when you plan to return.
 
@@ -125,7 +125,7 @@ Altitude sickness usually starts above 2,500 m.[^8] The height where you sleep m
 
 **If it gets worse.** "Always attempt to descend if symptoms of altitude illness worsen… or if symptoms are severe. Never leave an individual with altitude illness alone."[^8]
 
-**Where you will be.** Mestia (1,500 m) and Ushguli (2,100 m) are below the line, by Wikipedia's figures.[^11][^12] The road over the Abano Pass (2,826 m) goes above it;[^13] the line refers to where you sleep. Our [altitude guide](https://icebreaker4561.github.io/georgia-healthcare-guide/gudauri-altitude/) explains symptoms in detail.
+**Where you will be.** Mestia (1,500 m) and Ushguli (2,100 m) are below the line, by Wikipedia's figures.[^11][^12] The road over the Abano Pass (2,826 m) goes above it;[^13] the line refers to where you sleep. Our [altitude guide](https://guide.100doc.ge/gudauri-altitude/) explains symptoms in detail.
 
 <!-- схема: img/hike-ready-card.webp | Infographic headed "Before you set off", five cards: 2,500 m — altitude sickness usually above (TravelHealthPro); June–October — Black Rock Lake route (Lagodekhi park); Copy of ID — Machi fortress and Black Rock Lake trails, Lagodekhi; 112 — emergency; 30,000 GEL — entry cover; small source line: TravelHealthPro, nationalparks.ge, Georgian entry rule, checked 19 Nov 2026 | Five things to know before a mountain walk: the 2,500 m line, the Black Rock Lake season, a copy of ID, 112 and 30,000 GEL entry cover -->
 
@@ -133,9 +133,9 @@ Altitude sickness usually starts above 2,500 m.[^8] The height where you sleep m
 
 The main risks are vipers in early summer, shepherds' dogs, lightning and fast-changing mountain conditions.
 
-**Snakes.** The UK health advice lists "venomous snakes (vipers), particularly in early summer – few medical facilities outside major towns have anti-venom".[^3] Our [David Gareja guide](https://icebreaker4561.github.io/georgia-healthcare-guide/david-gareja/) sets out the NHS first aid for a snakebite.
+**Snakes.** The UK health advice lists "venomous snakes (vipers), particularly in early summer – few medical facilities outside major towns have anti-venom".[^3] Our [David Gareja guide](https://guide.100doc.ge/david-gareja/) sets out the NHS first aid for a snakebite.
 
-**Dogs.** The Tusheti park guide warns: "During the tourist season visitors may encounter shepherds' dogs."[^7] GOV.UK lists "rabies – treatment is available in Tbilisi and major towns".[^3] It says: "If you're bitten or scratched by a dog, get medical attention immediately."[^3] See our [rabies guide](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/).
+**Dogs.** The Tusheti park guide warns: "During the tourist season visitors may encounter shepherds' dogs."[^7] GOV.UK lists "rabies – treatment is available in Tbilisi and major towns".[^3] It says: "If you're bitten or scratched by a dog, get medical attention immediately."[^3] See our [rabies guide](https://guide.100doc.ge/rabies-georgia/).
 
 <!-- схема: img/georgia-meadow-dogs.webp | Canva illustration, not a photo of the real place: an alpine meadow with a flock of sheep and a large shepherd dog standing guard, dark storm clouds gathering over the peaks, no text | Our tip: start early, watch the sky and give flocks of sheep a wide berth -->
 
@@ -173,7 +173,7 @@ Treat a sprain with PRICE and a blister with a clean plaster. Dial 112 if a bone
 
 The entry rule sets a minimum. It does not decide what your policy covers on a trail.
 
-**The entry rule.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay;[^14] see [the entry rule on travel cover](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**The entry rule.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay;[^14] see [the entry rule on travel cover](https://guide.100doc.ge/#entry-insurance).
 
 **Your plans.** GOV.UK says: "Insurance should cover your itinerary, planned activities and expenses in an emergency."[^4] On outdoor activities, it adds: "Make sure your travel insurance covers your activities."[^1]
 
@@ -230,4 +230,4 @@ Dial 112 and ask for an ambulance.[^3] GOV.UK warns that in the mountains the em
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

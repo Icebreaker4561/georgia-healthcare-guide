@@ -30,7 +30,7 @@ og: martvili-canyon-boat.webp
 > - Okatse minimum age: 6
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## Martvili Canyon: the trail and the boat {#martvili}
 
@@ -143,15 +143,15 @@ Rain or snow stops the canyon boat and closes the hanging trail; high water stop
 
 These are rural sites, and serious care is in the cities. The Government of Canada's [travel advice](https://travel.gc.ca/destinations/georgia), last updated 27 August 2026, says: "High-quality medical services and facilities are generally available in major cities, such as Tbilisi and Batumi. In rural areas, there are shortages of medical supplies and personnel."[^11] It adds: "First responders may not be able to access rural areas."[^11] The UK's [safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security) warns that "If you get into trouble during hiking, skiing, adventure travel or extreme sports, the emergency response may be limited."[^7]
 
-**In an emergency.** Dial 112. The UK's [health advice for Georgia](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance. Contact your insurance company quickly if you're referred to a medical facility for treatment."[^12] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say.
+**In an emergency.** Dial 112. The UK's [health advice for Georgia](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance. Contact your insurance company quickly if you're referred to a medical facility for treatment."[^12] Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/) and what to say.
 
 **Say where you are.** Our tip: save the village name before you set off: Inchkhuri for the gorge and the boat, Gordi for the hanging trail, Kumistavi for the cave.
 
 **Clinics in Kutaisi.** Kutaisi, the region's big city, has the widest choice of clinics nearby. The catalogue of [clinics in Kutaisi](https://100doc.ge/en/kutaisi/) on 100doc.ge listed 139 clinics when we checked on 19 November 2026.
 
-**Your cover.** Visitors need health and accident cover for their whole stay of at least 30,000~GEL; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Visitors need health and accident cover for their whole stay of at least 30,000~GEL; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance).
 
-**Hot days.** On a summer trip, carry water and read [how to stay well on hot days](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#heat). For roads and crime, see [Is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/)
+**Hot days.** On a summer trip, carry water and read [how to stay well on hot days](https://guide.100doc.ge/batumi/#heat). For roads and crime, see [Is Georgia safe?](https://guide.100doc.ge/is-georgia-safe/)
 
 ## Frequently asked questions {#faq}
 
@@ -200,4 +200,4 @@ Kutaisi has the widest choice of clinics in the area. For an emergency, dial 112
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

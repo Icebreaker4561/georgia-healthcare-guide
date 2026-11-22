@@ -30,7 +30,7 @@ og: tskaltubo-spa-town.webp
 > - Resort course: 14–21 days (resort site)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## What Tskaltubo is {#town}
 
@@ -107,7 +107,7 @@ Source: the resort's booking site, [indications and contraindications](https://w
 - Tell the bathhouse doctor about any condition on the list, even one that is under control.
 - The local doctor decides on your procedures. If the answer is no, accept it.
 
-**Hot water in general.** For who should take care in hot baths, see the health section of our [Tbilisi sulfur baths guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-sulfur-baths/#health).
+**Hot water in general.** For who should take care in hot baths, see the health section of our [Tbilisi sulfur baths guide](https://guide.100doc.ge/tbilisi-sulfur-baths/#health).
 
 ## The abandoned sanatoriums {#sanatoriums}
 
@@ -128,7 +128,7 @@ Wikipedia says most of the Soviet sanatoria are now abandoned and in ruins; some
 - Do not climb into ruined blocks: floors, stairs and roofs can give way.
 - Stay on open ground and keep children close.
 
-**Dogs.** If a dog bites or scratches you, the UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "get medical attention immediately".[^10] See our [rabies guide](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/).
+**Dogs.** If a dog bites or scratches you, the UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "get medical attention immediately".[^10] See our [rabies guide](https://guide.100doc.ge/rabies-georgia/).
 
 ## Sataplia Nature Reserve {#sataplia}
 
@@ -149,7 +149,7 @@ Sataplia is a protected area in the same municipality, with dinosaur footprints,
 
 <!-- схема: img/sataplia-rules.webp | Infographic headed "Sataplia: the park's rules", five cards: Sports shoes — recommended for the trails; Rain or snow — no walking on the glass viewpoint; Mondays — not a working day, per the visitor guide; No pets — pets are not allowed in the park; 112 — emergency number; small source line: nationalparks.ge, checked 19 Nov 2026 | The park's rules for Sataplia: shoes, the glass viewpoint, Mondays, pets and 112 -->
 
-**Prometheus Cave.** The [park's page](https://nationalparks.ge/en/site/prometheuscave) places it in Village Kumistavi, Tskaltubo municipality: "There are 22 halls found, where just 6 halls are open for tourists."[^7] The "1 hour duration trail" ends "within boat tour on River Kumistavi".[^7] The cave's hours block says "Everyday",[^7] but its [visitor guide](https://nationalparks.ge/en/site/prometheuscave/guide) lists "every day except Mondays", so check before you go.[^8] The guide asks you to "wear sports shoes" and warns that "boating is prohibited if the water level rises in the cave".[^8] See also our [Martvili Canyon guide](https://icebreaker4561.github.io/georgia-healthcare-guide/martvili-canyon/#prometheus).
+**Prometheus Cave.** The [park's page](https://nationalparks.ge/en/site/prometheuscave) places it in Village Kumistavi, Tskaltubo municipality: "There are 22 halls found, where just 6 halls are open for tourists."[^7] The "1 hour duration trail" ends "within boat tour on River Kumistavi".[^7] The cave's hours block says "Everyday",[^7] but its [visitor guide](https://nationalparks.ge/en/site/prometheuscave/guide) lists "every day except Mondays", so check before you go.[^8] The guide asks you to "wear sports shoes" and warns that "boating is prohibited if the water level rises in the cave".[^8] See also our [Martvili Canyon guide](https://guide.100doc.ge/martvili-canyon/#prometheus).
 
 ## Getting to Tskaltubo {#getting-there}
 
@@ -163,13 +163,13 @@ The town is a short drive from Kutaisi, the nearest city. Wikipedia says it is "
 
 In an emergency, dial 112. For a doctor or a hospital, the nearest choice is in Kutaisi.
 
-**Emergency.** The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^10] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+**Emergency.** The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^10] Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/).
 
 **Rabies.** The same page says: "rabies – treatment is available in Tbilisi and major towns".[^10] From here, the nearest city is Kutaisi.
 
 **Clinics in Kutaisi.** The catalogue of [doctors and clinics in Kutaisi](https://100doc.ge/en/kutaisi/) on 100doc.ge listed 139 clinics on 19 November 2026. Of these, 25 had a hospital profile and 14 were medical laboratories.
 
-**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance).
 
 **Our tip.**
 
@@ -226,4 +226,4 @@ In Kutaisi, 9 km away: a catalogue listed 139 clinics there on 19 November 2026.
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

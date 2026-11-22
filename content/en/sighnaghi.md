@@ -29,7 +29,7 @@ og: sighnaghi-hill-town.webp
 > - Drink and drive: avoid alcohol (GOV.UK)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## Sighnaghi: the hill town over the Alazani Valley {#sighnaghi}
 
@@ -110,7 +110,7 @@ Our tip: pace yourself, because small pours add up. The [NHS](https://www.nhs.uk
 - You do not have to finish each glass: a sip is enough to taste.
 - Decide before you start how many cellars you will visit that day.
 
-**Heat.** In summer, read our [heat advice in the Batumi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#heat) as well.
+**Heat.** In summer, read our [heat advice in the Batumi guide](https://guide.100doc.ge/batumi/#heat) as well.
 
 <!-- схема: img/tasting-units.webp | Infographic headed "Tasting safely: NHS advice", five numbered cards: 1 Binge — over 8 units (men) or over 6 units (women) in one session; 2 Slowly — drink more slowly; 3 With food — drink with food; 4 Water — alternate with water or soft drinks; 5 Do not drive — avoid alcohol if driving (GOV.UK); small heading: NHS and GOV.UK advice, checked 19 Nov 2026 | Safe tasting in five cards: the binge limit, pace, food, water and no driving -->
 
@@ -129,7 +129,7 @@ Keep an eye on your glass, especially with people you have just met. The UK [saf
 - If you are not sure what is in a bottle, do not drink from it.
 - If you or a friend suddenly feel very drunk or unwell after a small amount, stop drinking, stay together and call 112.
 
-For more on staying safe, read [is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/)
+For more on staying safe, read [is Georgia safe?](https://guide.100doc.ge/is-georgia-safe/)
 
 <!-- схема: img/govuk-spiking.webp | The GOV.UK drink-spiking paragraph, quoted word for word in our frame from the Georgia "Safety and security" page, highlighted; it opens "There have been reports of drink spiking in Georgia." | GOV.UK, Georgia safety page: drink spiking; checked 19 November 2026 -->
 
@@ -143,7 +143,7 @@ If you are driving, skip the tasting. The UK [safety advice](https://www.gov.uk/
 
 **Country roads.** The same advice says roads in rural areas are "sometimes poorly maintained and dangerous", with "stray livestock" among the reasons.[^7]
 
-**Our tip.** Agree on a sober driver before the first glass, or book a driver who will not drink. Read our [guide to driving in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/).
+**Our tip.** Agree on a sober driver before the first glass, or book a driver who will not drink. Read our [guide to driving in Georgia](https://guide.100doc.ge/driving-in-georgia/).
 
 ## Medical help in Kakheti {#health}
 
@@ -151,11 +151,11 @@ Expect fewer options than in the capital. The UK [health advice](https://www.gov
 
 **Rural areas.** The Government of Canada's travel advice says: "In rural areas, there are shortages of medical supplies and personnel."[^7] It adds: "First responders may not be able to access rural areas."[^7]
 
-**In an emergency.** "Dial 112 and ask for an ambulance," the UK says.[^6] You can also use the 112 Georgia mobile app to contact emergency services in English.[^7] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+**In an emergency.** "Dial 112 and ask for an ambulance," the UK says.[^6] You can also use the 112 Georgia mobile app to contact emergency services in English.[^7] Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/).
 
 **Clinics in Telavi.** Telavi is another town in Kakheti. The catalogue of [clinics in Telavi](https://100doc.ge/en/telavi/) on 100doc.ge listed 13 clinics when we checked on 19 November 2026.
 
-**Your cover.** Visitors need health and accident cover of at least 30,000~GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Visitors need health and accident cover of at least 30,000~GEL for their whole stay; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance).
 
 **Our tip.** Bring enough of your regular medicines for the trip, and save 112 and your host's number in your phone.
 
@@ -201,4 +201,4 @@ Outside Tbilisi, facilities are limited, the UK says.[^6] In an emergency, dial 
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

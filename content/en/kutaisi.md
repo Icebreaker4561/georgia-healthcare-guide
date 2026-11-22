@@ -30,7 +30,7 @@ og: kutaisi-rioni.webp
 > - Hottest: August, 30.2 °C
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## Things to do in Kutaisi {#things-to-do}
 
@@ -72,7 +72,7 @@ This complex of monasteries sits above a river bend. [Wikipedia](https://en.wiki
 
 **Our tip.** The site sits on a cliff. Wear shoes with grip and keep children close to you.
 
-**Further out.** Prometheus Cave is about 34 km from the city, by the national parks' figure;[^11] see our [Martvili Canyon guide](https://icebreaker4561.github.io/georgia-healthcare-guide/martvili-canyon/#prometheus). The same guide covers [Martvili Canyon](https://icebreaker4561.github.io/georgia-healthcare-guide/martvili-canyon/) itself, 45 km away by the national parks' figure.[^13] Sataplia, with its dinosaur footprints, and the spa town of Tskaltubo, 9 km away by Wikipedia's figure,[^12] are in our [Tskaltubo guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tskaltubo/).
+**Further out.** Prometheus Cave is about 34 km from the city, by the national parks' figure;[^11] see our [Martvili Canyon guide](https://guide.100doc.ge/martvili-canyon/#prometheus). The same guide covers [Martvili Canyon](https://guide.100doc.ge/martvili-canyon/) itself, 45 km away by the national parks' figure.[^13] Sataplia, with its dinosaur footprints, and the spa town of Tskaltubo, 9 km away by Wikipedia's figure,[^12] are in our [Tskaltubo guide](https://guide.100doc.ge/tskaltubo/).
 
 ## Arriving at Kutaisi airport {#airport}
 
@@ -82,9 +82,9 @@ Flights land 14 km west of the city. The code on your ticket is KUT.
 
 **Into town.** For shuttles and buses, check the official site, [kutaisi.aero](https://kutaisi.aero/), before you fly.[^14] We give no fares or times: we could not check them.
 
-**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance). The UK [entry requirements](https://www.gov.uk/foreign-travel-advice/georgia/entry-requirements) warn: "You may be asked for evidence of this, either by your airline at check-in or by immigration authorities when you arrive in Georgia."[^7]
+**Your cover.** Visitors need health and accident cover of at least 30,000 GEL for their whole stay; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance). The UK [entry requirements](https://www.gov.uk/foreign-travel-advice/georgia/entry-requirements) warn: "You may be asked for evidence of this, either by your airline at check-in or by immigration authorities when you arrive in Georgia."[^7]
 
-**Flying into the capital instead?** See our [Tbilisi airport guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/).
+**Flying into the capital instead?** See our [Tbilisi airport guide](https://guide.100doc.ge/tbilisi-airport/).
 
 **Our tip.** Keep a printed copy of your policy in your hand luggage. Save 112 in your phone before you land.
 
@@ -121,7 +121,7 @@ The figures below are 1991–2020 averages from NOAA, as summarised on [Wikipedi
 
 **Rainy days.** January and March have the most, 12.5 each. August has the fewest, 7.4.
 
-**Our reading.** May and June are warm with less rain than autumn. **Our tip:** whatever the month, pack a rain jacket. To compare the city with the rest of the country, see our [best time to visit Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/) guide.
+**Our reading.** May and June are warm with less rain than autumn. **Our tip:** whatever the month, pack a rain jacket. To compare the city with the rest of the country, see our [best time to visit Georgia](https://guide.100doc.ge/best-time-to-visit-georgia/) guide.
 
 ## Water and food: avoiding a stomach bug {#water-food}
 
@@ -165,13 +165,13 @@ The capital lies to the east and Batumi to the west. For any train, check the of
 
 In an emergency, dial 112. For a problem that can wait, the city has many clinics and a number of hospitals.
 
-**Emergency.** The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^6] Our [112 guide](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) explains how to call and what to say.
+**Emergency.** The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^6] Our [112 guide](https://guide.100doc.ge/ambulance-georgia/) explains how to call and what to say.
 
 **Clinics.** The catalogue of [doctors and clinics in Kutaisi](https://100doc.ge/en/kutaisi/) on 100doc.ge listed 139 clinics on 19 November 2026. Of these, 25 had a hospital profile, 32 a dentistry profile and 14 were medical laboratories.
 
 **Before treatment.** GOV.UK adds: "Contact your insurance company quickly if you're referred to a medical facility for treatment."[^6]
 
-**Dogs.** GOV.UK lists "rabies – treatment is available in Tbilisi and major towns".[^6] It says: "If you're bitten or scratched by a dog, get medical attention immediately."[^6] See our [rabies guide](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/).
+**Dogs.** GOV.UK lists "rabies – treatment is available in Tbilisi and major towns".[^6] It says: "If you're bitten or scratched by a dog, get medical attention immediately."[^6] See our [rabies guide](https://guide.100doc.ge/rabies-georgia/).
 
 **Our tip.**
 
@@ -228,4 +228,4 @@ A catalogue listed 139 clinics in the city on 19 November 2026, 25 of them with 
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

@@ -22,13 +22,13 @@ og: ski-patrol-slope.webp
 > - Ordinary travel cover may exclude sport: check the exclusions in yours.
 > - New headache after going up high? Go no higher and rest; go down if it gets worse, and get urgent help for severe symptoms.
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 18 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 18 November 2026.
 
 ## How high is Gudauri? Altitude at the country's mountain resorts {#altitude}
 
 Lifts at the resort run from about 2,000 m to 3,276 m, according to [Georgia's tourism administration](https://www.georgia.travel/gudauri-in-winter).[^6] It is 120 km from the capital, a drive of 2 to 2.5 hours, and the season lasts from early December to mid-April.[^6]
 
-Other high areas include Mestia in Svaneti and Goderdzi; we found no official elevation figures for them. For Bakuriani, see [our Bakuriani guide](https://icebreaker4561.github.io/georgia-healthcare-guide/bakuriani/). Stepantsminda (Kazbegi) sits at 1,750 m, says the tourism administration:[^7] see [our Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/).
+Other high areas include Mestia in Svaneti and Goderdzi; we found no official elevation figures for them. For Bakuriani, see [our Bakuriani guide](https://guide.100doc.ge/bakuriani/). Stepantsminda (Kazbegi) sits at 1,750 m, says the tourism administration:[^7] see [our Kazbegi guide](https://guide.100doc.ge/kazbegi/).
 
 In winter, snow can block roads and bridges in the mountains, especially in remote areas, and landslides are common, says [the UK government's safety advice](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security).[^2] So reaching a hospital can take longer than you expect.
 
@@ -54,7 +54,7 @@ Call 112 first. Then call the assistance line on your policy. If someone's life 
 
 One number reaches ambulance, police, fire and rescue services around the clock; calls can be handled in English. Say where you are, what happened and which service you need, and stay on the line.
 
-It works without a SIM card, and the official emergency app can share your location: see [how to call an ambulance](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+It works without a SIM card, and the official emergency app can share your location: see [how to call an ambulance](https://guide.100doc.ge/ambulance-georgia/).
 
 The state pays for the ambulance call-out, but not for a visitor's hospital treatment. The UK government's advice adds: "Contact your insurance company quickly if you're referred to a medical facility for treatment."[^1]
 
@@ -115,7 +115,7 @@ Other points in the same wording:
 - Territory: Georgia only.[^8]
 - Assistance line: +995 32 2 949 949. Call it as soon as you can.
 
-Entry is a different matter. Since 1 January 2026, visitors must have health and accident cover of 30,000 GEL, as Georgian law requires ([the 2026 entry insurance rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance)).[^9] Whether that cover pays out for winter sports depends on its wording.
+Entry is a different matter. Since 1 January 2026, visitors must have health and accident cover of 30,000 GEL, as Georgian law requires ([the 2026 entry insurance rule](https://guide.100doc.ge/#entry-insurance)).[^9] Whether that cover pays out for winter sports depends on its wording.
 
 ### What to check in your policy before you ski {#policy-checklist}
 
@@ -172,4 +172,4 @@ The national tourism administration lists a fully equipped medical station and a
 
 This guide is general information, not medical advice: the doctor decides on your treatment.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

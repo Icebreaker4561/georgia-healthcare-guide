@@ -28,7 +28,7 @@ og: georgia-mountain-road-car.webp
 > - Third-party limit: 30,000 GEL per person
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 19 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 19 November 2026.
 
 ## Your licence and the international driving permit {#licence}
 
@@ -59,7 +59,7 @@ The shortest term in the table is 15 days.[^1] We read these amounts on matsne o
 
 **How much it pays out.** Article 6 sets a limit of GEL 30,000 for harm to the life and health of each injured person and GEL 300,000 for each event.[^1] Article 6(2) caps an injured person's medical treatment at half of that GEL 30,000; the full sum is for disability or death.[^1] Article 7 caps property damage at GEL 25,000 for each injured party and GEL 50,000 for each event.[^1]
 
-**What it does not do.** In our reading of Articles 6–7, this is third-party cover: it pays people you injure and owners of things you damage, up to those limits.[^1] It does not pay for your own doctor or hospital. For that, visitors need health and accident cover of at least 30,000 GEL for the whole stay; see [the entry rule on travel insurance](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**What it does not do.** In our reading of Articles 6–7, this is third-party cover: it pays people you injure and owners of things you damage, up to those limits.[^1] It does not pay for your own doctor or hospital. For that, visitors need health and accident cover of at least 30,000 GEL for the whole stay; see [the entry rule on travel insurance](https://guide.100doc.ge/#entry-insurance).
 
 **Where to buy it.** Under Article 3, the patrol police or customs at the border explain the duty to buy the policy "at the border checkpoint"; it can be bought from an insurer, agent or broker, or "by means of electric payment", and it takes effect from the moment of payment.[^1] Our tip: do not drive on before you have paid, and keep the policy in the car until you leave.
 
@@ -71,7 +71,7 @@ Before you sign, check your papers, the cover and the car itself. The border law
 
 **Papers.** Ask the company before the trip whether your licence is enough or an IDP is needed; some rental agencies may require one.[^4]
 
-**Picking up on arrival.** For taxis, money and the first hours after landing, read our [Tbilisi airport guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/).
+**Picking up on arrival.** For taxis, money and the first hours after landing, read our [Tbilisi airport guide](https://guide.100doc.ge/tbilisi-airport/).
 
 **Our tip: before you drive off.**
 
@@ -98,9 +98,9 @@ In rural areas, traffic signs may be in Georgian only.[^4]
 
 **Priority to the right.** Georgia uses the "priority to the right" system.[^4] At intersections you must give way to vehicles coming from the right if you are not in a priority lane, and to vehicles entering roundabouts.[^4]
 
-**Other road users.** Fatal accidents are frequent and among the main causes of death in Georgia.[^4] It is common for people at the wheel to change lanes often, speed, drink and engage in road rage, and that pedestrians often cross in the middle of the road.[^4] The advice for drivers: always drive defensively, ignore road rage, plan your trip and carry a phone and charger.[^4] For crime and other risks, read [Is Georgia safe?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/)
+**Other road users.** Fatal accidents are frequent and among the main causes of death in Georgia.[^4] It is common for people at the wheel to change lanes often, speed, drink and engage in road rage, and that pedestrians often cross in the middle of the road.[^4] The advice for drivers: always drive defensively, ignore road rage, plan your trip and carry a phone and charger.[^4] For crime and other risks, read [Is Georgia safe?](https://guide.100doc.ge/is-georgia-safe/)
 
-**Closures.** The Roads Department publishes a road restrictions page on [georoad.gov.ge](https://georoad.gov.ge/en/restriction).[^4][^5] The mountain road north to Stepantsminda is covered in our [Kazbegi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kazbegi/).
+**Closures.** The Roads Department publishes a road restrictions page on [georoad.gov.ge](https://georoad.gov.ge/en/restriction).[^4][^5] The mountain road north to Stepantsminda is covered in our [Kazbegi guide](https://guide.100doc.ge/kazbegi/).
 
 <!-- схема: img/road-hazards.webp | Infographic headed "Five road hazards in Georgia", five numbered cards: Night — roads outside cities often badly lit; Livestock — stray animals on the road; Priority to the right — yield to cars from the right unless on a priority road; Mountains in winter — snow tires or chains required; Landslides — common, check road restrictions; source line GOV.UK and Government of Canada travel advice | Five road hazards from GOV.UK and other official advice: night, livestock, priority to the right, winter mountains, landslides -->
 
@@ -131,7 +131,7 @@ We give no figure for the limit: our sources do not quote one. Official advice a
 
 ## After a crash: 112, medical care and insurance {#accident}
 
-Make the scene safe, dial 112, then tell your insurer. The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^3] Here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/) and what to say.
+Make the scene safe, dial 112, then tell your insurer. The UK [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) says: "Dial 112 and ask for an ambulance."[^3] Here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/) and what to say.
 
 **Help may take time.** Police response times in remote areas and outside larger cities can be significantly longer.[^4] GOV.UK adds: "Outside Tbilisi, medical facilities are limited."[^3]
 
@@ -192,4 +192,4 @@ Make the scene safe, dial 112 and ask for an ambulance if anyone is hurt, then c
 
 This guide is general information, not legal or medical advice: the law's current text and your doctor decide.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

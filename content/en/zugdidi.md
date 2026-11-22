@@ -33,7 +33,7 @@ og: zugdidi-dadiani-palace.webp
 > - Altitude: 100–110~m (Wikipedia)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
 
 ## Where is Zugdidi, Georgia? {#where}
 
@@ -93,7 +93,7 @@ North of the town stands a dam that has been declared a cultural monument. "To t
 
 ### Anaklia and the Black Sea {#anaklia}
 
-The coast is close. "A thirty-minute drive from the city is Anaklia, a resort town on the Black Sea," the national tourism site says.[^1] For the beach and swimming, read our [guide to the resort](https://icebreaker4561.github.io/georgia-healthcare-guide/anaklia/#beach).
+The coast is close. "A thirty-minute drive from the city is Anaklia, a resort town on the Black Sea," the national tourism site says.[^1] For the beach and swimming, read our [guide to the resort](https://guide.100doc.ge/anaklia/#beach).
 
 ## Zugdidi weather and climate {#weather}
 
@@ -101,7 +101,7 @@ Humid subtropical. Wikipedia, a secondary source, classes the climate as Cfa und
 
 **The averages.** Over the year, Wikipedia gives an average high of 20.6~°C and an average low of 10.4~°C, for 1991–2020.[^6] We found no official climate norms for the town.
 
-**Hot months.** For heat and storms across the country, see [Georgia in summer: heat, UV and storms](https://icebreaker4561.github.io/georgia-healthcare-guide/best-time-to-visit-georgia/#summer).
+**Hot months.** For heat and storms across the country, see [Georgia in summer: heat, UV and storms](https://guide.100doc.ge/best-time-to-visit-georgia/#summer).
 
 **Our tip.** If you are heading on into the mountains, check the forecast for the mountains, not for the lowland town you leave from.
 
@@ -117,17 +117,17 @@ One fast service runs every day. The [Georgian Railway general schedule](https:/
 
 **Journey time.** The general timetable does not mark which times belong to which direction, so we give no journey time.
 
-**Routes and tickets.** See [Routes](https://icebreaker4561.github.io/georgia-healthcare-guide/georgia-trains/#routes) and [How to buy tickets](https://icebreaker4561.github.io/georgia-healthcare-guide/georgia-trains/#tickets) in our guide to Georgian Railway.
+**Routes and tickets.** See [Routes](https://guide.100doc.ge/georgia-trains/#routes) and [How to buy tickets](https://guide.100doc.ge/georgia-trains/#tickets) in our guide to Georgian Railway.
 
 ### By road from Tbilisi, Kutaisi and Batumi {#by-road}
 
 The national tourism site gives times, not kilometres: 4:50 from Tbilisi, 1:40 from Kutaisi and 2:00 from Batumi.[^1]
 
-**Kutaisi airport.** The GNTA [airports page](https://georgia.travel/coming-to-georgia/public-airports-in-georgia) places the airport "in the west of Kutaisi, 14 kilometers away from the city".[^5] We found no official time for the airport-to-town leg. See [Arriving at Kutaisi airport](https://icebreaker4561.github.io/georgia-healthcare-guide/kutaisi/#airport).
+**Kutaisi airport.** The GNTA [airports page](https://georgia.travel/coming-to-georgia/public-airports-in-georgia) places the airport "in the west of Kutaisi, 14 kilometers away from the city".[^5] We found no official time for the airport-to-town leg. See [Arriving at Kutaisi airport](https://guide.100doc.ge/kutaisi/#airport).
 
-**From Batumi.** See the travel section of our [Batumi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/batumi/#getting-there).
+**From Batumi.** See the travel section of our [Batumi guide](https://guide.100doc.ge/batumi/#getting-there).
 
-**Bus and marshrutka.** We found no official timetable or fares for buses or minibuses on these routes. See [What official advice says about marshrutkas](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#official-advice).
+**Bus and marshrutka.** We found no official timetable or fares for buses or minibuses on these routes. See [What official advice says about marshrutkas](https://guide.100doc.ge/marshrutka-georgia/#official-advice).
 
 ### Zugdidi to Mestia: the gateway to Svaneti {#to-mestia}
 
@@ -135,7 +135,7 @@ About three hours by road. The GNTA [page on the mountain town](https://georgia.
 
 **The road.** Beyond the dam, "a road goes between the cliffs and the rushing Enguri River, leading you to Mestia and Ushguli", the site's page on this town reads.[^1] The official pages give no distance in kilometres, so we give none.
 
-**Before you go.** Read [Getting there](https://icebreaker4561.github.io/georgia-healthcare-guide/svaneti/#getting-there) and [The Svan towers](https://icebreaker4561.github.io/georgia-healthcare-guide/svaneti/#mestia) in our mountain guide, and [Night driving, mountains and winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter).
+**Before you go.** Read [Getting there](https://guide.100doc.ge/svaneti/#getting-there) and [The Svan towers](https://guide.100doc.ge/svaneti/#mestia) in our mountain guide, and [Night driving, mountains and winter](https://guide.100doc.ge/driving-in-georgia/#night-winter).
 
 **Our tip.** Leave in the morning to have daylight for the road. If you hire a driver, agree on the trip before you set off.
 
@@ -163,7 +163,7 @@ Under Georgian law, foreigners may enter the occupied region only from the direc
 
 **No help on the spot.** The UK government says it "cannot provide face-to-face support to British nationals" in the occupied regions.[^8]
 
-For the rest of the country, see [Where not to go: Abkhazia and South Ossetia](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#where-not). Near the coast, see [The Abkhazia line near Anaklia](https://icebreaker4561.github.io/georgia-healthcare-guide/anaklia/#abkhazia-line).
+For the rest of the country, see [Where not to go: Abkhazia and South Ossetia](https://guide.100doc.ge/is-georgia-safe/#where-not). Near the coast, see [The Abkhazia line near Anaklia](https://guide.100doc.ge/anaklia/#abkhazia-line).
 
 **Our tip.** Do not try to cross the administrative boundary line. Before a trip towards the line, read the current advice of your government.
 
@@ -175,7 +175,7 @@ In an emergency, dial 112.[^12] On the national tourism site's list, the town ha
 
 One number works around the clock, and its call-takers can handle calls in English. Georgia's [emergency service](https://112.gov.ge/?p=1715) takes calls 24/7 throughout the country; its "call-takers can handle calls in Georgian, English, Azerbaijani, Armenian, Turkish and Russian".[^12]
 
-The UK government's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) puts it simply: "Dial 112 and ask for an ambulance".[^11] Step by step: [How to call an ambulance](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#how-to-call).
+The UK government's [health advice](https://www.gov.uk/foreign-travel-advice/georgia/health) puts it simply: "Dial 112 and ask for an ambulance".[^11] Step by step: [How to call an ambulance](https://guide.100doc.ge/ambulance-georgia/#how-to-call).
 
 **Our tip.** Say the name of the town first, then the street or a landmark, such as the palace.
 
@@ -193,15 +193,15 @@ On K. Gamsakhurdia Street. The GNTA [medical information page](https://georgia.t
 
 Keep away from dogs. The UK government says rabies "treatment is available in Tbilisi and major towns".[^11]
 
-The Government of Canada warns: "Rabies is present in this destination and is carried by dogs and some wildlife, including bats".[^9] If an animal bites or scratches you, read [What to do after a dog bite](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/#first-aid).
+The Government of Canada warns: "Rabies is present in this destination and is carried by dogs and some wildlife, including bats".[^9] If an animal bites or scratches you, read [What to do after a dog bite](https://guide.100doc.ge/rabies-georgia/#first-aid).
 
-**Your cover.** Visitors need health insurance of no less than 30,000 GEL (Georgian lari), says the UK government in its [entry advice](https://www.gov.uk/foreign-travel-advice/georgia/entry-requirements).[^13] More in [Insurance to Enter Georgia (2026 Rule)](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+**Your cover.** Visitors need health insurance of no less than 30,000 GEL (Georgian lari), says the UK government in its [entry advice](https://www.gov.uk/foreign-travel-advice/georgia/entry-requirements).[^13] More in [Insurance to Enter Georgia (2026 Rule)](https://guide.100doc.ge/#entry-insurance).
 
 **Our tip.**
 
 - Bring enough of your regular medicines for the whole trip.
 - Before the mountains, save the emergency number and the K. Gamsakhurdia Street address in your phone.
-- In the heat, drink water and keep to the shade. See [Tap water and bottled water](https://icebreaker4561.github.io/georgia-healthcare-guide/georgian-food/#water).
+- In the heat, drink water and keep to the shade. See [Tap water and bottled water](https://guide.100doc.ge/georgian-food/#water).
 
 <!-- схема: img/zugdidi-health.webp | Infographic headed "Medical help in Zugdidi", five cards: the emergency number — 24/7, English among six languages (112.gov.ge); Zugdidi Referral Hospital — K. Gamsakhurdia St. №206 (GNTA); Outside Tbilisi — medical facilities are limited (GOV.UK); Dog bite — rabies treatment in Tbilisi and major towns (GOV.UK); 30,000 GEL — minimum health cover for visitors (GOV.UK); source line: 112.gov.ge, georgia.travel, GOV.UK, checked 22 Nov 2026 | Outside Tbilisi, medical facilities are limited, says the UK government; the 112 service takes calls 24/7 -->
 
@@ -264,6 +264,6 @@ Checked on 22 November 2026.
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

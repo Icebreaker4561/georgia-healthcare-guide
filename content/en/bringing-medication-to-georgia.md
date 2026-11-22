@@ -20,7 +20,7 @@ og: customs-medicine-bag.webp
 > - Pharmacies sell group III to anyone; for the rest you need a local doctor.[^4]
 > - On the IRAO travel policy, medicines a doctor prescribes for a sudden illness are paid up to 2,000 GEL; self-medication is not.
 
-This page is about the country in the Caucasus — Tbilisi, Batumi and the mountains — not the US state. It is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 17 November 2026.
+This page is about the country in the Caucasus — Tbilisi, Batumi and the mountains — not the US state. It is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 17 November 2026.
 
 ## What medicine is allowed in Georgia: the 10-pack rule {#ten-packs}
 
@@ -132,11 +132,11 @@ Opening hours differ from branch to branch, so check the branch on a map before 
 
 Whatever you buy yourself, without a doctor, you pay for. IRAO, the insurer behind the travel policy sold on 100doc.ge, does not reimburse self-medication. If a doctor treats you for a sudden illness, IRAO pays for medicines for outpatient emergency treatment up to 2,000 GEL, according to the IRAO policy wording.
 
-Since 1 January 2026, foreigners must enter with health and accident insurance of 30,000 GEL, as Georgian law requires.[^2] Our guide explains [the 2026 entry insurance rule](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+Since 1 January 2026, foreigners must enter with health and accident insurance of 30,000 GEL, as Georgian law requires.[^2] Our guide explains [the 2026 entry insurance rule](https://guide.100doc.ge/#entry-insurance).
 
 On IRAO plans there is no deductible. Its assistance line, +995 32 2 949 949, works around the clock; call it no later than 24 hours after you fall ill.
 
-If you have not arranged cover yet, look for [travel insurance that covers emergency treatment](https://100doc.ge/tourist/en). In an emergency, dial 112 first: here is [how to call an ambulance on 112](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/).
+If you have not arranged cover yet, look for [travel insurance that covers emergency treatment](https://100doc.ge/tourist/en). In an emergency, dial 112 first: here is [how to call an ambulance on 112](https://guide.100doc.ge/ambulance-georgia/).
 
 <!-- схема: img/pharmacy-counter-tbilisi.webp | Paper-cut illustration: a pharmacist at a counter in a Tbilisi pharmacy hands a box of medicine to a traveller | After a doctor's visit, the pharmacy dispenses what was prescribed -->
 
@@ -176,4 +176,4 @@ Hours differ by branch of each chain. Check the branch on a map before you go.
 - [Order No. 01-31/N on electronic prescriptions for psychotropic medicines (Matsne, Georgian text)](https://www.matsne.gov.ge/ka/document/download/5433415/0/ge/pdf)
 - [EU Asylum Agency, MedCOI report: provision of healthcare, 2025](https://www.euaa.europa.eu/sites/default/files/publications/2025-03/2025_MedCOI_Georgia_Provision_of_Healthcare.pdf)
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)

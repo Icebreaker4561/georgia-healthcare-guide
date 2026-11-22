@@ -32,7 +32,7 @@ og: dashbashi-canyon.webp
 > - Summer average: +16°
 > - Emergency number: 112
 
-This page is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 21 November 2026.
+This page is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 21 November 2026.
 
 ## Where is Dashbashi Canyon, and why is it also called Tsalka Canyon? {#where}
 
@@ -60,13 +60,13 @@ We found no official timetable, stop or fare for a minibus to the canyon, so pla
 
 The Government of Canada's travel advice is blunt: minibuses called "marshrutka" are "poorly maintained and often lack security features like seatbelts", and it advises avoiding them.[^7] The UK government's travel advice adds that roads outside city centres are often badly lit and poor quality.[^8]
 
-See [Georgia roads: what to expect](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#roads) and [What official advice says](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#official-advice).
+See [Georgia roads: what to expect](https://guide.100doc.ge/driving-in-georgia/#roads) and [What official advice says](https://guide.100doc.ge/marshrutka-georgia/#official-advice).
 
-**Our tip.** Agree on the way back before you leave: a taxi that waits, or a driver for the whole day. Set off early enough to be back in daylight, and read [Night driving, mountains and winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter) if you drive yourself.
+**Our tip.** Agree on the way back before you leave: a taxi that waits, or a driver for the whole day. Set off early enough to be back in daylight, and read [Night driving, mountains and winter](https://guide.100doc.ge/driving-in-georgia/#night-winter) if you drive yourself.
 
 <!-- схема: img/dashbashi-there-and-back.webp | Infographic in four cards: 1, before you go: plan the return, save the emergency number, travel in daylight (our tip); 2, on the road: roads outside city centres are often badly lit and poor quality (UK government advice); 3, on a minibus: the Government of Canada advises avoiding marshrutkas, which are poorly maintained and often lack seatbelts; 4, getting back: no official timetable found, agree a taxi or driver in advance (our tip) | No minibus timetable to the canyon is published, so plan the way back first -->
 
-More day trips from the capital: [David Gareja](https://icebreaker4561.github.io/georgia-healthcare-guide/david-gareja/#getting-there) and [Uplistsikhe](https://icebreaker4561.github.io/georgia-healthcare-guide/uplistsikhe/#getting-there).
+More day trips from the capital: [David Gareja](https://guide.100doc.ge/david-gareja/#getting-there) and [Uplistsikhe](https://guide.100doc.ge/uplistsikhe/#getting-there).
 
 ## Diamond Bridge: the glass bridge over the canyon {#bridge}
 
@@ -115,13 +115,13 @@ The Government of Canada's travel advice says: "Trails are not always marked and
 
 **Our tip.** Walk down in shoes with a ridged sole, with water and a cap. Climb back with stops if it is hot or the path is wet, and be out before the park closes.
 
-See [Sprains, blisters and when to call 112](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/#injuries) and [Snakes, dogs and weather](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/#wildlife).
+See [Sprains, blisters and when to call 112](https://guide.100doc.ge/hiking-in-georgia/#injuries) and [Snakes, dogs and weather](https://guide.100doc.ge/hiking-in-georgia/#wildlife).
 
 ### Waterfalls and the Crying Wall {#waterfalls}
 
 The path passes the waterfalls along the canyon walls.[^1] georgia.travel calls the curtain of small cascades on the rock the Crying Wall.[^1] It is also written Weeping Wall. The sources give individual falls no official names or heights.
 
-For another canyon, in western Georgia, see [Martvili Canyon](https://icebreaker4561.github.io/georgia-healthcare-guide/martvili-canyon/).
+For another canyon, in western Georgia, see [Martvili Canyon](https://guide.100doc.ge/martvili-canyon/).
 
 ## Dashbashi Canyon weather: heat, cold and ice {#weather}
 
@@ -137,7 +137,7 @@ Nothing we found says the canyon closes for the season, but the main cascade fre
 
 <!-- схема: img/dashbashi-frozen-waterfall.webp | Illustration: a frozen waterfall in a canyon on a frosty day, snow on the lava plateau and an icy staircase | In winter, when the temperature drops to −6, the main waterfall freezes -->
 
-The road matters too: snow and heavy rain at higher altitudes can make travel difficult or impossible, the UK government's travel advice says.[^8] See [Night driving, mountains and winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter).
+The road matters too: snow and heavy rain at higher altitudes can make travel difficult or impossible, the UK government's travel advice says.[^8] See [Night driving, mountains and winter](https://guide.100doc.ge/driving-in-georgia/#night-winter).
 
 ## Entrance fee and opening hours {#tickets}
 
@@ -151,7 +151,7 @@ In an emergency, dial 112 and ask for an ambulance, the UK government's travel a
 
 It is the single emergency number: calls are taken 24/7 across the whole country, in Georgian, English, Azerbaijani, Armenian, Turkish and Russian.[^4] The emergency service says your phone must be within a mobile operator's coverage area;[^4] we have no data on coverage inside the canyon, so do not count on a signal.
 
-**Our tip.** Say where you are first: "Dashbashi Canyon, near Dashbashi village, Tsalka Municipality". Then say whether you are on the path, at the bridge or at the visitor centre, how many of you there are and what happened. Send someone to meet the ambulance at the entrance. If your phone shows no network, move to where it does or ask someone at the visitor centre to call. More in [What to tell the operator](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#what-to-say).
+**Our tip.** Say where you are first: "Dashbashi Canyon, near Dashbashi village, Tsalka Municipality". Then say whether you are on the path, at the bridge or at the visitor centre, how many of you there are and what happened. Send someone to meet the ambulance at the entrance. If your phone shows no network, move to where it does or ask someone at the visitor centre to call. More in [What to tell the operator](https://guide.100doc.ge/ambulance-georgia/#what-to-say).
 
 <!-- схема: img/dashbashi-112-card.webp | Infographic card: dial 112, 24/7, English among six languages; say the canyon near the village and the municipality; say where you are, on the trail, at the bridge or at the visitor centre; say how many people and what happened; source, 112.gov.ge | Call-takers answer in six languages, including English and Russian -->
 
@@ -159,9 +159,9 @@ It is the single emergency number: calls are taken 24/7 across the whole country
 
 We found no official list of hospitals or first-aid posts for Tsalka Municipality, so we name none and give no distance. Clinics are listed for the capital, so for anything that is not an emergency expect a drive: the [catalogue of doctors and clinics in Tbilisi](https://100doc.ge/en/tbilisi/) had 574 clinics on 21 November 2026.
 
-Since 1 January 2026, health and accident insurance of at least 30,000 GEL has been required for tourists entering Georgia, under [Resolution No. 602 of the Government of Georgia of 26 December 2025](https://matsne.gov.ge/ka/document/view/6728816).[^11] What the rule asks of you is explained in [Insurance to enter Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance). The UK government also advises insurance that covers local treatment and unexpected medical evacuation.[^10]
+Since 1 January 2026, health and accident insurance of at least 30,000 GEL has been required for tourists entering Georgia, under [Resolution No. 602 of the Government of Georgia of 26 December 2025](https://matsne.gov.ge/ka/document/view/6728816).[^11] What the rule asks of you is explained in [Insurance to enter Georgia](https://guide.100doc.ge/#entry-insurance). The UK government also advises insurance that covers local treatment and unexpected medical evacuation.[^10]
 
-In April 2026 the State Laboratory of Agriculture confirmed rabies in a fox in Tsalka Municipality, the National Food Agency said, as reported by the public broadcaster 1TV; a quarantine was declared at the time.[^12] After a bite or scratch, see [Rabies in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/#first-aid).
+In April 2026 the State Laboratory of Agriculture confirmed rabies in a fox in Tsalka Municipality, the National Food Agency said, as reported by the public broadcaster 1TV; a quarantine was declared at the time.[^12] After a bite or scratch, see [Rabies in Georgia](https://guide.100doc.ge/rabies-georgia/#first-aid).
 
 ## Frequently asked questions {#faq}
 
@@ -214,6 +214,6 @@ Nothing says it closes, but the main cascade freezes and ice is slippery.[^1][^3
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
 
 <!-- /текст -->

@@ -1,5 +1,5 @@
-"""Сборщик микросайта georgia-healthcare-guide: content/<lang>/<slug>.md → <slug>/index.html (en), ru/<slug>/index.html (ru),
-sitemap.xml, robots.txt. Без внешних зависимостей.
+"""Сборщик путеводителя guide.100doc.ge: content/<lang>/<slug>.md → <slug>/index.html (en), ru/<slug>/index.html (ru),
+sitemap.xml, robots.txt, llms.txt. Без внешних зависимостей. Оформление — как у блога 100doc.ge (владелец 22.11.2026).
 
     python3 build/build.py
 
@@ -30,12 +30,12 @@ CSS = re.sub(r"\s*\n\s*", "", CSS)
 UI = {
     "en": {"home": "Georgia Travel Guide", "contents": "On this page", "author": "Author", "reviewed": "Reviewed", "published": "Published", "updated": "Updated", "min": "min read",
            "related": "More practical guides", "faq": "Frequently asked questions", "lang_other": "Русский",
-           "about": "Georgia Travel Guide — an independent practical guide to trips, holidays and healthcare in Georgia (the country) for visitors and expats.",
+           "about": "Georgia Travel Guide — a practical 100doc.ge guide to trips, holidays and healthcare in Georgia (the country) for visitors and expats.",
            "disclaimer": "General information, not medical or legal advice. Rules change: check the official sources before you travel.",
            "skip": "Skip to content", "menu": "Guides", "sources": "Sources"},
     "ru": {"home": "Путеводитель по Грузии", "contents": "Содержание", "author": "Автор", "reviewed": "Проверено", "published": "Опубликовано", "updated": "Обновлено", "min": "мин чтения",
            "related": "Ещё по теме", "faq": "Частые вопросы", "lang_other": "English",
-           "about": "Путеводитель по Грузии — независимый практический гид по поездкам, отдыху и медицине в Грузии для туристов и тех, кто здесь живёт.",
+           "about": "Путеводитель по Грузии — практический гид 100doc.ge по поездкам, отдыху и медицине в Грузии для туристов и тех, кто здесь живёт.",
            "disclaimer": "Это справочная информация, а не медицинская или юридическая консультация. Правила меняются: перед поездкой сверьтесь с официальными источниками.",
            "skip": "К тексту", "menu": "Разделы", "sources": "Источники"},
 }
@@ -54,7 +54,47 @@ MENU_JS = ("document.addEventListener('click',function(e){document.querySelector
            "if(!d.contains(e.target))d.removeAttribute('open')})});document.addEventListener('keydown',function(e){"
            "if(e.key==='Escape'){var d=document.querySelector('details.msec[open]');if(d){d.removeAttribute('open');"
            "d.querySelector('summary').focus()}}});")
-AUTHOR = {"en": "Pavel Sheremetyev", "ru": "Павел Шереметьев"}  # творческий псевдоним (владелец 19.11.2026)
+# Автор и издатель — как в разметке блога 100doc.ge (владелец 22.11.2026; псевдоним снят). Тексты и @id скопированы
+# из JSON-LD статей блога: ru https://100doc.ge/ru/blog/chto-delat-pri-dtp-v-gruzii/, en https://100doc.ge/en/blog/car-accident-in-georgia/
+AUTHOR = {"en": "Alex Polansky", "ru": "Алекс Полански"}
+JOB = {"en": "Founder and CEO of 100doc.ge", "ru": "Основатель и руководитель 100doc.ge"}
+ABOUT = {"en": "https://tourist.100doc.ge/en/about", "ru": "https://tourist.100doc.ge/about"}
+PERSON = {
+    "ru": {"@type": "Person", "@id": "https://tourist.100doc.ge/about#person", "name": "Alex Polansky",
+           "alternateName": "Алекс Полански", "jobTitle": JOB["ru"], "image": "https://tourist.100doc.ge/img/founder-320.webp",
+           "url": ABOUT["ru"]},
+    "en": {"@type": "Person", "@id": "https://tourist.100doc.ge/en/about#person", "name": "Alex Polansky",
+           "jobTitle": JOB["en"], "image": "https://tourist.100doc.ge/img/founder-320.webp", "url": ABOUT["en"]},
+}
+ORG = {"@type": "Organization", "@id": "https://tourist.100doc.ge/#organization", "name": "100doc.ge",
+       "url": "https://tourist.100doc.ge/",
+       "logo": {"@type": "ImageObject", "url": "https://tourist.100doc.ge/logo.png", "width": 360, "height": 100},
+       "sameAs": ["https://www.trustpilot.com/review/tourist.100doc.ge"]}
+# Жёлтая полоса под шапкой на каждой странице (владелец 22.11.2026)
+STRIP = {"ru": ("https://100doc.ge/tourist/", "С 1 января 2026 года страховка обязательна при въезде в Грузию"),
+         "en": ("https://100doc.ge/tourist/en", "Since 1 January 2026, insurance is mandatory to enter Georgia")}
+# Главная по макетам migration/home-mockup-{ru,en}.html (владелец 22.11.2026)
+HOME = {
+    "ru": {"lead": "Путеводитель 100doc.ge", "glance": "Грузия коротко: главное из каждой статьи",
+           "cols": ("Что", "Ответ", "Источник", "Подробно"), "ins": "Страховка для въезда",
+           "buy": ("https://100doc.ge/tourist/", "Оформить полис для въезда на 100doc.ge →"),
+           "checked": "Проверено", "chips_label": "Разделы", "faq_chip": "Частые вопросы", "sos_chip": "Скорая — 112",
+           "tcap": "Путеводитель 100doc.ge. Таблица собирается из статей сама: каждая новая статья добавляет свою строку. "
+                   "Ответ — дословно из блока «Коротко» статьи, источник — первоисточник этого факта.",
+           "trust": "каждый факт со ссылкой на первоисточник", "trust_checked": "проверено"},
+    "en": {"lead": "The 100doc.ge Georgia Travel Guide", "glance": "Georgia at a glance: the key fact from every article",
+           "cols": ("Topic", "Answer", "Source", "Read more"), "ins": "Entry insurance",
+           "buy": ("https://100doc.ge/tourist/en", "Get Georgia entry insurance on 100doc.ge →"),
+           "checked": "Checked", "chips_label": "Sections", "faq_chip": "FAQ", "sos_chip": "Emergency — 112",
+           "tcap": "100doc.ge Georgia Travel Guide. This table is built from the articles: each new article adds its own row. "
+                   "Each answer is quoted from the article's key facts; the source is the official source for that fact.",
+           "trust": "every fact linked to its official source", "trust_checked": "checked"},
+}
+PIN112 = {"ru": "112-v-gruzii", "en": "ambulance-georgia"}
+MATSNE = "https://matsne.gov.ge/ka/document/view/6728816"
+AI_BOTS = ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "PerplexityBot", "ClaudeBot", "Claude-SearchBot", "Google-Extended",
+           "Googlebot", "YandexBot", "Bingbot"]
+SKIPPED = []  # статьи без пункта «Коротко» со сноской — строки в таблице главной нет (печатается при сборке)
 AI_SITE = {"en": "Georgia Travel Guide", "ru": "сайте «Путеводитель по Грузии»"}
 GUIDE_NAME = {"en": "Georgia Travel Guide", "ru": "Путеводитель по Грузии"}
 MONTHS = {"en": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October",
@@ -155,7 +195,9 @@ def parse_md(text, page):
         if in_faq_item is not None:
             q, parts = in_faq_item
             faq.append((html.unescape(q), html.unescape(" ".join(re.sub(r"<[^>]+>", "", re.sub(r'<sup class="fn">.*?</sup>', "", x)) for x in parts)).replace("\xa0", " ")))
-            faq_html.append(f'<details class="qa"><summary>{inline(q)}</summary><div class="a">{"".join(parts)}</div></details>')
+            # на главной вопрос — H3 внутри summary (макет владельца 22.11.2026); в статьях — как было
+            sq = f"<h3>{inline(q)}</h3>" if page["slug"] == "" else inline(q)
+            faq_html.append(f'<details class="qa"><summary>{sq}</summary><div class="a">{"".join(parts)}</div></details>')
             in_faq_item = None
 
     def emit(h):
@@ -305,25 +347,132 @@ def menu_html(page, pre):
     return (f'<nav class="menu" aria-label="{UI[lang]["menu"]}"><div class="wrap mbar">{"".join(parts)}</div></nav>')
 
 
+def tx(s):
+    """Текст для узла HTML (кавычки не трогаем — в атрибуты не идёт)."""
+    return html.escape(s, quote=False)
+
+
+def href_to(p, pre):
+    return f'{pre}{out_rel(p)[:-len("index.html")]}' or "./"
+
+
+def img_size(path):
+    try:
+        from PIL import Image
+        return Image.open(path).size
+    except Exception:
+        return 1280, 720
+
+
+def thumb(p, pre, meta):
+    """Миниатюра карточки — картинка og статьи."""
+    og = meta.get("og")
+    if not og or not (ROOT / "assets" / "img" / p["key"] / og).exists():
+        return ""
+    w, h = img_size(ROOT / "assets" / "img" / p["key"] / og)
+    return (f'<img src="{pre}assets/img/{p["key"]}/{og}" alt="{esc(p["card"])}" width="{w}" height="{h}" '
+            f'loading="lazy" decoding="async">')
+
+
+def hub_card(p, pre):
+    meta = p["_parsed"][0]
+    lang = p["lang"]
+    return (f'<a class="card" href="{href_to(p, pre)}">{thumb(p, pre, meta)}<div class="ct"><h3>{tx(p["card"])}</h3>'
+            f'<p class="card-d">{tx(p.get("card_desc", ""))}</p>'
+            f'<p class="card-dt">{HOME[lang]["checked"]} {fmt_date(meta["updated"], lang)}</p></div></a>')
+
+
 def hubs_html(page, pre):
-    """Главная: три блока карточек по разделам; места — с подзаголовками регионов."""
+    """Главная: H2 на раздел, карточки с H3; у мест регионы — подписи, не заголовки (макет 22.11.2026)."""
     lang = page["lang"]
-
-    def card(p):
-        return (f'<a class="card" href="{pre}{out_rel(p)[:-len("index.html")]}"><span class="card-k">{esc(p.get("kicker", ""))}</span>'
-                f'<span class="card-t">{esc(p["card"])}</span><span class="card-d">{esc(p.get("card_desc", ""))}</span></a>')
-
     out = []
-    for s in SECTIONS:
+    for s in ["places", "health", "practical"]:
         ms = members(lang, s)
         if s == "places":
-            body = "".join(f'<h3 class="hub-reg">{esc(REGION_LABEL[lang][r])}</h3><div class="cards">'
-                           + "".join(card(p) for p in ms if p["region"] == r) + "</div>"
+            body = "".join(f'<p class="grp">{tx(REGION_LABEL[lang][r])}</p><div class="cards">'
+                           + "".join(hub_card(p, pre) for p in ms if p["region"] == r) + "</div>"
                            for r in REGIONS if any(p["region"] == r for p in ms))
         else:
-            body = f'<div class="cards">{"".join(card(p) for p in ms)}</div>'
-        out.append(f'<section class="hub" id="{s}" aria-labelledby="h-{s}"><h2 id="h-{s}">{esc(SEC_LABEL[lang][s])}</h2>{body}</section>')
+            body = f'<div class="cards">{"".join(hub_card(p, pre) for p in ms)}</div>'
+        out.append(f'<section class="hub" id="{s}" aria-labelledby="h-{s}"><h2 id="h-{s}">{tx(SEC_LABEL[lang][s])} '
+                   f'<span class="n">{len(ms)}</span></h2>{body}</section>')
     return "".join(out)
+
+
+def md_parts(page):
+    """Сырые пункты «Коротко» и адреса источников (сноска [^n] = n-й пункт списка под «## Источники» / «## Sources»)."""
+    text = (ROOT / page["src"]).read_text(encoding="utf-8")
+    m = re.search(r"^> \[!facts\][^\n]*\n((?:>.*\n?)+)", text, re.M)
+    bullets = [l[4:] for l in m.group(1).splitlines() if l.startswith("> - ")] if m else []
+    srcs = []
+    sm = re.search(r"^## (?:Источники|Sources)\b[^\n]*\n(.*?)(?=^## |\Z)", text, re.M | re.S)
+    if sm:
+        for line in sm.group(1).splitlines():
+            if re.match(r"^(- |\d+\. )", line):
+                u = re.search(r"\]\((https?://[^)\s]+)\)", line)
+                srcs.append(html.unescape(u.group(1)) if u else "")
+    return bullets, srcs
+
+
+def no_fn(s):
+    return re.sub(r"\s*\[\^\d+\]", "", s)
+
+
+def host(u):
+    return re.sub(r"^https?://(www\.)?", "", u).split("/")[0]
+
+
+def glance_html(page, pre, home_bullets):
+    """Таблица «Грузия коротко»: строка на каждую статью языка; 1-я — 112, 2-я — страховка для въезда (макет 22.11.2026)."""
+    lang = page["lang"]
+    hm = HOME[lang]
+    arts = [p for p in SITE["pages"] if p["lang"] == lang and p["slug"]]
+
+    def row(label, answer, src, more, cls=""):
+        c = f' class="{cls}"' if cls else ""
+        return (f'<tr{c}><th scope="row">{tx(label)}</th><td>{answer}</td><td class="src"><a href="{esc(src)}" rel="noopener">'
+                f'{tx(host(src))}</a></td><td class="more">{more}</td></tr>')
+
+    def art_row(p):
+        meta = p["_parsed"][0]
+        bullets, srcs = md_parts(p)
+        if meta.get("home_fact"):
+            k = int(meta["home_fact"]) - 1
+        else:
+            k = next((i for i, b in enumerate(bullets) if re.search(r"\[\^\d+\]", b)), None)
+        fn = re.findall(r"\[\^(\d+)\]", bullets[k]) if k is not None and k < len(bullets) else []
+        src = srcs[int(fn[0]) - 1] if fn and int(fn[0]) <= len(srcs) else ""
+        if not src:
+            SKIPPED.append(f"{lang}/{p['slug']}")
+            return ""
+        return row(meta.get("crumb", p["card"]), inline(no_fn(bullets[k])), src,
+                   f'<a href="{href_to(p, pre)}">{tx(p["card"])}</a>')
+
+    rows = []
+    pin = next(p for p in arts if p["slug"] == PIN112[lang])
+    rows.append(art_row(pin))
+    ins = next(b for b in home_bullets if re.search(r"30[~,]000", b))
+    rows.append(row(hm["ins"], inline(no_fn(ins)), MATSNE, f'<a class="btn-pink" href="{hm["buy"][0]}">{tx(hm["buy"][1])}</a>', "pin"))
+    groups = [("health", None, SEC_LABEL[lang]["health"]), ("practical", None, SEC_LABEL[lang]["practical"])] + \
+             [("places", r, f'{SEC_LABEL[lang]["places"]} · {REGION_LABEL[lang][r]}') for r in REGIONS]
+    for sec, reg, label in groups:
+        items = [p for p in members(lang, sec) if p.get("section") == sec and (reg is None or p.get("region") == reg) and p is not pin]
+        if not items:
+            continue
+        rows.append(f'<tr class="g"><td colspan="4">{tx(label)}</td></tr>')
+        rows.extend(art_row(p) for p in items)
+    rows = [r for r in rows if r]
+    n = sum(1 for r in rows if not r.startswith('<tr class="g">'))
+    th = "".join(f'<th scope="col">{c}</th>' for c in hm["cols"])
+    return (f'<section class="glance" id="glance" aria-labelledby="glance-h"><h2 id="glance-h">{tx(hm["glance"])} '
+            f'<span class="n">{n}</span></h2><div class="tbl glance-tbl"><table><thead><tr>{th}</tr></thead><tbody>'
+            f'{"".join(rows)}</tbody></table></div><p class="tcap">{tx(hm["tcap"])}</p></section>')
+
+
+def plural_ru(n, one, few, many):
+    if n % 10 == 1 and n % 100 != 11:
+        return one
+    return few if 2 <= n % 10 <= 4 and not 12 <= n % 100 <= 14 else many
 
 
 def fmt_date(d, lang):
@@ -338,6 +487,7 @@ def page_html(page, meta, body, toc, faq):
     pages_same = [p for p in SITE["pages"] if p["lang"] == lang]
     home = next(p for p in pages_same if p["slug"] == "")
     is_home = page["slug"] == ""
+    arts = [p for p in pages_same if p["slug"]]
     words = len(re.sub(r"<[^>]+>", " ", body).split())
     minutes = max(2, round(words / 220))
     # переводы
@@ -351,12 +501,11 @@ def page_html(page, meta, body, toc, faq):
     other = next((p for p in alts if p["lang"] != lang), None)
     other_home = next((p for p in SITE["pages"] if p["lang"] != lang and p["slug"] == ""), None)
     lang_link = other or other_home
-    lang_switch = (f'<a class="lang" href="{pre}{out_rel(lang_link)[:-len("index.html")] or "./"}" hreflang="{lang_link["lang"]}" '
+    lang_switch = (f'<a class="lang" href="{href_to(lang_link, pre)}" hreflang="{lang_link["lang"]}" '
                    f'lang="{lang_link["lang"]}">{ui["lang_other"]}</a>') if lang_link else ""
-    # меню
     nav = menu_html(page, pre)
-    # хлебные крошки: Главная › Раздел (блок главной) › Статья
-    home_href = f'{pre}{out_rel(home)[:-len("index.html")] or "./"}'
+    home_href = href_to(home, pre)
+    # хлебные крошки: Путеводитель по Грузии › Раздел (блок главной) › Статья
     crumbs_ld = [{"@type": "ListItem", "position": 1, "name": ui["home"], "item": url(home)}]
     crumbs = ""
     if not is_home:
@@ -366,56 +515,88 @@ def page_html(page, meta, body, toc, faq):
         crumbs = (f'<nav class="crumbs" aria-label="Breadcrumb"><a href="{home_href}">{ui["home"]}</a><span aria-hidden="true">›</span>'
                   f'<a href="{home_href}#{sec}">{esc(SEC_LABEL[lang][sec])}</a><span aria-hidden="true">›</span>'
                   f'<span>{esc(meta.get("crumb", meta["h1"]))}</span></nav>')
-    # содержание
+    # содержание: справа на компьютере, свёрнутое над текстом на телефоне
     toc_items = [(i, t) for i, t in toc if i not in ("sources",)]
-    toc_html = ""
-    if len(toc_items) >= 3:
-        toc_html = (f'<nav class="toc" aria-label="{ui["contents"]}"><p class="toc-h">{ui["contents"]}</p><ol>'
-                    + "".join(f'<li><a href="#{i}">{inline(t)}</a></li>' for i, t in toc_items) + "</ol></nav>")
-    # похожие
-    # «Ещё по теме» — тот же раздел, сначала тот же регион; на главной — три блока разделов
-    if is_home:
-        related = []
-    else:
+    toc_html = toc_m = ""
+    if len(toc_items) >= 3 and not is_home:
+        items = "".join(f'<li><a href="#{i}">{inline(t)}</a></li>' for i, t in toc_items)
+        toc_html = f'<nav class="toc" aria-label="{ui["contents"]}"><p class="toc-h">{ui["contents"]}</p><ol>{items}</ol></nav>'
+        toc_m = f'<details class="toc-m"><summary>{ui["contents"]}</summary><ol>{items}</ol></details>'
+    # «Ещё по теме» — тот же раздел, сначала тот же регион
+    related = []
+    if not is_home:
         same = [p for p in members(lang, page["section"]) if p is not page]
         related = sorted(same, key=lambda p: 0 if page.get("region") and p.get("region") == page.get("region") else 1)[:3]
-    rel_html = hubs_html(page, pre) if is_home else ""
+    rel_html = ""
     if related:
-        cards = "".join(f'<a class="card" href="{pre}{out_rel(p)[:-len("index.html")]}"><span class="card-k">{esc(p.get("kicker", ""))}</span>'
-                        f'<span class="card-t">{esc(p["card"])}</span><span class="card-d">{esc(p.get("card_desc", ""))}</span></a>'
+        cards = "".join(f'<a class="card" href="{href_to(p, pre)}">{thumb(p, pre, p["_parsed"][0])}<div class="ct">'
+                        f'<span class="card-t">{tx(p["card"])}</span><span class="card-d">{tx(p.get("card_desc", ""))}</span></div></a>'
                         for p in related)
-        rel_title = ui["menu"] if is_home else ui["related"]
-        rel_html = f'<section class="related" aria-labelledby="related"><h2 id="related">{rel_title}</h2><div class="cards">{cards}</div></section>'
+        rel_html = f'<section class="related" aria-labelledby="related"><h2 id="related">{ui["related"]}</h2><div class="cards">{cards}</div></section>'
     # разметка
-    ld = [{
-        "@context": "https://schema.org", "@type": "Article", "headline": meta["h1"], "description": meta["description"],
-        "inLanguage": lang, "datePublished": meta.get("published", meta["updated"]), "dateModified": meta["updated"],
-        "mainEntityOfPage": url(page),
-        "author": {"@type": "Person", "name": AUTHOR[lang]},
-        "publisher": {"@type": "Organization", "name": GUIDE_NAME[lang], "url": f"{BASE}{'ru/' if lang == 'ru' else ''}"},
-    }, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": crumbs_ld}]
+    pub, upd = meta.get("published", meta["updated"]), meta["updated"]
+    og_img = meta.get("og")
+    og_url = f'{BASE}assets/img/{page["key"]}/{og_img}' if og_img else ""
+    if is_home:
+        main_ld = {"@context": "https://schema.org", "@type": "CollectionPage", "@id": url(page) + "#page", "url": url(page),
+                   "name": meta["title"], "description": meta["description"], "inLanguage": lang,
+                   "datePublished": pub, "dateModified": upd,
+                   "about": {"@type": "Country", "name": "Грузия" if lang == "ru" else "Georgia",
+                             "sameAs": ["https://www.wikidata.org/wiki/Q230"]},
+                   "publisher": ORG,
+                   "mainEntity": {"@type": "ItemList", "numberOfItems": len(arts), "itemListElement": [
+                       {"@type": "ListItem", "position": i + 1, "url": url(p), "name": p["card"]} for i, p in enumerate(arts)]}}
+    else:
+        main_ld = {"@context": "https://schema.org", "@type": "Article", "headline": meta["h1"], "description": meta["description"],
+                   "inLanguage": lang, "datePublished": pub, "dateModified": upd, "mainEntityOfPage": url(page),
+                   "author": PERSON[lang], "publisher": ORG}
+        if og_url:
+            main_ld["image"] = og_url
+    ld = [main_ld, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": crumbs_ld}]
     if faq:
         ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]})
     ld_html = "".join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' for x in ld)
-    og_img = meta.get("og")
-    og_img_html = f'<meta property="og:image" content="{BASE}assets/img/{page["key"]}/{og_img}">' if og_img else ""
-    # Выноска «главное» в начале текста — над содержанием: читатель видит ответ раньше списка разделов.
+    og_img_html = f'<meta property="og:image" content="{og_url}">' if og_url else ""
+    # «Коротко» — над текстом
     first_box = ""
-    # блок «Прочитать с ИИ» — в начале каждой статьи, под строкой автора и над «Коротко»; на главных его нет
     ai_box = ai_read.block(lang, url(page), html.unescape(re.sub(r"<[^>]+>", "", inline(meta["h1"]))),
                            site=AI_SITE[lang]).replace("\n", "&#10;") if page["slug"] else ""
     if body.startswith('<aside class="box facts">'):
         cut = body.index("</aside>") + len("</aside>")
         first_box, body = body[:cut], body[cut:]
-    lead = f'<p class="lead">{inline(meta["lead"])}</p>' if meta.get("lead") else ""
-    kicker = f'<p class="kicker">{esc(meta["kicker"])}</p>' if meta.get("kicker") else ""
-    # стандарт, раздел 2 п. 5 и раздел 3 (владелец 19.11.2026): дата публикации и обновления — в тексте, Schema и метатегах одинаковые
-    pub, upd = meta.get("published", meta["updated"]), meta["updated"]
-    reviewed = (f'<span>{ui["author"]}: {AUTHOR[lang]} · {ui["published"]} <time datetime="{pub}">{fmt_date(pub, lang)}</time>'
-                f' · {ui["updated"]} <time datetime="{upd}">{fmt_date(upd, lang)}</time> · {minutes} {ui["min"]}</span>')
-    footer_links = "".join(f'<li><a href="{pre}{out_rel(p)[:-len("index.html")] or "./"}">{esc(p.get("nav") or ui["home"])}</a></li>'
+    kicker = f'<p class="kicker">{esc(meta["kicker"])}</p>' if meta.get("kicker") and not is_home else ""
+    dates = (f'{ui["published"]} <time datetime="{pub}">{fmt_date(pub, lang)}</time>'
+             f' · {ui["updated"]} <time datetime="{upd}">{fmt_date(upd, lang)}</time>')
+    if is_home:
+        hm = HOME[lang]
+        lead_txt = meta["lead"][0].lower() + meta["lead"][1:] if lang == "ru" else meta["lead"]
+        lead = (f'<p class="lead"><strong>{hm["lead"]}</strong> — {inline(lead_txt)}</p>' if lang == "ru" else
+                f'<p class="lead"><strong>{hm["lead"]}</strong> covers places to go, getting around and staying safe. {inline(lead_txt)}</p>')
+        n = len(arts)
+        cnt = f"{n} {plural_ru(n, 'статья', 'статьи', 'статей')}" if lang == "ru" else f"{n} articles"
+        trust = (f'<p class="trust">100doc.ge · {cnt} · {hm["trust"]} · {hm["trust_checked"]} '
+                 f'<time datetime="{upd}">{fmt_date(upd, lang)}</time></p>')
+        chips = (f'<nav class="chips" aria-label="{hm["chips_label"]}">'
+                 + "".join(f'<a class="chip" href="#{s}">{tx(SEC_LABEL[lang][s])}</a>' for s in ("places", "health", "practical"))
+                 + f'<a class="chip" href="#faq">{hm["faq_chip"]}</a><a class="chip" href="#emergency">{hm["sos_chip"]}</a></nav>')
+        hero = f'<h1>{inline(meta["h1"])}</h1>{lead}{trust}<p class="meta">{dates}</p>{chips}'
+        home_bullets = re.findall(r"^> - (.*)$", (ROOT / page["src"]).read_text(encoding="utf-8"), re.M)
+        main_html = (f'{first_box}{glance_html(page, pre, home_bullets)}{hubs_html(page, pre)}'
+                     f'<article class="body home-body">\n{body}\n</article>')
+    else:
+        lead = f'<p class="lead">{inline(meta["lead"])}</p>' if meta.get("lead") else ""
+        byline = (f'<div class="byline"><a class="byline-author" href="{ABOUT[lang]}">'
+                  f'<img class="byline-photo" src="{pre}assets/img/founder-320.webp" width="44" height="44" alt="{AUTHOR[lang]}" decoding="async">'
+                  f'<span class="byline-who"><span class="byline-name">{AUTHOR[lang]}</span><span class="byline-role">{JOB[lang]}</span></span></a>'
+                  f'<p class="meta">{dates} · {minutes} {ui["min"]}</p></div>')
+        hero = f'{crumbs}{kicker}<h1>{inline(meta["h1"])}</h1>{lead}{byline}'
+        lead_box = f'<div class="lead-box">{ai_box}{first_box}{toc_m}</div>' if (ai_box or first_box or toc_m) else ""
+        main_html = (f'<div class="layout">{lead_box}{f"<aside class=\"side\">{toc_html}</aside>" if toc_html else ""}\n'
+                     f'<article class="body">\n{body}\n</article>\n</div>\n{rel_html}')
+    footer_links = "".join(f'<li><a href="{href_to(p, pre)}">{esc(p.get("nav") or ui["home"])}</a></li>'
                            for p in pages_same if p.get("nav") or p["slug"] == "")
+    strip_href, strip_text = STRIP[lang]
     return f"""<!DOCTYPE html>
 <html lang="{lang}">
 <head>
@@ -424,40 +605,61 @@ def page_html(page, meta, body, toc, faq):
 <title>{esc(meta["title"])}</title>
 <meta name="description" content="{esc(meta["description"])}">
 <link rel="canonical" href="{url(page)}">
-{hreflang}<meta property="og:type" content="article"><meta property="og:title" content="{esc(meta["title"])}"><meta property="og:description" content="{esc(meta["description"])}"><meta property="og:url" content="{url(page)}"><meta property="article:published_time" content="{meta.get("published", meta["updated"])}"><meta property="article:modified_time" content="{meta["updated"]}">{og_img_html}
-<meta name="theme-color" content="#f8f5ef">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..700&amp;family=Source+Sans+3:wght@400;600;700&amp;display=swap">
+{hreflang}<meta property="og:type" content="{"website" if is_home else "article"}"><meta property="og:title" content="{esc(meta["title"])}"><meta property="og:description" content="{esc(meta["description"])}"><meta property="og:url" content="{url(page)}"><meta property="og:site_name" content="100doc.ge"><meta property="article:published_time" content="{pub}"><meta property="article:modified_time" content="{upd}">{og_img_html}
+<meta name="theme-color" content="#ffffff">
 <meta name="msvalidate.01" content="30A00B524613BF5613542BB815C007B7">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2314655f'/%3E%3Cpath d='M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230f68ae'/%3E%3Cpath d='M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z' fill='%23fff'/%3E%3C/svg%3E">
 <style>{CSS}</style>
 {ld_html}
 </head>
 <body>
 <a class="skip" href="#main">{ui["skip"]}</a>
 <header class="top"><input type="checkbox" id="mt" class="mt" aria-label="{MENU_BTN[lang]}"><div class="wrap top-in">
-<a class="brand" href="{pre}{out_rel(home)[:-len("index.html")] or "./"}"><span class="mark" aria-hidden="true"></span>{esc(SITE["name"] if lang == "en" else SITE.get("name_ru", SITE["name"]))}</a>
+<a class="logo" href="{home_href}">100doc<span class="logo-ge">.ge</span><span class="logo-g">/Guide</span></a>
 <div class="top-r">{lang_switch}<label for="mt" class="mbtn">{MENU_BTN[lang]}</label></div>
 </div>{nav}</header>
-<div class="hero"><div class="wrap">{crumbs}{kicker}<h1>{inline(meta["h1"])}</h1>{lead}<p class="meta">{reviewed}</p></div></div>
-<main id="main" class="wrap">
-<div class="layout">{f'<div class="lead-box">{ai_box}{first_box}</div>' if (ai_box or first_box) else ""}{f'<aside class="side">{toc_html}</aside>' if toc_html else ""}
-<article class="body">
-{body}
-</article>
-</div>
-{rel_html}
+<div class="law"><div class="wrap"><a href="{strip_href}">{strip_text}</a></div></div>
+<div class="hero{" hero-home" if is_home else ""}"><div class="wrap">{hero}</div></div>
+<main id="main" class="wrap{" home" if is_home else ""}">
+{main_html}
 </main>
 <footer class="foot"><div class="wrap">
+<p class="foot-logo">100doc<span class="logo-ge">.ge</span><span class="logo-g">/Guide</span></p>
 <p>{ui["about"]}</p>
 <ul class="foot-links">{footer_links}</ul>
 <p class="small">{ui["disclaimer"]}</p>
+<p class="small">© 2026 100doc.ge · {GUIDE_NAME[lang]}</p>
 </div></footer>
 {f"<script>{ai_read.JS}</script>" if ai_box else ""}
 <script>{MENU_JS}</script>
 </body>
 </html>
 """
+
+
+def front_raw(page):
+    m = re.match(r"---\n(.*?)\n---\n", (ROOT / page["src"]).read_text(encoding="utf-8"), re.S)
+    return {k.strip(): v.strip().strip('"') for k, v in (l.split(":", 1) for l in m.group(1).splitlines() if ":" in l)}
+
+
+def llms_txt():
+    out = ["# Georgia Travel Guide — guide.100doc.ge", "",
+           "> Practical guide by 100doc.ge to trips, holidays and healthcare in Georgia (the country): places to go, "
+           "getting around, emergencies, entry insurance and doctors. Every fact links to its official source. "
+           "English at the site root, Russian under /ru/.", ""]
+    for lang, head in (("en", "## English"), ("ru", "## Русский")):
+        out += [head, ""]
+        for p in SITE["pages"]:
+            if p["lang"] == lang and p["slug"]:
+                meta = p["_parsed"][0]
+                out.append(f'- [{meta["title"]}]({url(p)}): {meta.get("card_desc", "")}')
+        out.append("")
+    return "\n".join(out)
+
+
+def robots_txt():
+    groups = ["User-agent: *\nAllow: /"] + [f"User-agent: {b}\nAllow: /" for b in AI_BOTS]
+    return "\n\n".join(groups) + f"\n\nSitemap: {BASE}sitemap.xml\n"
 
 
 def main():
@@ -480,8 +682,11 @@ def main():
     sm += [f"<url><loc>{u}</loc><lastmod>{d}</lastmod></url>" for u, d in built]
     sm.append("</urlset>")
     (ROOT / "sitemap.xml").write_text("\n".join(sm) + "\n", encoding="utf-8")
-    (ROOT / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {BASE}sitemap.xml\n", encoding="utf-8")
+    (ROOT / "robots.txt").write_text(robots_txt(), encoding="utf-8")
+    (ROOT / "llms.txt").write_text(llms_txt(), encoding="utf-8")
     print("собрано:", len(built))
+    if SKIPPED:
+        print("нет строки в таблице главной (в «Коротко» нет пункта со сноской):", ", ".join(SKIPPED))
 
 
 if __name__ == "__main__":

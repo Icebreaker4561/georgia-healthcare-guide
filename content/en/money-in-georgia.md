@@ -66,7 +66,7 @@ Carry both, and do not rely on plastic alone once you are outside the big towns.
 
 Can you use a credit or debit card in Georgia, then? The sources we checked do not say how widely they are taken in the towns, only that outside them you may not be able to use one.[^8] So plan each day of the trip around where you will be, not around what works in the capital.
 
-**Getting around.** Paying for the metro and buses with a bank card is covered in our [Tbilisi Metro](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-metro/#fares) guide.
+**Getting around.** Paying for the metro and buses with a bank card is covered in our [Tbilisi Metro](https://guide.100doc.ge/tbilisi-metro/#fares) guide.
 
 **Our tip:** keep two ways to pay in two different places, so one lost wallet does not leave you stuck.
 
@@ -74,7 +74,7 @@ Can you use a credit or debit card in Georgia, then? The sources we checked do n
 
 ### Going to the mountains or villages: take cash in lari {#regions}
 
-Take enough cash in lari if you travel to rural or remote areas.[^8] For a real example of a region where you cannot withdraw money, see the supplies list in our [Tusheti](https://icebreaker4561.github.io/georgia-healthcare-guide/tusheti/#supplies) guide.
+Take enough cash in lari if you travel to rural or remote areas.[^8] For a real example of a region where you cannot withdraw money, see the supplies list in our [Tusheti](https://guide.100doc.ge/tusheti/#supplies) guide.
 
 **How much cash to bring.** The sources we checked name no sum, so neither do we.
 
@@ -114,7 +114,7 @@ Change money only at a registered exchange office and always ask for a receipt: 
 
 **Report a problem.** Call the NBG hotline on 2 406 406 or write to cp@nbg.gov.ge.[^5]
 
-**Arriving by air?** What you find in the arrivals hall is in [Tbilisi Airport Arrival](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi-airport/#arrival).
+**Arriving by air?** What you find in the arrivals hall is in [Tbilisi Airport Arrival](https://guide.100doc.ge/tbilisi-airport/#arrival).
 
 **Our tip:** count the notes at the window before you walk away.
 
@@ -145,7 +145,7 @@ After ordering expensive food and drinks, tourists have been forced to pay high 
 - Do not give your credit card to bar or restaurant staff.
 - Check your bill for accuracy before paying.
 
-There have also been reports of drink spiking in Georgia.[^8] How to keep your drink safe, and what to do about the bill, is in [Is Georgia Safe to Travel in 2026?](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#bars-drinks-and-the-bill)
+There have also been reports of drink spiking in Georgia.[^8] How to keep your drink safe, and what to do about the bill, is in [Is Georgia Safe to Travel in 2026?](https://guide.100doc.ge/is-georgia-safe/#bars-drinks-and-the-bill)
 
 ### Exchange offices and online scams {#exchange-and-online}
 
@@ -167,7 +167,7 @@ GOV.UK puts it this way: "You or your travel insurer will need to pay for all tr
 
 **Prices.** See [what a doctor's appointment costs in Tbilisi](https://100doc.ge/en/blog/doctor-appointment-prices-in-tbilisi/).
 
-**Ambulance and medicines.** Who pays for the ambulance and the hospital is in [Ambulance in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#who-pays); medicines are covered in [Bringing Medication to Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/bringing-medication-to-georgia/#who-pays).
+**Ambulance and medicines.** Who pays for the ambulance and the hospital is in [Ambulance in Georgia](https://guide.100doc.ge/ambulance-georgia/#who-pays); medicines are covered in [Bringing Medication to Georgia](https://guide.100doc.ge/bringing-medication-to-georgia/#who-pays).
 
 **Our tip:** keep some lari for medicines as well, especially outside the cities, and keep every receipt from a clinic.
 
@@ -233,4 +233,4 @@ Watch for prices nobody told you before you ordered and bills that do not add up
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the Georgia Travel Guide](https://guide.100doc.ge/)

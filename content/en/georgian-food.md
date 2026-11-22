@@ -33,7 +33,7 @@ This page is about Georgian food in Georgia the country, not the US state. Check
 
 Begin with khachapuri and khinkali. According to Wikipedia, khachapuri, a cheese-filled bread, is Georgia's national dish, with its own day on 27 February,[^1] and over 250 varieties of cheese are produced in the country.[^11]
 
-The table lists Georgian dishes with facts from the encyclopedia articles in our sources; others you may see on menus, such as chakapuli, ajapsandali and satsivi, are not described here. For the capital's districts and sights, see our [Tbilisi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi/).
+The table lists Georgian dishes with facts from the encyclopedia articles in our sources; others you may see on menus, such as chakapuli, ajapsandali and satsivi, are not described here. For the capital's districts and sights, see our [Tbilisi guide](https://guide.100doc.ge/tbilisi/).
 
 <!-- схема: img/georgian-food-khachapuri.webp | Canva illustration, not a photo: Adjarian khachapuri with an egg yolk and a round Imeretian khachapuri on a wooden table, no text | The Adjarian version is boat-shaped; Imeretian is the most popular form -->
 
@@ -108,13 +108,13 @@ The UK government lists "varying water quality – bottled water is widely avail
 - Skip ice where clean supplies are limited.[^23]
 - Drinks in unopened, factory-sealed cans or bottles "generally can be considered safe", and steaming-hot tea and coffee are "also usually safe".[^25]
 
-**In the capital.** Our [Tbilisi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tbilisi/#water-dogs) covers it in detail.
+**In the capital.** Our [Tbilisi guide](https://guide.100doc.ge/tbilisi/#water-dogs) covers it in detail.
 
 ### Bottled water and Borjomi {#bottled-water}
 
 Besides Borjomi, local brands include Nabeghlavi, Likani and Sairme.[^2]
 
-**At the source.** Naturally carbonated, it rises from springs in the Borjomi Gorge and reaches the surface at 38–41 °C.[^19] Who should go easy on it is covered in our [guide to Borjomi mineral water](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/#mineral-water).
+**At the source.** Naturally carbonated, it rises from springs in the Borjomi Gorge and reaches the surface at 38–41 °C.[^19] Who should go easy on it is covered in our [guide to Borjomi mineral water](https://guide.100doc.ge/borjomi/#mineral-water).
 
 <!-- схема: img/mineral-water-bottles.webp | Canva illustration, not a photo: plain bottles of sparkling water and a glass on a stone ledge by a stream in a green gorge, no labels, logos or text | Borjomi springs reach the surface at 38–41 °C in a gorge of central Georgia -->
 
@@ -126,7 +126,7 @@ The Government of Canada's rule is "Boil it, cook it, peel it, or leave it", and
 - **Take care with:** salads, uncooked fruit and vegetables, anything left uncovered in warm places such as buffets, unpasteurised dairy, and raw or undercooked meat, fish or shellfish.[^25]
 - **Hands:** wash them after the toilet and always before eating.[^26]
 
-Other health risks are in our [Georgia safety guide](https://icebreaker4561.github.io/georgia-healthcare-guide/is-georgia-safe/#health).
+Other health risks are in our [Georgia safety guide](https://guide.100doc.ge/is-georgia-safe/#health).
 
 <!-- схема: img/water-food-careful.webp | Infographic headed "Food and water: what travel-health advice says", with two columns of four cards each and no icons. A line above the heading reads: TravelHealthPro, GOV.UK and CDC general advice, not a rating of Georgian food, checked 21 Nov 2026. Usually advised: sealed bottles and cans; steaming-hot tea and coffee; food served piping hot; fruit you can peel. Take care: tap water, "varying water quality" (GOV.UK); unpasteurised milk and cheese; salads and raw vegetables; street food unless cooked in front of you and served hot | General advice from TravelHealthPro and GOV.UK; not a safety rating of any dish -->
 
@@ -148,7 +148,7 @@ Both spread through contaminated food and water, and TravelHealthPro advises vac
 
 **How common.** The same factsheet puts it at over 20 percent of those who travel to high-risk destinations, without listing which countries those are.[^26]
 
-**On a city trip.** Our [Kutaisi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/kutaisi/#water-food) gives the same official advice in the context of a city break.
+**On a city trip.** Our [Kutaisi guide](https://guide.100doc.ge/kutaisi/#water-food) gives the same official advice in the context of a city break.
 
 ### Symptoms {#symptoms}
 
@@ -164,7 +164,7 @@ The NHS lists feeling or being sick, diarrhoea, tummy pain, a high temperature a
 
 **Dehydration.** Watch for thirst, dark yellow pee, a dry mouth and sunken eyes; a pharmacist can recommend oral rehydration solutions.[^28] Without sachets, TravelHealthPro gives "six level teaspoons of sugar and half a teaspoon of salt to one litre of 'safe' water".[^26]
 
-**Medicine from a pharmacist.** The NHS mentions loperamide, not for children under 12; for adults, TravelHealthPro caps it at two days and rules it out with blood in the stool, a high temperature or severe tummy pain.[^27][^26] Ask a pharmacist or doctor first; what you can buy over the counter is in our [guide to bringing medication to Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/bringing-medication-to-georgia/#buying).
+**Medicine from a pharmacist.** The NHS mentions loperamide, not for children under 12; for adults, TravelHealthPro caps it at two days and rules it out with blood in the stool, a high temperature or severe tummy pain.[^27][^26] Ask a pharmacist or doctor first; what you can buy over the counter is in our [guide to bringing medication to Georgia](https://guide.100doc.ge/bringing-medication-to-georgia/#buying).
 
 ### When to see a doctor {#see-a-doctor}
 
@@ -181,7 +181,7 @@ Georgia has no 111 line. The NHS treats these as needing help now, so see a doct
 
 **TravelHealthPro.** Seek medical care if symptoms do not improve within three days.[^26] Go immediately with a fever of 38°C or more, blood and/or mucus in the stool, altered mental status, severe abdominal pain, jaundice or rash.[^26]
 
-**Emergencies.** The NHS lists vomiting blood or something like ground coffee, a sudden, severe headache or tummy ache, and a stiff neck.[^27] For these, GOV.UK advises asking for an ambulance; see our [ambulance guide](https://icebreaker4561.github.io/georgia-healthcare-guide/ambulance-georgia/#how-to-call).[^20]
+**Emergencies.** The NHS lists vomiting blood or something like ground coffee, a sudden, severe headache or tummy ache, and a stiff neck.[^27] For these, GOV.UK advises asking for an ambulance; see our [ambulance guide](https://guide.100doc.ge/ambulance-georgia/#how-to-call).[^20]
 
 **Cost.** The Government of Canada warns that "immediate up-front cash payment is often required".[^21] GOV.UK advises: "Contact your insurance company quickly if you're referred to a medical facility for treatment."[^20]
 
@@ -195,11 +195,11 @@ A Georgian supra is the traditional feast, always led by a tamada, or toastmaste
 
 **Table manners.** Eating is entirely appropriate during toasts, but talking is frowned upon; guests raise their glasses but do not drink until the speech ends.[^17] Supra traditions entered the national list of intangible heritage in 2017.[^17]
 
-**Georgian wine.** According to Wikipedia, wine has been made in the country for at least 8,000 years, and Kakheti holds 75% of its vineyards.[^15][^14] The same source describes qvevri as egg-shaped earthenware vessels buried below ground or set into cellar floors, and notes that UNESCO added the traditional method of making qvevri wine to its list of intangible cultural heritage in 2013.[^16] For tastings, see our [Sighnaghi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/#wine) and [Telavi](https://icebreaker4561.github.io/georgia-healthcare-guide/telavi/).
+**Georgian wine.** According to Wikipedia, wine has been made in the country for at least 8,000 years, and Kakheti holds 75% of its vineyards.[^15][^14] The same source describes qvevri as egg-shaped earthenware vessels buried below ground or set into cellar floors, and notes that UNESCO added the traditional method of making qvevri wine to its list of intangible cultural heritage in 2013.[^16] For tastings, see our [Sighnaghi guide](https://guide.100doc.ge/sighnaghi/#wine) and [Telavi](https://guide.100doc.ge/telavi/).
 
-**Chacha.** This clear pomace brandy runs from 40% alcohol commercially to 85% home-brewed.[^14] Its strength by law and the methanol risk of homemade bottles are covered in [Chacha in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/chacha-georgia/).
+**Chacha.** This clear pomace brandy runs from 40% alcohol commercially to 85% home-brewed.[^14] Its strength by law and the methanol risk of homemade bottles are covered in [Chacha in Georgia](https://guide.100doc.ge/chacha-georgia/).
 
-**Our tip:** home-made spirit strength varies, so take small sips; read about [drink spiking and home-made spirits](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/#spiking) first.
+**Our tip:** home-made spirit strength varies, so take small sips; read about [drink spiking and home-made spirits](https://guide.100doc.ge/sighnaghi/#spiking) first.
 
 <!-- схема: img/supra-table-qvevri.webp | Canva illustration, not a photo: a long supra table with dishes, wine glasses and a jug, a large clay wine jar on a hill in the vineyard behind it, no people, no text | At a supra only the tamada proposes toasts; guests raise glasses but do not drink until the speech ends -->
 
@@ -271,4 +271,4 @@ With your bare hands: take the first bite, suck out the juices, then leave the t
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
-[Back to the guide](https://icebreaker4561.github.io/georgia-healthcare-guide/)
+[Back to the guide](https://guide.100doc.ge/)
