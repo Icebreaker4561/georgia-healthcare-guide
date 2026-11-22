@@ -21,8 +21,8 @@ og: batonis-tsikhe.webp
 > - The town is in eastern Georgia, the country in the Caucasus, and the tourism administration calls it the region's cultural center.[^1]
 > - From Tbilisi it is about 1 h 55 min by road; the direct road climbs over a pass at 1,620 m.[^1][^2]
 > - In winter, traffic over the pass has at times been limited to high-clearance or off-road vehicles, so check the Roads Department of Georgia before you go.[^7][^9][^11]
-> - In a heatwave, avoid the sun between 11am and 3pm and drink more cold drinks.[^14]
-> - Emergency: dial 112. The town has a regional hospital, Telavi Referral Hospital.[^15][^18]
+> - In a heatwave, avoid the sun between 11am and 3pm and drink more cold drinks.[^15]
+> - Emergency: dial 112. The town has a regional hospital, Telavi Referral Hospital.[^16][^19]
 
 > [!stats]
 > - Gombori Pass: 1,620 m
@@ -37,7 +37,7 @@ This page is about the town in Georgia, the country in the Caucasus, and is part
 
 Plan on a little under two hours by road. Georgian National Tourism Administration gives 1 h 55 min on its page about the town[^1] and 1 h 50 min in its article about the mountain road.[^2]
 
-The direct route crosses the range at 1,620 m.[^2] The pass road, which starts from Tbilisi near Vaziani, is 65 km long, the tourism administration says.[^2] The whole trip from Tbilisi to the town is about 94 km by the shortest route, via Gombori, according to the tourism administration.[^20]
+The direct route crosses the range at 1,620 m.[^2] The pass road, which starts from Tbilisi near Vaziani, is 65 km long, the tourism administration says.[^2] The whole trip from Tbilisi to the town is about 94 km by the shortest route, via Gombori, according to the tourism administration.[^21]
 
 There is a second, slower road that avoids the pass. According to the tourism administration, going round the mountains adds about 40 minutes to the trip.[^2] When that is worth it is covered in [the pass or the detour](#gombori-or-detour) below.
 
@@ -127,13 +127,13 @@ Past winters show what to expect:
 
 The department's home page also carries the headline "Restoration and Stabilization of the Landslide-Damaged Section of the Vaziani–Gombori–Telavi Road Is Underway".[^8] It gives no dates and no location, so we cannot say which stretch is affected or for how long.
 
-The UK government's travel advice warns that "snow at higher altitudes can affect roads and bridges making travel difficult or impossible" and that "landslides are common".[^13] We found no official rule on snow chains or winter tyres for this route. Before a winter drive, read the section [Night driving, mountains and winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter) in our guide to driving in Georgia.
+The UK government's travel advice warns that "snow at higher altitudes can affect roads and bridges making travel difficult or impossible" and that "landslides are common".[^13] From 1 December to 1 March, winter tyres and/or snow chains are compulsory on the stretch from Sasadilo into town, km 27–65 of the pass road from Vaziani, under Government of Georgia Resolution No. 526 of 27 December 2023.[^14] Before a winter drive, read the section [Night driving, mountains and winter](https://icebreaker4561.github.io/georgia-healthcare-guide/driving-in-georgia/#night-winter) in our guide to driving in Georgia.
 
 The department lists a hotline on its site: 032 2 31 30 76.[^7]
 
 ### Motion sickness, stops and calling for help on the pass {#gombori-health}
 
-A mountain road with many bends can make passengers carsick; our page [Motion sickness on mountain roads](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#motion-sickness) has practical advice. If there is an accident or someone becomes seriously unwell, dial 112. The emergency service lists phones without a SIM card among the ways to reach it, but the phone must be within a mobile operator's coverage area.[^16]
+A mountain road with many bends can make passengers carsick; our page [Motion sickness on mountain roads](https://icebreaker4561.github.io/georgia-healthcare-guide/marshrutka-georgia/#motion-sickness) has practical advice. If there is an accident or someone becomes seriously unwell, dial 112. The emergency service lists phones without a SIM card among the ways to reach it, but the phone must be within a mobile operator's coverage area.[^17]
 
 **Our tip.** Tell the operator you are on the pass road from Tbilisi and name the nearest village or the last one you passed. Glance at village signs as you drive, so you have an answer ready. If your phone shows no network where you are, the call cannot get through, so move to where it does.
 
@@ -165,9 +165,9 @@ If you are choosing dates, check the pass for a winter trip and plan around the 
 
 ### Heat exhaustion and heatstroke: the signs {#heat-signs}
 
-Heat exhaustion is a warning; heatstroke is "a medical emergency", says the NHS.[^14] Knowing the difference tells you whether to cool down or to call for help.
+Heat exhaustion is a warning; heatstroke is "a medical emergency", says the NHS.[^15] Knowing the difference tells you whether to cool down or to call for help.
 
-Signs to watch for, according to the NHS, include:[^14]
+Signs to watch for, according to the NHS, include:[^15]
 
 - tiredness;
 - dizziness;
@@ -180,9 +180,9 @@ Signs to watch for, according to the NHS, include:[^14]
 - feeling irritable;
 - pale and clammy skin.
 
-If someone has them, the NHS says to move them to a cool place, take off any unnecessary clothing, cool their skin with water or a fan, and give them plenty of water to drink.[^14]
+If someone has them, the NHS says to move them to a cool place, take off any unnecessary clothing, cool their skin with water or a fan, and give them plenty of water to drink.[^15]
 
-Get emergency help, the NHS says, if the person has signs of the more serious condition, including:[^14]
+Get emergency help, the NHS says, if the person has signs of the more serious condition, including:[^15]
 
 - no improvement after 30 minutes in a cool place;
 - hot skin that is not sweating;
@@ -197,7 +197,7 @@ The NHS page gives UK numbers. In Georgia, dial 112 instead of 999 or 111. How t
 
 ### Sightseeing in the heat {#heat-tips}
 
-Do your walking early and late. The NHS advises people to "avoid the sun between 11am and 3pm" and to "drink more cold drinks".[^14]
+Do your walking early and late. The NHS advises people to "avoid the sun between 11am and 3pm" and to "drink more cold drinks".[^15]
 
 <!-- схема: img/telavi-summer-shade.webp | Craft paper illustration: a small old town street in summer with carved wooden balconies, a big plane tree, a drinking fountain and two people resting on a bench in the shade | The NHS advises staying out of the sun between 11am and 3pm -->
 
@@ -207,7 +207,7 @@ More ideas for hot days: [Batumi: staying healthy in the summer heat](https://ic
 
 ## Medical help in Telavi: hospital, clinics and 112 {#medical-help}
 
-In an emergency, dial 112 and ask for an ambulance; the UK government's travel advice puts it in exactly those words.[^17] For hospital care, the town has a regional hospital on the tourism administration's official list.[^18]
+In an emergency, dial 112 and ask for an ambulance; the UK government's travel advice puts it in exactly those words.[^18] For hospital care, the town has a regional hospital on the tourism administration's official list.[^19]
 
 Below: how the emergency call works, where the hospital is, what other help there is, and what your insurance should cover.
 
@@ -215,9 +215,9 @@ Below: how the emergency call works, where the hospital is, what other help ther
 
 ### Calling the emergency number from the town or the road {#call-112}
 
-Use one number for all emergencies. It is Georgia's single emergency number, set up in 2012, according to [the service itself](https://112.gov.ge/?p=1686).[^15]
+Use one number for all emergencies. It is Georgia's single emergency number, set up in 2012, according to [the service itself](https://112.gov.ge/?p=1686).[^16]
 
-You can speak English. Operators take calls in Georgian, English, Azerbaijani, Armenian, Turkish and Russian, 24/7 across the whole country, according to [the emergency service](https://112.gov.ge/?p=1715).[^16] Phones without a SIM card can call it too, but the service says the phone must be within a mobile operator's coverage area.[^16] The tourism administration says the call is free from any phone, landline or mobile, on any network.[^18]
+You can speak English. Operators take calls in Georgian, English, Azerbaijani, Armenian, Turkish and Russian, 24/7 across the whole country, according to [the emergency service](https://112.gov.ge/?p=1715).[^17] Phones without a SIM card can call it too, but the service says the phone must be within a mobile operator's coverage area.[^17] The tourism administration says the call is free from any phone, landline or mobile, on any network.[^19]
 
 **Our tip.** Say where you are first: the street or a landmark in town, or, on the road, the last village you passed. Then say what happened and how many people need help. Stay on the line until the operator ends the call.
 
@@ -225,13 +225,13 @@ What the operator asks and what happens next: see [Ambulance in Georgia](https:/
 
 ### Is there a hospital in Telavi? {#telavi-hospital}
 
-Yes. Telavi Referral Hospital is on the tourism administration's list of regional hospitals, at V. Sekhniashvili St 1.[^18]
+Yes. Telavi Referral Hospital is on the tourism administration's list of regional hospitals, at V. Sekhniashvili St 1.[^19]
 
 We do not give a phone number for it: on that list the same number appears next to several hospitals. In an emergency, call the emergency number rather than the hospital.
 
-The Ministry of Health runs a hotline, 1505, available around the clock, according to the same page.[^18]
+The Ministry of Health runs a hotline, 1505, available around the clock, according to the same page.[^19]
 
-Keep expectations realistic. The UK government's health advice says: "Outside Tbilisi, medical facilities are limited."[^17]
+Keep expectations realistic. The UK government's health advice says: "Outside Tbilisi, medical facilities are limited."[^18]
 
 For something that is not an emergency, such as a fever, a sore throat or a check after a fall, the town also has clinics. The [catalogue of clinics in Telavi](https://100doc.ge/en/telavi/) listed 13 clinics when we checked on 22 November 2026.
 
@@ -239,9 +239,9 @@ For the rest of the region, see [Medical help in Kakheti](https://icebreaker4561
 
 ### Travel insurance for Kakheti {#insurance}
 
-To enter Georgia you need health and accident cover, and for the trip itself it should also pay for treatment on the spot and medical evacuation.[^17][^19]
+To enter Georgia you need health and accident cover, and for the trip itself it should also pay for treatment on the spot and medical evacuation.[^18][^20]
 
-Since 1 January 2026, tourists entering Georgia must have health and accident cover of at least 30,000~GEL, under [Resolution No. 602 of the Government of Georgia](https://matsne.gov.ge/ka/document/view/6728816).[^19] Some travellers, such as holders of diplomatic passports, are exempt.[^19] What the rule asks of you is explained in [Insurance to enter Georgia (2026 rule)](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
+Since 1 January 2026, tourists entering Georgia must have health and accident cover of at least 30,000~GEL, under [Resolution No. 602 of the Government of Georgia](https://matsne.gov.ge/ka/document/view/6728816).[^20] Some travellers, such as holders of diplomatic passports, are exempt.[^20] What the rule asks of you is explained in [Insurance to enter Georgia (2026 rule)](https://icebreaker4561.github.io/georgia-healthcare-guide/#entry-insurance).
 
 Meeting the entry rule does not by itself mean your travel insurance covers everything you need. Read the policy wording before you go, especially if you plan to drive over the pass in winter.
 
@@ -328,11 +328,11 @@ Yes, it is open all year, but fog and snow can come from the middle of autumn.[^
 
 ### How hot does Telavi get in summer?
 
-We found no official temperatures for the town, so we give none. Avoid the sun between 11am and 3pm and drink more cold drinks, the NHS advises.[^14] Learn the warning signs in the heat section above: overheating can become a medical emergency.[^14]
+We found no official temperatures for the town, so we give none. Avoid the sun between 11am and 3pm and drink more cold drinks, the NHS advises.[^15] Learn the warning signs in the heat section above: overheating can become a medical emergency.[^15]
 
 ### Is there a hospital in Telavi?
 
-Yes: a regional referral hospital at V. Sekhniashvili St 1, on the tourism administration's list.[^18] In an emergency, call the single emergency number.[^15]
+Yes: a regional referral hospital at V. Sekhniashvili St 1, on the tourism administration's list.[^19] In an emergency, call the single emergency number.[^16]
 
 ### Is Telavi worth visiting?
 
@@ -353,6 +353,7 @@ For history and wine country, yes. The tourism administration says King Erekle I
 - [Georgia Today: heavy snowfall restrictions, 19 January 2026](https://georgiatoday.ge/heavy-snowfall-prompts-traffic-restrictions-on-key-road-sections-across-georgia/)
 - [Ministry of Internal Affairs: Vaziani–Gombori–Telavi, 17 February 2021](https://mia.police.ge/en/sapatrulo-politsiis-departamenti-sagzao-usafrtkhoebis-uzrunvelkofis-miznit-shesabamis-ghonisdziebebs-akhortsielebs/14408)
 - [GOV.UK travel advice: safety and security](https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security)
+- [Legislative Herald of Georgia: Resolution No. 526 of 27 December 2023 — road sections requiring winter tyres (Georgian)](https://matsne.gov.ge/ka/document/view/6040563)
 - [NHS: heat exhaustion and heatstroke](https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/)
 - [112 Georgia: about the service](https://112.gov.ge/?p=1686)
 - [112 Georgia: languages](https://112.gov.ge/?p=1715)
