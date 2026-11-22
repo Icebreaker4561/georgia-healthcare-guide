@@ -36,6 +36,14 @@
       "pair": "rabies"
     },
     {
+      "slug": "chacha",
+      "lang": "ru",
+      "src": "content/ru/chacha.md",
+      "kicker": "Напитки и безопасность",
+      "pair": "chacha",
+      "key": "chacha-ru"
+    },
+    {
       "slug": "chacha-georgia",
       "lang": "en",
       "src": "content/en/chacha-georgia.md",
