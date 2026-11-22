@@ -83,25 +83,7 @@ The builder says the new cabins are linked to a control post and have night ligh
 
 ## Katskhi Pillar: where it is and can you climb it? {#katskhi}
 
-It is a rock column about 40 m high by the village of Katskhi. Chiatura Municipality lists it among its sights and calls it the "Katskhi column".[^6]
-
-The municipality places the village temple about 8 km west of the town.[^1] If you are in Chiatura anyway, the pillar is the other big sight of the area, as long as you are happy to see it from below. Our [Katskhi Pillar](https://icebreaker4561.github.io/georgia-healthcare-guide/katskhi-pillar/) guide covers the rock, its churches and the road in full.
-
-### Can you climb the Katskhi Pillar? {#katskhi-climb}
-
-Plan to see it from the ground. The Georgian National Tourism Administration says climbing it is forbidden to ordinary visitors, and that the hermit monk who lives on top usually meets people on the ground.[^5]
-
-The municipality's tourism page, which has no date, still says anyone can go up.[^6] We found no official act that bans the ascent or says when a ban began, so staying on the ground is the safer plan.
-
-**Our tip.** Do not try to go up and do not ask to be let up. Treat the hermitage as a place of prayer, not a viewpoint.
-
-### The church by the pillar and the church in Katskhi village {#katskhi-church}
-
-These are two separate sites. On the pillar's western side, the tourism administration says, there is a church open to visitors.[^5]
-
-The other site is in the village. The tourism administration calls it "a functioning temple, where you can enter freely".[^12] Its date depends on the source: the municipality's tourism page says the early 11th century,[^6] while its "About" page and the regional administration say the 10th.[^1][^8] We found no official hours or dress code for either site.
-
-**Our tip.** Dress modestly, as you would for any Orthodox church in Georgia. See [Visiting churches](https://icebreaker4561.github.io/georgia-healthcare-guide/mtskheta/#church-etiquette) for what that means in practice.
+It is a rock column about 40 m high by the village of Katskhi, which Chiatura Municipality calls the "Katskhi column".[^6] The Georgian National Tourism Administration says ordinary visitors may not climb it,[^5] while the municipality's undated page says anyone can, so plan to see it from the ground.[^6] Katskhi village also has a working church you can enter freely, the tourism administration says;[^12] the climb, both churches and the road are covered in full in our [Katskhi Pillar](https://icebreaker4561.github.io/georgia-healthcare-guide/katskhi-pillar/) guide.
 
 <!-- схема: img/katskhi-pillar.webp | Illustration: a tall rock column with a small church and a cell on top and a church at its foot, people standing on the ground, no one on the ladder | The pillar is about 40 m high, says the municipality: plan to see it from the ground -->
 
