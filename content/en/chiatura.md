@@ -10,7 +10,7 @@ section: places
 region: west
 card: "Chiatura: cable cars and the Katskhi Pillar"
 card_desc: "The mining town of cable cars: old and new lines, the fare, the Katskhi Pillar, the road and 112."
-updated: 2026-11-21
+updated: 2026-11-22
 published: 2026-11-21
 og: chiatura-cable-cars.webp
 ---
@@ -32,7 +32,7 @@ og: chiatura-cable-cars.webp
 > - New cabins since: August 2021
 > - Emergency number: 112
 
-This page is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 21 November 2026.
+This page is part of the [Georgia Travel Guide](https://icebreaker4561.github.io/georgia-healthcare-guide/). Checked on 22 November 2026.
 
 ## Where is Chiatura, and is it worth visiting? {#where}
 
