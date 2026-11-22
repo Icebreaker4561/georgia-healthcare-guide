@@ -197,7 +197,7 @@ A Georgian supra is the traditional feast, always led by a tamada, or toastmaste
 
 **Georgian wine.** According to Wikipedia, wine has been made in the country for at least 8,000 years, and Kakheti holds 75% of its vineyards.[^15][^14] The same source describes qvevri as egg-shaped earthenware vessels buried below ground or set into cellar floors, and notes that UNESCO added the traditional method of making qvevri wine to its list of intangible cultural heritage in 2013.[^16] For tastings, see our [Sighnaghi guide](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/#wine) and [Telavi](https://icebreaker4561.github.io/georgia-healthcare-guide/telavi/).
 
-**Chacha.** This clear pomace brandy runs from 40% alcohol commercially to 85% home-brewed.[^14]
+**Chacha.** This clear pomace brandy runs from 40% alcohol commercially to 85% home-brewed.[^14] Its strength by law and the methanol risk of homemade bottles are covered in [Chacha in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/chacha-georgia/).
 
 **Our tip:** home-made spirit strength varies, so take small sips; read about [drink spiking and home-made spirits](https://icebreaker4561.github.io/georgia-healthcare-guide/sighnaghi/#spiking) first.
 

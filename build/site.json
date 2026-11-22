@@ -36,6 +36,13 @@
       "pair": "rabies"
     },
     {
+      "slug": "chacha-georgia",
+      "lang": "en",
+      "src": "content/en/chacha-georgia.md",
+      "kicker": "Drinks and safety",
+      "pair": "chacha"
+    },
+    {
       "slug": "beshenstvo-v-gruzii",
       "lang": "ru",
       "src": "content/ru/beshenstvo-v-gruzii.md",
