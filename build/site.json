@@ -530,6 +530,14 @@
     },
     {
       "slug": "zugdidi",
+      "lang": "ru",
+      "src": "content/ru/zugdidi.md",
+      "kicker": "Путеводители",
+      "pair": "zugdidi",
+      "key": "zugdidi-ru"
+    },
+    {
+      "slug": "zugdidi",
       "lang": "en",
       "src": "content/en/zugdidi.md",
       "kicker": "Destinations",
