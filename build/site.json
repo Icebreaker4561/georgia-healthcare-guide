@@ -375,6 +375,14 @@
       "key": "anakliya-ru"
     },
     {
+      "slug": "ureki",
+      "lang": "ru",
+      "src": "content/ru/ureki.md",
+      "kicker": "Путеводители",
+      "pair": "ureki",
+      "key": "ureki-ru"
+    },
+    {
       "slug": "poezda-gruzii",
       "lang": "ru",
       "src": "content/ru/poezda-gruzii.md",
