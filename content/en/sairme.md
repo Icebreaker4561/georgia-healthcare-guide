@@ -147,7 +147,7 @@ Drinking at the buvettes, forest walks and an adventure park. Bigger sights are 
 - [Okatse Canyon](https://icebreaker4561.github.io/georgia-healthcare-guide/martvili-canyon/#okatse);
 - Prometheus Cave and Sataplia Cave, both in our [Tskaltubo guide](https://icebreaker4561.github.io/georgia-healthcare-guide/tskaltubo/);
 - [Borjomi-Kharagauli National Park](https://icebreaker4561.github.io/georgia-healthcare-guide/borjomi/#national-park);
-- the [Katskhi Pillar](https://icebreaker4561.github.io/georgia-healthcare-guide/chiatura/#katskhi).
+- the [Katskhi Pillar](https://icebreaker4561.github.io/georgia-healthcare-guide/katskhi-pillar/).
 
 **Our tip.** In the forest, watch where you step: the UK government warns of vipers, especially in early summer.[^6] Keep away from dogs, and if one bites or scratches you, see [Rabies in Georgia](https://icebreaker4561.github.io/georgia-healthcare-guide/rabies-georgia/). More in [Snakes, Dogs and Weather](https://icebreaker4561.github.io/georgia-healthcare-guide/hiking-in-georgia/#wildlife).
 

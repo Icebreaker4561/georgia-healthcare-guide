@@ -492,6 +492,13 @@
       "pair": "sairme"
     },
     {
+      "slug": "katskhi-pillar",
+      "lang": "en",
+      "src": "content/en/katskhi-pillar.md",
+      "kicker": "Destinations",
+      "pair": "katskhi"
+    },
+    {
       "slug": "zugdidi",
       "lang": "en",
       "src": "content/en/zugdidi.md",

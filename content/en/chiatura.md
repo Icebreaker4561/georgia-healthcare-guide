@@ -85,7 +85,7 @@ The builder says the new cabins are linked to a control post and have night ligh
 
 It is a rock column about 40 m high by the village of Katskhi. Chiatura Municipality lists it among its sights and calls it the "Katskhi column".[^6]
 
-The municipality places the village temple about 8 km west of the town.[^1] If you are in Chiatura anyway, the pillar is the other big sight of the area, as long as you are happy to see it from below.
+The municipality places the village temple about 8 km west of the town.[^1] If you are in Chiatura anyway, the pillar is the other big sight of the area, as long as you are happy to see it from below. Our [Katskhi Pillar](https://icebreaker4561.github.io/georgia-healthcare-guide/katskhi-pillar/) guide covers the rock, its churches and the road in full.
 
 ### Can you climb the Katskhi Pillar? {#katskhi-climb}
 
