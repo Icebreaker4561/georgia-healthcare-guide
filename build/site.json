@@ -499,6 +499,13 @@
       "pair": "katskhi"
     },
     {
+      "slug": "sachkhere",
+      "lang": "en",
+      "src": "content/en/sachkhere.md",
+      "kicker": "Destinations",
+      "pair": "sachkhere"
+    },
+    {
       "slug": "zugdidi",
       "lang": "en",
       "src": "content/en/zugdidi.md",
