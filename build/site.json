@@ -469,6 +469,13 @@
       "pair": "tskaltubo"
     },
     {
+      "slug": "sairme",
+      "lang": "en",
+      "src": "content/en/sairme.md",
+      "kicker": "Destinations",
+      "pair": "sairme"
+    },
+    {
       "slug": "kutaisi",
       "lang": "en",
       "src": "content/en/kutaisi.md",
