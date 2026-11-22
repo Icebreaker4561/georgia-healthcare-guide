@@ -31,12 +31,11 @@ class Strip(unittest.TestCase):
         for p in PAGES:
             h = p.read_text(encoding="utf-8")
             href, text = STRIP[lang_of(h)]
-            if not re.search(r'</header>\n<div class="law"><div class="wrap"><a href="' + re.escape(href) + r'">'
-                             + re.escape(text) + r"</a></div></div>", h):
+            # владелец 22.11.2026: полоса как в блоге (law-strip под шапкой и строкой hdr-tagline, иконка слева), вся полоса — ссылка
+            if not re.search(r'</header>\n(<div class="hdr-tagline">[^\n]*</div>\n)?<a class="law-strip" href="'
+                             + re.escape(href) + r'"><p>(<svg [^>]*aria-hidden="true">.*?</svg>)?' + re.escape(text) + r"</p></a>", h):
                 bad.append(str(p.relative_to(ROOT)))
         self.assertEqual(bad, [], "\n".join(bad[:10]))
-        css = (ROOT / "build" / "style.css").read_text(encoding="utf-8")
-        self.assertRegex(css, r"\.law\{[^}]*background:#fef08a")
 
 
 class NoInsurers(unittest.TestCase):
@@ -49,7 +48,7 @@ class NoInsurers(unittest.TestCase):
         bad = []
         for p in PAGES:
             h = p.read_text(encoding="utf-8")
-            chrome = " ".join(re.findall(r'<header class="top">.*?</header>|<div class="law">.*?</div></div>|<footer class="foot">.*?</footer>'
+            chrome = " ".join(re.findall(r'<header class="top">.*?</header>|<div class="hdr-tagline">.*?</div>|<a class="law-strip".*?</a>|<footer class="foot">.*?</footer>'
                                          r'|<section class="glance"[^>]*>.*?</section>', h, re.S))
             m = INSURERS.search(chrome)
             if m:

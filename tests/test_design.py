@@ -1,4 +1,9 @@
-"""Оформление как у блога 100doc.ge (владелец 22.11.2026: путеводитель переезжает на guide.100doc.ge и выглядит как
+"""Оформление как у блога 100doc.ge. Владелец 22.11.2026, вариант А («Да, под шаблон блога»): CSS страницы — CSS шаблона
+блога ~/SEO_Vasiliy/standards/blog-template.html целиком + EXTRA_CSS сборщика блога, разметка блога (site-hdr, law-strip,
+art-head, byline, ai-read, art-body, cf), без полос слева у наших блоков; проверки Inter, #f9fafb, .top, .card, .foot и
+запрета Google Fonts сняты (шрифт — Manrope, как в блоге).
+
+Было (до 22.11.2026, вечер): оформление как у блога 100doc.ge (владелец 22.11.2026: путеводитель переезжает на guide.100doc.ge и выглядит как
 https://100doc.ge/ru/blog/ — белая шапка, светло-серый фон, синие ссылки, розовая кнопка, белые карточки с тонкой рамкой
 и мягкой тенью, системный шрифт в духе Inter, серый подвал). Заменяет прежний тест «как thegeorgianguide.com».
 
@@ -26,6 +31,24 @@ import urllib.parse
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SITE = json.loads((ROOT / "build" / "site.json").read_text(encoding="utf-8"))
 BASE = "https://guide.100doc.ge/"
+TEMPLATE = pathlib.Path.home() / "SEO_Vasiliy" / "standards" / "blog-template.html"
+BLOG_BUILD = pathlib.Path.home() / "SEO_Vasiliy" / "tools" / "blog_article_build.py"
+
+
+# Б1 (владелец 22.11.2026): из CSS шаблона блога вырезано всё, что относится к логотипу страховщика в шапке — ровно эти правила
+CUT_FROM_TEMPLATE = (
+    ".hdr-irao, .hdr-divider { display: none; }",
+    ".hdr-irao { width: auto; height: 15px; flex-shrink: 0; }",
+    ".hdr-divider { width: 1px; height: 20px; background: var(--border); flex-shrink: 0; }",
+    "@media (min-width: 361px) { .hdr-irao, .hdr-divider { display: block; } }",
+    " .hdr-irao { height: 17px; }",
+)
+
+
+def squeeze(css):
+    """То же сжатие, что делает сборщик справочника: без комментариев и переводов строк."""
+    css = re.sub(r"/\*.*?\*/", "", css, flags=re.S)
+    return re.sub(r"\s*\n\s*", "", css).strip()
 META = {"ru": r"Опубликовано <time datetime=\"\d{4}-\d\d-\d\d\">[^<]+</time> · Обновлено <time datetime=\"\d{4}-\d\d-\d\d\">[^<]+</time> · \d+ мин чтения",
         "en": r"Published <time datetime=\"\d{4}-\d\d-\d\d\">[^<]+</time> · Updated <time datetime=\"\d{4}-\d\d-\d\d\">[^<]+</time> · \d+ min read"}
 
@@ -45,10 +68,10 @@ class DesignTest(unittest.TestCase):
         build()
         cls.pages = {p["lang"] + ":" + p["slug"]: (p, (ROOT / rel(p) / "index.html").read_text(encoding="utf-8")) for p in SITE["pages"]}
         cls.art = (ROOT / "ru" / "kazbegi" / "index.html").read_text(encoding="utf-8")
-        cls.css = re.search(r"<style>(.*?)</style>", cls.art, re.S).group(1)
+        # владелец 22.11.2026, А2: общий CSS — в одном файле assets/guide.css (страница его подключает)
+        cls.css = (ROOT / "assets" / "guide.css").read_text(encoding="utf-8")
 
     def test_white_header_with_guide_logo(self):
-        self.assertRegex(self.css, r"\.top\{[^}]*background:#fff")
         bad = []
         for key, (p, h) in self.pages.items():
             m = re.search(r'<header class="top">.*?<a class="logo" href="([^"]+)"[^>]*>(.*?)</a>', h, re.S)
@@ -64,26 +87,59 @@ class DesignTest(unittest.TestCase):
                 bad.append(f"{key}: логотип ведёт на {m.group(1)}")
         self.assertEqual(bad, [], "\n".join(bad[:20]))
 
-    def test_blog_palette_and_font(self):
-        css = self.css.lower()
-        for token, val in {"--paper": "#f9fafb", "--teal": "#0f68ae", "--pink": "#fe1d95", "--line": "#e0e0e8",
-                           "--surface": "#fff", "--ink": "#101820"}.items():
-            self.assertRegex(css, re.escape(token) + r":" + re.escape(val) + r"[;}]", token)
-        self.assertRegex(self.css, r"body\{[^}]*background:var\(--paper\)")
-        self.assertRegex(self.css, r"--sans:Inter,-apple-system,")
-        self.assertRegex(self.css, r"a\{[^}]*color:var\(--teal\)")
+    def test_guide_css_linked(self):
+        """А2: каждая страница подключает один общий файл стилей assets/guide.css (путь — относительно страницы)."""
+        bad = []
         for key, (p, h) in self.pages.items():
-            self.assertNotIn("fonts.googleapis.com", h, key)
+            hrefs = re.findall(r'<link rel="stylesheet" href="([^"]+)">', h)
+            if BASE + "assets/guide.css" not in [urllib.parse.urljoin(BASE + rel(p), x) for x in hrefs]:
+                bad.append(key)
+            if "<style>" in h and len(re.search(r"<style>(.*?)</style>", h, re.S).group(1)) > 2000:
+                bad.append(f"{key}: общий CSS снова встроен в страницу")
+        self.assertEqual(bad, [], "\n".join(bad[:20]))
+
+    def test_no_fraunces(self):
+        for key, (p, h) in self.pages.items():
             self.assertNotIn("Fraunces", h, key)
 
-    def test_cards_and_gray_footer(self):
-        self.assertRegex(self.css, r"\.card\{[^}]*background:var\(--surface\)")
-        self.assertRegex(self.css, r"\.card\{[^}]*border:1px solid var\(--line\)")
-        self.assertRegex(self.css, r"\.card\{[^}]*border-radius:12px")
-        self.assertRegex(self.css, r"\.card\{[^}]*box-shadow:")
-        self.assertRegex(self.css, r"\.foot\{[^}]*background:#f3f4f6")
-        self.assertNotRegex(self.css, r"\.foot\{[^}]*background:var\(--ink\)")
+    def test_pink_button(self):
         self.assertRegex(self.css, r"\.btn-pink\{[^}]*background:var\(--pink\)")
+
+    # ── владелец 22.11.2026, вариант А: «Да, под шаблон блога» — CSS и разметка как у статьи блога 100doc.ge ──
+    def test_blog_css_whole(self):
+        """CSS страницы содержит CSS шаблона блога целиком и EXTRA_CSS сборщика статей блога (в том же сжатии, что у сборщика)."""
+        tpl = TEMPLATE.read_text(encoding="utf-8")
+        tpl_css = re.search(r"<style>(.*?)</style>", tpl, re.S).group(1)
+        for cut in CUT_FROM_TEMPLATE:
+            self.assertEqual(tpl_css.count(cut), 1, f"в шаблоне блога нет вырезаемого правила «{cut}»")
+            tpl_css = tpl_css.replace(cut, "")
+        self.assertNotIn("irao", self.css.lower(), "в CSS осталось правило логотипа страховщика")
+        extra = re.search(r'EXTRA_CSS = """(.*?)"""', BLOG_BUILD.read_text(encoding="utf-8"), re.S).group(1)
+        for name, part in (("шаблон блога", tpl_css), ("EXTRA_CSS", extra)):
+            self.assertIn(squeeze(part), self.css, f"на странице нет CSS: {name}")
+        for key, (p, h) in self.pages.items():
+            self.assertIn("family=Manrope:wght@400;500;600;700;800", h, f"{key}: нет шрифта Manrope, как в блоге")
+
+    def test_no_left_stripes(self):
+        """У наших блоков и блоков «Прочитать с ИИ», «Коротко», оглавления — никаких полос слева (владелец: «вот эта рамка откуда?»)."""
+        bad = []
+        for sel, body in re.findall(r"([^{}@]+)\{([^{}]*)\}", self.css):
+            if re.search(r"\.(box|facts|ai-read|toc|toc-m|stats|card|faq|qa|sources|glance|hub|law|chip|byline|lead|fig|tbl|note|call)\b|blockquote", sel) \
+                    and "border-left" in body:
+                bad.append(sel.strip())
+        self.assertEqual(bad, [], f"border-left у {bad}")
+
+    def test_blog_markup(self):
+        bad = []
+        need_all = ('<div class="site-hdr">', '<a class="law-strip"', '<header class="art-head">', '<div class="byline">',
+                    'class="art-body"', '<div class="cf"')
+        need_art = ('id="ai-read"', '<div class="art-main">', '<section class="page-rate"', '<section class="share"',
+                    '<aside class="author-bio"', '<div class="related-grid">', '<div class="disclaimer">')
+        for key, (p, h) in self.pages.items():
+            for frag in need_all + (need_art if p["slug"] else ()):
+                if frag not in h:
+                    bad.append(f"{key}: нет {frag}")
+        self.assertEqual(bad, [], "\n".join(bad[:30]))
 
     def test_structure_kept(self):
         self.assertRegex(self.art, r'<div class="hero"><div class="wrap">.*?</div></div>')
@@ -112,10 +168,13 @@ class DesignTest(unittest.TestCase):
         self.assertEqual(bad, [], "\n".join(bad[:20]))
 
     def test_layout_side_toc(self):
-        self.assertRegex(self.art, r'<div class="layout">.*<aside class="side"><nav class="toc"')
-        self.assertRegex(self.css, r"@media \(min-width:1024px\)\{[^@]*\.layout\{[^}]*grid-template-columns")
-        self.assertRegex(self.css, r"@media \(min-width:1024px\)\{[^@]*\.toc-m\{display:none\}")
-        self.assertRegex(self.css, r"\.side \.toc\{[^}]*position:sticky")
+        # как в блоге (владелец 22.11.2026): заголовок статьи — в сетке .layout, оглавление справа вровень с крошками и H1,
+        # две колонки — с 1100 px (сетка и липкое оглавление — правила шаблона блога); на телефоне — свёрнутое details.toc-m
+        self.assertRegex(self.art, re.compile(r'<div class="layout"><div class="hero">.*<aside class="side"><nav class="toc"', re.S))
+        self.assertIn("@media (min-width: 1100px) {.layout { grid-template-columns:", self.css)
+        self.assertNotRegex(self.css, r"@media \(min-width:1024px\)")
+        self.assertRegex(self.css, r"@media \(min-width:1100px\)\{[^@]*\.toc-m\{display:none\}")
+        self.assertRegex(self.css, r"@media \(min-width:1100px\)\{[^@]*\.side\{display:contents\}")
         self.assertRegex(self.css, r"(^|\})\.side\{display:none\}")
 
     def test_figures_have_captions(self):
@@ -133,7 +192,7 @@ class DesignTest(unittest.TestCase):
     def test_mobile_basics(self):
         self.assertIn("prefers-reduced-motion", self.css)
         self.assertRegex(self.css, r"\.wrap\{[^}]*padding:0 16px")
-        for sel in (r"\.logo", r"\.lang", r"\.mbtn", r"\.chip", r"\.btn-pink", r"\.law a", r"\.byline-author"):
+        for sel in (r"\.logo", r"\.lang", r"\.mbtn", r"\.chip", r"\.btn-pink", r"a\.law-strip p", r"\.byline-author"):
             self.assertRegex(self.css, sel + r"\{[^}]*min-height:44px", sel)
         self.assertRegex(self.css, r"img\{[^}]*max-width:100%")
         for key, (p, h) in self.pages.items():

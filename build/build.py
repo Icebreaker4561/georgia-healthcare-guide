@@ -15,6 +15,7 @@ import json
 import pathlib
 import re
 import sys
+import urllib.parse
 
 # «Прочитать с ИИ» — тот же модуль, что у статей 100doc.ge (стандарт, раздел 6а; владелец 19.11.2026)
 sys.path.insert(0, str(pathlib.Path.home() / "SEO_Vasiliy" / "tools"))
@@ -23,18 +24,56 @@ import ai_read  # noqa: E402
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SITE = json.loads((ROOT / "build" / "site.json").read_text(encoding="utf-8"))
 BASE = SITE["base"]
-CSS = (ROOT / "build" / "style.css").read_text(encoding="utf-8")
-CSS = re.sub(r"/\*.*?\*/", "", CSS, flags=re.S)
-CSS = re.sub(r"\s*\n\s*", "", CSS)
+
+
+def squeeze(css):
+    """Сжатие CSS: без комментариев и переводов строк (тест test_design сжимает шаблон блога так же)."""
+    css = re.sub(r"/\*.*?\*/", "", css, flags=re.S)
+    return re.sub(r"\s*\n\s*", "", css).strip()
+
+
+# Оформление 1:1 как у блога 100doc.ge (владелец 22.11.2026, вариант А «Да, под шаблон блога»): CSS и куски разметки
+# берутся из самого шаблона блога и его сборщика, а не переписываются руками.
+BLOG_TPL = (pathlib.Path.home() / "SEO_Vasiliy" / "standards" / "blog-template.html").read_text(encoding="utf-8")
+BLOG_BUILD = (pathlib.Path.home() / "SEO_Vasiliy" / "tools" / "blog_article_build.py").read_text(encoding="utf-8")
+BLOG_CSS = re.search(r"<style>(.*?)</style>", BLOG_TPL, re.S).group(1)
+# Б1 (владелец 22.11.2026): без правил логотипа страховщика в шапке. Класс картинки страховщика берём из разметки шапки
+# шаблона (картинка после разделителя hdr-divider), чтобы не писать название страховщика в сборщике; вырезаем её правила,
+# правила разделителя и опустевший @media. Точный перечень вырезанного проверяет tests/test_design.py.
+_INS = re.search(r'<span class="hdr-divider"[^>]*></span>\s*<img class="([\w-]+)"', BLOG_TPL).group(1)
+for _sel in (rf"\.{_INS}, \.hdr-divider", rf"\.{_INS}", r"\.hdr-divider"):
+    BLOG_CSS = re.sub(rf" ?{_sel} \{{[^}}]*\}}", "", BLOG_CSS)
+BLOG_CSS = re.sub(r"@media \([^)]*\) \{\s*\}\n?", "", BLOG_CSS)
+BLOG_EXTRA_CSS = re.search(r'EXTRA_CSS = """(.*?)"""', BLOG_BUILD, re.S).group(1)
+BLOG_ANCHOR_JS = re.search(r'ANCHOR_JS = r"""(.*?)"""', BLOG_BUILD, re.S).group(1)
+CSS = "".join(squeeze(x) for x in (BLOG_CSS, BLOG_EXTRA_CSS, ai_read.CSS,
+                                    (ROOT / "build" / "blog-cf.css").read_text(encoding="utf-8"),
+                                    (ROOT / "build" / "style.css").read_text(encoding="utf-8")))
+
+
+def tpl_part(rx):
+    """Кусок разметки шаблона блога одной строкой (переводы строк и отступы — убраны)."""
+    return re.sub(r">\s*\n\s*<", "><", re.search(rx, BLOG_TPL, re.S).group(0)).replace("\n", " ")
+
+
+TPL_LAW_ICON = re.search(r'<div class="law-strip">\s*<p>(<svg .*?</svg>)', BLOG_TPL, re.S).group(1)
+TPL_PHONE = tpl_part(r'<a class="hdr-phone".*?</a>')
+TPL_SHARE = tpl_part(r'<section class="share".*?</section>')
+TPL_RATE = tpl_part(r'<section class="page-rate".*?</section>')
+TPL_RATE_JS = re.search(r"ОЦЕНКА СТРАНИЦЫ: поведение ═══ -->\s*<script>(.*?)</script>", BLOG_TPL, re.S).group(1)
+# английские подписи — как на английских статьях блога (https://100doc.ge/en/blog/car-accident-in-georgia/)
+TPL_EN = [("Позвонить: ", "Call: "), (">Поделиться<", ">Share<"), (">ВКонтакте<", ">VK<"),
+          (">Была ли страница полезной?<", ">Was this helpful?<"), ("Да</button>", "Yes</button>"),
+          ("Нет</button>", "No</button>"), (">Спасибо за ответ!<", ">Thank you for your feedback!<")]
 
 UI = {
-    "en": {"home": "Georgia Travel Guide", "contents": "On this page", "author": "Author", "reviewed": "Reviewed", "published": "Published", "updated": "Updated", "min": "min read",
-           "related": "More practical guides", "faq": "Frequently asked questions", "lang_other": "Русский",
+    "en": {"home": "Georgia Travel Guide", "contents": "Contents", "author": "Author", "reviewed": "Reviewed", "published": "Published", "updated": "Updated", "min": "min read",
+           "related": "Related articles", "faq": "Frequently asked questions", "lang_other": "Русский",
            "about": "Georgia Travel Guide — a practical 100doc.ge guide to trips, holidays and healthcare in Georgia (the country) for visitors and expats.",
            "disclaimer": "General information, not medical or legal advice. Rules change: check the official sources before you travel.",
            "skip": "Skip to content", "menu": "Guides", "sources": "Sources"},
     "ru": {"home": "Путеводитель по Грузии", "contents": "Содержание", "author": "Автор", "reviewed": "Проверено", "published": "Опубликовано", "updated": "Обновлено", "min": "мин чтения",
-           "related": "Ещё по теме", "faq": "Частые вопросы", "lang_other": "English",
+           "related": "Похожие материалы", "faq": "Частые вопросы", "lang_other": "English",
            "about": "Путеводитель по Грузии — практический гид 100doc.ge по поездкам, отдыху и медицине в Грузии для туристов и тех, кто здесь живёт.",
            "disclaimer": "Это справочная информация, а не медицинская или юридическая консультация. Правила меняются: перед поездкой сверьтесь с официальными источниками.",
            "skip": "К тексту", "menu": "Разделы", "sources": "Источники"},
@@ -89,6 +128,21 @@ HOME = {
            "tcap": "100doc.ge Georgia Travel Guide. This table is built from the articles: each new article adds its own row. "
                    "Each answer is quoted from the article's key facts; the source is the official source for that fact.",
            "trust": "every fact linked to its official source", "trust_checked": "checked"},
+}
+# Подписи блоков блога. Тексты — со статей блога (ru «Что делать при ДТП в Грузии», en «Car accident in Georgia»);
+# био автора без названия страховщика (в блоге оно есть — у нас его быть не должно): en — вторая фраза био блога,
+# ru — её перевод. Строка под шапкой — hdr-tagline шаблона блога.
+BLOG_UI = {
+    "ru": {"tagline": "Страховка, которая действительно работает в Грузии", "about_author": "Об авторе",
+           "more": "Подробнее об авторе", "photo_alt": "Алекс Полански, основатель и руководитель 100doc.ge",
+           "bio": "Мы сверяем статьи путеводителя с официальными текстами на matsne.gov.ge и сайтах госорганов Грузии.",
+           "all_articles": "Статьи путеводителя",
+           "eco": '<li><a href="https://100doc.ge/ru/">Отзывы о врачах</a></li><li><a href="https://100doc.ge/ru/blog/">Блог</a></li>'},
+    "en": {"tagline": "Insurance that actually works in Georgia", "about_author": "About the author",
+           "more": "More about the author", "photo_alt": "Alex Polansky, founder of 100doc.ge",
+           "bio": "We check our guides against the official texts on matsne.gov.ge and Georgian government websites.",
+           "all_articles": "Guide articles",
+           "eco": '<li><a href="https://100doc.ge/en/">Doctor reviews</a></li><li><a href="https://100doc.ge/en/blog/">Blog</a></li>'},
 }
 PIN112 = {"ru": "112-v-gruzii", "en": "ambulance-georgia"}
 MATSNE = "https://matsne.gov.ge/ka/document/view/6728816"
@@ -168,7 +222,7 @@ def figure(spec, page):
     img = f'<img src="{src}"{srcset} alt="{esc(alt)}" width="{w}" height="{h}" loading="lazy" decoding="async">'
     body = f"<picture>{mob_src}{img}</picture>" if mob_src else img
     capt = f"<figcaption>{inline(cap)}</figcaption>" if cap else ""
-    cls = "fig sq" if abs(w / h - 1) <= 0.03 else "fig"
+    cls = "fig sq" if abs(w / h - 1) <= 0.03 else "fig"  # класс ровно «fig»/«fig sq» (тесты статей); вид — .art-figure блога
     return f'<figure class="{cls}">{body}{capt}</figure>'
 
 
@@ -197,7 +251,7 @@ def parse_md(text, page):
             faq.append((html.unescape(q), html.unescape(" ".join(re.sub(r"<[^>]+>", "", re.sub(r'<sup class="fn">.*?</sup>', "", x)) for x in parts)).replace("\xa0", " ")))
             # на главной вопрос — H3 внутри summary (макет владельца 22.11.2026); в статьях — как было
             sq = f"<h3>{inline(q)}</h3>" if page["slug"] == "" else inline(q)
-            faq_html.append(f'<details class="qa"><summary>{sq}</summary><div class="a">{"".join(parts)}</div></details>')
+            faq_html.append(f'<details class="qa"><summary>{sq}</summary><div class="a"><div class="faq-a">{"".join(parts)}</div></div></details>')
             in_faq_item = None
 
     def emit(h):
@@ -287,7 +341,10 @@ def render_block(b, section):
         tr = "".join("<tr>" + "".join(f"<td data-label=\"{esc(re.sub(r'[*]', '', head[i]))}\">{inline(c)}</td>" for i, c in enumerate(r)) + "</tr>" for r in data)
         # Числовая таблица (все ячейки, кроме первой колонки, до 6 знаков) остаётся сеткой на телефоне — tests/test_compact_table.py
         num = all(len(re.sub(r"[*~]", "", c)) <= 6 for r in data for c in r[1:])
-        return f'<div class="tbl{" num" if num else ""}"><table><thead><tr>{th}</tr></thead><tbody>{tr}</tbody></table></div>'
+        # div.tbl и голый <table> — для тестов статей; вид — .table-wrap/.data-table блога (правила в style.css, «.tbl table»)
+        wide = " tbl-wide" if len(head) >= 4 else ""
+        return (f'<div class="tbl{" num" if num else " table-wrap scroll-x" + wide}"><table>'
+                f'<thead><tr>{th}</tr></thead><tbody>{tr}</tbody></table></div>')
     if re.match(r"^(- |\d+\. )", first):
         ordered = bool(re.match(r"\d+\. ", first))
         items, cur = [], None
@@ -515,24 +572,25 @@ def page_html(page, meta, body, toc, faq):
         crumbs = (f'<nav class="crumbs" aria-label="Breadcrumb"><a href="{home_href}">{ui["home"]}</a><span aria-hidden="true">›</span>'
                   f'<a href="{home_href}#{sec}">{esc(SEC_LABEL[lang][sec])}</a><span aria-hidden="true">›</span>'
                   f'<span>{esc(meta.get("crumb", meta["h1"]))}</span></nav>')
-    # содержание: справа на компьютере, свёрнутое над текстом на телефоне
+    # содержание: справа на компьютере (nav.toc блога), свёрнутое над текстом на телефоне (details.toc-m)
     toc_items = [(i, t) for i, t in toc if i not in ("sources",)]
     toc_html = toc_m = ""
     if len(toc_items) >= 3 and not is_home:
         items = "".join(f'<li><a href="#{i}">{inline(t)}</a></li>' for i, t in toc_items)
-        toc_html = f'<nav class="toc" aria-label="{ui["contents"]}"><p class="toc-h">{ui["contents"]}</p><ol>{items}</ol></nav>'
+        toc_html = (f'<nav class="toc" aria-labelledby="toc-title"><p class="toc-title" id="toc-title">{ui["contents"]}</p>'
+                    f'<ol>{items}</ol></nav>')
         toc_m = f'<details class="toc-m"><summary>{ui["contents"]}</summary><ol>{items}</ol></details>'
-    # «Ещё по теме» — тот же раздел, сначала тот же регион
+    # «Похожие материалы» — тот же раздел, сначала тот же регион; карточки — card-link блога
     related = []
     if not is_home:
         same = [p for p in members(lang, page["section"]) if p is not page]
         related = sorted(same, key=lambda p: 0 if page.get("region") and p.get("region") == page.get("region") else 1)[:3]
     rel_html = ""
     if related:
-        cards = "".join(f'<a class="card" href="{href_to(p, pre)}">{thumb(p, pre, p["_parsed"][0])}<div class="ct">'
-                        f'<span class="card-t">{tx(p["card"])}</span><span class="card-d">{tx(p.get("card_desc", ""))}</span></div></a>'
-                        for p in related)
-        rel_html = f'<section class="related" aria-labelledby="related"><h2 id="related">{ui["related"]}</h2><div class="cards">{cards}</div></section>'
+        cards = "".join(f'<a class="card" href="{href_to(p, pre)}"><span class="card-label">{tx(SEC_LABEL[lang][p["section"]])}</span>'
+                        f'<span class="card-title">{tx(p["card"])}</span></a>' for p in related)
+        rel_html = (f'<section class="related" aria-labelledby="related"><h2 id="related">{ui["related"]}</h2>'
+                    f'<div class="related-grid">{cards}</div></section>')
     # разметка
     pub, upd = meta.get("published", meta["updated"]), meta["updated"]
     og_img = meta.get("og")
@@ -560,14 +618,17 @@ def page_html(page, meta, body, toc, faq):
     og_img_html = f'<meta property="og:image" content="{og_url}">' if og_url else ""
     # «Коротко» — над текстом
     first_box = ""
-    ai_box = ai_read.block(lang, url(page), html.unescape(re.sub(r"<[^>]+>", "", inline(meta["h1"]))),
-                           site=AI_SITE[lang]).replace("\n", "&#10;") if page["slug"] else ""
+    h1_plain = html.unescape(re.sub(r"<[^>]+>", "", inline(meta["h1"])))
+    ai_box = ai_read.block(lang, url(page), h1_plain, site=AI_SITE[lang]).replace("\n", "&#10;") if page["slug"] else ""
     if body.startswith('<aside class="box facts">'):
         cut = body.index("</aside>") + len("</aside>")
         first_box, body = body[:cut], body[cut:]
     kicker = f'<p class="kicker">{esc(meta["kicker"])}</p>' if meta.get("kicker") and not is_home else ""
     dates = (f'{ui["published"]} <time datetime="{pub}">{fmt_date(pub, lang)}</time>'
              f' · {ui["updated"]} <time datetime="{upd}">{fmt_date(upd, lang)}</time>')
+    logo_img = (f'<img class="hdr-logo" src="{pre}assets/img/logo-100doc-guide-1x.webp" srcset="{pre}assets/img/logo-100doc-guide-1x.webp 1x, '
+                f'{pre}assets/img/logo-100doc-guide.webp 2x" width="190" height="28" alt="100doc.ge Guide">')
+    bl = BLOG_UI[lang]
     if is_home:
         hm = HOME[lang]
         lead_txt = meta["lead"][0].lower() + meta["lead"][1:] if lang == "ru" else meta["lead"]
@@ -580,23 +641,42 @@ def page_html(page, meta, body, toc, faq):
         chips = (f'<nav class="chips" aria-label="{hm["chips_label"]}">'
                  + "".join(f'<a class="chip" href="#{s}">{tx(SEC_LABEL[lang][s])}</a>' for s in ("places", "health", "practical"))
                  + f'<a class="chip" href="#faq">{hm["faq_chip"]}</a><a class="chip" href="#emergency">{hm["sos_chip"]}</a></nav>')
-        hero = f'<h1>{inline(meta["h1"])}</h1>{lead}{trust}<p class="meta">{dates}</p>{chips}'
+        head = f'<h1>{inline(meta["h1"])}</h1>{lead}{trust}<div class="byline"><p class="meta">{dates}</p></div>{chips}'
         home_bullets = re.findall(r"^> - (.*)$", (ROOT / page["src"]).read_text(encoding="utf-8"), re.M)
-        main_html = (f'{first_box}{glance_html(page, pre, home_bullets)}{hubs_html(page, pre)}'
-                     f'<article class="body home-body">\n{body}\n</article>')
+        main_html = (f'<div class="hero"><div class="wrap"><header class="art-head">{head}</header></div></div>\n'
+                     f'<div class="art-main">{first_box}{glance_html(page, pre, home_bullets)}{hubs_html(page, pre)}'
+                     f'<div class="art-body"><article class="body home-body">\n{body}\n</article></div></div>')
     else:
         lead = f'<p class="lead">{inline(meta["lead"])}</p>' if meta.get("lead") else ""
         byline = (f'<div class="byline"><a class="byline-author" href="{ABOUT[lang]}">'
                   f'<img class="byline-photo" src="{pre}assets/img/founder-320.webp" width="44" height="44" alt="{AUTHOR[lang]}" decoding="async">'
                   f'<span class="byline-who"><span class="byline-name">{AUTHOR[lang]}</span><span class="byline-role">{JOB[lang]}</span></span></a>'
                   f'<p class="meta">{dates} · {minutes} {ui["min"]}</p></div>')
-        hero = f'{crumbs}{kicker}<h1>{inline(meta["h1"])}</h1>{lead}{byline}'
+        head = f'{crumbs}{kicker}<h1>{inline(meta["h1"])}</h1>{lead}{byline}'
         lead_box = f'<div class="lead-box">{ai_box}{first_box}{toc_m}</div>' if (ai_box or first_box or toc_m) else ""
-        main_html = (f'<div class="layout">{lead_box}{f"<aside class=\"side\">{toc_html}</aside>" if toc_html else ""}\n'
-                     f'<article class="body">\n{body}\n</article>\n</div>\n{rel_html}')
-    footer_links = "".join(f'<li><a href="{href_to(p, pre)}">{esc(p.get("nav") or ui["home"])}</a></li>'
-                           for p in pages_same if p.get("nav") or p["slug"] == "")
+        share = TPL_SHARE.replace("{{SHARE_URL_ENC}}", urllib.parse.quote(url(page), safe="")).replace(
+            "{{SHARE_TEXT_ENC}}", urllib.parse.quote(h1_plain, safe=""))
+        rate = TPL_RATE
+        if lang == "en":
+            for a, b in TPL_EN:
+                share, rate = share.replace(a, b), rate.replace(a, b)
+        bio = (f'<aside class="author-bio" aria-labelledby="author-bio-title"><img class="author-photo" src="{pre}assets/img/founder-320.webp" '
+               f'width="80" height="80" alt="{bl["photo_alt"]}" loading="lazy" decoding="async"><div class="author-body">'
+               f'<p class="author-label" id="author-bio-title">{bl["about_author"]}</p><p class="author-name">{AUTHOR[lang]}</p>'
+               f'<p class="author-role">{JOB[lang]}</p><p class="author-text">{bl["bio"]}</p>'
+               f'<a class="author-more" href="{ABOUT[lang]}">{bl["more"]}</a></div></aside>')
+        # как в блоге: заголовок статьи (art-head) — в сетке .layout, оглавление справа вровень с ним
+        main_html = (f'<div class="layout"><div class="hero"><div class="wrap"><header class="art-head">{head}</header></div></div>\n'
+                     f'{lead_box}{f"<aside class=\"side\">{toc_html}</aside>" if toc_html else ""}\n'
+                     f'<div class="art-main"><div class="art-body"><article class="body">\n{body}\n</article></div>\n'
+                     f'{rate}{share}{bio}{rel_html}</div>\n</div>')
+    footer_links = "".join(f'<li><a href="{href_to(p, pre)}">{esc(p.get("nav"))}</a></li>' for p in pages_same if p.get("nav"))
+    sec_links = "".join(f'<li><a href="{home_href}#{s}">{tx(SEC_LABEL[lang][s])}</a></li>' for s in ("places", "health", "practical"))
+    langs = "".join((f'<li><a href="{href_to(page, pre)}" aria-current="page" lang="{lang}">{lang.upper()}</a></li>' if L == lang else
+                     f'<li><a href="{href_to(lang_link, pre)}" hreflang="{L}" lang="{L}">{L.upper()}</a></li>')
+                    for L in ("ru", "en") if L == lang or lang_link)
     strip_href, strip_text = STRIP[lang]
+    phone = TPL_PHONE if lang == "ru" else TPL_PHONE.replace("Позвонить: ", "Call: ")
     return f"""<!DOCTYPE html>
 <html lang="{lang}">
 <head>
@@ -608,29 +688,36 @@ def page_html(page, meta, body, toc, faq):
 {hreflang}<meta property="og:type" content="{"website" if is_home else "article"}"><meta property="og:title" content="{esc(meta["title"])}"><meta property="og:description" content="{esc(meta["description"])}"><meta property="og:url" content="{url(page)}"><meta property="og:site_name" content="100doc.ge"><meta property="article:published_time" content="{pub}"><meta property="article:modified_time" content="{upd}">{og_img_html}
 <meta name="theme-color" content="#ffffff">
 <meta name="msvalidate.01" content="30A00B524613BF5613542BB815C007B7">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230f68ae'/%3E%3Cpath d='M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z' fill='%23fff'/%3E%3C/svg%3E">
-<style>{CSS}</style>
+<link rel="icon" href="https://tourist.100doc.ge/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" media="print" onload="this.media='all'" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&amp;display=swap">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&amp;display=swap"></noscript>
+<link rel="stylesheet" href="{pre}assets/guide.css">
 {ld_html}
 </head>
 <body>
 <a class="skip" href="#main">{ui["skip"]}</a>
-<header class="top"><input type="checkbox" id="mt" class="mt" aria-label="{MENU_BTN[lang]}"><div class="wrap top-in">
-<a class="logo" href="{home_href}"><img src="{pre}assets/img/logo-100doc-guide-1x.webp" srcset="{pre}assets/img/logo-100doc-guide-1x.webp 1x, {pre}assets/img/logo-100doc-guide.webp 2x" width="190" height="28" alt="100doc.ge Guide"></a>
-<div class="top-r">{lang_switch}<label for="mt" class="mbtn">{MENU_BTN[lang]}</label></div>
-</div>{nav}</header>
-<div class="law"><div class="wrap"><a href="{strip_href}">{strip_text}</a></div></div>
-<div class="hero{" hero-home" if is_home else ""}"><div class="wrap">{hero}</div></div>
-<main id="main" class="wrap{" home" if is_home else ""}">
+<header class="top"><div class="site-hdr"><input type="checkbox" id="mt" class="mt" aria-label="{MENU_BTN[lang]}"><div class="site-hdr-in">
+<div class="site-hdr-left"><span class="hdr-logo-link"><a class="logo" href="{home_href}">{logo_img}</a></span></div>
+<div class="site-hdr-right">{lang_switch.replace('class="lang"', 'class="lang"')}{phone}<label for="mt" class="mbtn">{MENU_BTN[lang]}</label></div>
+</div>{nav}</div></header>
+<div class="hdr-tagline"><span class="ok-mark" aria-hidden="true">✓</span> {bl["tagline"]}</div>
+<a class="law-strip" href="{strip_href}"><p>{TPL_LAW_ICON}{strip_text}</p></a>
+<main id="main" class="page{" home" if is_home else ""}">
 {main_html}
 </main>
-<footer class="foot"><div class="wrap">
-<p class="foot-logo"><img src="{pre}assets/img/logo-100doc-guide-1x.webp" srcset="{pre}assets/img/logo-100doc-guide-1x.webp 1x, {pre}assets/img/logo-100doc-guide.webp 2x" width="190" height="28" alt="100doc.ge Guide" loading="lazy"></p>
-<p>{ui["about"]}</p>
-<ul class="foot-links">{footer_links}</ul>
-<p class="small">{ui["disclaimer"]}</p>
-<p class="small">© 2026 100doc.ge · {GUIDE_NAME[lang]}</p>
-</div></footer>
+<div class="disclaimer"><p>{ui["disclaimer"]}</p></div>
+<footer class="foot"><div class="cf" data-common-footer><div class="cf-in">
+<nav class="ftr-lp" aria-label="{bl["all_articles"]}"><h3>{bl["all_articles"]}</h3><ul>{footer_links}</ul></nav>
+<div class="cf-cols"><div class="cf-brand"><img src="{pre}assets/img/logo-100doc-guide-1x.webp" srcset="{pre}assets/img/logo-100doc-guide-1x.webp 1x, {pre}assets/img/logo-100doc-guide.webp 2x" width="190" height="28" alt="100doc.ge Guide" loading="lazy" decoding="async"><p>{ui["about"]}</p></div>
+<nav class="cf-col" aria-label="{ui["menu"]}"><h3>{ui["menu"]}</h3><ul>{sec_links}</ul></nav>
+<nav class="cf-col" aria-label="100doc.ge"><h3>100doc.ge</h3><ul>{bl["eco"]}</ul></nav></div>
+<div class="cf-bottom"><p>© 2026 100doc.ge · {GUIDE_NAME[lang]}</p><nav class="cf-langs" aria-label="Language"><ul>{langs}</ul></nav></div>
+</div></div></footer>
 {f"<script>{ai_read.JS}</script>" if ai_box else ""}
+{f"<script>{TPL_RATE_JS}</script>" if not is_home else ""}
+<script>{BLOG_ANCHOR_JS}</script>
 <script>{MENU_JS}</script>
 </body>
 </html>
@@ -684,6 +771,7 @@ def main():
     (ROOT / "sitemap.xml").write_text("\n".join(sm) + "\n", encoding="utf-8")
     (ROOT / "robots.txt").write_text(robots_txt(), encoding="utf-8")
     (ROOT / "llms.txt").write_text(llms_txt(), encoding="utf-8")
+    (ROOT / "assets" / "guide.css").write_text(CSS + "\n", encoding="utf-8")  # А2: один общий файл стилей
     print("собрано:", len(built))
     if SKIPPED:
         print("нет строки в таблице главной (в «Коротко» нет пункта со сноской):", ", ".join(SKIPPED))

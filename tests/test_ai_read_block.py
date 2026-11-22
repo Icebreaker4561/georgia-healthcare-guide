@@ -86,17 +86,15 @@ class AiRead(unittest.TestCase):
             self.assertNotIn('id="ai-read"', (ROOT / rel).read_text(encoding="utf-8"), rel)
 
     def test_guide_style(self):
-        css = (ROOT / "build" / "style.css").read_text(encoding="utf-8")
-        m = re.search(r"/\* Прочитать с ИИ.*", css, re.S)
-        self.assertTrue(m, "в style.css нет раздела «Прочитать с ИИ»")
-        part = m.group(0)
-        for tok in ("var(--paper", "var(--line", "var(--teal"):
-            self.assertIn(tok, part)
-        for blue in ("#2b52e8", "#eef2ff", "#dbe3f5", "999px"):
-            self.assertNotIn(blue, part, f"цвет/форма 100doc.ge {blue}")
-        h = (ROOT / "batumi" / "index.html").read_text(encoding="utf-8")
-        self.assertNotIn("#2b52e8", h, "в страницу попал стиль 100doc.ge")
-
+        """Владелец 22.11.2026, вариант А: стиль блока — стиль блога (CSS модуля ai_read, тот же, что на 100doc.ge), без border-left."""
+        sys.path.insert(0, str(pathlib.Path.home() / "SEO_Vasiliy" / "tools"))
+        import ai_read
+        css = (ROOT / "assets" / "guide.css").read_text(encoding="utf-8")  # А2: общий CSS в assets/guide.css
+        want = re.sub(r"\s*\n\s*", "", re.sub(r"/\*.*?\*/", "", ai_read.CSS, flags=re.S)).strip()
+        self.assertIn(want, css, "на странице не CSS блока «Прочитать с ИИ» из блога")
+        for sel, body in re.findall(r"([^{}@]+)\{([^{}]*)\}", css):
+            if ".ai-read" in sel:
+                self.assertNotIn("border-left", body, f"полоса слева у {sel.strip()}")
 
 if __name__ == "__main__":
     res = unittest.main(exit=False, verbosity=1).result

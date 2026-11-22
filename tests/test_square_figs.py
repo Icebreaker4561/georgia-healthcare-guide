@@ -30,7 +30,7 @@ class SquareFigs(unittest.TestCase):
         self.assertNotIn("sq", m.group(1).split())
 
     def test_css_limits_square(self):
-        css = re.search(r"<style>(.*?)</style>", self.h, re.S).group(1)
+        css = (ROOT / "assets" / "guide.css").read_text(encoding="utf-8")  # владелец 22.11.2026, А2: общий CSS в assets/guide.css
         self.assertRegex(css, r"\.fig\.sq img\{[^}]*max-width:")
         self.assertRegex(css, r"\.fig\.sq img\{[^}]*margin:0 auto")
 
