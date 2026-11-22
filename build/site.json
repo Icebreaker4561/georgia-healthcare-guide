@@ -59,6 +59,14 @@
       "key": "taxi-ru"
     },
     {
+      "slug": "gruziya-s-detmi",
+      "lang": "ru",
+      "src": "content/ru/gruziya-s-detmi.md",
+      "kicker": "Семья",
+      "pair": "kids",
+      "key": "kids-ru"
+    },
+    {
       "slug": "taxi-in-georgia",
       "lang": "en",
       "src": "content/en/taxi-in-georgia.md",
