@@ -51,6 +51,13 @@
       "pair": "chacha"
     },
     {
+      "slug": "taxi-in-georgia",
+      "lang": "en",
+      "src": "content/en/taxi-in-georgia.md",
+      "kicker": "Practical",
+      "pair": "taxi"
+    },
+    {
       "slug": "beshenstvo-v-gruzii",
       "lang": "ru",
       "src": "content/ru/beshenstvo-v-gruzii.md",
