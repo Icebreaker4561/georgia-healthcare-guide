@@ -717,6 +717,13 @@
       "src": "content/en/is-georgia-safe.md",
       "kicker": "Safety",
       "pair": "is-georgia-safe"
+    },
+    {
+      "slug": "samtskhe-javakheti",
+      "lang": "en",
+      "src": "content/en/samtskhe-javakheti.md",
+      "kicker": "Destinations",
+      "pair": "samtskhe"
     }
   ],
   "name_ru": "Путеводитель по Грузии"
