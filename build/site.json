@@ -391,6 +391,14 @@
       "key": "abastumani-ru"
     },
     {
+      "slug": "samtshe-dzhavaheti",
+      "lang": "ru",
+      "src": "content/ru/samtshe-dzhavaheti.md",
+      "kicker": "Путеводители",
+      "pair": "samtskhe",
+      "key": "samtskhe-ru"
+    },
+    {
       "slug": "poezda-gruzii",
       "lang": "ru",
       "src": "content/ru/poezda-gruzii.md",
