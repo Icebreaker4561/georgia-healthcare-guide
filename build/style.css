@@ -199,4 +199,3 @@ sup.fn a::before{content:"[" attr(data-n) "]"}
 .lang-menu .lang{display:flex;align-items:center;gap:10px;min-height:44px;padding:0 10px;border-radius:8px;color:var(--text);font-size:14px;font-weight:600;text-decoration:none}
 .lang-menu .lang:hover,.lang-menu .lang:focus-visible{background:var(--soft);text-decoration:none}
 @media (prefers-reduced-motion:reduce){.lang-caret{transition:none}}
-@media (max-width:767px){.site-hdr .hdr-phone{display:none}}

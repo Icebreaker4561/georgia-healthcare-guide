@@ -699,7 +699,7 @@ def page_html(page, meta, body, toc, faq):
                      f'<li><a href="{href_to(lang_link, pre)}" hreflang="{L}" lang="{L}">{L.upper()}</a></li>')
                     for L in ("ru", "en") if L == lang or lang_link)
     strip_href, strip_text = STRIP[lang]
-    phone = TPL_PHONE if lang == "ru" else TPL_PHONE.replace("Позвонить: ", "Call: ")
+    # телефона в шапке нет (владелец 23.11.2026)
     return f"""<!DOCTYPE html>
 <html lang="{lang}">
 <head>
@@ -723,7 +723,7 @@ def page_html(page, meta, body, toc, faq):
 <a class="skip" href="#main">{ui["skip"]}</a>
 <header class="top"><div class="site-hdr"><input type="checkbox" id="mt" class="mt" aria-label="{MENU_BTN[lang]}"><div class="site-hdr-in">
 <div class="site-hdr-left"><span class="hdr-logo-link"><a class="logo" href="{home_href}">{logo_img}</a></span></div>
-<div class="site-hdr-right">{lang_switch}{phone}<label for="mt" class="mbtn">{MENU_BTN[lang]}</label></div>
+<div class="site-hdr-right">{lang_switch}<label for="mt" class="mbtn">{MENU_BTN[lang]}</label></div>
 </div>{nav}</div></header>
 <a class="law-strip" href="{strip_href}"><p>{TPL_LAW_ICON}{strip_text}</p></a>
 <main id="main" class="page{" home" if is_home else ""}">
