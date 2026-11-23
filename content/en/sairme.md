@@ -10,7 +10,7 @@ section: places
 region: west
 card: "Sairme: mineral water resort"
 card_desc: "The forest spa resort in Imereti: drinking the springs, the road from Kutaisi, the weather, things to do and 112."
-updated: 2026-11-22
+updated: 2026-11-23
 published: 2026-11-22
 og: sairme-resort-forest.webp
 ---
@@ -30,7 +30,7 @@ og: sairme-resort-forest.webp
 > - July average: 17~°C (Wikipedia)
 > - Emergency: 112
 
-This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 22 November 2026.
+This page is about Georgia the country, not the US state, and is part of the [Georgia Travel Guide](https://guide.100doc.ge/). Checked on 23 November 2026.
 
 ## What Sairme is and where it is {#resort}
 
@@ -114,15 +114,15 @@ We give no prices or timetables: they change, and we found no official source fo
 
 ### The mountain road
 
-The road up to the resort is paved; the road beyond it, towards Abastumani, is not, according to Wander-Lush.[^5]
+The road up to the resort is paved, according to Wander-Lush.[^5] Beyond the resort, a mountain road climbs over the Zekari Pass towards Abastumani.
 
 **From the city.** The blog puts Sairme "just over an hour's drive" south of the city and calls the road "fully paved and easy to navigate".[^5]
 
-**Further south.** "The road after the resort between Sairme and Abastumani to the south is unpaved and very rough," the blog warns.[^5] It also says the Zekari Pass is normally closed in winter, roughly from December to March, because of heavy snow.[^5] Read [Night Driving, Mountains and Winter](https://guide.100doc.ge/driving-in-georgia/#night-winter) in our Driving in Georgia guide.
+**Further south.** Rehabilitation of the section over the Zekari Pass, including new asphalt concrete, was completed in 2025, BM.ge reports, citing the Roads Department of Georgia.[^8] A bypass road at Abastumani is due to be finished in autumn 2027, Georgian broadcaster 1TV reported.[^9] We found no official closure schedule for the pass in winter: check the road before you set off. Read [Night Driving, Mountains and Winter](https://guide.100doc.ge/driving-in-georgia/#night-winter) in our Driving in Georgia guide.
 
 **Our tip.** Agree the ride back with your driver before you set off. Do not drive the mountain road in the dark or in snow.
 
-<!-- схема: img/sairme-road.webp | Infographic headed "Getting to Sairme", five cards: Kutaisi 1:20 — by road, Batumi 3:20, Tbilisi 4:25 (GNTA); Marshrutka — Kutaisi Central Bus Station to Baghdati (Wander-Lush); Taxi — no public transport into Sairme itself (Wander-Lush); Zekari Pass — south of Sairme, usually closed in winter (Wander-Lush); Snow or dark — our tip: do not drive the mountain road; small source line: georgia.travel, Wander-Lush, checked 22 Nov 2026 | By road, Sairme is 1:20 from Kutaisi, 3:20 from Batumi and 4:25 from Tbilisi, says the national tourism site -->
+<!-- схема: img/sairme-road.webp | Infographic headed "Getting to Sairme", five cards: Kutaisi 1:20 — by road, Batumi 3:20, Tbilisi 4:25 (GNTA); Marshrutka — Kutaisi Central Bus Station to Baghdati (Wander-Lush); Taxi — no public transport into Sairme itself (Wander-Lush); Zekari Pass — south of Sairme, asphalt since 2025 (Roads Department); Snow or dark — our tip: do not drive the mountain road; small source line: georgia.travel, Wander-Lush, BM.ge, checked 23 Nov 2026 | By road, Sairme is 1:20 from Kutaisi, 3:20 from Batumi and 4:25 from Tbilisi, says the national tourism site -->
 
 ## Sairme weather: when to go {#when-to-go}
 
@@ -212,6 +212,8 @@ Drink at the buvettes and walk the marked trails.[^5] There is also a city of ro
 - [Wander-Lush: visiting Sairme (travel blog, updated 16 June 2024)](https://wander-lush.org/visit-sairme-baghdati-things-to-do/)
 - [GOV.UK travel advice for Georgia: health](https://www.gov.uk/foreign-travel-advice/georgia/health)
 - [Public Safety Command Center 112 (112.gov.ge): languages and how calls work](https://112.gov.ge/?p=1715)
+- [BM.ge, 4 November 2025: the road section over the Zekari Pass (secondary source citing the Roads Department of Georgia)](https://bm.ge/en/news/construction-of-16-km-road-on-zekari-pass-completed-15-years-behind-schedule)
+- [1TV (Georgian Public Broadcaster), 22 August 2026: road projects in Abastumani (secondary source)](https://1tv.ge/lang/en/news/infrastructure-minister-infrastructure-projects-in-abastumani-aim-to-develop-resort-preserve-its-unique-environment/)
 
 This guide is general information, not medical advice: the doctor decides on your care.
 
