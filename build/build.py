@@ -262,13 +262,20 @@ def parse_md(text, page):
         else:
             out.append(h)
 
+    in_comment = False  # многоабзацный служебный комментарий <!-- … --> пропускается целиком (tests/test_no_comment_leak.py)
     for b in blocks:
         b = b.rstrip()
         first = b.splitlines()[0]
+        if in_comment:
+            if "-->" in b:
+                in_comment = False
+            continue
         if first.startswith("<!-- схема:"):
             emit(figure(re.match(r"<!--\s*схема:(.*?)-->", b, re.S).group(1), page))
             continue
         if first.startswith("<!--"):
+            if "-->" not in b:
+                in_comment = True
             continue
         hm = re.match(r"(#{2,3}) (.+?)(?:\s*\{#([\w-]+)\})?$", first)
         if hm:

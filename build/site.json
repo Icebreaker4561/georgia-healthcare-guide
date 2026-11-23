@@ -383,6 +383,14 @@
       "key": "ureki-ru"
     },
     {
+      "slug": "abastumani",
+      "lang": "ru",
+      "src": "content/ru/abastumani.md",
+      "kicker": "Путеводители",
+      "pair": "abastumani",
+      "key": "abastumani-ru"
+    },
+    {
       "slug": "poezda-gruzii",
       "lang": "ru",
       "src": "content/ru/poezda-gruzii.md",
