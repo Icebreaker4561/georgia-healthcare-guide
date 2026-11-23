@@ -514,6 +514,13 @@
       "pair": "vardzia"
     },
     {
+      "slug": "abastumani",
+      "lang": "en",
+      "src": "content/en/abastumani.md",
+      "kicker": "Destinations",
+      "pair": "abastumani"
+    },
+    {
       "slug": "uplistsikhe",
       "lang": "en",
       "src": "content/en/uplistsikhe.md",
