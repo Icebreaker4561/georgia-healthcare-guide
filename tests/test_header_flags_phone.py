@@ -6,7 +6,7 @@
   в выпадающем списке — ссылка a.lang на другой язык (hreflang, флажок SVG и название языка); работает без скрипта;
   вне списка слов «English» / «Русский» в шапке нет;
 - ссылка-флажок ведёт туда же, куда вёл прежний переключатель: на пару статьи, иначе на главную другого языка;
-- на телефоне (до 767 px) номер телефона в шапке скрыт, на компьютере виден.
+- номера телефона в шапке нет ни на телефоне, ни на компьютере (владелец 23.11.2026).
 
 Запуск: python3 tests/test_header_flags_phone.py
 """
@@ -62,11 +62,16 @@ class FlagsPhone(unittest.TestCase):
                 bad.append(f"{key}: в шапке осталось слово-переключатель")
         self.assertEqual(bad, [], "\n".join(bad[:20]))
 
-    def test_phone_hidden_on_mobile(self):
-        self.assertRegex(self.css, r"@media\s*\(max-width:\s*767px\)\s*\{[^@]*\.hdr-phone\s*\{[^}]*display:\s*none")
-        for p, h in self.pages[:3]:
-            self.assertIn('class="hdr-phone"', h, "на компьютере телефон в шапке должен остаться")
-
+    def test_no_phone_in_header(self):
+        # владелец 23.11.2026: «Убери из десктопной версии номер телефона из меню» — «Да, заменить»:
+        # телефона в шапке нет ни на одной странице, на любой ширине экрана
+        bad = []
+        for p, h in self.pages:
+            hdr = re.search(r'<header class="top">.*?</header>', h, re.S)
+            hdr = hdr.group(0) if hdr else ""
+            if 'class="hdr-phone"' in hdr or "tel:" in hdr:
+                bad.append(p["lang"] + ":" + p["slug"])
+        self.assertEqual(bad, [], "телефон в шапке: " + ", ".join(bad[:20]))
 
 if __name__ == "__main__":
     res = unittest.main(exit=False, verbosity=1).result
