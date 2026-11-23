@@ -137,12 +137,12 @@ BLOG_UI = {
            "more": "Подробнее об авторе", "photo_alt": "Алекс Полански, основатель и руководитель 100doc.ge",
            "bio": "Мы сверяем статьи путеводителя с официальными текстами на matsne.gov.ge и сайтах госорганов Грузии.",
            "all_articles": "Статьи путеводителя",
-           "eco": '<li><a href="https://100doc.ge/ru/">Отзывы о врачах</a></li><li><a href="https://100doc.ge/ru/blog/">Блог</a></li>'},
+           "eco": '<li><a href="https://100doc.ge/tourist/">Страховка для туристов</a></li><li><a href="https://100doc.ge/ru/insurance/">Маркетплейс страховок Грузии</a></li><li><a href="https://100doc.ge/ru/">Отзывы о врачах</a></li><li><a href="https://100doc.ge/ru/blog/">Блог</a></li>'},
     "en": {"tagline": "Insurance that actually works in Georgia", "about_author": "About the author",
            "more": "More about the author", "photo_alt": "Alex Polansky, founder of 100doc.ge",
            "bio": "We check our guides against the official texts on matsne.gov.ge and Georgian government websites.",
            "all_articles": "Guide articles",
-           "eco": '<li><a href="https://100doc.ge/en/">Doctor reviews</a></li><li><a href="https://100doc.ge/en/blog/">Blog</a></li>'},
+           "eco": '<li><a href="https://100doc.ge/tourist/en">Travel insurance</a></li><li><a href="https://100doc.ge/en/insurance/">Georgia insurance marketplace</a></li><li><a href="https://100doc.ge/en/">Doctor reviews</a></li><li><a href="https://100doc.ge/en/blog/">Blog</a></li>'},
 }
 PIN112 = {"ru": "112-v-gruzii", "en": "ambulance-georgia"}
 MATSNE = "https://matsne.gov.ge/ka/document/view/6728816"
