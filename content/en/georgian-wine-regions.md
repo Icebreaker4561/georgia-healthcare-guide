@@ -1,6 +1,6 @@
 ---
 title: "Georgian Wine Regions: Map, Kakheti, Khvanchkara, Qvevri"
-description: "Georgian wine regions in the country of Georgia: six official zones, Kakheti, Khvanchkara, 33 register entries, qvevri, rtveli heat and the drink-drive limit."
+description: "Georgian wine regions in the country of Georgia: six official zones, Kakheti, Khvanchkara, appellations, qvevri, rtveli heat and the drink-drive limit."
 h1: "Georgian wine regions: the six official zones, appellations, rtveli and driving after a tasting"
 kicker: Destinations · 2026
 lead: "Georgian wine regions in the country of Georgia (not the US state) are six, as the National Wine Agency lists them: Kakheti, Kartli, Imereti, Racha-Lechkhumi, the Black Sea coastal zone and Meskheti. This guide shows what each zone grows, which Georgian wine carries a protected appellation and how clay-vessel wine is made. It also covers when rtveli takes place, how to cope with the heat, how to get there and why not to drive after a cellar visit."
@@ -9,7 +9,7 @@ nav: Georgian wine regions
 section: places
 region: south-east
 card: "Georgian wine regions: map and appellations"
-card_desc: "Six official wine zones, Kakheti to Racha, 33 register entries, qvevri, rtveli and the drink-drive limit."
+card_desc: "Six official wine zones, Kakheti to Racha, 33 register entries (our count), qvevri, rtveli and the drink-drive limit."
 home_fact: 1
 updated: 2026-11-25
 published: 2026-11-25
@@ -20,14 +20,14 @@ og: georgian-wine-regions-alazani.webp
 
 > [!facts] In short
 > - The National Wine Agency of Georgia lists six wine-growing regions: Kakheti, Kartli, Imereti, Racha-Lechkhumi, the Black Sea coastal zone and Meskheti.[^1]
-> - The agency's register of appellations has 33 entries, among them Khvanchkara.[^2]
+> - By our count, the agency's register of appellations has 33 entries, among them Khvanchkara.[^2]
 > - The qvevri method of making wine in buried clay vessels has been on UNESCO's list of intangible heritage since 2013.[^3]
 > - Rtveli, the grape harvest, starts in September with Rkatsiteli in Kakheti and ends in December in Guria and Adjara.[^4]
 > - Georgian law treats more than 0.3 ‰ of alcohol in a driver's blood as drunk driving;[^5] the Government of Canada describes a "zero-tolerance policy".[^6] Do not drive after a cellar visit.
 
 > [!stats]
 > - Wine regions: 6
-> - Appellation register: 33 entries
+> - Appellation register, our count: 33 entries
 > - Qvevri on UNESCO list: 2013
 > - Rtveli: September–December
 > - Kakheti from Tbilisi: 1 h 50 min
@@ -64,7 +64,7 @@ Among the region's popular grapes, the tourism board names local whites such as 
 
 Kindzmarauli is a naturally semi-sweet red from Saperavi grapes.[^10]
 
-Mukuzani is a dry red made only from Saperavi. Oak ageing is optional; if the wine is aged, it spends at least six months in wooden barrels.[^9]
+Mukuzani is a dry red made only from Saperavi; ageing in wooden barrels is optional, and if the wine is aged, it spends at least six months in them.[^9]
 
 Tsinandali can be white or red, both dry. The white is at least 85 % Rkatsiteli with no more than 15 % Mtsvane Kakhuri, and the red is Saperavi only. Its micro-zone lies in Telavi municipality.[^8]
 
@@ -100,11 +100,11 @@ The agency's page names local grapes of the coast, such as Chkhaveri, Jani and O
 
 ## Protected appellations: names on the label {#appellations}
 
-An appellation of origin, or PDO, is the name of a micro-zone reserved for wine made from set grapes in a set style. PDO stands for protected designation of origin. The agency's register lists 33 entries, though four show no registration number, and one of those is still a pending application.[^2] One of the latest entries, Sazanos Otskhanuri, dates from 30 September 2025.[^2] In 2010, Sakpatenti counted 18 registered names,[^7] so the list has grown since.
+An appellation of origin, or PDO, is the name of a micro-zone reserved for wine made from set grapes in a set style. PDO stands for protected designation of origin. By our count, the agency's register lists 33 entries, though four show no registration number, and one of those is still a pending application.[^2] One of the latest entries, Sazanos Otskhanuri, dates from 30 September 2025.[^2] In 2010, Sakpatenti counted 18 registered names,[^7] so the list has grown since.
 
 Reading a label is simple: the name tells you the zone, the grapes and the wine type at once, as the [table of zones](#map) shows. Grape spirit has its own page: [What is chacha? Georgia's grape spirit](https://guide.100doc.ge/chacha-georgia/#what-is-chacha).
 
-<!-- схема: img/georgian-wine-regions-appellations.webp | Infographic "Region, protected name, wine type": Kakheti: Tsinandali, dry white or dry red; Mukuzani, dry red; Kindzmarauli, naturally semi-sweet red; Akhasheni, semi-sweet red; Kvareli, dry red; Manavi, dry white; Napareuli, dry white or red; Teliani, dry red from Cabernet Sauvignon. Kartli: Ateni, dry white, sparkling. Racha-Lechkhumi: Khvanchkara, naturally semi-sweet red. Footer: 33 entries in the register; source: National Wine Agency appellation descriptions | The register lists 33 entries; the chart shows the ten described in this guide -->
+<!-- схема: img/georgian-wine-regions-appellations.webp | Infographic "Region, protected name, wine type": Kakheti: Tsinandali, dry white or dry red; Mukuzani, dry red; Kindzmarauli, naturally semi-sweet red; Akhasheni, semi-sweet red; Kvareli, dry red; Manavi, dry white; Napareuli, dry white or red; Teliani, dry red from Cabernet Sauvignon. Kartli: Ateni, dry white, sparkling. Racha-Lechkhumi: Khvanchkara, naturally semi-sweet red. Footer: 33 entries in the register, our count; source: National Wine Agency appellation descriptions | By our count, the register lists 33 entries; the chart shows the ten described in this guide -->
 
 ## Georgian grape varieties: Saperavi, Rkatsiteli and more {#grapes}
 
