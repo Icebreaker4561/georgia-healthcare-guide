@@ -746,6 +746,14 @@
       "src": "content/en/georgian-wine-regions.md",
       "kicker": "Destinations",
       "pair": "wine-regions"
+    },
+    {
+      "slug": "vinnye-regiony-gruzii",
+      "lang": "ru",
+      "src": "content/ru/vinnye-regiony-gruzii.md",
+      "kicker": "Путеводители",
+      "pair": "wine-regions",
+      "key": "wine-regions-ru"
     }
   ],
   "name_ru": "Путеводитель по Грузии"
