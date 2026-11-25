@@ -731,6 +731,14 @@
       "src": "content/en/tbilisi-markets.md",
       "kicker": "Destinations",
       "pair": "markets"
+    },
+    {
+      "slug": "rynki-tbilisi",
+      "lang": "ru",
+      "src": "content/ru/rynki-tbilisi.md",
+      "kicker": "Путеводители",
+      "pair": "markets",
+      "key": "markets-ru"
     }
   ],
   "name_ru": "Путеводитель по Грузии"
