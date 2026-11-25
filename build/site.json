@@ -754,6 +754,13 @@
       "kicker": "Путеводители",
       "pair": "wine-regions",
       "key": "wine-regions-ru"
+    },
+    {
+      "slug": "easter-in-georgia",
+      "lang": "en",
+      "src": "content/en/easter-in-georgia.md",
+      "kicker": "Practical",
+      "pair": "easter"
     }
   ],
   "name_ru": "Путеводитель по Грузии"
