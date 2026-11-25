@@ -724,6 +724,13 @@
       "src": "content/en/samtskhe-javakheti.md",
       "kicker": "Destinations",
       "pair": "samtskhe"
+    },
+    {
+      "slug": "tbilisi-markets",
+      "lang": "en",
+      "src": "content/en/tbilisi-markets.md",
+      "kicker": "Destinations",
+      "pair": "markets"
     }
   ],
   "name_ru": "Путеводитель по Грузии"
