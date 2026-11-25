@@ -739,6 +739,13 @@
       "kicker": "Путеводители",
       "pair": "markets",
       "key": "markets-ru"
+    },
+    {
+      "slug": "georgian-wine-regions",
+      "lang": "en",
+      "src": "content/en/georgian-wine-regions.md",
+      "kicker": "Destinations",
+      "pair": "wine-regions"
     }
   ],
   "name_ru": "Путеводитель по Грузии"
